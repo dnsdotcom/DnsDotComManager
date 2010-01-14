@@ -19,4 +19,14 @@ use Cpanel::AccessIds       ();
 
 my %FORM = Cpanel::Form::parseform();
 
-printPage()
+printPage();
+
+#################################################
+#
+#################################################
+sub printPage {
+    print "Content-Type: text/html\n\n";
+    print <<"EOM";
+    something something
+    EOM
+}
