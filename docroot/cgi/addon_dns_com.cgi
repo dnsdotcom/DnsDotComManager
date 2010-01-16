@@ -3,19 +3,18 @@
 #                                                 Copyright(c) 2010 Comwired, Inc.
 #                                                           All rights Reserved.
 #                                                                 http://dns.com
+#WHMADDON:dns_com:DNS.com Integration
+#ACLS:list-accts
 
-BEGIN { unshift @INC, '/usr/local/cpanel'; }
+use lib '/usr/local/cpanel/';
 
 use Socket;
 use Cpanel::Form            ();
-use Cpanel::Hostname        ();
-use Cpanel::AcctUtils       ();
-use Cpanel::Accounting      ();
-use Cpanel::Ips             ();
 use Whostmgr::HTMLInterface ();
 use Whostmgr::ACLS          ();
-use Whostmgr::Version       ();
-use Cpanel::AccessIds       ();
+
+use Cpanel::NameServer::Conf::DNS_COM          ();
+use Cpanel::NameServer::Utils::DNS_COM         ();
 
 my %FORM = Cpanel::Form::parseform();
 
