@@ -12,8 +12,8 @@ my $cmd	= '';
 
 sub dns_query{
     $cmd            = $_[0];
-    my $username    = 'me@millerhooks.com';
-    my $password    = 'sucka1411';
+    my $username    = '';
+    my $password    = ''';
     my $hostname    = 'sandbox.comwired.com';
     my $query	    = "http://$hostname/api/$cmd/?email=$username&password=$password";
     
@@ -33,6 +33,7 @@ sub getDomains{
     if ($domain_data->{meta}->{success} == 0){
         $meta->{error}   = $domain_data->{meta}->{error};
         $meta->{success} = $domain_data->{meta}->{success};
+        print "$meta->{error}\n";
         return $meta;
     }else{
         my $i = 0;
