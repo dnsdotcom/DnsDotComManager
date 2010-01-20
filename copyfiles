@@ -1,3 +1,0 @@
-cp -r NameServer /usr/local/cpanel/Cpanel
-cp -r docroot /usr/local/cpanel/whostmgr
-

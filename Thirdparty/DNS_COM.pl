@@ -28,11 +28,12 @@ sub getDomains{
     $cmd = 'getDomains';
     my $domain_data = dns_query($cmd);
     my %domain_hash = ();
+    my $meta        = ();
     
     if ($domain_data->{meta}->{success} == 0){
-        my $meta->{error}   = $error = $domain_data->{meta}->{error};
-        my $meta->{success} = $domain_data->{meta}->{success};
-        return my $meta;
+        $meta->{error}   = $domain_data->{meta}->{error};
+        $meta->{success} = $domain_data->{meta}->{success};
+        return $meta;
     }else{
         my $i = 0;
         foreach my $domain(@{$domain_data->{data}}){
@@ -46,7 +47,7 @@ sub getDomains{
             print "DOMAIN: $domain_hash{$i}->{name} \n";
             $i++;
         }
-        return $domain_hash;
+        return %domain_hash;
     }
 }
 
@@ -54,10 +55,12 @@ sub getDomainGroups {
     $cmd = 'getDomainGroups';
     my $domain_data = dns_query($cmd);
     my %domain_hash = ();
+    my $meta        = ();
     
     if ($domain_data->{meta}->{success} == 0){
-        my $meta->{success} = $domain_data->{meta}->{success};
-        return my $meta;
+        $meta->{success} = $domain_data->{meta}->{success};
+        print "FAIL QUERY\n";
+        return $meta;
     }else{
         my $i = 0;
         foreach my $domain(@{$domain_data->{data}}){
@@ -69,7 +72,7 @@ sub getDomainGroups {
             print "DOMAIN GROUP: $domain_hash{$i}->{name} \n";
             $i++;
         }
-        return $domain_hash;
+        return %domain_hash;
     }
 }
 
@@ -77,11 +80,13 @@ sub getDomainsInGroup {
     $cmd = 'getDomainsInGroup';
     my $domain_data = dns_query($cmd);
     my %domain_hash = ();
+    my $meta        = ();
     
     if ($domain_data->{meta}->{success} == 0){
-        my $meta->{error}   = $error = $domain_data->{meta}->{error};
-        my $meta->{success} = $domain_data->{meta}->{success};
-        return my $meta;
+        $meta->{error}   = $domain_data->{meta}->{error};
+        $meta->{success} = $domain_data->{meta}->{success};
+        print $meta->{error};
+        return $meta;
     }else{
         my $i = 0;
         foreach my $domain(@{$domain_data->{data}}){
@@ -93,6 +98,20 @@ sub getDomainsInGroup {
             print "DOMAINS IN GROUP: $domain_hash{$i}->{name} \n";
             $i++;
         }
-        return $domain_hash;
+        return %domain_hash;
     }
+}
+
+###
+#command line execution
+###
+
+if ($ARGV[0] eq 'getDomains'){
+    getDomains();   
+}
+elsif($ARGV[0] eq 'getDomainGroups'){
+    getDomainGroups();
+}
+elsif($ARGV[0] eq 'getDomainsInGroup'){
+    getDomainsInGroup();
 }
