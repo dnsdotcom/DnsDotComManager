@@ -20,8 +20,8 @@ sub dns_query{
     ##########
     # Later login and server info will be stored in the DB.
     ###
-    my $username    = 'me@millerhooks.com';
-    my $password    = 'sucka1411';
+    my $username    = 'XXXXXXXX';
+    my $password    = 'XXXXXX';
     my $hostname    = 'sandbox.comwired.com';
     
     $cmd               = $_[0];
