@@ -14,14 +14,14 @@ use URI::Escape;
 use LWP::Simple;
 use JSON;
 
-my $cmd	      = '';
+my $cmd = '';
 
 sub dns_query{
     ##########
     # Later login and server info will be stored in the DB.
     ###
-    my $username    = 'XXXXXXXX';
-    my $password    = 'XXXXXX';
+    my $username    = 'me@millerhooks.com';
+    my $password    = 'sucka1411';
     my $hostname    = 'sandbox.comwired.com';
     
     $cmd               = $_[0];
@@ -84,6 +84,7 @@ sub getDomains{
     my $domain_data = dns_query($cmd, 'search_term', $search_term);
     my %domain_hash = ();
     my $meta        = ();
+    my @array       = [];
     
     if ($domain_data->{meta}->{success} == 0){
         $meta->{error}   = $domain_data->{meta}->{error};
@@ -93,17 +94,19 @@ sub getDomains{
     }else{
         my $i = 0;
         foreach my $domain(@{$domain_data->{data}}){
+            my @somethin = {'name' => $domain->{name}};
             $domain_hash{$i}->{id}                    = $domain->{id};
             $domain_hash{$i}->{name}                  = $domain->{name};
             $domain_hash{$i}->{mode}                  = $domain->{mode};
             $domain_hash{$i}->{date_created}          = $domain->{date_created};
             $domain_hash{$i}->{date_last_modified}    = $domain->{date_last_modified};
             $domain_hash{$i}->{num_hosts}             = $domain->{num_hosts};
+            push(@array, @somethin);
             
             print "DOMAIN: $domain_hash{$i}->{name} \n";
             $i++;
         }
-        return %domain_hash;
+        return @array;
     }
 }
 
@@ -345,7 +348,6 @@ elsif($ARGV[0] eq 'getCountryGroups'){
 elsif($ARGV[0] eq 'getCountriesInCountryGroup'){
     getCountriesInCountryGroup($ARGV[1]);
 }
-
 elsif($ARGV[0] eq 'createDomainGroup'){
     createDomainGroup($ARGV[1]);
 }

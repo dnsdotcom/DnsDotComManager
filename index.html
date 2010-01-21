@@ -38,6 +38,8 @@ var LANG = {
 
 <p class="description"><cpanel langprint="zonefile_desc"></p>
 
+<?cp Thirdparty::DNS_COM::getDomains( % [br /],name) ?>
+
 <!-- <?cp DomainLookup::countbasedomains(,) ?> -->
 <cpanelif $CPVAR{'basedomainscount'}==1>
 	<?cp DomainLookup::getbasedomains([input type="hidden" id="domain" value="%" /],domain) ?>
