@@ -1,1 +1,8 @@
 DNS.com API module for integration with CPanel
+
+Required external perl modules to install
+
+LWP
+JSON/JSON::PP
+attributes.pm
+URI
