@@ -170,7 +170,137 @@ sub api2_getCountryGroups {
     }
 }
 
+sub getCountriesInCountryGroup {
+    ######
+    # Requires countryGroup Name
+    ##
+    $cmd = 'getCountriesInCountryGroup';
+    
+    my %OPTS = @_;
+    my $country_group_name  = $OPTS{'coutry_group_name'};   
+    
+    my $country_data = dns_query($cmd, 'countryGroup', $country_group_name);
+    my %country_hash = ();
+    my $meta        = ();
+    
+    if ($country_data->{meta}->{success} == 0){
+        $meta->{error}   = $country_data->{meta}->{error};
+        $meta->{success} = $country_data->{meta}->{success};
+        print $meta->{error};
+        return $meta;
+    }else{
+        my $name = $country_data->{meta}->{name};
+        foreach my $country(@{$country_data->{data}}){
+            $country_hash{$name}->{iso_code}              = $country->{iso_code};
+            $country_hash{$name}->{name}                  = $country->{name};
+            
+            print "COUNTRIES IN COUNTRY GROUP: $country_hash{$name}->{name} \n";
+        }
+        return %country_hash;
+    }
+}
 
+##########################
+# Creation Functions
+##########
+
+sub createDomainGroup {
+    ######
+    # Requires Group Name
+    ##
+    
+    $cmd = 'createDomainGroup';
+    my %OPTS = @_;
+    my $group_name  = $OPTS{'group_name'};
+    die "ERROR: Please enter a group name!" unless defined $group_name;
+    
+    my $group_data  = dns_query($cmd, 'name', $group_name);
+    my $meta        = ();
+    
+    if ($group_data->{meta}->{success} == 1){
+        $meta->{id}                    = $group_data->{meta}->{id};
+        $meta->{success}               = $group_data->{meta}->{success};
+            
+        print "CREATED DOMAIN GROUP: $group_name \n";        
+        return $meta;
+    }else{
+        print "FAIL";
+    }
+}
+
+sub createDomain {
+    #################
+    # Required Fields:
+    #       mode - string value of operational mode
+    #       domain - string value of domain name
+    # Optional Fields:
+    #       group - string value of the group name to add domain to
+    #       trafficDestination -Only used when 'mode' is 'custom' & must be an existing trafficDestination (ref. getTrafficDestinations)
+    #
+    # IMPORTANT: must be pass variables in order.
+    #####
+    
+    $cmd = 'createDomain';
+    my %OPTS = @_;
+    my $domain_mode = $OPTS{'domain_mode'};
+    die "ERROR: Please enter a domain mode!" unless defined $domain_mode;
+    my $domain_name = $OPTS{'domain_name'};
+    die "ERROR: Please enter a domain name!" unless defined $domain_name;
+    
+    my $domain_group  = $_[2];
+    my $domain_td     = $_[3];
+    
+    my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
+    my $meta        = ();
+    
+    if ($domain_data->{meta}->{success} == 1){
+        $meta->{id}                    = $domain_data->{meta}->{id};
+        $meta->{success}               = $domain_data->{meta}->{success};
+        $meta->{trafficDestination_id} = $domain_data->{meta}->{trafficDestination_id};
+        
+            
+        print "CREATED DOMAIN: $domain_name \n";        
+        return $meta;
+    }else{
+        print "FAIL";
+    }
+}
+
+sub deleteDomain {
+    #################
+    # Required Fields:
+    #       mode - string value of operational mode
+    #       domain - string value of domain name
+    # Optional Fields:
+    #       group - string value of the group name to add to the domain if mode is group.
+    #
+    # IMPORTANT: must be pass variables in order.
+    #####
+    
+    $cmd = 'deleteDomain';
+    
+    my %OPTS = @_;
+    my $domain_mode = $OPTS{'domain_mode'};
+    die "ERROR: Please enter a domain mode!" unless defined $domain_mode;
+    my $domain_name = $OPTS{'domain_name'};
+    die "ERROR: Please enter a domain name!" unless defined $domain_name;
+    
+    my $domain_group  = $_[2];
+    
+    my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group);
+    my $meta        = ();
+    
+    if ($domain_data->{meta}->{success} == 1){
+        $meta->{id}                    = $domain_data->{meta}->{id};
+        $meta->{success}               = $domain_data->{meta}->{success};
+        
+            
+        print "DELETED DOMAIN: $domain_name \n";        
+        return $meta;
+    }else{
+        print "FAIL";
+    }
+}
 
 
 ###
