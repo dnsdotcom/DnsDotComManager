@@ -138,6 +138,7 @@ sub api2_getDomainsInGroup {
         $meta->{error}   = $domain_data->{meta}->{error};
         $meta->{success} = $domain_data->{meta}->{success};
         print $meta->{error};
+        print $group_name;
         return $meta;
     }else{
         foreach my $domain(@{$domain_data->{data}}){

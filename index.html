@@ -10,46 +10,80 @@
 </script>
 
 <div class="body-content">
-<div class="loginBox" id="loginBox">
-<form>
-Username:
-<input type="text" name="firstname" />
-<br />
-Password:
-<input type="password" name="lastname" />
-<input type="submit" name="button" value="login">
-</form>
-</div>
-<hr>
+
+
+
+
+
+<table cellpadding=10 border=0 width="100%">
+    <tr>
+        <td colspan="2">
         
-Domains:<br>
-<?cp DnsDotComManager::getDomains(%  [br][br],name) ?>
+<fieldset>
+    <legend>Login:</legend>
+<form>
+    <table>
+        <tr>
+            <td>Username:</td>
+            <td><input type="text" name="firstname" /></td>
+        </tr>
+        <tr>
+            <td>Password:</td>
+            <td><input type="password" name="lastname" /></td>
+        </tr>
+        <tr>
+            <td><input type="submit" name="button" value="login"></td>
+        </tr>
+    </table>
+</form>
+</fieldset>        
+
+        </td>
+    <tr>
+        <td valign=top width="200">
+
+<fieldset>
+    <legend>Filter By Group:</legend>
+    -<a href="index.html">All Groups</a><br><br>
+    <?cp DnsDotComManager::getDomainGroups(-[a href="index.html?domaingroup=%"]%[/a]  [br], name, name) ?>
+    <br>
+<form action="javascript:get(document.getElementById('addDomainForm'));" name="addDomainForm" id="addDomainForm">
+<input type="text" size="25" value="Enter your group name here!">
+<br>
+<input type="submit" name="button" value="Add Group">
+</form>
+</fieldset>
+<br>
+    
+<fieldset>
+    <legend>Country Groups:</legend>
+<?cp DnsDotComManager::getCountryGroups(%  [br][br],name) ?>
+</fieldset>
+
+        </td>
+        <td valign=top>
+
+<fieldset>
+<cpanelif $FORM{'domaingroup'}>
+    <legend>Domains in group:</legend>
+    <?cp DnsDotComManager::getDomainsInGroup([a href="deletedomain?%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name), group_name=$FORM{'domaingroup'}, ?>
+</cpanelif>
+<cpanelif !$FORM{'domaingroup'}>
+    <legend>Domains:</legend>
+    <?cp DnsDotComManager::getDomains([a href="deletedomain?%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name) ?>
+</cpanelif>
 
 <form action="javascript:get(document.getElementById('addDomainForm'));" name="addDomainForm" id="addDomainForm">
 <input type="text" size="25" value="Enter your domain name here!">
 <br>
 <input type="submit" name="button" value="Add Domain">
 </form>
-<hr>
+</fieldset>
 
-Domain Groups:<br>
-<?cp DnsDotComManager::getDomainGroups(%  [br][br],name) ?>
-<form action="javascript:get(document.getElementById('addDomainForm'));" name="addDomainForm" id="addDomainForm">
-<input type="text" size="25" value="Enter your group name here!">
-<br>
-<input type="submit" name="button" value="Add Group">
-</form>
+        </td>
+    </tr>
+</table>
 
-<hr>
-        
-Domains in group "butts":<br>
-<?cp DnsDotComManager::getDomainsInGroup(%  [br][br],name), group_name=butts, ?>
-<hr>
-        
-Country Groups:<br>
-<?cp DnsDotComManager::getCountryGroups(%  [br][br],name) ?>
-
-<!-- <?cp DomainLookup::getbasedomains(%,domain) ?> -->
 
 
 </div><!-- end body-content div -->
