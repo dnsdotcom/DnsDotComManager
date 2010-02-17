@@ -23,7 +23,7 @@ my $cmd = '';
 
 sub dns_query{
     ##########
-    # Later login and server info will be stored in the DB.
+    # Later login and server info will be stored in cookie.
     ###
     my $username    = 'me@millerhooks.com';
     my $password    = 'rYB2qkGbex';
@@ -170,7 +170,7 @@ sub api2_getCountryGroups {
     }
 }
 
-sub getCountriesInCountryGroup {
+sub api2_getCountriesInCountryGroup {
     ######
     # Requires countryGroup Name
     ##
@@ -180,7 +180,7 @@ sub getCountriesInCountryGroup {
     my $country_group_name  = $OPTS{'coutry_group_name'};   
     
     my $country_data = dns_query($cmd, 'countryGroup', $country_group_name);
-    my %country_hash = ();
+    my @country_array = ();
     my $meta        = ();
     
     if ($country_data->{meta}->{success} == 0){
@@ -189,14 +189,10 @@ sub getCountriesInCountryGroup {
         print $meta->{error};
         return $meta;
     }else{
-        my $name = $country_data->{meta}->{name};
         foreach my $country(@{$country_data->{data}}){
-            $country_hash{$name}->{iso_code}              = $country->{iso_code};
-            $country_hash{$name}->{name}                  = $country->{name};
-            
-            print "COUNTRIES IN COUNTRY GROUP: $country_hash{$name}->{name} \n";
+            push(@country_array, {'name' => $country->{name}});  
         }
-        return %country_hash;
+        return @country_array;
     }
 }
 
@@ -204,7 +200,7 @@ sub getCountriesInCountryGroup {
 # Creation Functions
 ##########
 
-sub createDomainGroup {
+sub api2_createDomainGroup {
     ######
     # Requires Group Name
     ##
@@ -228,7 +224,7 @@ sub createDomainGroup {
     }
 }
 
-sub createDomain {
+sub api2_createDomain {
     #################
     # Required Fields:
     #       mode - string value of operational mode
@@ -266,7 +262,7 @@ sub createDomain {
     }
 }
 
-sub deleteDomain {
+sub api2_deleteDomain {
     #################
     # Required Fields:
     #       mode - string value of operational mode
@@ -323,27 +319,27 @@ sub api2 {
         'getCountryGroups' => {
             'func' => 'api2_getCountryGroups',
             'engine' => 'hasharray',
+        },
+        'getCountriesInCountryGroup' => {
+            'func' => 'api2_getCountriesInCountryGroup',
+            'engine' => 'hasharray'
+        },
+        'createDomainGroup' => {
+            'func' => 'api2_createDomainGroup',
+            'engine' => 'hasharray'
+        },
+        'createDomain' => {
+            'func' => 'api2_createDomain',
+            'engine' => 'hasharray'
+        },
+        'deleteDomain' => {
+            'func' => 'api2_deleteDomain',
+            'engine' => 'hasharray'
         }
+        
+        
     );
     return \%{ $API2{ $_[0] } };
-}
-
-###
-#command line execution
-###
-if ($ARGV[0]){
-    if ($ARGV[0] eq '-h'){
-        print "example: DNS_COM.pm getDomains arg\nSee API docs.\n";
-    }
-    elsif ($ARGV[0] eq 'getDomains'){
-        api2_getDomains($ARGV[1]);   
-    }elsif($ARGV[0] eq 'getDomainGroups'){
-        api2_getDomainGroups($ARGV[1]);
-    }elsif($ARGV[0] eq 'getDomainsInGroup'){
-        api2_getDomainsInGroup($ARGV[1]);
-    }
-}else{
-    print "Please enter a comand. -h for help\n";
 }
 
 1;
