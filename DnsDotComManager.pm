@@ -254,7 +254,7 @@ sub api2_createDomain {
     my $domain_group  = $OPTS{'domain_group'};
     #my $domain_td     = $_[3];
     
-    my $domain_data  = dns_query($cmd, 'mode', 'group', 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
+    my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
     my $meta        = ();
     
     if ($domain_data->{meta}->{success} == 1){

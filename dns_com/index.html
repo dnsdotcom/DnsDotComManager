@@ -71,6 +71,7 @@
 <form action="adddomain.html" name="addDomainForm" id="addDomainForm">
 <input name="domain" type="text" size="25">
 <input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'domaingroup'}>">
+<input name="mode" type="HIDDEN" value="group">
 <br>
 <input type="submit" name="button" value="Add Domain"> [<a href="deletedomaingroup.html?domain_group=<cpanel langprint=$FORM{'domaingroup'}>">Delete Group</a>]
 </form>
@@ -79,10 +80,11 @@
 </cpanelif>
 <cpanelif !$FORM{'domaingroup'}>
     <legend>Domains:</legend>
-    <?cp DnsDotComManager::getDomains([a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name) ?>
+    <?cp DnsDotComManager::getDomains([a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a] [a href="domaindetails.html?name=%"]%[/a]  [br][br], name, name, name) ?>
 
 <form action="adddomain.html" name="addDomainForm" id="addDomainForm">
 <input name='domain' type="text" size="25">
+<input name="mode" type="HIDDEN" value="custom">
 <br>
 <input type="submit" name="button" value="Add Domain">
 </form>
