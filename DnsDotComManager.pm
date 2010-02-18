@@ -66,7 +66,7 @@ sub dns_query{
     }
     
     my $url = "http://$hostname/api/$cmd/?email=$username&password=$password$opt1$opt2$opt3$opt4$opt5";
-    
+    #print $url;
     my $json = new JSON::PP;
     my $response = $browser->get( $url );
     die "Couldn't get $url" unless defined $response;
@@ -225,10 +225,10 @@ sub api2_createDomainGroup {
         $meta->{id}                    = $group_data->{meta}->{id};
         $meta->{success}               = $group_data->{meta}->{success};
             
-        print "CREATED DOMAIN GROUP: $group_name \n";        
+        print "<b>CREATED DOMAIN GROUP</b>: $group_name";        
         return $meta;
     }else{
-        print "FAIL";
+        print $domain_data->{meta}->{error};
     }
 }
 
@@ -305,6 +305,39 @@ sub api2_deleteDomain {
     }
 }
 
+sub api2_removeDomainGroup {
+    #################
+    # Required Fields:
+    #       group - string value of operational mode
+    #       confirm - string value of domain name
+    # Optional Fields:
+    #       group - string value of the group name to add to the domain if mode is group.
+    #
+    # 
+    #####
+    
+    $cmd = 'removeDomainGroup';
+    
+    my %OPTS = @_;
+    my $group_name = $OPTS{'group_name'};
+    die "ERROR: Please enter a domain name!" unless defined $group_name;
+
+    
+    my $group_data  = dns_query($cmd, 'group', $group_name, 'confirm', 1);
+    my $meta        = ();
+    
+    if ($group_data->{meta}->{success} == 1){
+        $meta->{id}                    = $group_data->{meta}->{id};
+        $meta->{success}               = $group_data->{meta}->{success};
+        
+            
+        print "<b>DELETED DOMAIN GROUP:</b> $group_name <br>";
+    }else{
+        print $group_data->{meta}->{error};
+    }
+    
+}
+
 
 ###
 #Api2 call names
@@ -341,6 +374,10 @@ sub api2 {
         },
         'deleteDomain' => {
             'func' => 'api2_deleteDomain',
+            'engine' => 'hasharray'
+        },
+        'removeDomainGroup' => {
+            'func' => 'api2_removeDomainGroup',
             'engine' => 'hasharray'
         }
         

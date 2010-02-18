@@ -1,0 +1,26 @@
+<cpanel setvar="headerimg=../images/toppassword.gif">
+<cpanel setvar="dprefix=../">
+<cpanel Branding="include(stdheader.html)">
+
+<cpanelfeature dns_com>
+
+<script type="text/javascript" language="javascript">
+
+
+</script>
+
+<div class="body-content">
+
+
+<?cp DnsDotComManager::createDomainGroup(%, message), group_name=$FORM{'group_name'},?>
+<br>
+[<a href="index.html">Back To Manager</a>]
+
+
+
+
+</div><!-- end body-content div -->
+
+</cpanelfeature><!-- end cpanelfeature dns_com -->
+
+<cpanel Branding="include(stdfooter.html)">

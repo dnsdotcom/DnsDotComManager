@@ -45,8 +45,9 @@
     -<a href="index.html">All Groups</a><br><br>
     <?cp DnsDotComManager::getDomainGroups(-[a href="index.html?domaingroup=%"]%[/a]  [br], name, name) ?>
     <br>
-<form action="javascript:get(document.getElementById('addDomainForm'));" name="addDomainForm" id="addDomainForm">
-<input type="text" size="25" value="Enter your group name here!">
+
+<form action="addgroup.html">
+<input name="group_name" type="text" size="25" value="">
 <br>
 <input type="submit" name="button" value="Add Group">
 </form>
@@ -62,7 +63,7 @@
 
 <fieldset>
 <cpanelif $FORM{'domaingroup'}>
-    <legend>Domains in <cpanel langprint=$FORM{'domaingroup'}>:</legend>
+    <legend>Domains in "<cpanel langprint=$FORM{'domaingroup'}>" group:</legend>
     <?cp DnsDotComManager::getDomainsInGroup([a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name), group_name=$FORM{'domaingroup'}, ?>
 
 
@@ -71,7 +72,7 @@
 <input name="domain" type="text" size="25">
 <input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'domaingroup'}>">
 <br>
-<input type="submit" name="button" value="Add Domain">
+<input type="submit" name="button" value="Add Domain"> [<a href="deletedomaingroup.html?domain_group=<cpanel langprint=$FORM{'domaingroup'}>">Delete Group</a>]
 </form>
 </fieldset>
 

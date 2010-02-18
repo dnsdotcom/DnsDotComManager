@@ -1,0 +1,28 @@
+<cpanel setvar="headerimg=../images/toppassword.gif">
+<cpanel setvar="dprefix=../">
+<cpanel Branding="include(stdheader.html)">
+
+<cpanelfeature dns_com>
+
+<script type="text/javascript" language="javascript">
+
+
+</script>
+
+<div class="body-content">
+
+<cpanelif $FORM{'confirm'}>
+    <?cp DnsDotComManager::removeDomainGroup(%, message), group_name=$FORM{'group'}, ?> <br>[<a href="index.html?domaingroup=<cpanel langprint=$FORM{'domain_group'}>">Back To Manager</a>]
+</cpanelif>
+<cpanelif !$FORM{'confirm'}>
+    Are you sure you want to delete "<b><cpanel langprint=$FORM{'domain_group'}></b>" group? <a href="deletedomaingroup.html?group=<cpanel langprint=$FORM{'domain_group'}>&confirm=1">Yes</a> / <a href="index.html?domaingroup=<cpanel langprint=$FORM{'domain_group'}>">No</a>
+</cpanelif>
+
+
+
+
+</div><!-- end body-content div -->
+
+</cpanelfeature><!-- end cpanelfeature dns_com -->
+
+<cpanel Branding="include(stdfooter.html)">
