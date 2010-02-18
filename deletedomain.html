@@ -1,0 +1,28 @@
+<cpanel setvar="headerimg=../images/toppassword.gif">
+<cpanel setvar="dprefix=../">
+<cpanel Branding="include(stdheader.html)">
+
+<cpanelfeature dns_com>
+
+<script type="text/javascript" language="javascript">
+
+
+</script>
+
+<div class="body-content">
+
+<cpanelif $FORM{'confirm'}>
+    <?cp DnsDotComManager::deleteDomain(%, message), domain_name=$FORM{'domain'}, domain_mode=$FORM{'mode'} ?> [<a href="index.html">Back To Manager</a>]
+</cpanelif>
+<cpanelif !$FORM{'confirm'}>
+    <?cp DnsDotComManager::getDomains(Are you sure you want to delete [b]%[/b]? [a href="deletedomain.html?mode=%&domain=%&confirm=1"]Yes[/a] / [a href="index.html"]No[/a] [br][br], name, mode, name), search_term=$FORM{'domain'} ?>
+</cpanelif>
+
+
+
+
+</div><!-- end body-content div -->
+
+</cpanelfeature><!-- end cpanelfeature dns_com -->
+
+<cpanel Branding="include(stdfooter.html)">

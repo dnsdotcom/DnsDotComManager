@@ -42,6 +42,7 @@ sub dns_query{
     my $opt_field5       = uri_escape($_[9]);
     my $opt_field5_value = uri_escape($_[10]);
     
+    
     my $opt1             = '';
     my $opt2             = '';
     my $opt3             = '';
@@ -55,13 +56,13 @@ sub dns_query{
         $opt2 = "&$opt_field2=$opt_field2_value";
     }
     if ($opt_field3_value){
-        $opt2 = "&$opt_field3=$opt_field3_value";
+        $opt3 = "&$opt_field3=$opt_field3_value";
     }
     if ($opt_field4_value){
-        $opt2 = "&$opt_field4=$opt_field4_value";
+        $opt4 = "&$opt_field4=$opt_field4_value";
     }
     if ($opt_field5_value){
-        $opt2 = "&$opt_field5=$opt_field5_value";
+        $opt5 = "&$opt_field5=$opt_field5_value";
     }
     
     my $url = "http://$hostname/api/$cmd/?email=$username&password=$password$opt1$opt2$opt3$opt4$opt5";
@@ -81,7 +82,9 @@ sub dns_query{
 sub api2_getDomains{
     # Optional Search Term
     $cmd = 'getDomains';
-    my $search_term  = $_[0];
+    my %OPTS = @_;
+    my $search_term  = $OPTS{'search_term'}; 
+    
     my $domain_data = dns_query($cmd, 'search_term', $search_term);
     my $meta        = ();
     my @domain_array = ();
@@ -92,7 +95,7 @@ sub api2_getDomains{
         return $meta;
     }else{
         foreach my $domain(@{$domain_data->{data}}){
-            push(@domain_array, {'name' => $domain->{name}});    
+            push(@domain_array, {'name' => $domain->{name}, 'mode' => $domain->{mode}});    
         }
         
     }
@@ -104,10 +107,14 @@ sub api2_getDomainGroups {
     # Optional Search Term
     ########
     $cmd = 'getDomainGroups';
-    my $search_term  = $_[0];
+    
+    my %OPTS = @_;
+    my $search_term  = $OPTS{'search_term'}; 
     my $domain_group_data = dns_query($cmd, 'search_term', $search_term);
     my @domain_group_array = ();
     my $meta        = ();
+    
+    #print "BITCH $search_term <br>";
     
     if ($domain_group_data->{meta}->{success} == 0){
         $meta->{success} = $domain_group_data->{meta}->{success};
@@ -244,10 +251,10 @@ sub api2_createDomain {
     my $domain_name = $OPTS{'domain_name'};
     die "ERROR: Please enter a domain name!" unless defined $domain_name;
     
-    my $domain_group  = $_[2];
-    my $domain_td     = $_[3];
+    my $domain_group  = $OPTS{'domain_group'};
+    #my $domain_td     = $_[3];
     
-    my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
+    my $domain_data  = dns_query($cmd, 'mode', 'group', 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
     my $meta        = ();
     
     if ($domain_data->{meta}->{success} == 1){
@@ -256,10 +263,10 @@ sub api2_createDomain {
         $meta->{trafficDestination_id} = $domain_data->{meta}->{trafficDestination_id};
         
             
-        print "CREATED DOMAIN: $domain_name \n";        
+        print "<b>CREATED DOMAIN:</b> $domain_name </br>";        
         return $meta;
     }else{
-        print "FAIL";
+        print $domain_data->{meta}->{error};
     }
 }
 
@@ -282,9 +289,9 @@ sub api2_deleteDomain {
     my $domain_name = $OPTS{'domain_name'};
     die "ERROR: Please enter a domain name!" unless defined $domain_name;
     
-    my $domain_group  = $_[2];
+    my $domain_group  = $OPTS{'domain_group'};
     
-    my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group);
+    my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'confirm', 1);
     my $meta        = ();
     
     if ($domain_data->{meta}->{success} == 1){
@@ -292,10 +299,9 @@ sub api2_deleteDomain {
         $meta->{success}               = $domain_data->{meta}->{success};
         
             
-        print "DELETED DOMAIN: $domain_name \n";        
-        return $meta;
+        print "<b>DELETED DOMAIN:</b> $domain_name <br>";
     }else{
-        print "FAIL";
+        print $domain_data->{meta}->{error};
     }
 }
 

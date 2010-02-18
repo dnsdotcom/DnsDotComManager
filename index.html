@@ -16,9 +16,10 @@
 
 
 <table cellpadding=10 border=0 width="100%">
+
     <tr>
-        <td colspan="2">
-        
+        <td valign=top width="200">
+            
 <fieldset>
     <legend>Login:</legend>
 <form>
@@ -36,11 +37,8 @@
         </tr>
     </table>
 </form>
-</fieldset>        
+</fieldset> 
 
-        </td>
-    <tr>
-        <td valign=top width="200">
 
 <fieldset>
     <legend>Filter By Group:</legend>
@@ -53,11 +51,10 @@
 <input type="submit" name="button" value="Add Group">
 </form>
 </fieldset>
-<br>
     
 <fieldset>
     <legend>Country Groups:</legend>
-<?cp DnsDotComManager::getCountryGroups(%  [br][br],name) ?>
+<?cp DnsDotComManager::getCountryGroups(%  [br][br], name) ?>
 </fieldset>
 
         </td>
@@ -65,20 +62,34 @@
 
 <fieldset>
 <cpanelif $FORM{'domaingroup'}>
-    <legend>Domains in group:</legend>
-    <?cp DnsDotComManager::getDomainsInGroup([a href="deletedomain?%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name), group_name=$FORM{'domaingroup'}, ?>
-</cpanelif>
-<cpanelif !$FORM{'domaingroup'}>
-    <legend>Domains:</legend>
-    <?cp DnsDotComManager::getDomains([a href="deletedomain?%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name) ?>
-</cpanelif>
+    <legend>Domains in <cpanel langprint=$FORM{'domaingroup'}>:</legend>
+    <?cp DnsDotComManager::getDomainsInGroup([a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name), group_name=$FORM{'domaingroup'}, ?>
 
-<form action="javascript:get(document.getElementById('addDomainForm'));" name="addDomainForm" id="addDomainForm">
-<input type="text" size="25" value="Enter your domain name here!">
+
+
+<form action="adddomain.html" name="addDomainForm" id="addDomainForm">
+<input name="domain" type="text" size="25">
+<input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'domaingroup'}>">
 <br>
 <input type="submit" name="button" value="Add Domain">
 </form>
 </fieldset>
+
+</cpanelif>
+<cpanelif !$FORM{'domaingroup'}>
+    <legend>Domains:</legend>
+    <?cp DnsDotComManager::getDomains([a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a] %  [br][br], name, name) ?>
+
+<form action="adddomain.html" name="addDomainForm" id="addDomainForm">
+<input name='domain' type="text" size="25">
+<br>
+<input type="submit" name="button" value="Add Domain">
+</form>
+</fieldset>
+
+</cpanelif>
+
+
 
         </td>
     </tr>
