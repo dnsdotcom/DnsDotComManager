@@ -3,12 +3,9 @@ package	Cpanel::DnsDotComManager;
 use strict;
 #use warnings; 
 use Data::Dumper;
-use Cpanel::Sys::Find     ();
-use Cpanel::SafeFile      ();
 use Cpanel::LoadFile      ();
-use Cpanel::Logger        ();
 use Cpanel::FileUtils     ();
-#use Cpanel::AdminBin     ();
+
 
 #use Encode;
 use JSON::PP;
@@ -20,18 +17,10 @@ my $browser = LWP::UserAgent->new;
 
 our $VERSION = '0.1';
 
-sub DNS_COM_init {
-    return 1;
-    }
-
 my $cmd = '';
 
-sub dns_query{
-    ##########
-    # Later login and server info will be stored in cookie.
-    ###
-    
-    #my $tokenfile = '/var/cpanel/datastore/' . $Cpanel::user . '/dns-dot-com-token';
+sub dns_query{    
+    my $tokenfile = '/var/local/dnsdotcom/' . $Cpanel::user . '-dns-dot-com-token';
     my $AUTH_TOKEN = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
     
     my $hostname    = 'sandbox.comwired.com';
@@ -119,38 +108,21 @@ sub dns_query{
     #print $url;
     my $json = new JSON::PP;
     my $response = $browser->get( $url );
-    die "Couldn't get $url" unless defined $response;
     
     my $domain_data = $json->decode($response->content);
     return $domain_data;
 }
 
 sub api2_changeAuthToken{
+    my @meta = (); 
     my %OPTS = @_;
-    #my $AUTH_TOKEN  = decode("iso-8859-1", $OPTS{'AUTH_TOKEN'});
-    my $tokenfile = "/var/cpanel/datastore/dnsdotcom/" . $Cpanel::user . "-dns-dot-com-token";
-    
-    #print "<br><hr>";
-    
-    #open (MYFILE, $tokenfile);
-    #while (<MYFILE>) {
-    #    chomp;
-    #    $_ = uri_escape($_);
-    #    print "--= $_ ==-\n";
-    #}
-    
-    #print "<br><hr>";
-    #close (MYFILE);
-    
-    #print open(BAAAH, '>', $tokenfile);
-    #print BAAAH "$AUTH_TOKEN";
-    #close (BAAAH);
-    
-    my $works = Cpanel::FileUtils::writefile( $tokenfile, $AUTH_TOKEN );
-    my $file = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
-    
-    print "works is $works<br><br>file location: $tokenfile<br><br>current file: $file <br> should be: --= $AUTH_TOKEN =--<br> <br><a href='index.html'>back</a>";
-    
+    my $AUTH_TOKEN  = $OPTS{'AUTH_TOKEN'};
+
+    $AUTH_TOKEN =~ s/&gt;/>/g;
+    $AUTH_TOKEN =~ s/&lt;/</g;
+    my $tokenfile = "/var/local/dnsdotcom/" . $Cpanel::user . "-dns-dot-com-token";
+    Cpanel::FileUtils::writefile( $tokenfile, $AUTH_TOKEN );
+    return $meta->{message} = "Authorization Token Updated";
 }
 
 ##############################
@@ -169,7 +141,6 @@ sub api2_getDomains{
     if ($domain_data->{meta}->{success} == 0){
         $meta->{error}   = $domain_data->{meta}->{error};
         $meta->{success} = $domain_data->{meta}->{success};
-        print "$meta->{error}\n";
         return $meta;
     }else{
         foreach my $domain(@{$domain_data->{data}}){
@@ -224,7 +195,6 @@ sub api2_getHostnamesForGroup{
     if ($hosts_data->{meta}->{success} == 0){
         $meta->{error}   = $hosts_data->{meta}->{error};
         $meta->{success} = $hosts_data->{meta}->{success};
-        print "$meta->{error}\n";
         return $meta;
     }else{
         foreach my $host(@{$hosts_data->{data}}){
@@ -254,7 +224,6 @@ sub api2_getRRSetForHostname{
     if ($hosts_data->{meta}->{success} == 0){
         $meta->{error}   = $hosts_data->{meta}->{error};
         $meta->{success} = $hosts_data->{meta}->{success};
-        print "$meta->{error}\n";
         return $meta;
     }else{
         foreach my $host(@{$hosts_data->{data}}){
@@ -290,7 +259,6 @@ sub api2_getDomainGroups {
     
     if ($domain_group_data->{meta}->{success} == 0){
         $meta->{success} = $domain_group_data->{meta}->{success};
-        print "FAIL QUERY\n";
         return $meta;
     }else{
         foreach my $domain_group(@{$domain_group_data->{data}}){
@@ -316,8 +284,6 @@ sub api2_getDomainsInGroup {
     if ($domain_data->{meta}->{success} == 0){
         $meta->{error}   = $domain_data->{meta}->{error};
         $meta->{success} = $domain_data->{meta}->{success};
-        print $meta->{error};
-        print $group_name;
         return $meta;
     }else{
         foreach my $domain(@{$domain_data->{data}}){
@@ -345,7 +311,6 @@ sub api2_getCountryGroups {
     
     if ($country_group_data->{meta}->{success} == 0){
         $meta->{success} = $country_group_data->{meta}->{success};
-        print "FAIL QUERY\n";
         return $meta;
     }else{
         foreach my $country_group(@{$country_group_data->{data}}){
@@ -371,7 +336,6 @@ sub api2_getCountriesInCountryGroup {
     if ($country_data->{meta}->{success} == 0){
         $meta->{error}   = $country_data->{meta}->{error};
         $meta->{success} = $country_data->{meta}->{success};
-        print $meta->{error};
         return $meta;
     }else{
         foreach my $country(@{$country_data->{data}}){
