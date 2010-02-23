@@ -3,9 +3,14 @@ package	Cpanel::DnsDotComManager;
 use strict;
 #use warnings; 
 use Data::Dumper;
-#use Cpanel::Logger       ();
+use Cpanel::Sys::Find     ();
+use Cpanel::SafeFile      ();
+use Cpanel::LoadFile      ();
+use Cpanel::Logger        ();
+use Cpanel::FileUtils     ();
 #use Cpanel::AdminBin     ();
 
+#use Encode;
 use JSON::PP;
 use URI::Escape;
 use LWP;
@@ -25,8 +30,10 @@ sub dns_query{
     ##########
     # Later login and server info will be stored in cookie.
     ###
-    my $username    = 'me@millerhooks.com';
-    my $password    = 'rYB2qkGbex';
+    
+    #my $tokenfile = '/var/cpanel/datastore/' . $Cpanel::user . '/dns-dot-com-token';
+    my $AUTH_TOKEN = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
+    
     my $hostname    = 'sandbox.comwired.com';
     
     $cmd               = $_[0];
@@ -41,13 +48,33 @@ sub dns_query{
     my $opt_field4_value = uri_escape($_[8]);
     my $opt_field5       = uri_escape($_[9]);
     my $opt_field5_value = uri_escape($_[10]);
+    my $opt_field6       = uri_escape($_[11]);
+    my $opt_field6_value = uri_escape($_[12]);
+    my $opt_field7       = uri_escape($_[13]);
+    my $opt_field7_value = uri_escape($_[14]);
+    my $opt_field8       = uri_escape($_[15]);
+    my $opt_field8_value = uri_escape($_[16]);
+    my $opt_field9       = uri_escape($_[17]);
+    my $opt_field9_value = uri_escape($_[18]);
+    my $opt_field10       = uri_escape($_[19]);
+    my $opt_field10_value = uri_escape($_[20]);
+    my $opt_field11       = uri_escape($_[21]);
+    my $opt_field11_value = uri_escape($_[22]);
+    my $opt_field12       = uri_escape($_[23]);
+    my $opt_field12_value = uri_escape($_[24]);
     
-    
-    my $opt1             = '';
-    my $opt2             = '';
-    my $opt3             = '';
-    my $opt4             = '';
-    my $opt5             = '';
+    my $opt1              = '';
+    my $opt2              = '';
+    my $opt3              = '';
+    my $opt4              = '';
+    my $opt5              = '';
+    my $opt6              = '';
+    my $opt7              = '';
+    my $opt8              = '';
+    my $opt9              = '';
+    my $opt10             = '';
+    my $opt11             = '';
+    my $opt12             = '';
     
     if ($opt_field1_value){
         $opt1 = "&$opt_field1=$opt_field1_value";
@@ -64,8 +91,31 @@ sub dns_query{
     if ($opt_field5_value){
         $opt5 = "&$opt_field5=$opt_field5_value";
     }
+    if ($opt_field6_value){
+        $opt6 = "&$opt_field6=$opt_field6_value";
+    }
+    if ($opt_field7_value){
+        $opt7 = "&$opt_field7=$opt_field7_value";
+    }
+    if ($opt_field8_value){
+        $opt8 = "&$opt_field8=$opt_field8_value";
+    }
+    if ($opt_field9_value){
+        $opt9 = "&$opt_field9=$opt_field9_value";
+    }
+    if ($opt_field10_value){
+        $opt10 = "&$opt_field10=$opt_field10_value";
+    }
+    if ($opt_field11_value){
+        $opt11 = "&$opt_field11=$opt_field11_value";
+    }
+    if ($opt_field12_value){
+        
+        $opt12 = "&$opt_field12=$opt_field12_value";
+    }
+
     
-    my $url = "http://$hostname/api/$cmd/?email=$username&password=$password$opt1$opt2$opt3$opt4$opt5";
+    my $url = "http://$hostname/api/$cmd/?AUTH_TOKEN=$AUTH_TOKEN$opt1$opt2$opt3$opt4$opt5$opt6$opt7$opt8$opt9$opt10$opt11$opt12";
     #print $url;
     my $json = new JSON::PP;
     my $response = $browser->get( $url );
@@ -73,6 +123,34 @@ sub dns_query{
     
     my $domain_data = $json->decode($response->content);
     return $domain_data;
+}
+
+sub api2_changeAuthToken{
+    my %OPTS = @_;
+    #my $AUTH_TOKEN  = decode("iso-8859-1", $OPTS{'AUTH_TOKEN'});
+    my $tokenfile = "/var/cpanel/datastore/dnsdotcom/" . $Cpanel::user . "-dns-dot-com-token";
+    
+    #print "<br><hr>";
+    
+    #open (MYFILE, $tokenfile);
+    #while (<MYFILE>) {
+    #    chomp;
+    #    $_ = uri_escape($_);
+    #    print "--= $_ ==-\n";
+    #}
+    
+    #print "<br><hr>";
+    #close (MYFILE);
+    
+    #print open(BAAAH, '>', $tokenfile);
+    #print BAAAH "$AUTH_TOKEN";
+    #close (BAAAH);
+    
+    my $works = Cpanel::FileUtils::writefile( $tokenfile, $AUTH_TOKEN );
+    my $file = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
+    
+    print "works is $works<br><br>file location: $tokenfile<br><br>current file: $file <br> should be: --= $AUTH_TOKEN =--<br> <br><a href='index.html'>back</a>";
+    
 }
 
 ##############################
@@ -95,11 +173,107 @@ sub api2_getDomains{
         return $meta;
     }else{
         foreach my $domain(@{$domain_data->{data}}){
-            push(@domain_array, {'name' => $domain->{name}, 'mode' => $domain->{mode}});    
+            push(@domain_array, {'name'                 => $domain->{name},
+                                 'mode'                 => $domain->{mode},
+                                 'group'                => $domain->{group},
+                                 'date_last_modified'   => $domain->{date_last_modified},
+                                 'date_created'         => $domain->{date_created},
+                                 });    
         }
         
     }
         return @domain_array;
+}
+
+sub api2_getHostnamesForDomain{
+    $cmd = 'getHostnamesForDomain';
+    my %OPTS = @_;
+    my $domain_name = $OPTS{'domain_name'}; 
+    
+    my $hosts_data = dns_query($cmd, 'domain', $domain_name);
+    my $meta        = ();
+    my @hosts_array = ();
+    if ($hosts_data->{meta}->{success} == 0){
+        $meta->{error}   = $hosts_data->{meta}->{error};
+        $meta->{success} = $hosts_data->{meta}->{success};
+        print "$meta->{error}\n";
+        return $meta;
+    }else{
+        foreach my $host(@{$hosts_data->{data}}){
+            if(!$host->{name}){
+                $host->{name} = ' ';
+            }
+            push(@hosts_array, {'name'                  => $host->{name},
+                                'date_created'          => $host->{date_created},
+                                'date_last_modified'    => $host->{date_last_modified},});    
+        }
+        
+    }
+        return @hosts_array;
+}
+
+
+sub api2_getHostnamesForGroup{
+    $cmd = 'getHostnamesForGroup';
+    my %OPTS = @_;
+    my $group_name = $OPTS{'group_name'}; 
+    
+    my $hosts_data = dns_query($cmd, 'group', $group_name);
+    my $meta        = ();
+    my @hosts_array = ();
+    if ($hosts_data->{meta}->{success} == 0){
+        $meta->{error}   = $hosts_data->{meta}->{error};
+        $meta->{success} = $hosts_data->{meta}->{success};
+        print "$meta->{error}\n";
+        return $meta;
+    }else{
+        foreach my $host(@{$hosts_data->{data}}){
+            if(!$host->{name}){
+                $host->{name} = ' ';
+            }
+            push(@hosts_array, {'name'                  => $host->{name},
+                                'date_created'          => $host->{date_created},
+                                'date_last_modified'    => $host->{date_last_modified},
+                            });    
+        }
+        
+    }
+        return @hosts_array;
+}
+
+sub api2_getRRSetForHostname{
+    $cmd = 'getRRSetForHostname';
+    my %OPTS = @_;
+    my $host_name = $OPTS{'host_name'};
+    my $domain_name = $OPTS{'domain_name'};
+    my $group_name = $OPTS{'group_name'};
+    
+    my $hosts_data = dns_query($cmd, 'host', $host_name, 'domain', $domain_name, 'group', $group_name);
+    my $meta        = ();
+    my @hosts_array = ();
+    if ($hosts_data->{meta}->{success} == 0){
+        $meta->{error}   = $hosts_data->{meta}->{error};
+        $meta->{success} = $hosts_data->{meta}->{success};
+        print "$meta->{error}\n";
+        return $meta;
+    }else{
+        foreach my $host(@{$hosts_data->{data}}){
+            push(@hosts_array, {'city'                  => $host->{city},
+                                'date_last_modified'    => $host->{date_last_modified},
+                                'country'               => $host->{country},
+                                'region'                => $host->{region},
+                                'priority'              => $host->{priority},
+                                'answer'                => $host->{answer},
+                                'date_created'          => $host->{date_created},
+                                'type'                  => $host->{type},
+                                'id'                    => $host->{id},
+                                'ttl'                   => $host->{ttl},
+                                'is_wildcard'           => $host->{is_wildcard},
+                                });    
+        }
+        
+    }
+        return @hosts_array;
 }
 
 sub api2_getDomainGroups {
@@ -113,8 +287,6 @@ sub api2_getDomainGroups {
     my $domain_group_data = dns_query($cmd, 'search_term', $search_term);
     my @domain_group_array = ();
     my $meta        = ();
-    
-    #print "BITCH $search_term <br>";
     
     if ($domain_group_data->{meta}->{success} == 0){
         $meta->{success} = $domain_group_data->{meta}->{success};
@@ -149,7 +321,12 @@ sub api2_getDomainsInGroup {
         return $meta;
     }else{
         foreach my $domain(@{$domain_data->{data}}){
-             push(@domain_array, {'name' => $domain->{name}});
+             push(@domain_array, {'name'                 => $domain->{name},
+                                 'mode'                 => $domain->{mode},
+                                 'group'                => $domain->{group},
+                                 'date_last_modified'   => $domain->{date_last_modified},
+                                 'date_created'         => $domain->{date_created},
+                                 }); 
         }
         return @domain_array;
     }
@@ -228,7 +405,7 @@ sub api2_createDomainGroup {
         print "<b>CREATED DOMAIN GROUP</b>: $group_name";        
         return $meta;
     }else{
-        print $domain_data->{meta}->{error};
+        print $group_data->{meta}->{error};
     }
 }
 
@@ -252,7 +429,7 @@ sub api2_createDomain {
     die "ERROR: Please enter a domain name!" unless defined $domain_name;
     
     my $domain_group  = $OPTS{'domain_group'};
-    #my $domain_td     = $_[3];
+    my $domain_td     = $OPTS{'domain_td'};
     
     my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
     my $meta        = ();
@@ -269,6 +446,92 @@ sub api2_createDomain {
         print $domain_data->{meta}->{error};
     }
 }
+
+sub api2_createHostname {
+    #################
+    # Identifier Fields:
+    #       domain - string value of domain name
+    #       group - string value of group name
+    # Required Fields:
+    #       host - string value of the group name to add to the domain if mode is group.
+    # Optional Fields:
+    #       is_urlforward - setup bit if you want to hostname as url forward
+    #       default - set address for all undefined traffic to go to
+    #####
+
+    $cmd = 'createHostname';
+    my %OPTS = @_;
+    my $domain          = $OPTS{'domain'};
+    my $group           = $OPTS{'group'};
+    my $host            = $OPTS{'host'};
+    my $is_urlforward   = $OPTS{'is_urlforward'};
+    my $default         = $OPTS{'default'};
+
+    my $host_data  = dns_query($cmd, 'group', $group, 'domain', $domain, 'host', $host, 'is_urlforward', $is_urlforward, 'default', $default);
+    my $meta        = ();
+    
+    if ($host_data->{meta}->{success} == 1){
+        $meta->{id}                    = $host_data->{meta}->{id};
+        $meta->{success}               = $host_data->{meta}->{success};
+        
+        #print "$host : $domain$group <br>";
+    }else{
+        print $host_data->{meta}->{error};
+    }
+    
+}
+
+sub api2_createRRData {
+    $cmd = 'createRRData';
+    my %OPTS = @_;
+    # identifier vars
+    my $domain  = $OPTS{'domain'};
+    my $group   = $OPTS{'group'};
+    
+    #required vars
+    my $host    = $OPTS{'host'};
+    my $type    = $OPTS{'type'};
+    my $rdata   = $OPTS{'rdata'};
+    
+    #optional vars
+    my $countryGroup    = $OPTS{'countryGroup'};
+    my $country_Iso2    = $OPTS{'country_Iso2'};
+    my $region          = $OPTS{'region'};
+    my $city            = $OPTS{'city'};
+    my $priority        = $OPTS{'priority'};
+    my $is_wildcard     = $OPTS{'is_wildcard'};
+    my $ttl             = $OPTS{'ttl'};
+    
+    my $domain_group  = $OPTS{'domain_group'};
+    
+    my $domain_data  = dns_query($cmd,
+                                 'domain',          $domain,
+                                 'group',           $group,
+                                 'host',            $host,
+                                 'type',            $type,
+                                 'rdata',           $rdata,
+                                 'countryGroup',    $countryGroup,
+                                 'country_Iso2',    $country_Iso2,
+                                 'region',          $region,
+                                 'city',            $city,
+                                 'priority',        $priority,
+                                 'is_wildcard',     $is_wildcard,
+                                 'ttl',             $ttl,
+                                );
+    my $meta        = ();
+    
+    if ($domain_data->{meta}->{success} == 1){
+        $meta->{id}                    = $domain_data->{meta}->{id};
+        $meta->{success}               = $domain_data->{meta}->{success};
+        
+        print "<b>CREATED HOST:</b> $host </br>";        
+        #return $meta;
+    }else{
+        print $domain_data->{meta}->{error};
+    }
+}
+
+
 
 sub api2_deleteDomain {
     #################
@@ -338,6 +601,38 @@ sub api2_removeDomainGroup {
     
 }
 
+sub api2_deleteHostname {
+    
+    my %OPTS = @_;
+    my $group = $OPTS{'group'};
+    my $domain = $OPTS{'domain'};
+    my $host = $OPTS{'host'};
+    
+    #if ($domain){
+    #    my $host  = dns_query('getHostnamesForDomain', 'domain', $domain, 'confirm', 1);
+    #}elsif($group){
+    #    my $host  = dns_query('getHostnamesForGroup', 'group', $group, 'confirm', 1);
+    #}
+        
+    my $host_data  = dns_query('removeHostname', 'host', $host, 'group', $group, 'domain', $domain, 'confirm', 1);
+    die "ERROR: Failed to remove Host!" unless defined $host_data;
+    
+    #my $rr_data  = dns_query('removeRR', 'rr_id', $host->{data}->{id}, 'confirm', 1);
+    #die "ERROR: Failed to remove RR data!" unless defined $rr_data;
+    
+    my $meta        = ();
+    
+    if ($host_data->{meta}->{success} == 1){
+        $meta->{id}                    = $host_data->{meta}->{id};
+        $meta->{success}               = $host_data->{meta}->{success};
+        
+            
+        print "<b>DELETED HOST:</b> $host : $group$domain <br>";
+    }else{
+        print $host_data->{meta}->{error};
+    }
+    
+}
 
 ###
 #Api2 call names
@@ -379,8 +674,35 @@ sub api2 {
         'removeDomainGroup' => {
             'func' => 'api2_removeDomainGroup',
             'engine' => 'hasharray'
+        },
+        'getHostnamesForDomain' => {
+            'func' => 'api2_getHostnamesForDomain',
+            'engine' => 'hasharray'
+        },
+        'getHostnamesForGroup' => {
+            'func' => 'api2_getHostnamesForGroup',
+            'engine' => 'hasharray'
+        },
+        'createHostname' => {
+            'func' => 'api2_createHostname',
+            'engine' => 'hasharray'
+        },
+        'getRRSetForHostname' => {
+            'func' => 'api2_getRRSetForHostname',
+            'engine' => 'hasharray'
+        },
+        'createRRData' => {
+            'func' => 'api2_createRRData',
+            'engine' => 'hasharray'
+        },
+        'deleteHostname' => {
+            'func' => 'api2_deleteHostname',
+            'engine' => 'hasharray',
+        },
+        'changeAuthToken' => {
+            'func' => 'api2_changeAuthToken',
+            'engine' => 'hasharray',
         }
-        
         
     );
     return \%{ $API2{ $_[0] } };

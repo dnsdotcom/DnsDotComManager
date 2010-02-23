@@ -1,0 +1,36 @@
+<cpanel setvar="headerimg=../images/toppassword.gif">
+<cpanel setvar="dprefix=../">
+<cpanel Branding="include(stdheader.html)">
+
+<cpanelfeature dns_com>
+
+<script type="text/javascript" language="javascript">
+
+
+</script>
+
+<div class="body-content">
+
+
+<?cp DnsDotComManager::getRRSetForHostname(
+    Country: % [br]
+    City: % [br]
+    Region: % [br]
+    Answer: % [br]
+    Priority: % [br]
+    Type: % [br]
+    Date Created: % [br]
+    Date Last Modified: % [br]
+    
+    ,country, city, region, answer, priority, type, date_created, date_last_modified), domain_name=$FORM{'domain'}, group_name=$FORM{'group'}, host_name=$FORM{'host'}  ?>
+<br>
+[<a href="index.html">Back To Manager</a>]
+
+
+
+
+</div><!-- end body-content div -->
+
+</cpanelfeature><!-- end cpanelfeature dns_com -->
+
+<cpanel Branding="include(stdfooter.html)">

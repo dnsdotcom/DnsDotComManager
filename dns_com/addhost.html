@@ -1,0 +1,33 @@
+<cpanel setvar="headerimg=../images/toppassword.gif">
+<cpanel setvar="dprefix=../">
+<cpanel Branding="include(stdheader.html)">
+
+<cpanelfeature dns_com>
+
+<script type="text/javascript" language="javascript">
+
+
+</script>
+
+<div class="body-content">
+
+
+<?cp DnsDotComManager::createHostname(%, message), domain=$FORM{'domain'}, group=$FORM{'group'}, host=$FORM{'host'}  ?>
+<br>
+<?cp DnsDotComManager::createRRData(%, message),    domain=$FORM{'domain'},
+                                                    group=$FORM{'group'},
+                                                    host=$FORM{'host'},
+                                                    rdata=$FORM{'rdata'},
+                                                    type=$FORM{'type'}
+                                                ?>
+<br>
+[<a href="index.html">Back To Manager</a>]
+
+
+
+
+</div><!-- end body-content div -->
+
+</cpanelfeature><!-- end cpanelfeature dns_com -->
+
+<cpanel Branding="include(stdfooter.html)">
