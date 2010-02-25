@@ -1,0 +1,41 @@
+#lightbox {
+	position: absolute;
+	left:50%;
+	z-index:9999;
+	width:630px;
+	margin-left:-315px;
+	background: url(/images/lightbox.png) no-repeat 0 0;
+	padding: 20px 13px 10px 20px;
+	top:20%;
+	}
+#lightbox h2 {
+	color:#fff;
+	font-size:1em;
+	font-weight:normal;
+}	
+#lightbox h3 {
+	font-size:1em;
+	margin-bottom:8px;
+}
+#lightbox[id] {
+/*	position:fixed; */
+	}
+#overlay {
+	display:none;
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	z-index:5000;
+	overflow:scroll;
+	}
+#overlay[id] {
+	position:fixed;
+	}
+#lbLoadMessage {
+	display:none;
+	}
+#lbContent {
+	display:block;
+	}

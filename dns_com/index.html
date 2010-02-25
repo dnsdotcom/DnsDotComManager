@@ -1,13 +1,25 @@
-<cpanel setvar="headerimg=../images/toppassword.gif">
+<cpanel setvar="headerimg=images/toppassword.gif">
 <cpanel setvar="dprefix=../">
 <cpanel Branding="include(stdheader.html)">
-
+<cpanel Branding="incliude(dns_com/css/base.css)">
 <cpanelfeature dns_com>
 
-<LINK href="css/base.css" type="text/css" rel="stylesheet">
+
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/base-mod.css">
+	
 <LINK href="css/lightbox.css" type="text/css" rel="stylesheet">
 <SCRIPT src="js/lightbox.js" type="text/javascript"></SCRIPT>
 <LINK rel="shortcut icon" href="images/favicon.ico">
+
+
+
+<!-- comwired CSS -->
+<style tyle="text/css">
+
+
+</style>
+<!-- end comwired CSS -->
     
 <script type="text/javascript" language="javascript">
 
@@ -15,16 +27,418 @@
 </script>
 
 <div class="body-content">
+<a href="changetoken.html">Change Auth Token</a><br>
+
+
+<!-- comwired header -->
+
+<DIV id="menuRow">
+    <DIV class="menuLeft"></DIV>
+    <DIV id="menu">
+	<UL>
+	    <!--<LI style="margin-left:4px"><A href="http://sandbox.comwired.com/overview/">Overview</A></LI>-->
+	    <LI class="on"><A href="index.html">Domains</A></LI>
+	    <LI><A href="groups.html">Groups</A></LI>
+	    <LI><A href="geogroups.html">Geo Groups</A></LI>
+	</UL>
+	
+    </DIV><!-- end of #menu -->
+    <DIV class="menuRight"></DIV>
+    <div class="menuRight"></div> 
+			<span style="float:right;margin-top:9px;margin-right:-5px"> 
+				<div style="float:right">
+
+<!-- drop downs -->
+
+
+<span style="float:right;margin-top:9px;margin-right:-5px"> 
+	<div style="float:right"> 
+					
+		<script type="text/javascript" language="javascript"> 
+			//<![CDATA[
+			var Kgroup = null;
+			var Cgroup = null;
+			function mdgroup(o) {Cgroup.unbind('blur', ubgroup);document.location.href=o;}
+			function ubgroup(e) {Kgroup.removeClass("open");Cgroup.hide();}
+			function Tgroup(domObj) {
+				Kgroup = $(domObj);
+				Cgroup = $('#slist_group_cntnr');
+				$('#slist_group_srch_bx').one('blur', ubgroup);
+				Kgroup.addClass("open");
+				Cgroup.show();
+				$('#slist_group_srch_bx').focus();
+			}
+			function updategroupList(domObj) {
+				$.getJSON('/corporate/r/group/?starts_with='+domObj.value, function(lst, status) {
+					if (status != 'success') return Lightbox.alert('Something went wrong: '+status);
+					if (! lst) return Lightbox.alert('Invalid JSON Response');
+					
+					dest = $('#slist_group_id');
+					dest.empty();
+					
+					for (i in lst) {
+						var itm = lst[i];
+						if (typeof(itm) != 'object') continue;
+						
+						dest.append($("<li><a href=\""+itm.url+"\" onMouseDown=\"javascript:mdgroup(this);\">"+itm.txt+"</a></li>"));
+					}
+				});
+			}
+			//]]>
+		</script> 
+ 
+		<span> 
+			<ul class="smart_list select" onClick="javascript:Tgroup(this);"> 
+				<li><a href="#">Select group</a></li> 
+			</ul> 
+			<div style="clear:both"></div> 
+			<div id="slist_group_cntnr" class="nop smart_list"> 
+				<div class="smart_inset">
+					<!--
+					<input type="text" id="slist_group_srch_bx" size="28" class="smart_list" onKeyUp="javascript:updategroupList(this);" /> 
+					<p><small>Type keyword above to filter results</small></p> 
+					-->
+					<ul id="slist_group_id" class="blank">
+						<?cp DnsDotComManager::getDomainGroups([li][a href="index.html?group=%"]%[/a][/li], name, name) ?>						
+					</ul> 
+				</div> 
+			</div> 
+		</span> 
+ 
+	</div> 
+	<div style="float:right"> 
+					
+		<script type="text/javascript" language="javascript"> 
+			//<![CDATA[
+			var Kdomain = null;
+			var Cdomain = null;
+			function mddomain(o) {Cdomain.unbind('blur', ubdomain);document.location.href=o;}
+			function ubdomain(e) {Kdomain.removeClass("open");Cdomain.hide();}
+			function Tdomain(domObj) {
+				Kdomain = $(domObj);
+				Cdomain = $('#slist_domain_cntnr');
+				$('#slist_domain_srch_bx').one('blur', ubdomain);
+				Kdomain.addClass("open");
+				Cdomain.show();
+				$('#slist_domain_srch_bx').focus();
+			}
+			function updatedomainList(domObj) {
+				$.getJSON('/corporate/r/domain/?starts_with='+domObj.value, function(lst, status) {
+					if (status != 'success') return Lightbox.alert('Something went wrong: '+status);
+					if (! lst) return Lightbox.alert('Invalid JSON Response');
+		
+					dest = $('#slist_domain_id');
+					dest.empty();
+		
+					for (i in lst) {
+						var itm = lst[i];
+						if (typeof(itm) != 'object') continue;
+			
+						dest.append($("<li><a href=\""+itm.url+"\" onMouseDown=\"javascript:mddomain(this);\">"+itm.txt+"</a></li>"));
+					}
+				});
+			}
+			//]]>
+		</script> 
+ 
+		<span> 
+			<ul class="smart_list select" onClick="javascript:Tdomain(this);"> 
+				<li><a href="#">Select domain</a></li> 
+			</ul> 
+			<div style="clear:both"></div> 
+			<div id="slist_domain_cntnr" class="nop smart_list"> 
+				<div class="smart_inset"> 
+					<!--
+					<input type="text" id="slist_domain_srch_bx" size="28" class="smart_list" onKeyUp="javascript:updatedomainList(this);" /> 
+					<p><small>Type keyword above to filter results</small></p> 
+					-->
+					<ul id="slist_domain_id" class="blank">
+						
+						<!--[li][p class="ellipsis slist'][a href="/corporate/914/details/" onMouseDown="javascript:mddomain(this);">%[/a][/p][/li] -->
+						
+						 
+						
+						<?cp DnsDotComManager::getDomains([li][a href=""]%[/a][/li], name) ?>
+						
+						<!--<li><p class="ellipsis slist"><a href="/corporate/42/groupDetails/" onMouseDown="javascript:mddomain(this);">wooohooo.com.</a></p></li> -->
+						
+					</ul> 
+				</div> 
+			</div> 
+		</span> 
+ 
+	</div> 
+</span> </div>
+
+
+<!-- end drop downs -->
+	
+	
+    <DIV class="clear" style="clear:both"></DIV>	
+</DIV>
+
+<DIV class="clear" style="clear:both"></DIV>	
+<DIV class="crumbLeft"></DIV>
+<DIV class="crumb">
+    <DIV class="left" style="margin-top:5px">
+	<UL id="crumbs">
+	    <LI><A href="http://sandbox.comwired.com/overview/">Home</A></LI>
+        <LI>Domains</LI>
+	</UL>
+    </DIV>
+    <DIV style="float:right;padding-top:6px">
+		<SPAN class="toplinks"><A href="http://sandbox.comwired.com/corporate/create/">Add domain</A></SPAN>
+		<SPAN style="float:right"><A href="http://sandbox.comwired.com/corporate/create/"><IMG src="images/add_16.png" border="0" width="16" height="16" style="margin:-5px 2px 0 0"></A></SPAN>
+    </DIV>
+</DIV>	
+<DIV class="crumbRight"></DIV>		
+<DIV class="clear" style="clear:both"></DIV>
+
+	
+
+<!-- end comwired header -->
+
+
+<!-- comwired content -->
+
+<DIV id="contentContainer">
+		
+
+<DIV class="pageGraybg">
+	<DIV class="pageLeft">
+		<H1>Domains</H1>
+		<DIV class="clear" style="clear:both;"></DIV>
+		<DIV class="domainCountTop"></DIV>
+		<DIV class="domainCount"><H2>3 domains</H2></DIV>
+		<DIV class="domainCountBottom"></DIV>
+		<DIV class="clear" style="clear:both;"></DIV>		
+		<UL class="pageSubLinks">
+			<LI class="domainSubLink"><A href="http://sandbox.comwired.com/corporate/create/">Add domain</A></LI>
+			<LI class="groupSubLink"><A href="http://sandbox.comwired.com/corporate/createGroup/">Create group</A></LI>
+			<LI class="countrySubLink"><A href="http://sandbox.comwired.com/locations/countryGroup/create/">Create country group</A></LI>
+		</UL>
+		<!--
+		<DIV class="pageOptionTop">
+			<P>Filtering options</P>
+		</DIV>
+			<DIV class="pageOption">
+			<P>Show domains that begin with:</P><BR>
+			<UL class="vlist">
+				
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=A">A</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=B">B</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=C">C</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=D">D</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=E">E</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=F">F</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=G">G</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=H">H</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=I">I</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=J">J</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=K">K</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=L">L</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=M">M</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=N">N</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=O">O</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=P">P</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=Q">Q</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=R">R</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=S">S</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=T">T</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=U">U</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=V">V</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=W">W</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=X">X</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=Y">Y</A></LI>
+			
+				<LI><A href="http://sandbox.comwired.com/corporate/list/?starts_with=Z">Z</A></LI>
+			
+			</UL>
+		</DIV>
+		-->
+		
+	</DIV>
+	
+	
+	
+
+	<DIV class="pageTable">
+		<DIV class="clear" style="clear:both;height:30px;"></DIV>
+		<!--
+		<DIV class="pageCount">
+			<UL>
+				<LI class="count">20</LI>
+				<LI class="count"><A href="http://sandbox.comwired.com/corporate/list/?&perpage=50">50</A></LI>
+				<LI class="maxCount"><A href="http://sandbox.comwired.com/corporate/list/?&perpage=100">100</A></LI>
+			</UL>
+			<SPAN style="float:right;"><P>Show per page:&nbsp;</P></SPAN>	
+		</DIV>
+		-->
+		
+		
+		<DIV class="clear" style="clear:both;"></DIV>
+		<DIV class="mainboxheader" style="padding-top:5px;width:747px;min-height:340px">
+		
+			
+			<DIV class="sectionMiddle">	
+			<FORM method="post" action="http://sandbox.comwired.com/corporate/bulkAction/" onsubmit="javascript:return confirmForm(this);">
+				<TABLE width="100%" class="listing" style="margin-top:9px;">
+				<THEAD>
+				<TR>
+					<TH><!--INPUT type="checkbox" name="select_all" value="0" onchange="$(&#39;#domain_list :checkbox&#39;).attr(&#39;checked&#39;, $(this).is(&#39;:checked&#39;));">--></TH>
+					<TH><A href="http://sandbox.comwired.com/corporate/list/?&order_by=name">Domain name</A></TH>
+					<cpanelif !$FORM{'group'}>
+						<cpanelif !$FORM{'domain'}>
+							<TH nowrap=""><A href="http://sandbox.comwired.com/corporate/list/?&order_by=mode">Group</A></TH>
+						</cpanelif>
+					</cpanelif>
+					<TH style="padding-left:5px"><A href="http://sandbox.comwired.com/corporate/list/?&order_by=date_created">Date created</A></TH>
+					<TH nowrap="" style="padding-left:5px"><A href="http://sandbox.comwired.com/corporate/list/?&order_by=date_last_modified">Last modified</A></TH>
+				</TR>
+				</THEAD>
+
+				<TBODY id="domain_list">
+				<!--
+				<TR class="even">
+					<TD style="padding-left:10px;"><INPUT type="checkbox" name="domains" value="914"></TD>
+					<TD><P class="ellipsis domainName"><A href="http://sandbox.comwired.com/corporate/914/details/">duckpeen.com.</A></P></TD>
+					<TD><P class="ellipsis groupName">
+						
+							Manual
+						
+						</P>
+					</TD>
+					<TD style="padding-left:5px">2010-02-18 01:40:20</TD>
+					<TD style="padding-left:5px">2010-02-20 00:39:35</TD>
+				</TR>
+				-->
+				
+			<cpanelif $FORM{'group'}>
+				<?cp DnsDotComManager::getDomainsInGroup(
+					[tr]
+						[td]
+						    [a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a]
+						[/td][td]
+						    %
+						[/td][td]
+						    %
+						[/td][td]
+						    %
+						[/td]
+					[/tr],
+					name, name, date_created, date_last_modified), group_name=$FORM{'group'}  ?>
+			</cpanelif>
+				
+				
+			<cpanelif !$FORM{'group'}>
+				<cpanelif !$FORM{'domain'}>
+					<?cp DnsDotComManager::getDomains(
+						[tr]
+							[td]
+							    [a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a]
+							[/td][td]
+							    [a href="index.html?domain=%&group=%"]%[/a]
+							[/td][td]
+							    [a href="index.html?group=%"]%[/a]
+							[/td][td  style="font-size:7pt;"]
+							    %
+							[/td][td  style="font-size:7pt;"]
+							    %
+							[/td]
+						[/tr],
+						name, name, group, name, group, group, date_created, date_last_modified) ?>
+				</cpanelif>
+			</cpanelif>
+				
+				
+				
+				 
+				</TBODY>
+				</TABLE>
+				<DIV style="margin-top:5px">
+					
+					<SPAN class="left" style="margin:5px 5px 0 0"><P><!--<STRONG>Actions:</STRONG>--></P></SPAN>
+					<SPAN class="left">
+						<!--
+						<SELECT name="action" class="actionOption">
+							<OPTION value="remove">Remove</OPTION>
+							
+							<OPTION value="advanced">Advanced Configure</OPTION>
+							
+							<OPTION disabled="disabled" style="background:#eee">Move to Group:</OPTION>
+							
+							<OPTION value="44" style="padding-left:20px;">Yankee States</OPTION>
+							
+							<OPTION value="42" style="padding-left:20px;">Confederate States</OPTION>
+							
+							<OPTION value="43" style="padding-left:20px;">test</OPTION>
+							
+						</SELECT>
+						<INPUT type="submit" value="Perform Bulk Action">
+						-->
+					</SPAN>
+				
+				</DIV>
+				
+			</FORM>
+			<DIV style="clear:both"></DIV>
+			
+			
+			<!--
+			<DIV align="center" style="padding-top:10px;background:#fff;">
+			
+
+Page
+
+	<SPAN class="pagenumber"><A href="http://sandbox.comwired.com/corporate/list/?page=1" class="current">1</A></SPAN>
 
 
 
+			</DIV>
+			
+			-->
+			</DIV>
+			
+			
+		</DIV>
+		<DIV style="margin-left:-7px;background:url(/images/pageWhiteBottom.png) no-repeat;height:3px;width:761px;float:left"></DIV>
+		<DIV style="clear:both;"></DIV>
+	</DIV>
 
 
+	<DIV class="pageRight">
+	</DIV>
+	<DIV class="clear" style="clear:both;"></DIV>
+	
+	<DIV class="pageGrayBottom"></DIV>	
+	
+</DIV>
 
-
-
-
-<a href="changetoken.html">Change Auth Token</a>
+<!-- end comwired content -->
 <table cellpadding=10 border=0 width="100%">
 
     <tr>
