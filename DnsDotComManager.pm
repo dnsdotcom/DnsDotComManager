@@ -125,9 +125,7 @@ sub api2_changeAuthToken{
     return $meta->{message} = "Authorization Token Updated";
 }
 
-##############################
-# Retrieval Functions
-#############################################
+
 sub api2_countDomains{
     $cmd = 'getDomains';
     my %OPTS = @_;
@@ -369,9 +367,6 @@ sub api2_getCountriesInCountryGroup {
     }
 }
 
-##########################
-# Creation Functions
-##########
 
 sub api2_createDomainGroup {
     ######
@@ -410,14 +405,16 @@ sub api2_createDomain {
     #####
     
     $cmd = 'createDomain';
+    
+    my @domain_array = ();
     my %OPTS = @_;
     my $domain_mode = $OPTS{'domain_mode'};
-    die "ERROR: Please enter a domain mode!" unless defined $domain_mode;
     my $domain_name = $OPTS{'domain_name'};
-    die "ERROR: Please enter a domain name!" unless defined $domain_name;
     
     my $domain_group  = $OPTS{'domain_group'};
     my $domain_td     = $OPTS{'domain_td'};
+    
+    
     
     my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
     my $meta        = ();
@@ -427,12 +424,11 @@ sub api2_createDomain {
         $meta->{success}               = $domain_data->{meta}->{success};
         $meta->{trafficDestination_id} = $domain_data->{meta}->{trafficDestination_id};
         
-            
-        print "<b>CREATED DOMAIN:</b> $domain_name </br>";        
-        return $meta;
+        push(@domain_array, {'message'   => "<b>CREATED DOMAIN:</b> $domain_name </br>"});        
     }else{
-        print $domain_data->{meta}->{error};
+        push(@domain_array, {'message'   => $domain_data->{meta}->{error}}); 
     }
+    return @domain_array;
 }
 
 sub api2_createHostname {
@@ -622,6 +618,117 @@ sub api2_deleteHostname {
     
 }
 
+
+sub api2_getGeoGroups {
+    # Optional Search Term
+    $cmd = 'getGeoGroups';
+    my %OPTS = @_;
+    my $search_term  = $OPTS{'search_term'}; 
+    
+    my $geogroup_data = dns_query($cmd, 'search_term', $search_term);
+    my $meta        = ();
+    my @geogroup_array = ();
+    if ($geogroup_data->{meta}->{success} == 0){
+        $meta->{error}   = $geogroup_data->{meta}->{error};
+        $meta->{success} = $geogroup_data->{meta}->{success};
+        return $meta;
+    }else{
+
+        foreach my $geogroup(@{$geogroup_data->{data}}){
+            push(@geogroup_array, {'name'   => $geogroup->{name},
+                                'editable'  => $geogroup->{editable},
+                                'id'        => $geogroup->{id},
+                                 });    
+        }
+    }
+    return @geogroup_array;
+}
+
+sub api2_createGeoGroup {    
+    $cmd = 'createGeoGroup';
+    my @geogroup_array = ();
+    my $meta        = ();
+    
+    my %OPTS = @_;
+    my $geogroup_name = $OPTS{'geogroup_name'};
+
+    my $geogroup_data  = dns_query($cmd, 'name', $geogroup_name);
+    
+    if ($geogroup_data->{meta}->{success} == 1){
+        $meta->{id}                    = $geogroup_data->{meta}->{id};
+        $meta->{success}               = $geogroup_data->{meta}->{success};
+        
+        push(@geogroup_array, {'message'   => "<b>CREATED DOMAIN:</b> $domain_name </br>"});    
+    }else{
+        push(@geogroup_array, {'message'   => $geogroup_data->{meta}->{error}}); 
+    }
+    return @geogroup_array;
+}
+
+sub api2_getGeoGroupDetails {
+# Optional Search Term
+    $cmd = 'getGeoGroupDetails';
+    my %OPTS = @_;
+    my $geogroup_name = $OPTS{'geogroup_name'}; 
+    
+    my $geogroup_data = dns_query($cmd, 'name', $geogroup_name);
+    my $meta        = ();
+    my @geogroup_array = ();
+    if ($geogroup_data->{meta}->{success} == 0){
+        $meta->{error}   = $geogroup_data->{meta}->{error};
+        $meta->{success} = $geogroup_data->{meta}->{success};
+        return $meta;
+    }else{
+
+        foreach my $geogroup(@{$geogroup_data->{data}}){
+            push(@geogroup_array, {'name'       => $geogroup->{name},
+                                'editable'      => $geogroup->{editable},
+                                'date_created'  => $geogroup->{date_created},
+                                'id'            => $geogroup->{id},
+                                 });    
+        }
+    }
+    return @geogroup_array;
+}
+sub api2_appendToGeoGroup {
+    $cmd = 'appendToGeoGroup';
+    
+    my @geogroup_array = ();
+    my %OPTS = @_;
+    my $name        = $OPTS{'geogroup_name'};
+    my $iso2_code   = $OPTS{'iso2_code'};
+    my $region      = $OPTS{'region'};
+    my $city        = $OPTS{'city'};
+    
+    my $geogroup_data  = dns_query($cmd, 'name', $name, 'iso2_code', $iso2_code, 'region', $region, 'city', $city);
+    my $meta        = ();
+    
+    push(@geogroup_array, {'message'  => $geogroup_data->{meta}->{message},
+                             'id'       => $geogroup_data->{meta}->{id}});        
+    return @dgeogroup_array;
+}
+
+sub api2_removeGeoGroup {
+    $cmd = 'removeGeoGroup';
+    
+    my %OPTS = @_;
+    my $name = $OPTS{'geogroup_name'};
+    my @geogroup_array = ();
+    my $meta        = ();
+    my $geogroup_data  = dns_query($cmd, 'name', $name, 'confirm', 1);
+    
+    
+    if ($geogroup_data->{meta}->{success} == 1){
+        $meta->{id}                    = $geogroup_data->{meta}->{id};
+        $meta->{success}               = $geogroup_data->{meta}->{success};
+        
+            
+        push(@geogroup_array, {'message'   => "<b>CREATED GEO GROUP:</b> $name </br>"});    
+    }else{
+        push(@geogroup_array, {'message'   => $geogroup_data->{meta}->{error}}); 
+    }
+    return @geogroup_array;
+}
 ###
 #Api2 call names
 ##
@@ -694,7 +801,27 @@ sub api2 {
         'changeAuthToken' => {
             'func' => 'api2_changeAuthToken',
             'engine' => 'hasharray',
-        }
+        },
+        'getGeoGroups' => {
+            'func' => 'api2_getGeoGroups',
+            'engine' => 'hasharray',
+        },
+        'createGeoGroup' => {
+            'func' => 'api2_createGeoGroup',
+            'engine' => 'hasharray',
+        },
+        'getGeoGroupDetails' => {
+            'func' => 'api2_getGeoGroupDetails',
+            'engine' => 'hasharray',
+        },
+        'appendToGeoGroup' => {
+            'func' => 'api2_appendToGeoGroup',
+            'engine' => 'hasharray',
+        },
+        'removeGeoGroup' => {
+            'func' => 'api2_removeGeoGroup',
+            'engine' => 'hasharray',
+        },
         
     );
     return \%{ $API2{ $_[0] } };
