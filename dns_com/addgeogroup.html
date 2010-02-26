@@ -212,19 +212,19 @@
 
 <div id="right-content"> 
 	
-<h4>Add Domain</h4>
+<h4>Add Geo Group</h4>
 <hr>
 
 <!-- CONTENT GOES HERE -->
 
-<cpanelif !$FORM{'domain'}>
+<cpanelif !$FORM{'geogroup'}>
     <form action="addgeogroup.html">
         <input name='geogroup' type="text" size="25">
         <br>
         <input type="submit" name="button" value="Add Geo Group">
     </form>
 </cpanelif>
-<cpanelif $FORM{'domain'}>
+<cpanelif $FORM{'geogroup'}>
     <?cp DnsDotComManager::createGeoGroup(%, message), geogroup_name=$FORM{'geogroup'}?>
     <br>
     [<a href="geogroups.html">Back To Geo Groups</a>]

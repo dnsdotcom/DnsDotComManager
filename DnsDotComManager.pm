@@ -723,7 +723,7 @@ sub api2_removeGeoGroup {
         $meta->{success}               = $geogroup_data->{meta}->{success};
         
             
-        push(@geogroup_array, {'message'   => "<b>CREATED GEO GROUP:</b> $name </br>"});    
+        push(@geogroup_array, {'message'   => uri_escape("<b>CREATED GEO GROUP:</b> $name </br>")});    
     }else{
         push(@geogroup_array, {'message'   => $geogroup_data->{meta}->{error}}); 
     }
