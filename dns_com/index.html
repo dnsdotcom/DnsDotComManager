@@ -94,10 +94,10 @@
 			<div style="clear:both"></div> 
 			<div id="slist_group_cntnr" class="nop smart_list"> 
 				<div class="smart_inset">
-					<!--
+					
 					<input type="text" id="slist_group_srch_bx" size="28" class="smart_list" onKeyUp="javascript:updategroupList(this);" /> 
 					<p><small>Type keyword above to filter results</small></p> 
-					-->
+					
 					<ul id="slist_group_id" class="blank">
 						<?cp DnsDotComManager::getDomainGroups([li][a href="index.html?group=%"]%[/a][/li], name, name) ?>						
 					</ul> 
@@ -148,10 +148,10 @@
 			<div style="clear:both"></div> 
 			<div id="slist_domain_cntnr" class="nop smart_list"> 
 				<div class="smart_inset"> 
-					<!--
+					
 					<input type="text" id="slist_domain_srch_bx" size="28" class="smart_list" onKeyUp="javascript:updatedomainList(this);" /> 
 					<p><small>Type keyword above to filter results</small></p> 
-					-->
+					
 					<ul id="slist_domain_id" class="blank">
 						
 						<!--[li][p class="ellipsis slist'][a href="/corporate/914/details/" onMouseDown="javascript:mddomain(this);">%[/a][/p][/li] -->
@@ -182,13 +182,13 @@
 <DIV class="crumb">
     <DIV class="left" style="margin-top:5px">
 	<UL id="crumbs">
-	    <LI><A href="http://sandbox.comwired.com/overview/">Home</A></LI>
-        <LI>Domains</LI>
+	    <LI><A href="index.html">Home</A></LI>
+        <LI><A href="index.html">Domains</a></LI>
 	</UL>
     </DIV>
     <DIV style="float:right;padding-top:6px">
-		<SPAN class="toplinks"><A href="http://sandbox.comwired.com/corporate/create/">Add domain</A></SPAN>
-		<SPAN style="float:right"><A href="http://sandbox.comwired.com/corporate/create/"><IMG src="images/add_16.png" border="0" width="16" height="16" style="margin:-5px 2px 0 0"></A></SPAN>
+		<SPAN class="toplinks"><A href="adddomain.html">Add domain</A></SPAN>
+		<SPAN style="float:right"><A href="adddomain.html"><IMG src="images/add_16.png" border="0" width="16" height="16" style="margin:-5px 2px 0 0"></A></SPAN>
     </DIV>
 </DIV>	
 <DIV class="crumbRight"></DIV>		
@@ -209,13 +209,13 @@
 		<H1>Domains</H1>
 		<DIV class="clear" style="clear:both;"></DIV>
 		<DIV class="domainCountTop"></DIV>
-		<DIV class="domainCount"><H2>3 domains</H2></DIV>
+		<DIV class="domainCount"><H2><?cp DnsDotComManager::countDomains(%, count) ?> domains</H2></DIV>
 		<DIV class="domainCountBottom"></DIV>
 		<DIV class="clear" style="clear:both;"></DIV>		
 		<UL class="pageSubLinks">
-			<LI class="domainSubLink"><A href="http://sandbox.comwired.com/corporate/create/">Add domain</A></LI>
-			<LI class="groupSubLink"><A href="http://sandbox.comwired.com/corporate/createGroup/">Create group</A></LI>
-			<LI class="countrySubLink"><A href="http://sandbox.comwired.com/locations/countryGroup/create/">Create country group</A></LI>
+			<LI class="domainSubLink"><A href="adddomain.html">Add domain</A></LI>
+			<LI class="groupSubLink"><A href="addgroup.html">Create group</A></LI>
+			<LI class="countrySubLink"><A href="addgeogroup.html">Create geo group</A></LI>
 		</UL>
 		<!--
 		<DIV class="pageOptionTop">
@@ -305,65 +305,32 @@
 		
 			
 			<DIV class="sectionMiddle">	
-			<FORM method="post" action="http://sandbox.comwired.com/corporate/bulkAction/" onsubmit="javascript:return confirmForm(this);">
+			<FORM method="post" action="" onsubmit="javascript:return confirmForm(this);">
 				<TABLE width="100%" class="listing" style="margin-top:9px;">
 				<THEAD>
 				<TR>
 					<TH><!--INPUT type="checkbox" name="select_all" value="0" onchange="$(&#39;#domain_list :checkbox&#39;).attr(&#39;checked&#39;, $(this).is(&#39;:checked&#39;));">--></TH>
-					<TH><A href="http://sandbox.comwired.com/corporate/list/?&order_by=name">Domain name</A></TH>
+					<TH><A >Domain name</A></TH>
 					<cpanelif !$FORM{'group'}>
 						<cpanelif !$FORM{'domain'}>
-							<TH nowrap=""><A href="http://sandbox.comwired.com/corporate/list/?&order_by=mode">Group</A></TH>
+							<TH nowrap=""><A >Group</A></TH>
 						</cpanelif>
 					</cpanelif>
-					<TH style="padding-left:5px"><A href="http://sandbox.comwired.com/corporate/list/?&order_by=date_created">Date created</A></TH>
-					<TH nowrap="" style="padding-left:5px"><A href="http://sandbox.comwired.com/corporate/list/?&order_by=date_last_modified">Last modified</A></TH>
+					<TH style="padding-left:5px"><A>Date created</A></TH>
+					<TH nowrap="" style="padding-left:5px"><A>Last modified</A></TH>
 				</TR>
 				</THEAD>
 
 				<TBODY id="domain_list">
-				<!--
-				<TR class="even">
-					<TD style="padding-left:10px;"><INPUT type="checkbox" name="domains" value="914"></TD>
-					<TD><P class="ellipsis domainName"><A href="http://sandbox.comwired.com/corporate/914/details/">duckpeen.com.</A></P></TD>
-					<TD><P class="ellipsis groupName">
-						
-							Manual
-						
-						</P>
-					</TD>
-					<TD style="padding-left:5px">2010-02-18 01:40:20</TD>
-					<TD style="padding-left:5px">2010-02-20 00:39:35</TD>
-				</TR>
-				-->
-				
-			<cpanelif $FORM{'group'}>
-				<?cp DnsDotComManager::getDomainsInGroup(
-					[tr]
-						[td]
-						    [a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a]
-						[/td][td]
-						    %
-						[/td][td]
-						    %
-						[/td][td]
-						    %
-						[/td]
-					[/tr],
-					name, name, date_created, date_last_modified), group_name=$FORM{'group'}  ?>
-			</cpanelif>
-				
-				
-			<cpanelif !$FORM{'group'}>
-				<cpanelif !$FORM{'domain'}>
+
 					<?cp DnsDotComManager::getDomains(
 						[tr]
 							[td]
-							    [a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a]
+							    [a href="deletedomain.html?domain=%"][img src="images/trash.png" border=0 alt="delete"][/a]
 							[/td][td]
-							    [a href="index.html?domain=%&group=%"]%[/a]
+							    [a href="hosts.html?domain=%&group=%"]%[/a]
 							[/td][td]
-							    [a href="index.html?group=%"]%[/a]
+							    [a href="hosts.html?group=%"]%[/a]
 							[/td][td  style="font-size:7pt;"]
 							    %
 							[/td][td  style="font-size:7pt;"]
@@ -371,12 +338,7 @@
 							[/td]
 						[/tr],
 						name, name, group, name, group, group, date_created, date_last_modified) ?>
-				</cpanelif>
-			</cpanelif>
-				
-				
-				
-				 
+
 				</TBODY>
 				</TABLE>
 				<DIV style="margin-top:5px">
@@ -391,12 +353,8 @@
 							
 							<OPTION disabled="disabled" style="background:#eee">Move to Group:</OPTION>
 							
-							<OPTION value="44" style="padding-left:20px;">Yankee States</OPTION>
-							
-							<OPTION value="42" style="padding-left:20px;">Confederate States</OPTION>
-							
-							<OPTION value="43" style="padding-left:20px;">test</OPTION>
-							
+							<OPTION value="44" style="padding-left:20px;">*Group Name*</OPTION>
+														
 						</SELECT>
 						<INPUT type="submit" value="Perform Bulk Action">
 						-->
@@ -425,7 +383,7 @@ Page
 			
 			
 		</DIV>
-		<DIV style="margin-left:-7px;background:url(/images/pageWhiteBottom.png) no-repeat;height:3px;width:761px;float:left"></DIV>
+		<DIV style="margin-left:-7px;background:url(images/pageWhiteBottom.png) no-repeat;height:3px;width:450px;float:left"></DIV>
 		<DIV style="clear:both;"></DIV>
 	</DIV>
 
@@ -439,189 +397,52 @@ Page
 </DIV>
 
 <!-- end comwired content -->
-<table cellpadding=10 border=0 width="100%">
-
-    <tr>
-        <td valign=top width="200">
-
-<!-- FILTER BY GROUP -->
-<fieldset>
-    <legend>Filter By Group:</legend>
-    -<a href="index.html">All Domains</a><br><br>
-    <?cp DnsDotComManager::getDomainGroups(-[a href="index.html?group=%"]%[/a]  [br], name, name) ?>
-    <br>
-
-<form action="addgroup.html">
-<input name="group_name" type="text" size="25" value="">
-<br>
-<input type="submit" name="button" value="Add Group">
-</form>
-</fieldset>
-    
-<!-- END FILTER BY GROUP -->
-
-<!-- COUNTRY GROUPS -->
-<fieldset>
-    <legend>Country Groups:</legend>
-<?cp DnsDotComManager::getCountryGroups(%  [br][br], name) ?>
-</fieldset>
-<!-- END COUNTRY GROUPS -->
-
-        </td>
-        <td valign=top>
-
-<!-- GROUP DOMAINS -->
-<fieldset>
-<cpanelif $FORM{'group'}>
-    <legend>Domains in "<cpanel langprint=$FORM{'group'}>" group:</legend>
-     <table>
-        <tr><td></td><td>Domain</td><td>Date Created</td><td>Date Last Modified</td></tr>
-    <?cp DnsDotComManager::getDomainsInGroup(
-            [tr]
-                [td]
-                    [a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a]
-                [/td][td]
-                    %
-                [/td][td]
-                    %
-                [/td][td]
-                    %
-                [/td]
-            [/tr],
-            name, name, date_created, date_last_modified), group_name=$FORM{'group'}  ?>
-     </table>
-    
-    
-
-<form action="adddomain.html" name="addDomainForm" id="addDomainForm">
-<input name="domain" type="text" size="25">
-<input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'group'}>">
-<input name="mode" type="HIDDEN" value="group">
-<br>
-<input type="submit" name="button" value="Add Domain"> [<a href="deletedomaingroup.html?group=<cpanel langprint=$FORM{'group'}>">Delete Group</a>]
-</form>
-</fieldset>
-
-<fieldset>
-    <legend>Hosts for "<cpanel langprint=$FORM{'group'}>" group:</legend>
-    <?cp DnsDotComManager::getHostnamesForGroup([a href="deletehost.html?group=$FORM{'group'}&host=%"][img src="delete.jpg" border=0 alt="delete"][/a] [a href="editRR.html?host=%&group=$FORM{'group'}"]"%"[/a] [br], name, name, name), group_name=$FORM{'group'} ?>
-    
-    <hr>
-    <form action="addhost.html" name="addGroupHost" id="addGroupHost">
-    <table>
-        <tr>
-            <td>Host name:</td>
-            <td><input name="host" type="text" size="25"></td>
-        </tr>
-        <tr>
-            <td>Type:</td>
-            <td>
-                <select name="type">        
-                    <option value="A">A (IPv4 Address)</option> 
-                    <option value="CNAME">CNAME (Alias)</option> 
-                    <option value="TXT">TXT (Text)</option> 
-                    <option value="URL">URL Forward</option> 
-                </select>
-            </td>
-        </tr>
-        <tr>
-            <td>Answer:</td>
-            <td><input name="rdata" type="text" size="25"></td>
-        </tr>
-        <tr>
-            <td><input type="submit" name="button" value="Add Host"></td>
-        </tr>
-    </table>
-    <input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'group'}>">
-    </form>
-</fieldset>
-</cpanelif>
-
-<!-- END GROUP DOMAINS -->
-
-<!-- ALL DOMAINS LIST -->
-<cpanelif !$FORM{'group'}>
-    <cpanelif !$FORM{'domain'}>
-        <legend>Domains:</legend>
-        <table>
-            <tr><td></td><td>Domain</td><td>Group</td><td>Date Created</td><td>Date Last Modified</td></tr>
-            <?cp DnsDotComManager::getDomains(
-            [tr]
-                [td]
-                    [a href="deletedomain.html?domain=%"][img src="delete.jpg" border=0 alt="delete"][/a]
-                [/td][td]
-                    [a href="index.html?domain=%&group=%"]%[/a]
-                [/td][td]
-                    [a href="index.html?group=%"]%[/a]
-                [/td][td]
-                    %
-                [/td][td]
-                    %
-                [/td]
-            [/tr],
-            name, name, group, name, group, group, date_created, date_last_modified) ?>
-        </table>
-        <hr>
-                <form action="adddomain.html" name="addDomainForm" id="addDomainForm">
-                <input name='domain' type="text" size="25">
-                <input name="mode" type="HIDDEN" value="advanced">
-                <br>
-                <input type="submit" name="button" value="Add Domain">
-            </form>
-                
-            
-        </fieldset>
-    </cpanelif>
-</cpanelif>
-<!-- END DOMAINS GROUP -->
-
-<!-- DOMAIN HOSTS DISPLAY -->
-<cpanelif $FORM{'domain'}>
-    <cpanelif !$FORM{'group'}>
-        <legend>Hosts for "<cpanel langprint=$FORM{'domain'}>":</legend>
-        <?cp DnsDotComManager::getHostnamesForDomain([a href="deletehost.html?domain=$FORM{'domain'}&host=%"][img src="delete.jpg" border=0 alt="delete"][/a] [a href="editRR.html?host=%&domain=$FORM{'domain'}"]"%"[/a]  [br], name, name, name), domain_name=$FORM{'domain'} ?>
-
-        <hr>
-        <form action="addhost.html" name="addGroupHost" id="addGroupHost">
-        <table>
-            <tr>
-                <td>Host name:</td>
-                <td><input name="host" type="text" size="25"></td>
-            </tr>
-            <tr>
-                <td>Type:</td>
-                <td>
-                    <select name="type">        
-                        <option value="A">A (IPv4 Address)</option> 
-                        <option value="CNAME">CNAME (Alias)</option> 
-                        <option value="TXT">TXT (Text)</option> 
-                        <option value="URL">URL Forward</option> 
-                    </select>
-                </td>
-            </tr>
-            <tr>
-                <td>Answer:</td>
-                <td><input name="rdata" type="text" size="25"></td>
-            </tr>
-            <tr>
-                <td><input type="submit" name="button" value="Add Host"></td>
-            </tr>
-        </table>
-        <input name="domain" type="HIDDEN" value="<cpanel langprint=$FORM{'domain'}>">
-        </form>
-        </fieldset>
-    
-    
-    </cpanelif>
-</cpanelif>
-<!-- END DOMAIN HOSTS DISPLAY -->
 
 
-        </td>
-    </tr>
-</table>
+<!-- shortcuts -->
 
+<div class="clear" style="clear:both"></div> 
+	
+	<hr class="clear" /> 
 
+<div class="shortcuts"> 
+	<div class="shortcutLeft" style="float:left;width:5px;height:143px;background:url(images/shortcutLeft.jpg) no-repeat;"></div> 
+	<div class="shortcutItem border-right"> 
+		<h5>Actions</h5> 
+		<ul> 
+			<li><a href="adddomain.html">Add domains</a></li> 
+			<li><a href="addgroup.html">Create group</a></li> 
+			<li><a href="addgeogroup.html">Create geo group</a></li> 
+		</ul> 
+	</div> 
+	<div class="shortcutItem border-left border-right"> 
+		<h5>Credits</h5> 
+		<ul> 
+			<li><a href="http://www.dns.com/overview/">Check my usage</a></li> 
+			<li><a href="http://www.dns.com/accounts/invoice/history/">Payment history</a></li> 
+			<li><a href="http://www.dns.com/accounts/purchase/">Purchase credits</a></li> 
+		</ul> 
+	</div> 
+	<div class="shortcutItem border-left border-right"> 
+		<h5>Help</h5> 
+		<ul> 
+			<li><a href="http://www.dns.com/Help/">FAQ and video tutorials</a></li> 
+				
+			<li><a href="http://www.dns.com/corporate/reportOwnershipConflict/">Ownership conflict report</a></li> 
+				
+			<li><a href="http://www.dns.com/ContactUs/">Contact our team</a></li> 
+		</ul> 
+	</div>	
+	<div class="shortcutItem border-left"> 
+			<h5>Nameservers</h5> 
+			<p>Use the following nameservers:<br /> 
+			<strong>ns1.elv8.net</strong><br /> 
+			<strong>ns2.elv8.net</strong></p> 
+	</div> 
+	<div class="shortcutRight" style="float:right;width:5px;height:143px;background:url(images/shortcutRight.jpg) no-repeat;"></div> 
+</div>
+
+<!-- end shortcuts -->
 
 </div><!-- end body-content div -->
 

@@ -128,6 +128,27 @@ sub api2_changeAuthToken{
 ##############################
 # Retrieval Functions
 #############################################
+sub api2_countDomains{
+    $cmd = 'getDomains';
+    my %OPTS = @_;
+    my $search_term  = $OPTS{'search_term'}; 
+    
+    my $domain_data = dns_query($cmd, 'search_term', $search_term);
+    my $meta        = ();
+    my @domain_array = ();
+    if ($domain_data->{meta}->{success} == 0){
+        $meta->{error}   = $domain_data->{meta}->{error};
+        $meta->{success} = $domain_data->{meta}->{success};
+        return $meta;
+    }else{
+        my $count = 0;
+        foreach my $domain(@{$domain_data->{data}}){
+            $count = $count+1;
+        }
+        push(@domain_array, {'count' => $count,});
+    }
+    return @domain_array;
+}
 
 sub api2_getDomains{
     # Optional Search Term
@@ -143,7 +164,9 @@ sub api2_getDomains{
         $meta->{success} = $domain_data->{meta}->{success};
         return $meta;
     }else{
+
         foreach my $domain(@{$domain_data->{data}}){
+            $count = $count+1;
             push(@domain_array, {'name'                 => $domain->{name},
                                  'mode'                 => $domain->{mode},
                                  'group'                => $domain->{group},
@@ -151,7 +174,6 @@ sub api2_getDomains{
                                  'date_created'         => $domain->{date_created},
                                  });    
         }
-        
     }
         return @domain_array;
 }
@@ -262,7 +284,9 @@ sub api2_getDomainGroups {
         return $meta;
     }else{
         foreach my $domain_group(@{$domain_group_data->{data}}){
-            push(@domain_group_array, {'name' => $domain_group->{name}});  
+            push(@domain_group_array, {'name'           => $domain_group->{name},
+                                       'date_created'   => $domain_group->{date_created},
+                                       });  
         }
         return @domain_group_array;
     }
@@ -605,6 +629,10 @@ sub api2 {
     my %API2 = (
         'getDomains' => {
             'func' => 'api2_getDomains',
+            'engine' => 'hasharray',
+        },
+        'countDomains' => {
+            'func' => 'api2_countDomains',
             'engine' => 'hasharray',
         },
         'getDomainGroups' => {

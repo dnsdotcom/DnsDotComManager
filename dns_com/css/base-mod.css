@@ -156,3 +156,45 @@
 }
 
 
+.shortcuts {
+	font-size:.9em;
+	background:url(../images/shortcutbg.jpg) repeat-x;
+	height:143px;
+	/*width:100%;*/
+}
+.shortcutItem {
+	height:100px;
+	width:132px;
+	float:left;
+	padding:20px;
+}
+.leftcolumn {
+    width:229px;
+    float:left;
+    min-height:300px;
+}
+
+/*--------------------- Sidebar Content ---------------------*/
+
+.sideheader {width:100%;height:32px;}
+.sideheaderl {float:left;background:url(../images/sideboxtl.png) no-repeat;width:6px;height:6px;}
+.sideheaderr {float:right;background:url(../images/sideboxtr.png) no-repeat;width:6px;height:6px;}
+.sideheader span {float:left;padding:10px 0 0 10px;color:#fff;}
+.sideheader h4 {color:#fff;font-size:.9em;}
+
+ul.sidemenu, div#to-do-list ul {background:url(../images/leftbg.jpg) repeat-y;list-style-type: none;width:229px; padding:7px 0 1px 0;}
+ul.sidemenu li {background:url(../images/leftbutton-off.png) no-repeat 4px 0}
+ul.sidemenu li a {margin-bottom:3px;font: 13px Arial, Verdana, Helvetica, sans-serif;padding:8px 30px 10px 35px; display:block; background:url(../images/sidearrow.png) no-repeat 21px 12px; color:#333; text-decoration:none;}
+ul.sidemenu li a:hover, ul.sidemenu li.selected a:hover {background:url(../images/sidearrow-on.png) no-repeat 21px 12px; padding-left:35px;;color:#000;}
+	ul.sidemenu li ul {list-style-type: none;padding-top:1px; width:229px; font-size:0.9em;}
+	ul.sidemenu li ul li {background:none;border-bottom:none;}
+	ul.sidemenu li ul li a {color:#1d4103;background:none; padding:5px 3px 5px 50px !important;}
+	ul.sidemenu li ul li a:hover {color:#fff;background:#4c9931;}
+	ul.sidemenu li a.ui-state-active {background:#4c9931;font-weight:bold;}
+/* --------- Main Content ----------- */
+
+#right-content{
+	width: 430px;
+	float: right;
+	padding-right:30px;
+}
