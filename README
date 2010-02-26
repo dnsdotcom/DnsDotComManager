@@ -9,7 +9,7 @@ URI
 LWP
 JSON/JSON::PP
 attributes.pm
-Crypt::SSLeay - This will only work with the live site and not the sandbox.
+Crypt::SSLeay (for SSL. This will only work with the live site and not the sandbox.)
 
 In the DnsDotComManager.pm you must change the hostname to your desired host for API usage. IE sandbox.dns.com or for live dns www.dns.com
 
