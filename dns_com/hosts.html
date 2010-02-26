@@ -249,8 +249,9 @@
 <!-- HOSTS LIST -->
 
 <cpanelif $FORM{'group'}>
-<h4>Hosts for "<cpanel langprint=$FORM{'group'}>" group</h4>
+<h4>Hosts for "<cpanel langprint=$FORM{'group'}>"</h4>
 <hr>
+
 <TABLE width="100%" class="listing" style="margin-top:9px;">
     <THEAD>
         <TR>
@@ -280,6 +281,56 @@
         
     </TBODY>
 </TABLE>
+<br><br>
+<h4>Domains in "<cpanel langprint=$FORM{'group'}>"</h4>
+<hr>
+
+<TABLE width="100%" class="listing" style="margin-top:9px;">
+    <THEAD>
+        <TR>
+            <TH></TH>
+            <TH><A >Domain</A></TH>
+            <TH style="padding-left:5px"><A>Date created</A></TH>
+            <TH style="padding-left:5px"><A>Date modified</A></TH>
+	</TR>
+    </THEAD>
+
+    <TBODY id="domain_list">
+        
+        
+        
+	<?cp DnsDotComManager::getDomainsInGroup(
+	    [tr]
+		[td]
+		    [a href="deletedomain.html?domain=%"][img src="images/trash.png" border=0 alt="delete"][/a]
+		[/td][td]
+		    %
+		[/td][td]
+		    %
+		[/td][td]
+		    %
+		[/td]
+	    [/tr],
+	name, name, date_created, date_last_modified), group_name=$FORM{'group'}  ?>
+        
+        
+        
+    </TBODY>
+</TABLE>
+
+<br>
+    
+<form action="adddomain.html" name="addDomainForm" id="addDomainForm">
+<input name="domain" type="text" size="25">
+<input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'group'}>">
+<input name="mode" type="HIDDEN" value="group">
+<br>
+<input type="submit" name="button" value="Add Domain">
+</form>
+				
+
+
+
 </cpanelif>
 
 <cpanelif !$FORM{'group'}>

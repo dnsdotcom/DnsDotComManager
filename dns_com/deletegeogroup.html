@@ -219,7 +219,9 @@
 <!-- CONTENT GOES HERE -->
 
 <cpanelif $FORM{'confirm'}>
-    <?cp DnsDotComManager::removeGeoGroup(%, message), group_name=$FORM{'geogroup'}, ?> <br>[<a href="groups.html">Back To Groups</a>]
+    Deleted Geo Group: <b>
+    <?cp DnsDotComManager::removeGeoGroup(%, message), group_name=$FORM{'geogroup'}, ?></b>
+<br>[<a href="groups.html">Back To Groups</a>]
 </cpanelif>
 <cpanelif !$FORM{'confirm'}>
     Are you sure you want to delete geogroup "<b><cpanel langprint=$FORM{'geogroup'}></b>"? <a href="deletegeogroup.html?geogroup=<cpanel langprint=$FORM{'geogroup'}>&confirm=1">Yes</a> / <a href="geogroups.html">No</a>

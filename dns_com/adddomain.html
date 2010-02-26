@@ -221,14 +221,20 @@
     <form action="adddomain.html" name="addDomainForm" id="addDomainForm">
         <input name='domain' type="text" size="25">
         <input name="mode" type="HIDDEN" value="advanced">
-        <br>
         <input type="submit" name="button" value="Add Domain">
     </form>
 </cpanelif>
 <cpanelif $FORM{'domain'}>
-    <?cp DnsDotComManager::createDomain(%, message), domain_name=$FORM{'domain'}, domain_mode=$FORM{'mode'}, domain_group=$FORM{'group'} ?>
+    Created Domain: <b><?cp DnsDotComManager::createDomain(%, message), domain_name=$FORM{'domain'}, domain_mode=$FORM{'mode'}, domain_group=$FORM{'group'} ?></b>
     <br>
-    [<a href="index.html">Back To Manager</a>]
+    <cpanelif $FORM{'group'}>
+        [<a href="hosts.html?group=<cpanel langprint=$FORM{'group'}>">Back To Hosts</a>]
+    </cpanelif>    
+    <cpanelif !$FORM{'group'}>
+        <cpanelif $FORM{'domain'}>
+            [<a href="index.html">Back To Manager</a>]
+        </cpanelif>
+    </cpanelif>
 </cpanelif>
 
 <!-- END CONTENT GOES HERE -->

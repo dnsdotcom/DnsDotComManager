@@ -7,7 +7,7 @@ These modules must be compiled, then copy the contents of blib/lib to the /usr/l
 
 URI
 LWP
-JSON/JSON::PP
+JSON
 attributes.pm
 Crypt::SSLeay (for SSL. This will only work with the live site and not the sandbox.)
 

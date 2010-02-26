@@ -219,7 +219,9 @@
 <!-- CONTENT GOES HERE -->
 
 <cpanelif $FORM{'confirm'}>
-    <?cp DnsDotComManager::removeDomainGroup(%, message), group_name=$FORM{'group'}, ?> <br>[<a href="groups.html">Back To Groups</a>]
+    Deleted Group: <b>
+    <?cp DnsDotComManager::removeDomainGroup(%, message), group_name=$FORM{'group'}, ?></b>
+    <br>[<a href="groups.html">Back To Groups</a>]
 </cpanelif>
 <cpanelif !$FORM{'confirm'}>
     Are you sure you want to delete "<b><cpanel langprint=$FORM{'group'}></b>" group? <a href="deletedomaingroup.html?group=<cpanel langprint=$FORM{'group'}>&confirm=1">Yes</a> / <a href="groups.html">No</a>

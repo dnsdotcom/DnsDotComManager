@@ -226,7 +226,8 @@
     </form>
 </cpanelif>
 <cpanelif $FORM{'geogroup'}>
-    <?cp DnsDotComManager::createGeoGroup(%, message), geogroup_name=$FORM{'geogroup'}?>
+    Created Geogroup: <b>
+    <?cp DnsDotComManager::createGeoGroup(%, message), geogroup_name=$FORM{'geogroup'}?></b>
     <br>
     [<a href="geogroups.html">Back To Geo Groups</a>]
 </cpanelif>

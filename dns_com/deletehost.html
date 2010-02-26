@@ -224,8 +224,9 @@
 <!-- CONTENT GOES HERE -->
 
 <cpanelif $FORM{'confirm'}>
-    <?cp DnsDotComManager::deleteHostname(%, message), domain=$FORM{'domain'}, group=$FORM{'group'}, host=$FORM{'host'}  ?>
-
+    Deleted Host: <b>
+    <?cp DnsDotComManager::deleteHostname(%, message), domain=$FORM{'domain'}, group=$FORM{'group'}, host=$FORM{'host'}  ?></b>
+    <br>
     [<a href="hosts.html?domain=<cpanel langprint=$FORM{'domain'}>&group=<cpanel langprint=$FORM{'group'}>">Back To Hosts</a>]
     
 </cpanelif>

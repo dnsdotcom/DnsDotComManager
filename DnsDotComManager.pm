@@ -384,11 +384,11 @@ sub api2_createDomainGroup {
         $meta->{id}                    = $group_data->{meta}->{id};
         $meta->{success}               = $group_data->{meta}->{success};
             
-        print "<b>CREATED DOMAIN GROUP</b>: $group_name";        
-        return $meta;
+        push(@group_array, {'message'   => $group_name});    
     }else{
-        print $group_data->{meta}->{error};
+        push(@group_array, {'message'   => $group_data->{meta}->{error}}); 
     }
+    return @group_array;
 }
 
 sub api2_createDomain {
@@ -423,7 +423,7 @@ sub api2_createDomain {
         $meta->{success}               = $domain_data->{meta}->{success};
         $meta->{trafficDestination_id} = $domain_data->{meta}->{trafficDestination_id};
         
-        push(@domain_array, {'message'   => "<b>CREATED DOMAIN:</b> $domain_name </br>"});        
+        push(@domain_array, {'message'   => $domain_name});        
     }else{
         push(@domain_array, {'message'   => $domain_data->{meta}->{error}}); 
     }
@@ -443,6 +443,8 @@ sub api2_createHostname {
     #####
 
     $cmd = 'createHostname';
+    my @host_array = ();
+    
     my %OPTS = @_;
     my $domain          = $OPTS{'domain'};
     my $group           = $OPTS{'group'};
@@ -457,24 +459,27 @@ sub api2_createHostname {
         $meta->{id}                    = $host_data->{meta}->{id};
         $meta->{success}               = $host_data->{meta}->{success};
         
-        #print "$host : $domain$group <br>";
+        push(@host_array, {'message'   => $host});    
     }else{
-        print $host_data->{meta}->{error};
+        push(@host_array, {'message'   => $host_data->{meta}->{error}}); 
     }
+    return @host_array;
     
 }
 
 sub api2_createRRData {
     $cmd = 'createRRData';
+    
+    my @rr_array = ();
     my %OPTS = @_;
     # identifier vars
     my $domain  = $OPTS{'domain'};
     my $group   = $OPTS{'group'};
     
     #required vars
-    my $host    = $OPTS{'host'};
-    my $type    = $OPTS{'type'};
-    my $rdata   = $OPTS{'rdata'};
+    my $host_name   = $OPTS{'host'};
+    my $type        = $OPTS{'type'};
+    my $rdata       = $OPTS{'rdata'};
     
     #optional vars
     my $countryGroup    = $OPTS{'countryGroup'};
@@ -485,9 +490,9 @@ sub api2_createRRData {
     my $is_wildcard     = $OPTS{'is_wildcard'};
     my $ttl             = $OPTS{'ttl'};
     
-    my $domain_group  = $OPTS{'domain_group'};
+    my $domain_group    = $OPTS{'domain_group'};
     
-    my $domain_data  = dns_query($cmd,
+    my $rr_data  = dns_query($cmd,
                                  'domain',          $domain,
                                  'group',           $group,
                                  'host',            $host,
@@ -503,15 +508,15 @@ sub api2_createRRData {
                                 );
     my $meta        = ();
     
-    if ($domain_data->{meta}->{success} == 1){
-        $meta->{id}                    = $domain_data->{meta}->{id};
-        $meta->{success}               = $domain_data->{meta}->{success};
+    if ($host_data->{meta}->{success} == 1){
+        $meta->{id}                    = $rr_data->{meta}->{id};
+        $meta->{success}               = $rr_data->{meta}->{success};
         
-        print "<b>CREATED HOST:</b> $host </br>";        
-        #return $meta;
+        push(@rr_array, {'message'   => $host_name});    
     }else{
-        print $domain_data->{meta}->{error};
+        push(@rr_array, {'message'   => $rr_data->{meta}->{error}}); 
     }
+    return @rr_array;
 }
 
 
@@ -531,9 +536,9 @@ sub api2_deleteDomain {
     
     my %OPTS = @_;
     my $domain_mode = $OPTS{'domain_mode'};
-    die "ERROR: Please enter a domain mode!" unless defined $domain_mode;
     my $domain_name = $OPTS{'domain_name'};
-    die "ERROR: Please enter a domain name!" unless defined $domain_name;
+    my @domain_array = ();
+
     
     my $domain_group  = $OPTS{'domain_group'};
     
@@ -545,10 +550,11 @@ sub api2_deleteDomain {
         $meta->{success}               = $domain_data->{meta}->{success};
         
             
-        print "<b>DELETED DOMAIN:</b> $domain_name <br>";
+        push(@domain_array, {'message'   => $domain_name});    
     }else{
-        print $domain_data->{meta}->{error};
+        push(@domain_array, {'message'   => $domain_data->{meta}->{error}}); 
     }
+    return @domain_array;
 }
 
 sub api2_removeDomainGroup {
@@ -566,6 +572,7 @@ sub api2_removeDomainGroup {
     
     my %OPTS = @_;
     my $group_name = $OPTS{'group_name'};
+    my @group_array = ();
     die "ERROR: Please enter a domain name!" unless defined $group_name;
 
     
@@ -577,10 +584,11 @@ sub api2_removeDomainGroup {
         $meta->{success}               = $group_data->{meta}->{success};
         
             
-        print "<b>DELETED DOMAIN GROUP:</b> $group_name <br>";
+        push(@group_array, {'message'   => $group_name});    
     }else{
-        print $group_data->{meta}->{error};
+        push(@group_array, {'message'   => $group_data->{meta}->{error}}); 
     }
+    return @group_array;
     
 }
 
@@ -590,6 +598,7 @@ sub api2_deleteHostname {
     my $group = $OPTS{'group'};
     my $domain = $OPTS{'domain'};
     my $host = $OPTS{'host'};
+    my @host_array = ();
     
     #if ($domain){
     #    my $host  = dns_query('getHostnamesForDomain', 'domain', $domain, 'confirm', 1);
@@ -610,10 +619,11 @@ sub api2_deleteHostname {
         $meta->{success}               = $host_data->{meta}->{success};
         
             
-        print "<b>DELETED HOST:</b> $host : $group$domain <br>";
+        push(@host_array, {'message'   => "$group$domain"});    
     }else{
-        print $host_data->{meta}->{error};
+        push(@host_array, {'message'   => $host_data->{meta}->{error}}); 
     }
+    return @host_array;
     
 }
 
@@ -627,6 +637,7 @@ sub api2_getGeoGroups {
     my $geogroup_data = dns_query($cmd, 'search_term', $search_term);
     my $meta        = ();
     my @geogroup_array = ();
+    
     if ($geogroup_data->{meta}->{success} == 0){
         $meta->{error}   = $geogroup_data->{meta}->{error};
         $meta->{success} = $geogroup_data->{meta}->{success};
@@ -657,7 +668,7 @@ sub api2_createGeoGroup {
         $meta->{id}                    = $geogroup_data->{meta}->{id};
         $meta->{success}               = $geogroup_data->{meta}->{success};
         
-        push(@geogroup_array, {'message'   => "<b>CREATED DOMAIN:</b> $domain_name </br>"});    
+        push(@geogroup_array, {'message'   => $geogroup_name});    
     }else{
         push(@geogroup_array, {'message'   => $geogroup_data->{meta}->{error}}); 
     }
@@ -689,6 +700,7 @@ sub api2_getGeoGroupDetails {
     }
     return @geogroup_array;
 }
+
 sub api2_appendToGeoGroup {
     $cmd = 'appendToGeoGroup';
     
@@ -722,12 +734,13 @@ sub api2_removeGeoGroup {
         $meta->{success}               = $geogroup_data->{meta}->{success};
         
             
-        push(@geogroup_array, {'message'   => uri_escape("<b>CREATED GEO GROUP:</b> $name </br>")});    
+        push(@geogroup_array, {'message'   => $name});    
     }else{
         push(@geogroup_array, {'message'   => $geogroup_data->{meta}->{error}}); 
     }
     return @geogroup_array;
 }
+
 ###
 #Api2 call names
 ##

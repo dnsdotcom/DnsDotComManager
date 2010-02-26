@@ -221,12 +221,13 @@
 <cpanelif !$FORM{'group'}>
     <form action="addgroup.html">
         <input name="group" type="text" size="25" value="">
-        <br>
         <input type="submit" name="button" value="Add Group">
     </form>
 </cpanelif>
 <cpanelif $FORM{'group'}>
+    Added Group: <b>
     <?cp DnsDotComManager::createDomainGroup(%, message), group_name=$FORM{'group'},?>
+    </b>
 <br>
 [<a href="groups.html">Back To Manager</a>]
 </cpanelif>
