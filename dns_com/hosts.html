@@ -197,9 +197,19 @@
     <ul class="sidemenu"> 
 	<li> 
 	    <a href="index.html">Domains</a> 
-	</li> 
+            <cpanelif !$FORM{'group'}>
+                <ul> 
+                    <li><a href="adddomain.html">Add</a></li> 	
+                </ul> 
+            </cpanelif>
+        </li>
 	<li> 
 	    <a href="groups.html">Groups</a>
+            <cpanelif $FORM{'group'}>
+                <ul> 
+                    <li><a href="addgroup.html">Create</a></li> 	
+                </ul> 
+            </cpanelif>
         </li>
         
 	<li> 
@@ -334,7 +344,7 @@
 </cpanelif>
 
 <cpanelif !$FORM{'group'}>
-<h1>Hosts for "<cpanel langprint=$FORM{'domain'}>" domain</h1>
+<h4>Hosts for "<cpanel langprint=$FORM{'domain'}>" domain</h4>
 <hr>
 <TABLE width="100%" class="listing" style="margin-top:9px;">
     <THEAD>

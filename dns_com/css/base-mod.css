@@ -212,3 +212,7 @@ ul.sidemenu li a:hover, ul.sidemenu li.selected a:hover {background:url(../image
 	width:75px;	
 }
 
+div.smart_list {
+	z-index:2;
+	font-size:1em;
+}

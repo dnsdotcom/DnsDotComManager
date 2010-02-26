@@ -495,7 +495,7 @@ sub api2_createRRData {
     my $rr_data  = dns_query($cmd,
                                  'domain',          $domain,
                                  'group',           $group,
-                                 'host',            $host,
+                                 'host',            $host_name,
                                  'type',            $type,
                                  'rdata',           $rdata,
                                  'countryGroup',    $countryGroup,
@@ -619,7 +619,7 @@ sub api2_deleteHostname {
         $meta->{success}               = $host_data->{meta}->{success};
         
             
-        push(@host_array, {'message'   => "$group$domain"});    
+        push(@host_array, {'message'   => $host});    
     }else{
         push(@host_array, {'message'   => $host_data->{meta}->{error}}); 
     }
