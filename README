@@ -16,13 +16,15 @@ In the DnsDotComManager.pm you must change the hostname to your desired host for
 INSTALLATION
 _____________________
 
-copy DnsDotComManager.pm to /usr/local/cpanel/Cpanel/
-copy dns_com to /usr/local/cpanel/base/frontend/x3/
+-Copy DnsDotComManager.pm to /usr/local/cpanel/Cpanel/
 
-Install the dns_com.cpanelplugin file as per these instructions.
+-Copy dns_com to /usr/local/cpanel/base/frontend/x3/
 
-http://docs.cpanel.net/twiki/bin/view/AllDocumentation/AutomationIntegration/InstallingPlugins
+-Make a directory at /var/local/dnsdotcom and set the permissions so the cpanel user has write access. This is where individual users auth tokens will be stored.
 
-Once installed you will need to get your AUTH_TOKEN from the dns.com control panel and set it up in your manager.
+-Install the dns_com.cpanelplugin file as per these instructions.
+    http://docs.cpanel.net/twiki/bin/view/AllDocumentation/AutomationIntegration/InstallingPlugins
+
+-Once installed you will need to get your AUTH_TOKEN from the dns.com control panel and set it up in your manager.
 
 
