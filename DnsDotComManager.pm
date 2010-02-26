@@ -7,10 +7,11 @@ use Cpanel::LoadFile      ();
 use Cpanel::FileUtils     ();
 
 
-#use Encode;
 use JSON::PP;
 use URI::Escape;
-use LWP;
+use LWP 5.64;
+#use LWP::Protocol::http ();
+
 
 
 my $browser = LWP::UserAgent->new;
@@ -105,10 +106,8 @@ sub dns_query{
 
     
     my $url = "http://$hostname/api/$cmd/?AUTH_TOKEN=$AUTH_TOKEN$opt1$opt2$opt3$opt4$opt5$opt6$opt7$opt8$opt9$opt10$opt11$opt12";
-    #print $url;
-    my $json = new JSON::PP;
     my $response = $browser->get( $url );
-    
+    my $json = new JSON::PP;
     my $domain_data = $json->decode($response->content);
     return $domain_data;
 }

@@ -1,8 +1,28 @@
 DNS.com API module for integration with CPanel
 
-Required external perl modules to install
+DEPENDENCIES
+____________________
 
+These modules must be compiled, then copy the contents of blib/lib to the /usr/local/cpanel/perl directory.
+
+URI
 LWP
 JSON/JSON::PP
 attributes.pm
-URI
+Crypt::SSLeay - This will only work with the live site and not the sandbox.
+
+In the DnsDotComManager.pm you must change the hostname to your desired host for API usage. IE sandbox.dns.com or for live dns www.dns.com
+
+INSTALLATION
+_____________________
+
+copy DnsDotComManager.pm to /usr/local/cpanel/Cpanel/
+copy dns_com to /usr/local/cpanel/base/frontend/x3/
+
+Install the dns_com.cpanelplugin file as per these instructions.
+
+http://docs.cpanel.net/twiki/bin/view/AllDocumentation/AutomationIntegration/InstallingPlugins
+
+Once installed you will need to get your AUTH_TOKEN from the dns.com control panel and set it up in your manager.
+
+

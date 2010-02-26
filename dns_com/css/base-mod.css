@@ -81,8 +81,9 @@
 #menu ul li.selected ul li.selected a {color:#ab8617;}
 
 
-.crumb { margin-top:-10px;margin:0;width:690px;float:left;background:url(../images/crumbbg.png) repeat-x;height:33px;padding:7px 4px 7px 0; }
-.crumbLeft { margin:0;width:5px;height:33px;background:url(../images/crumbLeft.png) no-repeat;float:left; }
+.crumb { margin:0;width:690px;float:left;background:url(../images/crumbbg.png) repeat-x;height:33px;padding:7px 4px 7px 0; }
+.crumb { margin-top:-4px }
+.crumbLeft { margin:0;width:5px;height:33px;background:url(../images/crumbLeft.png) no-repeat;float:left;margin-top:-4px; }
 .crumbContent {
 	margin:15px 0 0 0;
 	width:912px;
@@ -91,7 +92,7 @@
 	height:42px;
 	padding:7px 4px 7px 12px;
 }
-.crumbRight { margin:0;width:5px;height:33px;background:url(../images/crumbRight.png) no-repeat;float:left; }
+.crumbRight { margin:0;width:5px;height:33px;background:url(../images/crumbRight.png) no-repeat;float:left;margin-top:-4px; }
 
 #crumbs {
 	height:33px;
@@ -197,4 +198,8 @@ ul.sidemenu li a:hover, ul.sidemenu li.selected a:hover {background:url(../image
 	width: 430px;
 	float: right;
 	padding-right:30px;
+}
+
+.body-content h2, .body-content h4 {
+	margin: 0px 0px 0px 4px;	
 }
