@@ -18,8 +18,6 @@ my $browser = LWP::UserAgent->new;
 
 our $VERSION = '0.7';
 
-my $cmd = '';
-
 sub dns_query{    
     my $tokenfile = '/var/local/dnsdotcom/' . $Cpanel::user . '-dns-dot-com-token';
     my $AUTH_TOKEN = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
@@ -124,6 +122,7 @@ sub api2_changeAuthToken{
     return $meta->{message} = "Authorization Token Updated";
 }
 
+my $cmd = '';
 
 sub api2_countDomains{
     $cmd = 'getDomains';
