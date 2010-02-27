@@ -16,7 +16,7 @@ use LWP 5.64;
 
 my $browser = LWP::UserAgent->new;
 
-our $VERSION = '0.1';
+our $VERSION = '0.7';
 
 my $cmd = '';
 
