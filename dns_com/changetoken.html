@@ -4,23 +4,99 @@
 
 <cpanelfeature dns_com>
 
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/base-mod.css">
+    
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta2)/IE9.js"></script>
+<![endif]-->
+
 <script type="text/javascript" language="javascript">
 
 
 </script>
 
 <div class="body-content">
+    
+<!-- comwired header -->
+
+<DIV id="menuRow">
+    <DIV class="menuLeft"></DIV>
+    <DIV id="menu">
+	<UL>
+	    <!--<LI style="margin-left:4px"><A href="http://sandbox.comwired.com/overview/">Overview</A></LI>-->
+	    <LI class="on"><A href="index.html">Domains</A></LI>
+	    <LI><A href="groups.html">Groups</A></LI>
+	    <LI><A href="geogroups.html">Geo Groups</A></LI>
+	</UL>
+	
+    </DIV><!-- end of #menu -->
+    <DIV class="menuRight"></DIV>
+	
+	
+    <DIV class="clear" style="clear:both"></DIV>	
+</DIV>
+
+<DIV class="clear" style="clear:both"></DIV>	
+<DIV class="crumbLeft"></DIV>
+<DIV class="crumb">
+    <DIV class="left" style="margin-top:5px">
+	<UL id="crumbs">
+	    <LI><A href="index.html">Home</A></LI>
+            <LI>Change Auth Token</LI>
+	</UL>
+    </DIV>
+    <DIV style="float:right;padding-top:6px">
+		<SPAN class="toplinks"><A href="adddomain.html">Add domain</A></SPAN>
+		<SPAN style="float:right"><A href="adddomain.html"><IMG src="images/add_16.png" border="0" width="16" height="16" style="margin:-5px 2px 0 0"></A></SPAN>
+    </DIV>
+</DIV>	
+<DIV class="crumbRight"></DIV>		
+<DIV class="clear" style="clear:both"></DIV>
+
+	
+
+<!-- end comwired header -->
+
+
+
+<!-- left column -->
+<div class="leftcolumn"> 
+
+    <div style="background:url(images/sideboxheader.png) no-repeat;width:229px;height:24px;padding:8px 0 0 10px;font-size:.9em"> 
+    	<h4>Menu</h4> 
+    </div> 
+    <ul class="sidemenu"> 
+	<li> 
+	    <a href="index.html">Domains</a> 
+	</li> 
+	<li class="active"> 
+	    <a href="groups.html">Groups</a> 
+        </li> 
+	<li> 
+            <a href="geogroups.html">Geo Groups</a> 
+	</li> 
+    </ul> 
+    <div class="clear" style="clear:both"></div> 
+    <div class="leftFooter"></div> 
+</div>
+<!-- end left column -->
+
+<!-- main -->
+
+<div id="right-content"> 
+	
+<h4>Change Auth Token</h4>
+<hr>
+
+<!-- CONTENT GOES HERE -->
+
 <cpanelif !$FORM{'confirm'}>
 <form action="changetoken.html">
-    <table>
-        <tr>
-            <td>Auth Token:</td>
-            <td><input name="auth_token" type="text" size="30"></td>
-        </tr>
-        <tr>
-            <td><input type="submit" name="button" value="Change Token"></td>
-        </tr>
-    </table>
+
+    <input name="auth_token" type="text" size="30">
+    <input type="submit" name="button" value="Change Token">
+
     <input name="confirm" type="HIDDEN" value="1">
 </form>
 </cpanelif>
@@ -28,8 +104,70 @@
     <?cp DnsDotComManager::changeAuthToken(%,message), AUTH_TOKEN=$FORM{'auth_token'} ?>
     [<a href="index.html">Back to Panel</a>]
 </cpanelif>
+
+<!-- END CONTENT GOES HERE -->
+	
+
+    <div style="clear:both"> </div>
+</div>
+    
+
+<!-- end main -->
+
+
+
+
+
+
+
+
+<!-- shortcuts -->
+<div class="clear" style="clear:both"></div> 
+<hr class="clear" /> 
+
+<div class="shortcuts"> 
+	<div class="shortcutLeft" style="float:left;width:5px;height:143px;background:url(images/shortcutLeft.jpg) no-repeat;"></div> 
+	<div class="shortcutItem border-right"> 
+		<h5>Actions</h5> 
+		<ul> 
+			<li><a href="adddomain.html">Add domains</a></li> 
+			<li><a href="addgroup.html">Create group</a></li> 
+			<li><a href="addgeogroup.html">Create geo group</a></li> 
+		</ul> 
+	</div> 
+	<div class="shortcutItem border-left border-right"> 
+		<h5>Credits</h5> 
+		<ul> 
+			<li><a href="http://www.dns.com/overview/">Check my usage</a></li> 
+			<li><a href="http://www.dns.com/accounts/invoice/history/">Payment history</a></li> 
+			<li><a href="http://www.dns.com/accounts/purchase/">Purchase credits</a></li> 
+		</ul> 
+	</div> 
+	<div class="shortcutItem border-left border-right"> 
+		<h5>Help</h5> 
+		<ul> 
+			<li><a href="http://www.dns.com/Help/">FAQ and video tutorials</a></li> 
+				
+			<li><a href="http://www.dns.com/corporate/reportOwnershipConflict/">Ownership conflict report</a></li> 
+				
+			<li><a href="http://www.dns.com/ContactUs/">Contact our team</a></li> 
+		</ul> 
+	</div>	
+	<div class="shortcutItem border-left"> 
+			<h5>Nameservers</h5> 
+			<p>Use the following nameservers:<br /> 
+			<strong>ns1.elv8.net</strong><br /> 
+			<strong>ns2.elv8.net</strong></p> 
+	</div> 
+	<div class="shortcutRight" style="float:right;width:5px;height:143px;background:url(images/shortcutRight.jpg) no-repeat;"></div> 
+</div>
+
+<!-- end shortcuts -->
+
+
 </div><!-- end body-content div -->
 
 </cpanelfeature><!-- end cpanelfeature dns_com -->
 
 <cpanel Branding="include(stdfooter.html)">
+
