@@ -10,7 +10,7 @@
 	clear:both; 
 	position:relative; 
 	height:44px;
-	width:704px;	
+	width:710px;	
 	background:url(../images/menubg.png) repeat-x;
 }
 .menuLeft {
@@ -81,7 +81,7 @@
 #menu ul li.selected ul li.selected a {color:#ab8617;}
 
 
-.crumb { margin:0;width:690px;float:left;background:url(../images/crumbbg.png) repeat-x;height:33px;padding:7px 4px 7px 0; }
+.crumb { margin:0;width:696px;float:left;background:url(../images/crumbbg.png) repeat-x;height:33px;padding:7px 4px 7px 0; }
 .crumb { margin-top:-4px }
 .crumbLeft { margin:0;width:5px;height:33px;background:url(../images/crumbLeft.png) no-repeat;float:left;margin-top:-4px; }
 .crumbContent {
@@ -111,7 +111,7 @@
 	display:block;
 	padding:0 22px 0 0;
 	font-size:1em;
-	*margin-top:-1px;
+	margin-top:-1px;
 	}							
 #crumbs li a:link, #crumbs li a:visited {
 	color:#fff;
