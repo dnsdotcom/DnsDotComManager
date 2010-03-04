@@ -190,7 +190,7 @@ sub api2_getHostnamesForDomain{
     }else{
         foreach my $host(@{$hosts_data->{data}}){
             if(!$host->{name}){
-                $host->{name} = ' ';
+                $host->{name} = '(root)';
             }
             push(@hosts_array, {'name'                  => $host->{name},
                                 'date_created'          => $host->{date_created},
@@ -217,7 +217,7 @@ sub api2_getHostnamesForGroup{
     }else{
         foreach my $host(@{$hosts_data->{data}}){
             if(!$host->{name}){
-                $host->{name} = ' ';
+                $host->{name} = '(root)';
             }
             push(@hosts_array, {'name'                  => $host->{name},
                                 'date_created'          => $host->{date_created},
@@ -235,7 +235,9 @@ sub api2_getRRSetForHostname{
     my $host_name = $OPTS{'host_name'};
     my $domain_name = $OPTS{'domain_name'};
     my $group_name = $OPTS{'group_name'};
-    
+    if ($host_name == '(root)'){
+        $host_name = ' ';
+    }
     my $hosts_data = dns_query($cmd, 'host', $host_name, 'domain', $domain_name, 'group', $group_name);
     my $meta        = ();
     my @hosts_array = ();
