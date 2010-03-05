@@ -376,10 +376,10 @@ sub api2_createDomainGroup {
     $cmd = 'createDomainGroup';
     my %OPTS = @_;
     my $group_name  = $OPTS{'group_name'};
-    die "ERROR: Please enter a group name!" unless defined $group_name;
     
     my $group_data  = dns_query($cmd, 'name', $group_name);
     my $meta        = ();
+    my @group_array = ();
     
     if ($group_data->{meta}->{success} == 1){
         $meta->{id}                    = $group_data->{meta}->{id};
@@ -600,6 +600,10 @@ sub api2_deleteHostname {
     my $domain = $OPTS{'domain'};
     my $host = $OPTS{'host'};
     my @host_array = ();
+    if ($host == '(root)'){
+        $host = ' ';
+    }
+    
     
     #if ($domain){
     #    my $host  = dns_query('getHostnamesForDomain', 'domain', $domain, 'confirm', 1);
@@ -619,7 +623,9 @@ sub api2_deleteHostname {
         $meta->{id}                    = $host_data->{meta}->{id};
         $meta->{success}               = $host_data->{meta}->{success};
         
-            
+        if ($host == ' '){
+        $host = '(root)';
+    }
         push(@host_array, {'message'   => $host});    
     }else{
         push(@host_array, {'message'   => $host_data->{meta}->{error}}); 
@@ -742,6 +748,89 @@ sub api2_removeGeoGroup {
     return @geogroup_array;
 }
 
+sub api2_getTrafficRules{
+    $cmd = 'getTrafficRules';
+    my %OPTS = @_;
+    my $domain = $OPTS{'domain'};
+    my $group = $OPTS{'group'}; 
+    
+    my $tr_data = dns_query($cmd, 'domain', $domain, 'group', $group);
+    my $meta        = ();
+    my @tr_array    = ();
+    
+    if ($tr_data->{meta}->{success} == 0){
+        $meta->{error}   = $tr_data->{meta}->{error};
+        $meta->{success} = $tr_data->{meta}->{success};
+        print "$meta->{error}\n";
+        return $meta;
+    }else{
+        foreach my $tr(@{$tr_data->{data}}){
+            push(@tr_array, {   'id'                    => $tr->{id},
+                                'geoGroup'              => $tr->{geoGroup},
+                                'countryGroup'          => $tr->{countryGroup},
+                                'trafficDestination'    => $tr->{trafficDestination},
+                                'date_created'          => $tr->{date_created},
+                                'date_last_modified'    => $tr->{date_last_modified},
+                            });    
+        }
+        
+    }
+        return @tr_array;
+}
+
+sub api2_createTrafficRule{
+    $cmd = 'createTrafficRule';
+    my %OPTS = @_;
+    my $group               = $OPTS{'group'};
+    my $domain              = $OPTS{'domain'};
+    my $geoGroup            = $OPTS{'geoGroup'};
+    my $trafficDestination  = $OPTS{'trafficDestination'};
+    
+    my $tr_data  = dns_query($cmd, 'group', $group, 'domain', $domain, 'geoGroup', $geoGroup, 'trafficDestination', $trafficDestination);
+    my $meta        = ();
+    my $tr_array    = ();
+    
+    if ($tr_data->{meta}->{success} == 1){
+        $meta->{id}                    = $tr_data->{meta}->{id};
+        $meta->{success}               = $tr_data->{meta}->{success};
+            
+        push(@tr_array, {'message'   => 'Success'});    
+    }else{
+        push(@tr_array, {'message'   => $tr_data->{meta}->{error}}); 
+    }
+    return @tr_array;
+}
+
+sub api2_removeTrafficRule{
+    $cmd = 'removeTrafficRule';
+    
+    my %OPTS = @_;
+    my $id = $OPTS{'id'};
+    my @tr_array = ();
+    my $meta        = ();
+    my $tr_data  = dns_query($cmd, 'id', $id, 'confirm', 1);
+    
+    
+    if ($tr_data->{meta}->{success} == 1){
+        $meta->{id}                    = $tr_data->{meta}->{id};
+        $meta->{success}               = $tr_data->{meta}->{success};
+        
+            
+        push(@tr_array, {'message'   => $name});    
+    }else{
+        push(@tr_array, {'message'   => $tr_data->{meta}->{error}}); 
+    }
+    return @tr_array;
+
+
+}
+
+#sub api2_getTrafficDestinations{
+#
+#}
+
+
+
 ###
 #Api2 call names
 ##
@@ -833,6 +922,18 @@ sub api2 {
         },
         'removeGeoGroup' => {
             'func' => 'api2_removeGeoGroup',
+            'engine' => 'hasharray',
+        },
+        'getTrafficRules' => {
+            'func' => 'api2_getTrafficRules',
+            'engine' => 'hasharray',
+        },
+        'createTrafficRule' => {
+            'func' => 'api2_createTrafficRule',
+            'engine' => 'hasharray',
+        },
+        'removeTrafficRule' => {
+            'func' => 'api2_removeTrafficRule',
             'engine' => 'hasharray',
         },
         

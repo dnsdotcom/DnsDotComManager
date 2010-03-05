@@ -103,16 +103,12 @@
 <!-- CONTENT GOES HERE -->
 
 <?cp DnsDotComManager::getRRSetForHostname(
-    Country: % [br]
-    City: % [br]
-    Region: % [br]
+    GeoGroup: % [br]
     Answer: % [br]
-    Priority: % [br]
+    TTL: % [br]
     Type: % [br]
-    Date Created: % [br]
-    Date Last Modified: % [br]
     
-    ,country, city, region, answer, priority, type, date_created, date_last_modified), domain_name=$FORM{'domain'}, group_name=$FORM{'group'}, host_name=$FORM{'host'}  ?>
+    ,country, answer, ttl, type), domain_name=$FORM{'domain'}, group_name=$FORM{'group'}, host_name=$FORM{'host'}  ?>
 <br>
 [<a href="hosts.html?domain=<cpanel langprint=$FORM{'domain'}>&group=<cpanel langprint=$FORM{'group'}>">Back To Hosts</a>]
 
