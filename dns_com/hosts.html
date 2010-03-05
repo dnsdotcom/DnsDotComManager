@@ -104,19 +104,31 @@
     <br>
     
     <form action="addhost.html" name="addGroupHost" id="addGroupHost">
-    <table class="hostentry">
+    <table class="hostentry" style="padding-left:25px;">
         <tr>
-            <td>Host name:</td>
-        <!--[if lt IE 9]>
-            </tr><tr>
-        <![endif]-->
+            <td><b>Geo Group:</b></td>
+
+        </tr><tr>
+
+            <td>
+                <select name="geoGroup">
+                    <?cp DnsDotComManager::getGeoGroups(
+                    [option value="%"] % [/option], name, name, name) ?>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Host name:</b></td>
+
+        </tr><tr>
+
             <td><input name="host" type="text" size="25"></td>
         </tr>
         <tr>
-            <td>Type:</td>
-        <!--[if lt IE 9]>
-            </tr><tr>
-        <![endif]-->
+            <td><b>Type:</b></td>
+
+        </tr><tr>
+
             <td>
                 <select name="type">        
                     <option value="A">A (IPv4 Address)</option> 
@@ -127,10 +139,10 @@
             </td>
         </tr>
         <tr>
-            <td>Answer:</td>
-        <!--[if lt IE 9]>
-            </tr><tr>
-        <![endif]-->
+            <td><b>Answer:</b></td>
+
+        </tr><tr>
+
             <td><input name="rdata" type="text" size="25"></td>
         </tr>
         <tr>

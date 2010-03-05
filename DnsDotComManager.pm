@@ -104,6 +104,7 @@ sub dns_query{
 
     
     my $url = "http://$hostname/api/$cmd/?AUTH_TOKEN=$AUTH_TOKEN$opt1$opt2$opt3$opt4$opt5$opt6$opt7$opt8$opt9$opt10$opt11$opt12";
+    print $url;
     my $response = $browser->get( $url );
     my $json = new JSON::PP;
     my $domain_data = $json->decode($response->content);
@@ -249,6 +250,7 @@ sub api2_getRRSetForHostname{
         foreach my $host(@{$hosts_data->{data}}){
             push(@hosts_array, {'city'                  => $host->{city},
                                 'date_last_modified'    => $host->{date_last_modified},
+                                'geoGroup'              => $host->{geoGroup},
                                 'country'               => $host->{country},
                                 'region'                => $host->{region},
                                 'priority'              => $host->{priority},
@@ -483,7 +485,7 @@ sub api2_createRRData {
     my $rdata       = $OPTS{'rdata'};
     
     #optional vars
-    my $countryGroup    = $OPTS{'countryGroup'};
+    my $geoGroup        = $OPTS{'geoGroup'};
     my $country_Iso2    = $OPTS{'country_Iso2'};
     my $region          = $OPTS{'region'};
     my $city            = $OPTS{'city'};
@@ -499,7 +501,7 @@ sub api2_createRRData {
                                  'host',            $host_name,
                                  'type',            $type,
                                  'rdata',           $rdata,
-                                 'countryGroup',    $countryGroup,
+                                 'geoGroup',        $geoGroup,
                                  'country_Iso2',    $country_Iso2,
                                  'region',          $region,
                                  'city',            $city,

@@ -107,7 +107,8 @@
 Added Host: <b>
 <?cp DnsDotComManager::createHostname(%, message), domain=$FORM{'domain'}, group=$FORM{'group'}, host=$FORM{'host'}  ?>
 <br>
-<?cp DnsDotComManager::createRRData(%, message),    domain=$FORM{'domain'},
+<?cp DnsDotComManager::createRRData(%, message),    geoGroup=$FORM{'geoGroup'},
+                                                    domain=$FORM{'domain'},
                                                     group=$FORM{'group'},
                                                     host=$FORM{'host'},
                                                     rdata=$FORM{'rdata'},
