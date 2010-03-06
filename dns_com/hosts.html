@@ -104,7 +104,7 @@
     <br>
     
     <form action="addhost.html" name="addGroupHost" id="addGroupHost">
-    <table class="hostentry" style="padding-left:25px;">
+    <table class="hostentry" style="margin-left:20px;">
         <tr>
             <td><b>Geo Group:</b></td>
 
@@ -112,6 +112,7 @@
 
             <td>
                 <select name="geoGroup">
+                    <option value="">None</option>
                     <?cp DnsDotComManager::getGeoGroups(
                     [option value="%"] % [/option], name, name, name) ?>
                 </select>

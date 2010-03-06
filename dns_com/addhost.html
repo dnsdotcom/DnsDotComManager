@@ -106,14 +106,6 @@
 <!-- CONTENT GOES HERE -->
 Added Host: <b>
 <?cp DnsDotComManager::createHostname(%, message), domain=$FORM{'domain'}, group=$FORM{'group'}, host=$FORM{'host'}  ?>
-<br>
-<?cp DnsDotComManager::createRRData(%, message),    geoGroup=$FORM{'geoGroup'},
-                                                    domain=$FORM{'domain'},
-                                                    group=$FORM{'group'},
-                                                    host=$FORM{'host'},
-                                                    rdata=$FORM{'rdata'},
-                                                    type=$FORM{'type'}
-                                                ?>
 </b>
 <br>
 [<a href="hosts.html?domain=<cpanel langprint=$FORM{'domain'}>&group=<cpanel langprint=$FORM{'group'}>">Back To Hosts</a>]

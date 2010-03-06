@@ -104,7 +104,6 @@ sub dns_query{
 
     
     my $url = "http://$hostname/api/$cmd/?AUTH_TOKEN=$AUTH_TOKEN$opt1$opt2$opt3$opt4$opt5$opt6$opt7$opt8$opt9$opt10$opt11$opt12";
-    print $url;
     my $response = $browser->get( $url );
     my $json = new JSON::PP;
     my $domain_data = $json->decode($response->content);
@@ -236,7 +235,7 @@ sub api2_getRRSetForHostname{
     my $host_name = $OPTS{'host_name'};
     my $domain_name = $OPTS{'domain_name'};
     my $group_name = $OPTS{'group_name'};
-    if ($host_name == '(root)'){
+    if ($host_name =~ /(root)/){
         $host_name = ' ';
     }
     my $hosts_data = dns_query($cmd, 'host', $host_name, 'domain', $domain_name, 'group', $group_name);
@@ -495,6 +494,10 @@ sub api2_createRRData {
     
     my $domain_group    = $OPTS{'domain_group'};
     
+    if ($host_name =~ /(root)/){
+        $host_name = ' ';
+    }
+    
     my $rr_data  = dns_query($cmd,
                                  'domain',          $domain,
                                  'group',           $group,
@@ -602,22 +605,11 @@ sub api2_deleteHostname {
     my $domain = $OPTS{'domain'};
     my $host = $OPTS{'host'};
     my @host_array = ();
-    if ($host == '(root)'){
+    if ($host =~ /(root)/){
         $host = ' ';
     }
     
-    
-    #if ($domain){
-    #    my $host  = dns_query('getHostnamesForDomain', 'domain', $domain, 'confirm', 1);
-    #}elsif($group){
-    #    my $host  = dns_query('getHostnamesForGroup', 'group', $group, 'confirm', 1);
-    #}
-        
     my $host_data  = dns_query('removeHostname', 'host', $host, 'group', $group, 'domain', $domain, 'confirm', 1);
-    die "ERROR: Failed to remove Host!" unless defined $host_data;
-    
-    #my $rr_data  = dns_query('removeRR', 'rr_id', $host->{data}->{id}, 'confirm', 1);
-    #die "ERROR: Failed to remove RR data!" unless defined $rr_data;
     
     my $meta        = ();
     
@@ -625,14 +617,36 @@ sub api2_deleteHostname {
         $meta->{id}                    = $host_data->{meta}->{id};
         $meta->{success}               = $host_data->{meta}->{success};
         
-        if ($host == ' '){
-        $host = '(root)';
-    }
+        if ($host =~ / /){
+            $host = '(root)';
+        }
         push(@host_array, {'message'   => $host});    
     }else{
         push(@host_array, {'message'   => $host_data->{meta}->{error}}); 
     }
     return @host_array;
+    
+}
+
+sub api2_removeRR {
+    
+    my %OPTS = @_;
+    my $id = $OPTS{'id'};
+    
+    my $rr_data  = dns_query('removeRR', 'rr_id', $id, 'confirm', 1);
+
+    my $meta        = ();
+    my @rr_array    = ();
+    
+    if ($host_data->{meta}->{success} == 1){
+        $meta->{id}                    = $host_data->{meta}->{id};
+        $meta->{success}               = $host_data->{meta}->{success};
+        
+        push(@rr_array, {'message'   => 'success'});    
+    }else{
+        push(@rr_array, {'message'   => $host_data->{meta}->{error}}); 
+    }
+    return @rr_array;
     
 }
 
@@ -900,6 +914,10 @@ sub api2 {
         },
         'deleteHostname' => {
             'func' => 'api2_deleteHostname',
+            'engine' => 'hasharray',
+        },
+        'removeRR' => {
+            'func' => 'api2_removeRR',
             'engine' => 'hasharray',
         },
         'changeAuthToken' => {

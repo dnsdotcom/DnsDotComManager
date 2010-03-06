@@ -54,7 +54,7 @@
                 <LI><A href="index.html">Domains</a></LI>
             </cpanelif>
             <LI><a href="hosts.html?domain=<cpanel langprint=$FORM{'domain'}>&group=<cpanel langprint=$FORM{'group'}>">Hosts</a></LI>
-            <LI>Host Details</LI>
+            <LI>Host RR Details</LI>
         
 	</UL>
     </DIV>
@@ -89,7 +89,52 @@
             <a href="geogroups.html">Geo Groups</a> 
 	</li> 
     </ul> 
-    <div class="leftFooter"></div> 
+    <div class="leftFooter"></div>
+
+ <form action="addRR.html">
+    <table class="hostentry" style="margin-left:20px;">
+        <tr>
+            <td><b>Geo Group:</b></td>
+
+        </tr><tr>
+
+            <td>
+                <select name="geoGroup">
+                    <option value="">None</option>
+                    <?cp DnsDotComManager::getGeoGroups(
+                    [option value="%"] % [/option], name, name, name) ?>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Type:</b></td>
+
+        </tr><tr>
+
+            <td>
+                <select name="type">        
+                    <option value="A">A (IPv4 Address)</option> 
+                    <option value="CNAME">CNAME (Alias)</option> 
+                    <option value="TXT">TXT (Text)</option> 
+                    <option value="URL">URL Forward</option> 
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Answer:</b></td>
+
+        </tr><tr>
+
+            <td><input name="rdata" type="text" size="25"></td>
+        </tr>
+        <tr>
+            <td><input type="submit" name="button" value="Add Host"></td>
+        </tr>
+    </table>
+    <input name="host" type="HIDDEN" value="<cpanel langprint=$FORM{'host'}>">
+    <input name="group" type="HIDDEN" value="<cpanel langprint=$FORM{'group'}>">
+    <input name="domain" type="HIDDEN" value="<cpanel langprint=$FORM{'domain'}>">
+    </form>
 </div>
 <!-- end left column -->
 
@@ -97,21 +142,36 @@
 
 <div id="right-content"> 
 	
-<h4>Details For <cpanel langprint=$FORM{'host'}> <cpanel langprint=$FORM{'domain'}><cpanel langprint=$FORM{'group'}></h4>
+<h4>RR Entries For Host "<cpanel langprint=$FORM{'host'}>" <cpanel langprint=$FORM{'domain'}><cpanel langprint=$FORM{'group'}></h4>
 <hr>
 
 <!-- CONTENT GOES HERE -->
 
-<?cp DnsDotComManager::getRRSetForHostname(
-    GeoGroup: % [br]
-    Answer: % [br]
-    TTL: % [br]
-    Type: % [br]
-    
-    , geoGroup, answer, ttl, type), domain_name=$FORM{'domain'}, group_name=$FORM{'group'}, host_name=$FORM{'host'}  ?>
-<br>
-[<a href="hosts.html?domain=<cpanel langprint=$FORM{'domain'}>&group=<cpanel langprint=$FORM{'group'}>">Back To Hosts</a>]
+<TABLE width="100%" class="listing" style="margin-top:9px;">
+    <THEAD>
+        <TR>
+            <TH></TH>
+            <TH style="padding-left:5px"><A>Type</A></TH>
+            <TH style="padding-left:5px"><A>Answer</A></TH>
+            <TH style="padding-left:5px"><A>TTL</A></TH>
+            <TH><A >GeoGroup</A></TH>
+	</TR>
+    </THEAD>
 
+    <TBODY id="domain_list">
+        
+        <?cp DnsDotComManager::getRRSetForHostname(
+                                                [tr]
+                                                    [td][a href="deleteRR.html?id=%&type=%&answer=%&host=$FORM{'host'}&domain=$FORM{'domain'}&group=$FORM{'group'}"][img src="images/trash.png" border=0 alt="delete"][/td]
+                                                    [td] % [/td]
+                                                    [td] % [/td]
+                                                    [td] % [/td]
+                                                    [td] % [/td]
+                                                [/tr]
+                                                    , id, type, answer, type, answer, ttl, geoGroup), domain_name=$FORM{'domain'}, group_name=$FORM{'group'}, host_name=$FORM{'host'}  ?>
+                                                    
+    </TBODY>
+</TABLE>
 
 <!-- END CONTENT GOES HERE -->
 	
