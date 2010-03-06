@@ -518,7 +518,11 @@ sub api2_createRRData {
         $meta->{id}                    = $rr_data->{meta}->{id};
         $meta->{success}               = $rr_data->{meta}->{success};
         
-        push(@rr_array, {'message'   => $host_name});    
+        if ($host_name =~ ' '){
+            $host_name = '(root)';
+        }
+        
+        push(@rr_array, {'message'   => "$host_name: $type : $rdata"});    
     }else{
         push(@rr_array, {'message'   => $rr_data->{meta}->{error}}); 
     }
