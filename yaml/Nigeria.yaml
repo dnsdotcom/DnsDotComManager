@@ -1,235 +1,35 @@
-- cities:
-  - {name: Iseoluwa}
-  code: '17'
-  name: ''
-- cities:
-  - {name: Fate}
-  - {name: Ogbomosho}
-  - {name: Ogbomoso}
-  code: '18'
-  name: ''
-- cities:
-  - {name: Aba}
-  - {name: Agbor}
-  - {name: Amadi}
-  - {name: Effurun}
-  - {name: Eket}
-  - {name: Ikot Ekpene}
-  - {name: London}
-  - {name: North}
-  - {name: Odua}
-  - {name: Okija}
-  - {name: Onne}
-  - {name: Warri}
-  code: '10'
-  name: ''
-- cities:
-  - {name: Umuahia}
-  code: '45'
-  name: Abia
-- cities:
-  - {name: Abuja}
-  - {name: Baba}
-  - {name: Maitama}
-  - {name: Mararaba}
-  - {name: Wuse}
-  code: '11'
-  name: Abuja Capital Territory
-- cities:
-  - {name: Borno}
-  - {name: Jigawa}
-  - {name: Mubi}
-  - {name: Nassarawa}
-  - {name: Yola}
-  code: '35'
-  name: Adamawa
-- cities:
-  - {name: Ikot Abasi}
-  - {name: Uyo}
-  code: '21'
-  name: Akwa Ibom
-- cities:
-  - {name: Akwa}
-  - {name: Awka}
-  - {name: Nnewi}
-  - {name: Onitsha}
-  code: '25'
-  name: Anambra
-- cities:
-  - {name: Bauchi}
-  code: '46'
-  name: Bauchi
-- cities:
-  - {name: Makurdi}
-  code: '26'
-  name: Benue
-- cities:
-  - {name: Maiduguri}
-  - {name: Yal}
-  code: '27'
-  name: Borno
-- cities:
-  - {name: Calabar}
-  code: '22'
-  name: Cross River
-- cities:
-  - {name: Asaba}
-  - {name: Onitsha}
-  - {name: Warri}
-  code: '36'
-  name: Delta
-- cities:
-  - {name: Abakaliki}
-  - {name: Abia}
-  - {name: Ghana}
-  - {name: Ikom}
-  code: '53'
-  name: Ebonyi
-- cities:
-  - {name: B}
-  - {name: Benin-city}
-  - {name: Ikpoba}
-  - {name: Sapele}
-  - {name: Ugbowo}
-  code: '37'
-  name: Edo
-- cities:
-  - {name: Agbani}
-  - {name: Enugu}
-  - {name: Nsukka}
-  code: '47'
-  name: Enugu
-- cities:
-  - {name: Gombe}
-  code: '55'
-  name: Gombe
-- cities:
-  - {name: Owerri}
-  code: '28'
-  name: Imo
-- cities:
-  - {name: Kwara}
-  code: '39'
-  name: Jigawa
-- cities:
-  - {name: Alhaji}
-  - {name: Kaduna}
-  - {name: Zaria}
-  code: '23'
-  name: Kaduna
-- cities:
-  - {name: Bisi}
-  - {name: Kano}
-  code: '29'
-  name: Kano
-- cities:
-  - {name: Katsina}
-  code: '24'
-  name: Katsina
-- cities:
-  - {name: Lokoja}
-  code: '41'
-  name: Kogi
-- cities:
-  - {name: Illorin}
-  - {name: Ilorin}
-  code: '30'
-  name: Kwara
-- cities:
-  - {name: Agege}
-  - {name: Agun}
-  - {name: Badore}
-  - {name: Ebute-metta}
-  - {name: Ifako}
-  - {name: Ikeja}
-  - {name: Ikorodu}
-  - {name: Ipaja}
-  - {name: Isolo}
-  - {name: Lagos}
-  - {name: Lekki}
-  - {name: Maryland}
-  - {name: Mushin}
-  - {name: Okokomaiko}
-  - {name: Oworonsoki}
-  - {name: Tinubu}
-  code: '05'
-  name: Lagos
-- cities:
-  - {name: Anambra}
-  - {name: Ankpa}
-  - {name: Benue}
-  - {name: Keffi}
-  code: '56'
-  name: Nassarawa
-- cities:
-  - {name: Bida}
-  - {name: Minna}
-  code: '31'
-  name: Niger
-- cities:
-  - {name: Abeokuta}
-  - {name: Ifo}
-  - {name: Ikenne}
-  - {name: Ogere}
-  - {name: Shagamu}
-  code: '16'
-  name: Ogun
-- cities:
-  - {name: Akure}
-  code: '48'
-  name: Ondo
-- cities:
-  - {name: Iwo}
-  - {name: Oshogbo}
-  - {name: Osogbo}
-  code: '42'
-  name: Osun
-- cities:
-  - {name: Abija}
-  - {name: Adeniji}
-  - {name: Adeogun}
-  - {name: Apapa}
-  - {name: Babatunde}
-  - {name: Base}
-  - {name: Eruwa}
-  - {name: Gbagi}
-  - {name: Ibadan}
-  - {name: Idi Iroko}
-  - {name: Idiroko}
-  - {name: Ido}
-  - {name: Ife}
-  - {name: Ikoyi}
-  - {name: Isoko}
-  - {name: Kogi}
-  - {name: Maro}
-  - {name: Offa}
-  - {name: Ondo}
-  - {name: Osun}
-  - {name: Ota}
-  - {name: Oyo}
-  - {name: Raji}
-  - {name: Saka}
-  code: '32'
-  name: Oyo
-- cities:
-  - {name: Jos}
-  - {name: Miango}
-  code: '49'
-  name: Plateau
-- cities:
-  - {name: Bonny}
-  - {name: Port Harcourt}
-  code: '50'
-  name: Rivers
-- cities:
-  - {name: Kanta}
-  - {name: Kebbi}
-  - {name: Sokoto}
-  - {name: Tara}
-  code: '51'
-  name: Sokoto
-- cities:
-  - {name: Balewa}
-  - {name: Gusau}
-  code: '57'
-  name: Zamfara
+- {code: '17', name: ''}
+- {code: '18', name: ''}
+- {code: '10', name: ''}
+- {code: '45', name: Abia}
+- {code: '11', name: Abuja Capital Territory}
+- {code: '35', name: Adamawa}
+- {code: '21', name: Akwa Ibom}
+- {code: '25', name: Anambra}
+- {code: '46', name: Bauchi}
+- {code: '26', name: Benue}
+- {code: '27', name: Borno}
+- {code: '22', name: Cross River}
+- {code: '36', name: Delta}
+- {code: '53', name: Ebonyi}
+- {code: '37', name: Edo}
+- {code: '47', name: Enugu}
+- {code: '55', name: Gombe}
+- {code: '28', name: Imo}
+- {code: '39', name: Jigawa}
+- {code: '23', name: Kaduna}
+- {code: '29', name: Kano}
+- {code: '24', name: Katsina}
+- {code: '41', name: Kogi}
+- {code: '30', name: Kwara}
+- {code: '05', name: Lagos}
+- {code: '56', name: Nassarawa}
+- {code: '31', name: Niger}
+- {code: '16', name: Ogun}
+- {code: '48', name: Ondo}
+- {code: '42', name: Osun}
+- {code: '32', name: Oyo}
+- {code: '49', name: Plateau}
+- {code: '50', name: Rivers}
+- {code: '51', name: Sokoto}
+- {code: '57', name: Zamfara}

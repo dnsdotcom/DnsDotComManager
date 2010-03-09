@@ -1,0 +1,222 @@
+- {name: Aldworth}
+- {name: Althorne}
+- {name: Ardleigh}
+- {name: Ashdon}
+- {name: Ashwell}
+- {name: Aveley}
+- {name: Barking}
+- {name: Barkingside}
+- {name: Barley}
+- {name: Barling}
+- {name: Barnston}
+- {name: Basildon}
+- {name: Beckton}
+- {name: Belstead}
+- {name: Benfleet}
+- {name: Bermondsey}
+- {name: Billericay}
+- {name: Birchanger}
+- {name: Birdbrook}
+- {name: Blackmore}
+- {name: Bletchley}
+- {name: Bloomsbury}
+- {name: Bocking}
+- {name: Borough Green}
+- {name: Braintree}
+- {name: Bredhurst}
+- {name: Brent}
+- {name: Brentwood}
+- {name: Buckhurst Hill}
+- {name: Burnham On Crouch}
+- {name: Bygrave}
+- {name: Canewdon}
+- {name: Cavendish}
+- {name: Chelmsford}
+- {name: Chigwell}
+- {name: Chingford}
+- {name: Chipping Ongar}
+- {name: Chiswick}
+- {name: Clacton}
+- {name: Clacton-on-sea}
+- {name: Cleobury Mortimer}
+- {name: Cockfosters}
+- {name: Coggeshall}
+- {name: Colchester}
+- {name: Cold Norton}
+- {name: Colney Heath}
+- {name: Copford}
+- {name: Coryton}
+- {name: Cosgrove}
+- {name: Covent Garden}
+- {name: Cressing}
+- {name: Cricklewood}
+- {name: Danbury}
+- {name: Deanshanger}
+- {name: Dedham}
+- {name: Dunmow}
+- {name: Duxford}
+- {name: Earls Colne}
+- {name: East Barnet}
+- {name: East Bergholt}
+- {name: East Finchley}
+- {name: East Hanningfield}
+- {name: Edmonton}
+- {name: Elsenham}
+- {name: Elstree}
+- {name: Epping}
+- {name: Epping Green}
+- {name: Farlow}
+- {name: Feering}
+- {name: Felsted}
+- {name: Finchingfield}
+- {name: Finchley}
+- {name: Finsbury}
+- {name: Fort Halstead}
+- {name: Friern Barnet}
+- {name: Frinton}
+- {name: Frinton-on-sea}
+- {name: Galleywood}
+- {name: Golders Green}
+- {name: Goodmayes}
+- {name: Goring}
+- {name: Gosfield}
+- {name: Great Baddow}
+- {name: Great Bardfield}
+- {name: Great Chesterford}
+- {name: Great Clacton}
+- {name: Great Dunmow}
+- {name: Great Horkesley}
+- {name: Great Leighs}
+- {name: Great Sampford}
+- {name: Great Totham}
+- {name: Great Waltham}
+- {name: Greensted}
+- {name: Halstead}
+- {name: Hampstead}
+- {name: Haringey}
+- {name: Harlesden}
+- {name: Harlow}
+- {name: Harwich}
+- {name: Hatfield Broad Oak}
+- {name: Heybridge}
+- {name: High Ongar}
+- {name: High Roding}
+- {name: Highbury}
+- {name: Hintlesham}
+- {name: Hinxton}
+- {name: Hinxworth}
+- {name: Hockley}
+- {name: Holborn}
+- {name: Hornchurch}
+- {name: Hornsey}
+- {name: Hoxton}
+- {name: Ingatestone}
+- {name: Kelvedon Hatch}
+- {name: Laindon}
+- {name: Latchingdon}
+- {name: Lawford}
+- {name: Lexden}
+- {name: Lindsell}
+- {name: Little Dunmow}
+- {name: Little Waltham}
+- {name: Littlebury}
+- {name: Loughton}
+- {name: Lower Halstow}
+- {name: Maida Vale}
+- {name: Maldon}
+- {name: Manningtree}
+- {name: Margaretting}
+- {name: Marylebone}
+- {name: Matching}
+- {name: Mayfair}
+- {name: Messing}
+- {name: Mile End}
+- {name: Mill Hill}
+- {name: Mistley}
+- {name: Moulsford}
+- {name: Mountnessing}
+- {name: Neasden}
+- {name: New Barnet}
+- {name: New Southgate}
+- {name: Newington}
+- {name: Newton Longville}
+- {name: North Acton}
+- {name: North Weald}
+- {name: Notting Hill}
+- {name: Paddington}
+- {name: Palmers Green}
+- {name: Pitsea}
+- {name: Pleshey}
+- {name: Ponders End}
+- {name: Potter Street}
+- {name: Purfleet}
+- {name: Purleigh}
+- {name: Radwinter}
+- {name: Rainham}
+- {name: Rayleigh}
+- {name: Reed}
+- {name: Rettendon}
+- {name: Ridge}
+- {name: Ridgewell}
+- {name: Ridgwell}
+- {name: Ridley}
+- {name: Ringshall}
+- {name: Rivenhall}
+- {name: Rochford}
+- {name: Roxwell}
+- {name: Saffron Walden}
+- {name: Saint Johns Wood}
+- {name: Saltley}
+- {name: Seven Kings}
+- {name: Sheering}
+- {name: Shenfield}
+- {name: Shenley}
+- {name: Shenley Brook End}
+- {name: Shenley Church End}
+- {name: Shepherds Bush}
+- {name: Shoreditch}
+- {name: Sible Hedingham}
+- {name: South Mimms}
+- {name: South Ockendon}
+- {name: Southminster}
+- {name: Southwark}
+- {name: Spitalfields}
+- {name: Stambourne}
+- {name: Stanford Rivers}
+- {name: Stansted}
+- {name: Stebbing}
+- {name: Stisted}
+- {name: Stock}
+- {name: Stoke Newington}
+- {name: Takeley}
+- {name: Terling}
+- {name: Thaxted}
+- {name: Therfield}
+- {name: Theydon Bois}
+- {name: Tilbury}
+- {name: Tiptree}
+- {name: Tollesbury}
+- {name: Tottenham}
+- {name: Totteridge}
+- {name: Upminster}
+- {name: Vange}
+- {name: Waltham Abbey}
+- {name: Waltham Holy Cross}
+- {name: Walton-on-the-naze}
+- {name: Warley}
+- {name: Wealdstone}
+- {name: Wendens Ambo}
+- {name: West Mersea}
+- {name: West Thurrock}
+- {name: Wethersfield}
+- {name: White Notley}
+- {name: Wickford}
+- {name: Willesden}
+- {name: Willingale}
+- {name: Wimbish}
+- {name: Winchmore Hill}
+- {name: Witham}
+- {name: Woodford Green}
+- {name: Woodham Ferrers}
+- {name: Writtle}
+- {name: Wrotham}

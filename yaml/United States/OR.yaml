@@ -1,0 +1,272 @@
+- {name: Adams}
+- {name: Adrian}
+- {name: Agness}
+- {name: Albany}
+- {name: Alsea}
+- {name: Amity}
+- {name: Antelope}
+- {name: Ashland}
+- {name: Astoria}
+- {name: Athena}
+- {name: Aumsville}
+- {name: Aurora}
+- {name: Baker City}
+- {name: Bandon}
+- {name: Banks}
+- {name: Bay City}
+- {name: Beaver}
+- {name: Beavercreek}
+- {name: Beaverton}
+- {name: Bend}
+- {name: Boardman}
+- {name: Boring}
+- {name: Broadbent}
+- {name: Brookings}
+- {name: Brothers}
+- {name: Brownsville}
+- {name: Burns}
+- {name: Buxton}
+- {name: Canby}
+- {name: Cannon Beach}
+- {name: Canyon City}
+- {name: Canyonville}
+- {name: Carlton}
+- {name: Cascade Locks}
+- {name: Cave Junction}
+- {name: Central Point}
+- {name: Cheshire}
+- {name: Chiloquin}
+- {name: Christmas Valley}
+- {name: Clackamas}
+- {name: Clatskanie}
+- {name: Cloverdale}
+- {name: Colton}
+- {name: Columbia City}
+- {name: Condon}
+- {name: Coos Bay}
+- {name: Coquille}
+- {name: Cornelius}
+- {name: Corvallis}
+- {name: Cottage Grove}
+- {name: Cove}
+- {name: Crabtree}
+- {name: Crescent}
+- {name: Creswell}
+- {name: Culver}
+- {name: Dallas}
+- {name: Days Creek}
+- {name: Dayton}
+- {name: Deer Island}
+- {name: Depoe Bay}
+- {name: Detroit}
+- {name: Dexter}
+- {name: Dillard}
+- {name: Donald}
+- {name: Dorena}
+- {name: Drain}
+- {name: Dufur}
+- {name: Dundee}
+- {name: Eagle Creek}
+- {name: Eagle Point}
+- {name: Echo}
+- {name: Eddyville}
+- {name: Elgin}
+- {name: Elkton}
+- {name: Elmira}
+- {name: Enterprise}
+- {name: Estacada}
+- {name: Eugene}
+- {name: Fairview}
+- {name: Fall Creek}
+- {name: Florence}
+- {name: Forest Grove}
+- {name: Fossil}
+- {name: Foster}
+- {name: Garibaldi}
+- {name: Gaston}
+- {name: Gervais}
+- {name: Gilchrist}
+- {name: Gladstone}
+- {name: Gleneden Beach}
+- {name: Glide}
+- {name: Gold Beach}
+- {name: Gold Hill}
+- {name: Government Camp}
+- {name: Grand Ronde}
+- {name: Grants Pass}
+- {name: Grass Valley}
+- {name: Gresham}
+- {name: Halfway}
+- {name: Halsey}
+- {name: Hammond}
+- {name: Harrisburg}
+- {name: Hebo}
+- {name: Helix}
+- {name: Heppner}
+- {name: Hermiston}
+- {name: Hillsboro}
+- {name: Hines}
+- {name: Hood River}
+- {name: Hubbard}
+- {name: Idleyld Park}
+- {name: Imbler}
+- {name: Independence}
+- {name: Ione}
+- {name: Irrigon}
+- {name: Jacksonville}
+- {name: Jefferson}
+- {name: John Day}
+- {name: Joseph}
+- {name: Junction City}
+- {name: Keizer}
+- {name: Keno}
+- {name: Kimberly}
+- {name: Klamath Falls}
+- {name: La Grande}
+- {name: La Pine}
+- {name: Lafayette}
+- {name: Lake Oswego}
+- {name: Lakeside}
+- {name: Lakeview}
+- {name: Lebanon}
+- {name: Lincoln City}
+- {name: Long Creek}
+- {name: Lorane}
+- {name: Lostine}
+- {name: Lowell}
+- {name: Lyons}
+- {name: Madras}
+- {name: Malin}
+- {name: Manzanita}
+- {name: Marcola}
+- {name: Marylhurst}
+- {name: Maupin}
+- {name: Mcminnville}
+- {name: Medford}
+- {name: Merlin}
+- {name: Merrill}
+- {name: Mill City}
+- {name: Milton Freewater}
+- {name: Molalla}
+- {name: Monmouth}
+- {name: Monroe}
+- {name: Monument}
+- {name: Mosier}
+- {name: Mount Angel}
+- {name: Mount Hood Parkdale}
+- {name: Mount Vernon}
+- {name: Mulino}
+- {name: Murphy}
+- {name: Myrtle Creek}
+- {name: Myrtle Point}
+- {name: Nehalem}
+- {name: Neotsu}
+- {name: Neskowin}
+- {name: New Pine Creek}
+- {name: Newberg}
+- {name: Newport}
+- {name: North Bend}
+- {name: North Plains}
+- {name: North Powder}
+- {name: Noti}
+- {name: Nyssa}
+- {name: O Brien}
+- {name: Oakland}
+- {name: Oakridge}
+- {name: Oceanside}
+- {name: Odell}
+- {name: Ontario}
+- {name: Ophir}
+- {name: Oregon City}
+- {name: Otis}
+- {name: Otter Rock}
+- {name: Paisley}
+- {name: Paulina}
+- {name: Pendleton}
+- {name: Philomath}
+- {name: Phoenix}
+- {name: Pilot Rock}
+- {name: Pleasant Hill}
+- {name: Plush}
+- {name: Port Orford}
+- {name: Portland}
+- {name: Powell Butte}
+- {name: Powers}
+- {name: Prairie City}
+- {name: Prineville}
+- {name: Rainier}
+- {name: Redmond}
+- {name: Reedsport}
+- {name: Rhododendron}
+- {name: Richland}
+- {name: Rickreall}
+- {name: Riddle}
+- {name: Rockaway Beach}
+- {name: Rogue River}
+- {name: Roseburg}
+- {name: Rufus}
+- {name: Saginaw}
+- {name: Saint Benedict}
+- {name: Saint Helens}
+- {name: Saint Paul}
+- {name: Salem}
+- {name: Sandy}
+- {name: Scappoose}
+- {name: Scio}
+- {name: Scotts Mills}
+- {name: Seal Rock}
+- {name: Seaside}
+- {name: Selma}
+- {name: Shady Cove}
+- {name: Shedd}
+- {name: Sheridan}
+- {name: Sherwood}
+- {name: Siletz}
+- {name: Silverton}
+- {name: Sisters}
+- {name: Sixes}
+- {name: South Beach}
+- {name: Springfield}
+- {name: Stanfield}
+- {name: Stayton}
+- {name: Sublimity}
+- {name: Sutherlin}
+- {name: Sweet Home}
+- {name: Talent}
+- {name: Tangent}
+- {name: Terrebonne}
+- {name: The Dalles}
+- {name: Tidewater}
+- {name: Tillamook}
+- {name: Toledo}
+- {name: Troutdale}
+- {name: Tualatin}
+- {name: Turner}
+- {name: Tygh Valley}
+- {name: Umatilla}
+- {name: Umpqua}
+- {name: Union}
+- {name: Vale}
+- {name: Veneta}
+- {name: Vernonia}
+- {name: Vida}
+- {name: Waldport}
+- {name: Wallowa}
+- {name: Walton}
+- {name: Warm Springs}
+- {name: Warren}
+- {name: Warrenton}
+- {name: Wasco}
+- {name: Welches}
+- {name: West Linn}
+- {name: Weston}
+- {name: Wheeler}
+- {name: White City}
+- {name: Wilderville}
+- {name: Willamina}
+- {name: Williams}
+- {name: Wilsonville}
+- {name: Winston}
+- {name: Woodburn}
+- {name: Yachats}
+- {name: Yamhill}

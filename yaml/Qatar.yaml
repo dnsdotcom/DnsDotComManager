@@ -1,15 +1,3 @@
-- cities:
-  - {name: Wakra}
-  code: '05'
-  name: ''
-- cities:
-  - {name: Al Muntazah}
-  - {name: Al Wajba}
-  - {name: Doha}
-  code: '01'
-  name: Ad Dawhah
-- cities:
-  - {name: Khor}
-  - {name: Lusail}
-  code: '04'
-  name: Al Khawr
+- {code: '05', name: ''}
+- {code: '01', name: Ad Dawhah}
+- {code: '04', name: Al Khawr}

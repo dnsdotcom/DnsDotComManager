@@ -1,28 +1,6 @@
-- cities:
-  - {name: Russey}
-  code: '01'
-  name: ''
-- cities:
-  - {name: Chom}
-  code: '03'
-  name: Kampong Chhnang
-- cities:
-  - {name: Ream}
-  - {name: Sihanoukville}
-  code: '06'
-  name: Kampot
-- cities:
-  - {name: Trapeang}
-  code: 08
-  name: Kaoh Kong
-- cities:
-  - {name: Chrouy Changvar}
-  - {name: Kandal}
-  - {name: Phnom Penh}
-  - {name: Phnum P}
-  code: '11'
-  name: Phnum Penh
-- cities:
-  - {name: Bavet}
-  code: '18'
-  name: Svay Rieng
+- {code: '01', name: ''}
+- {code: '03', name: Kampong Chhnang}
+- {code: '06', name: Kampot}
+- {code: 08, name: Kaoh Kong}
+- {code: '11', name: Phnum Penh}
+- {code: '18', name: Svay Rieng}

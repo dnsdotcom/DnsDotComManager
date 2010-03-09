@@ -1,0 +1,446 @@
+- {name: Acqua}
+- {name: Acquafredda}
+- {name: Acqui}
+- {name: Acqui Terme}
+- {name: Aggio}
+- {name: Agna}
+- {name: Alassio}
+- {name: Albareto}
+- {name: Albenga}
+- {name: Albiano}
+- {name: Albisola Marina}
+- {name: Albissola Marina}
+- {name: Altare}
+- {name: Ameglia}
+- {name: Arcola}
+- {name: Arenzano}
+- {name: Arma Di Taggia}
+- {name: Arquata}
+- {name: Arquata Scrivia}
+- {name: Aulla}
+- {name: Aurigo}
+- {name: Bacezza}
+- {name: Badalucco}
+- {name: Bagnasco}
+- {name: Bagnone}
+- {name: Baiardo}
+- {name: Balestrino}
+- {name: Ballerini}
+- {name: Bana}
+- {name: Bardi}
+- {name: Bardineto}
+- {name: Bargagli}
+- {name: Bargone}
+- {name: Bedonia}
+- {name: Berceto}
+- {name: Berga}
+- {name: Bergeggi}
+- {name: Bergi}
+- {name: Bertone}
+- {name: Berzi}
+- {name: Bettola}
+- {name: Bistagno}
+- {name: Bobbio}
+- {name: Bocchetto}
+- {name: Bogliasco}
+- {name: Boio}
+- {name: Bolano}
+- {name: Bolzaneto}
+- {name: Bonassola}
+- {name: Bordighera}
+- {name: Bore}
+- {name: Borghetto Di Vara}
+- {name: Borgo}
+- {name: Borgo Val Di Taro}
+- {name: Borgomaro}
+- {name: Borgonovo}
+- {name: Borgotaro}
+- {name: Bormida}
+- {name: Borzonasca}
+- {name: Boschetto}
+- {name: Boschi}
+- {name: Bracco}
+- {name: Bracelli}
+- {name: Brallo Di Pregola}
+- {name: Bratto}
+- {name: Brignano}
+- {name: Brignole}
+- {name: Brugnato}
+- {name: Brugnola}
+- {name: Brunetti}
+- {name: Bubbio}
+- {name: Busalla}
+- {name: Busana}
+- {name: Buschi}
+- {name: Bussana}
+- {name: Busti}
+- {name: Cabella Ligure}
+- {name: Cairo Montenotte}
+- {name: Calestano}
+- {name: Calice}
+- {name: Calizzano}
+- {name: Calvo}
+- {name: Camogli}
+- {name: Campiglia}
+- {name: Campo Ligure}
+- {name: Campodonico}
+- {name: Campomorone}
+- {name: Camporosso}
+- {name: Canavera}
+- {name: Cantalupo Ligure}
+- {name: Carasco}
+- {name: Caravonica}
+- {name: Carcare}
+- {name: Careno}
+- {name: Carignano}
+- {name: Carletti}
+- {name: Carniglia}
+- {name: Carobbio}
+- {name: Carozzo}
+- {name: Carretto}
+- {name: Carro}
+- {name: Casalino}
+- {name: Casalnoceto}
+- {name: Casasco}
+- {name: Cascine}
+- {name: Casella}
+- {name: Cassano}
+- {name: Cassano Spinola}
+- {name: Cassinari}
+- {name: Cassio}
+- {name: Casta}
+- {name: Castellaccio}
+- {name: Castellaro}
+- {name: Castelletto}
+- {name: Castelnuovo Magra}
+- {name: Castiglione Chiavarese}
+- {name: Cavi}
+- {name: Cazzola}
+- {name: Cella}
+- {name: Celle Ligure}
+- {name: Cengio}
+- {name: Centenaro}
+- {name: Ceparana}
+- {name: Ceriale}
+- {name: Ceriana}
+- {name: Cerisola}
+- {name: Cervara}
+- {name: Cervarolo}
+- {name: Cervo}
+- {name: Cesio}
+- {name: Cetta}
+- {name: Ceva}
+- {name: Chiappa}
+- {name: Chiavari}
+- {name: Chiesanuova}
+- {name: Chiusavecchia}
+- {name: Cicagna}
+- {name: Cisano}
+- {name: Cisano Sul Neva}
+- {name: Cogoleto}
+- {name: Cogorno}
+- {name: Coli}
+- {name: Colla}
+- {name: Collagna}
+- {name: Colletta}
+- {name: Compiano}
+- {name: Conio}
+- {name: Cornigliano}
+- {name: Corniglio}
+- {name: Corradi}
+- {name: Corte}
+- {name: Cortemilia}
+- {name: Corticella}
+- {name: Costarainera}
+- {name: Cravanzana}
+- {name: Cremolino}
+- {name: Crocetta}
+- {name: D}
+- {name: Dego}
+- {name: Deiva Marina}
+- {name: Diano Castello}
+- {name: Diano Marina}
+- {name: Dolceacqua}
+- {name: Doria}
+- {name: Eril}
+- {name: Fascia}
+- {name: Favale Di Malvaro}
+- {name: Ferrada}
+- {name: Ferrania}
+- {name: Ferrari}
+- {name: Ferriere}
+- {name: Finale Ligure}
+- {name: Fiorino}
+- {name: Fivizzano}
+- {name: Fontanarossa}
+- {name: Fontanigorda}
+- {name: Fornaci}
+- {name: Fosdinovo}
+- {name: Fossoli}
+- {name: Framura}
+- {name: Gambaro}
+- {name: Garessio}
+- {name: Garlenda}
+- {name: Gavi}
+- {name: Gazzo}
+- {name: Genoa}
+- {name: Genova}
+- {name: Giarola}
+- {name: Giovi}
+- {name: Glori}
+- {name: Gobbi}
+- {name: Godiasco}
+- {name: Granarolo}
+- {name: Grimaldi}
+- {name: Gropparello}
+- {name: Groppo}
+- {name: Grotta}
+- {name: Illica}
+- {name: Imperia}
+- {name: Isola Del Cantone}
+- {name: Isolabona}
+- {name: La Foce}
+- {name: La Grotta}
+- {name: La Marina}
+- {name: La Spezia}
+- {name: La Strada}
+- {name: La Valle}
+- {name: Lago}
+- {name: Laigueglia}
+- {name: Lavagna}
+- {name: Le Grazie}
+- {name: Leggio}
+- {name: Leivi}
+- {name: Lemmi}
+- {name: Lerici}
+- {name: Lerma}
+- {name: Levanto}
+- {name: Licciana Nardi}
+- {name: Ligonchio}
+- {name: Livelli}
+- {name: Loano}
+- {name: Loto}
+- {name: Lugagnano Val D'arda}
+- {name: Lunense}
+- {name: Lunetta}
+- {name: Luni}
+- {name: Maissana}
+- {name: Manarola}
+- {name: Mangia}
+- {name: Mantovana}
+- {name: Mariano}
+- {name: Marsaglia}
+- {name: Martinetto}
+- {name: Masone}
+- {name: Mattarana}
+- {name: Mazzanti}
+- {name: Mazzola}
+- {name: Menta}
+- {name: Merli}
+- {name: Metti}
+- {name: Mezzanego}
+- {name: Mignanego}
+- {name: Millesimo}
+- {name: Mist}
+- {name: Molini}
+- {name: Moltedo}
+- {name: Moltedo Superiore}
+- {name: Monastero}
+- {name: Moneglia}
+- {name: Montaldo}
+- {name: Montalto}
+- {name: Monte}
+- {name: Monte Acuto}
+- {name: Monte Marcello}
+- {name: Montebruno}
+- {name: Montemaggio}
+- {name: Monterosso}
+- {name: Monterosso Al Mare}
+- {name: Montoggio}
+- {name: Mulazzo}
+- {name: Murazzano}
+- {name: Murialdo}
+- {name: Neirone}
+- {name: Nervi}
+- {name: Nibbiano}
+- {name: Noli}
+- {name: Novi Ligure}
+- {name: Nucetto}
+- {name: Ospedaletti}
+- {name: Ottone}
+- {name: Ovada}
+- {name: Padivarma}
+- {name: Pagana}
+- {name: Pagazzano}
+- {name: Paggi}
+- {name: Palanzano}
+- {name: Pallavicino}
+- {name: Paraggi}
+- {name: Pareto}
+- {name: Patigno}
+- {name: Pecorara}
+- {name: Pegli}
+- {name: Peli}
+- {name: Pellegrino}
+- {name: Pelosa}
+- {name: Perinaldo}
+- {name: Perino}
+- {name: Pero}
+- {name: Persi}
+- {name: Pianelli}
+- {name: Piani}
+- {name: Piazza}
+- {name: Piccoli}
+- {name: Pietra Ligure}
+- {name: Pietranera}
+- {name: Pieve Di Teco}
+- {name: Pieve Ligure}
+- {name: Pigna}
+- {name: Pignone}
+- {name: Pizzolo}
+- {name: Podenzana}
+- {name: Poggi}
+- {name: Polverara}
+- {name: Pompeiana}
+- {name: Pontecurone}
+- {name: Pontedassio}
+- {name: Pontedecimo}
+- {name: Ponti}
+- {name: Pontremoli}
+- {name: Ponzone}
+- {name: Pornassio}
+- {name: Portofino}
+- {name: Portovenere}
+- {name: Poviglio}
+- {name: Pozzolo}
+- {name: Pozzolo Formigaro}
+- {name: Predosa}
+- {name: Quiliano}
+- {name: Ramiseto}
+- {name: Rapallo}
+- {name: Recco}
+- {name: Regnano}
+- {name: Reno}
+- {name: Rensa}
+- {name: Rezza}
+- {name: Rezzo}
+- {name: Rezzoaglio}
+- {name: Riomaggiore}
+- {name: Rivanazzano}
+- {name: Rivarolo}
+- {name: Rocca}
+- {name: Rocchetta Di Vara}
+- {name: Romagnese}
+- {name: Rometta}
+- {name: Romito}
+- {name: Roncagli}
+- {name: Ronchi}
+- {name: Ronco Scrivia}
+- {name: Roncole}
+- {name: Rosano}
+- {name: Rosi}
+- {name: Rossiglione}
+- {name: Ruta}
+- {name: Salice}
+- {name: Salice Terme}
+- {name: Saliceto}
+- {name: Salto}
+- {name: Sambuceto}
+- {name: Sampierdarena}
+- {name: San Bartolomeo}
+- {name: San Bernardino}
+- {name: San Bernardo}
+- {name: San Colombano}
+- {name: San Cristoforo}
+- {name: San Genesio}
+- {name: San Lazzaro}
+- {name: San Lorenzo Al Mare}
+- {name: San Pancrazio}
+- {name: San Remo}
+- {name: San Rocco}
+- {name: San Salvatore}
+- {name: San Siro}
+- {name: San Vittore}
+- {name: Santa Cristina}
+- {name: Santa Giustina}
+- {name: Santa Margherita}
+- {name: Santa Margherita Ligure}
+- {name: Sarissola}
+- {name: Sarzana}
+- {name: Sassello}
+- {name: Savona}
+- {name: Segheria}
+- {name: Segno}
+- {name: Selva}
+- {name: Ser}
+- {name: Serra}
+- {name: Serra Ricc}
+- {name: Serravalle Scrivia}
+- {name: Sesta Godano}
+- {name: Sestri Levante}
+- {name: Sestri Ponente}
+- {name: Silvano}
+- {name: Solaro}
+- {name: Solarolo}
+- {name: Soldano}
+- {name: Sori}
+- {name: Specchio}
+- {name: Spezia}
+- {name: Spigno Monferrato}
+- {name: Spinello}
+- {name: Spotorno}
+- {name: Squarci}
+- {name: Strevi}
+- {name: Struppa}
+- {name: Sturla}
+- {name: Taggia}
+- {name: Tassara}
+- {name: Tasso}
+- {name: Tavarone}
+- {name: Tavole}
+- {name: Tendola}
+- {name: Terenzo}
+- {name: Terrarossa}
+- {name: Tizzano Val Parma}
+- {name: Torrazza}
+- {name: Torre Degli Alberi}
+- {name: Torri}
+- {name: Torriglia}
+- {name: Torrini}
+- {name: Tosca}
+- {name: Tovo}
+- {name: Trinit}
+- {name: Trucco}
+- {name: Urbe}
+- {name: Uscio}
+- {name: Vado Ligure}
+- {name: Vairo}
+- {name: Valeriano}
+- {name: Vallecrosia}
+- {name: Vallescura}
+- {name: Valletti}
+- {name: Varano}
+- {name: Varano De' Melegari}
+- {name: Varazze}
+- {name: Varsi}
+- {name: Varzi}
+- {name: Ventimiglia}
+- {name: Verezzo}
+- {name: Vernasca}
+- {name: Vernazza}
+- {name: Vescina}
+- {name: Vesime}
+- {name: Vezzano Ligure}
+- {name: Vezzola}
+- {name: Vigolo}
+- {name: Viguzzolo}
+- {name: Villalvernia}
+- {name: Viola}
+- {name: Vobbia}
+- {name: Volpedo}
+- {name: Volpi}
+- {name: Voltaggio}
+- {name: Voltri}
+- {name: Zavattarello}
+- {name: Zoagli}
+- {name: Zuccarello}

@@ -1,41 +1,8 @@
-- cities:
-  - {name: Durr}
-  - {name: Fush}
-  code: '42'
-  name: Durres
-- cities:
-  - {name: C}
-  - {name: Elbasan}
-  - {name: Peqin}
-  - {name: Servic}
-  - {name: Sk}
-  code: '43'
-  name: Elbasan
-- cities:
-  - {name: Fier}
-  - {name: Gora}
-  - {name: Lushnj}
-  code: '44'
-  name: Fier
-- cities:
-  - {name: Kodra}
-  - {name: Kor}
-  code: '46'
-  name: Korce
-- cities:
-  - {name: R}
-  code: '48'
-  name: Lezhe
-- cities:
-  - {name: Shkod}
-  code: '49'
-  name: Shkoder
-- cities:
-  - {name: Tiran}
-  - {name: Tirana}
-  code: '50'
-  name: Tirane
-- cities:
-  - {name: Vlor}
-  code: '51'
-  name: Vlore
+- {code: '42', name: Durres}
+- {code: '43', name: Elbasan}
+- {code: '44', name: Fier}
+- {code: '46', name: Korce}
+- {code: '48', name: Lezhe}
+- {code: '49', name: Shkoder}
+- {code: '50', name: Tirane}
+- {code: '51', name: Vlore}

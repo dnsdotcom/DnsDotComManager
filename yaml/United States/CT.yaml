@@ -1,0 +1,248 @@
+- {name: Abington}
+- {name: Amston}
+- {name: Andover}
+- {name: Ansonia}
+- {name: Ashford}
+- {name: Avon}
+- {name: Ballouville}
+- {name: Baltic}
+- {name: Bantam}
+- {name: Barkhamsted}
+- {name: Beacon Falls}
+- {name: Berlin}
+- {name: Bethany}
+- {name: Bethel}
+- {name: Bethlehem}
+- {name: Bloomfield}
+- {name: Bolton}
+- {name: Botsford}
+- {name: Bozrah}
+- {name: Branford}
+- {name: Bridgeport}
+- {name: Bridgewater}
+- {name: Bristol}
+- {name: Broad Brook}
+- {name: Brookfield}
+- {name: Brooklyn}
+- {name: Burlington}
+- {name: Canaan}
+- {name: Canterbury}
+- {name: Canton}
+- {name: Canton Center}
+- {name: Centerbrook}
+- {name: Central Village}
+- {name: Chaplin}
+- {name: Cheshire}
+- {name: Chester}
+- {name: Clinton}
+- {name: Cobalt}
+- {name: Colchester}
+- {name: Colebrook}
+- {name: Collinsville}
+- {name: Columbia}
+- {name: Cornwall Bridge}
+- {name: Cos Cob}
+- {name: Coventry}
+- {name: Cromwell}
+- {name: Danbury}
+- {name: Danielson}
+- {name: Darien}
+- {name: Dayville}
+- {name: Deep River}
+- {name: Derby}
+- {name: Durham}
+- {name: East Berlin}
+- {name: East Canaan}
+- {name: East Glastonbury}
+- {name: East Granby}
+- {name: East Haddam}
+- {name: East Hampton}
+- {name: East Hartford}
+- {name: East Hartland}
+- {name: East Haven}
+- {name: East Killingly}
+- {name: East Lyme}
+- {name: East Windsor}
+- {name: East Windsor Hill}
+- {name: Eastford}
+- {name: Easton}
+- {name: Ellington}
+- {name: Enfield}
+- {name: Essex}
+- {name: Fairfield}
+- {name: Falls Village}
+- {name: Farmington}
+- {name: Gales Ferry}
+- {name: Gaylordsville}
+- {name: Georgetown}
+- {name: Glastonbury}
+- {name: Goshen}
+- {name: Granby}
+- {name: Greens Farms}
+- {name: Greenwich}
+- {name: Groton}
+- {name: Guilford}
+- {name: Haddam}
+- {name: Hamden}
+- {name: Hampton}
+- {name: Hartford}
+- {name: Harwinton}
+- {name: Hawleyville}
+- {name: Hebron}
+- {name: Higganum}
+- {name: Ivoryton}
+- {name: Jewett City}
+- {name: Kent}
+- {name: Killingworth}
+- {name: Lakeside}
+- {name: Lakeville}
+- {name: Lebanon}
+- {name: Ledyard}
+- {name: Litchfield}
+- {name: Madison}
+- {name: Manchester}
+- {name: Mansfield Center}
+- {name: Marion}
+- {name: Marlborough}
+- {name: Meriden}
+- {name: Middle Haddam}
+- {name: Middlebury}
+- {name: Middlefield}
+- {name: Middletown}
+- {name: Milford}
+- {name: Milldale}
+- {name: Monroe}
+- {name: Montville}
+- {name: Moodus}
+- {name: Moosup}
+- {name: Morris}
+- {name: Mystic}
+- {name: Naugatuck}
+- {name: New Britain}
+- {name: New Canaan}
+- {name: New Fairfield}
+- {name: New Hartford}
+- {name: New Haven}
+- {name: New London}
+- {name: New Milford}
+- {name: New Preston Marble Dale}
+- {name: Newington}
+- {name: Newtown}
+- {name: Niantic}
+- {name: Norfolk}
+- {name: North Branford}
+- {name: North Franklin}
+- {name: North Granby}
+- {name: North Grosvenordale}
+- {name: North Haven}
+- {name: North Stonington}
+- {name: North Westchester}
+- {name: North Windham}
+- {name: Northfield}
+- {name: Northford}
+- {name: Norwalk}
+- {name: Norwich}
+- {name: Oakdale}
+- {name: Oakville}
+- {name: Old Greenwich}
+- {name: Old Lyme}
+- {name: Old Mystic}
+- {name: Old Saybrook}
+- {name: Oneco}
+- {name: Orange}
+- {name: Oxford}
+- {name: Pawcatuck}
+- {name: Pequabuck}
+- {name: Pine Meadow}
+- {name: Plainfield}
+- {name: Plainville}
+- {name: Plantsville}
+- {name: Plymouth}
+- {name: Pomfret}
+- {name: Pomfret Center}
+- {name: Poquonock}
+- {name: Portland}
+- {name: Preston}
+- {name: Prospect}
+- {name: Putnam}
+- {name: Quaker Hill}
+- {name: Redding}
+- {name: Redding Center}
+- {name: Redding Ridge}
+- {name: Ridgefield}
+- {name: Riverside}
+- {name: Rockfall}
+- {name: Rocky Hill}
+- {name: Rogers}
+- {name: Roxbury}
+- {name: Salem}
+- {name: Salisbury}
+- {name: Sandy Hook}
+- {name: Scotland}
+- {name: Seymour}
+- {name: Sharon}
+- {name: Shelton}
+- {name: Sherman}
+- {name: Simsbury}
+- {name: Somers}
+- {name: Somersville}
+- {name: South Glastonbury}
+- {name: South Kent}
+- {name: South Windham}
+- {name: South Windsor}
+- {name: South Woodstock}
+- {name: Southbury}
+- {name: Southington}
+- {name: Southport}
+- {name: Stafford Springs}
+- {name: Stamford}
+- {name: Sterling}
+- {name: Stevenson}
+- {name: Stonington}
+- {name: Storrs Mansfield}
+- {name: Stratford}
+- {name: Suffield}
+- {name: Taftville}
+- {name: Tariffville}
+- {name: Terryville}
+- {name: Thomaston}
+- {name: Thompson}
+- {name: Tolland}
+- {name: Torrington}
+- {name: Trumbull}
+- {name: Uncasville}
+- {name: Unionville}
+- {name: Vernon Rockville}
+- {name: Versailles}
+- {name: Voluntown}
+- {name: Wallingford}
+- {name: Washington}
+- {name: Washington Depot}
+- {name: Waterbury}
+- {name: Waterford}
+- {name: Watertown}
+- {name: Wauregan}
+- {name: Weatogue}
+- {name: West Cornwall}
+- {name: West Granby}
+- {name: West Hartford}
+- {name: West Hartland}
+- {name: West Haven}
+- {name: West Simsbury}
+- {name: Westbrook}
+- {name: Weston}
+- {name: Westport}
+- {name: Wethersfield}
+- {name: Willimantic}
+- {name: Willington}
+- {name: Wilton}
+- {name: Windham}
+- {name: Windsor}
+- {name: Windsor Locks}
+- {name: Winsted}
+- {name: Wolcott}
+- {name: Woodbridge}
+- {name: Woodbury}
+- {name: Woodstock}
+- {name: Woodstock Valley}
+- {name: Yantic}

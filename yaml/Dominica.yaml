@@ -1,4 +1,1 @@
-- cities:
-  - {name: Roseau}
-  code: '04'
-  name: Saint George
+- {code: '04', name: Saint George}

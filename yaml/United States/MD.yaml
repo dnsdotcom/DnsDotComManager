@@ -1,0 +1,365 @@
+- {name: Aberdeen}
+- {name: Aberdeen Proving Ground}
+- {name: Abingdon}
+- {name: Accident}
+- {name: Accokeek}
+- {name: Adamstown}
+- {name: Allen}
+- {name: Andrews Air Force Base}
+- {name: Annapolis}
+- {name: Annapolis Junction}
+- {name: Arnold}
+- {name: Ashton}
+- {name: Avenue}
+- {name: Baldwin}
+- {name: Baltimore}
+- {name: Barnesville}
+- {name: Beallsville}
+- {name: Bel Air}
+- {name: Bel Alton}
+- {name: Belcamp}
+- {name: Beltsville}
+- {name: Berlin}
+- {name: Bethesda}
+- {name: Bethlehem}
+- {name: Big Pool}
+- {name: Bishopville}
+- {name: Bittinger}
+- {name: Bladensburg}
+- {name: Bloomington}
+- {name: Boonsboro}
+- {name: Boring}
+- {name: Bowie}
+- {name: Boyds}
+- {name: Bozman}
+- {name: Braddock Heights}
+- {name: Brandywine}
+- {name: Brentwood}
+- {name: Brinklow}
+- {name: Brookeville}
+- {name: Brooklandville}
+- {name: Brooklyn}
+- {name: Brownsville}
+- {name: Brunswick}
+- {name: Bryans Road}
+- {name: Bryantown}
+- {name: Buckeystown}
+- {name: Burkittsville}
+- {name: Burtonsville}
+- {name: Butler}
+- {name: Cabin John}
+- {name: California}
+- {name: Callaway}
+- {name: Cambridge}
+- {name: Capitol Heights}
+- {name: Cascade}
+- {name: Catonsville}
+- {name: Cavetown}
+- {name: Cecilton}
+- {name: Centreville}
+- {name: Chaptico}
+- {name: Charlestown}
+- {name: Charlotte Hall}
+- {name: Chase}
+- {name: Cheltenham}
+- {name: Chesapeake Beach}
+- {name: Chesapeake City}
+- {name: Chester}
+- {name: Chestertown}
+- {name: Chevy Chase}
+- {name: Chewsville}
+- {name: Church Hill}
+- {name: Churchton}
+- {name: Churchville}
+- {name: Clarksburg}
+- {name: Clarksville}
+- {name: Clear Spring}
+- {name: Clements}
+- {name: Clinton}
+- {name: Cobb Island}
+- {name: Cockeysville}
+- {name: College Park}
+- {name: Colora}
+- {name: Columbia}
+- {name: Conowingo}
+- {name: Cooksville}
+- {name: Cordova}
+- {name: Crisfield}
+- {name: Crofton}
+- {name: Crownsville}
+- {name: Crumpton}
+- {name: Cumberland}
+- {name: Curtis Bay}
+- {name: Damascus}
+- {name: Darlington}
+- {name: Davidsonville}
+- {name: Dayton}
+- {name: Deale}
+- {name: Delmar}
+- {name: Denton}
+- {name: Derwood}
+- {name: Dickerson}
+- {name: District Heights}
+- {name: Dowell}
+- {name: Dundalk}
+- {name: Dunkirk}
+- {name: Earleville}
+- {name: East New Market}
+- {name: Easton}
+- {name: Eden}
+- {name: Edgewater}
+- {name: Edgewood}
+- {name: Elkridge}
+- {name: Elkton}
+- {name: Ellicott City}
+- {name: Emmitsburg}
+- {name: Essex}
+- {name: Fairplay}
+- {name: Fallston}
+- {name: Faulkner}
+- {name: Federalsburg}
+- {name: Finksburg}
+- {name: Flintstone}
+- {name: Forest Hill}
+- {name: Fork}
+- {name: Fort George G Meade}
+- {name: Fort Howard}
+- {name: Fort Washington}
+- {name: Frederick}
+- {name: Freeland}
+- {name: Friendship}
+- {name: Friendsville}
+- {name: Frostburg}
+- {name: Fruitland}
+- {name: Fulton}
+- {name: Funkstown}
+- {name: Gaithersburg}
+- {name: Galena}
+- {name: Galesville}
+- {name: Gambrills}
+- {name: Garrett Park}
+- {name: Georgetown}
+- {name: Germantown}
+- {name: Gibson Island}
+- {name: Glen Arm}
+- {name: Glen Burnie}
+- {name: Glen Echo}
+- {name: Glenelg}
+- {name: Glenn Dale}
+- {name: Glenwood}
+- {name: Glyndon}
+- {name: Grantsville}
+- {name: Grasonville}
+- {name: Great Mills}
+- {name: Greenbelt}
+- {name: Greensboro}
+- {name: Gunpowder}
+- {name: Gwynn Oak}
+- {name: Hagerstown}
+- {name: Halethorpe}
+- {name: Hampstead}
+- {name: Hancock}
+- {name: Hanover}
+- {name: Harmans}
+- {name: Harwood}
+- {name: Havre De Grace}
+- {name: Hebron}
+- {name: Helen}
+- {name: Henderson}
+- {name: Highland}
+- {name: Hollywood}
+- {name: Hughesville}
+- {name: Hunt Valley}
+- {name: Huntingtown}
+- {name: Hurlock}
+- {name: Hyattsville}
+- {name: Hydes}
+- {name: Ijamsville}
+- {name: Indian Head}
+- {name: Ingleside}
+- {name: Ironsides}
+- {name: Issue}
+- {name: Jarrettsville}
+- {name: Jefferson}
+- {name: Jessup}
+- {name: Joppa}
+- {name: Keedysville}
+- {name: Kennedyville}
+- {name: Kensington}
+- {name: Keymar}
+- {name: Kingsville}
+- {name: Kitzmiller}
+- {name: Knoxville}
+- {name: La Plata}
+- {name: Lanham}
+- {name: Laurel}
+- {name: Leonardtown}
+- {name: Lexington Park}
+- {name: Libertytown}
+- {name: Linkwood}
+- {name: Linthicum Heights}
+- {name: Lisbon}
+- {name: Lonaconing}
+- {name: Long Green}
+- {name: Lothian}
+- {name: Luke}
+- {name: Lusby}
+- {name: Lutherville Timonium}
+- {name: Madison}
+- {name: Manchester}
+- {name: Marbury}
+- {name: Mardela Springs}
+- {name: Marion Station}
+- {name: Marriottsville}
+- {name: Maryland Line}
+- {name: Mayo}
+- {name: Mc Henry}
+- {name: Mcdaniel}
+- {name: Mechanicsville}
+- {name: Middle River}
+- {name: Middletown}
+- {name: Midland}
+- {name: Midlothian}
+- {name: Millersville}
+- {name: Millington}
+- {name: Monkton}
+- {name: Monrovia}
+- {name: Montgomery Village}
+- {name: Mount Airy}
+- {name: Mount Rainier}
+- {name: Myersville}
+- {name: Nanjemoy}
+- {name: New Market}
+- {name: New Windsor}
+- {name: Newark}
+- {name: Newburg}
+- {name: North Beach}
+- {name: North East}
+- {name: Nottingham}
+- {name: Oakland}
+- {name: Ocean City}
+- {name: Odenton}
+- {name: Oldtown}
+- {name: Olney}
+- {name: Owings}
+- {name: Owings Mills}
+- {name: Oxford}
+- {name: Oxon Hill}
+- {name: Parkton}
+- {name: Parkville}
+- {name: Parsonsburg}
+- {name: Pasadena}
+- {name: Patuxent River}
+- {name: Perry Hall}
+- {name: Perry Point}
+- {name: Perryman}
+- {name: Perryville}
+- {name: Phoenix}
+- {name: Pikesville}
+- {name: Piney Point}
+- {name: Pittsville}
+- {name: Pocomoke City}
+- {name: Point Of Rocks}
+- {name: Pomfret}
+- {name: Poolesville}
+- {name: Port Deposit}
+- {name: Port Republic}
+- {name: Port Tobacco}
+- {name: Potomac}
+- {name: Preston}
+- {name: Prince Frederick}
+- {name: Princess Anne}
+- {name: Pylesville}
+- {name: Quantico}
+- {name: Queenstown}
+- {name: Randallstown}
+- {name: Rawlings}
+- {name: Rehobeth}
+- {name: Reisterstown}
+- {name: Rhodesdale}
+- {name: Riderwood}
+- {name: Ridge}
+- {name: Ridgely}
+- {name: Rising Sun}
+- {name: Riva}
+- {name: Riverdale}
+- {name: Rock Hall}
+- {name: Rockville}
+- {name: Rocky Ridge}
+- {name: Rohrersville}
+- {name: Rosedale}
+- {name: Royal Oak}
+- {name: Sabillasville}
+- {name: Saint Inigoes}
+- {name: Saint Leonard}
+- {name: Saint Michaels}
+- {name: Salisbury}
+- {name: Sandy Spring}
+- {name: Savage}
+- {name: Scotland}
+- {name: Secretary}
+- {name: Severn}
+- {name: Severna Park}
+- {name: Shady Side}
+- {name: Sharpsburg}
+- {name: Sharptown}
+- {name: Showell}
+- {name: Silver Spring}
+- {name: Simpsonville}
+- {name: Smithsburg}
+- {name: Snow Hill}
+- {name: Solomons}
+- {name: Southern Md Facility}
+- {name: Sparks Glencoe}
+- {name: Sparrows Point}
+- {name: Spencerville}
+- {name: Stevenson}
+- {name: Stevensville}
+- {name: Still Pond}
+- {name: Street}
+- {name: Suburb Maryland Fac}
+- {name: Sudlersville}
+- {name: Suitland}
+- {name: Sunderland}
+- {name: Swanton}
+- {name: Sykesville}
+- {name: Takoma Park}
+- {name: Tall Timbers}
+- {name: Taneytown}
+- {name: Taylors Island}
+- {name: Temple Hills}
+- {name: Thurmont}
+- {name: Towson}
+- {name: Tracys Landing}
+- {name: Trappe}
+- {name: Tuscarora}
+- {name: Tyaskin}
+- {name: Union Bridge}
+- {name: Upper Marlboro}
+- {name: Upperco}
+- {name: Valley Lee}
+- {name: Vienna}
+- {name: Waldorf}
+- {name: Walkersville}
+- {name: Warwick}
+- {name: Washington Grove}
+- {name: Welcome}
+- {name: West Friendship}
+- {name: West River}
+- {name: Westernport}
+- {name: Westminster}
+- {name: Westover}
+- {name: White Hall}
+- {name: White Marsh}
+- {name: White Plains}
+- {name: Whiteford}
+- {name: Willards}
+- {name: Williamsport}
+- {name: Windsor Mill}
+- {name: Wingate}
+- {name: Wittman}
+- {name: Woodbine}
+- {name: Woodsboro}
+- {name: Woodstock}
+- {name: Worton}
+- {name: Wye Mills}

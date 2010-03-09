@@ -1,87 +1,14 @@
-- cities:
-  - {name: Ariana}
-  - {name: Aryanah}
-  - {name: Bardaw}
-  - {name: Belv}
-  - {name: Kasbah}
-  - {name: Manouba}
-  - {name: Manubah}
-  - {name: Tunis}
-  code: '26'
-  name: ''
-- cities:
-  - {name: Qafsah}
-  code: '30'
-  name: ''
-- cities:
-  - {name: Jammal}
-  - {name: Manzil Kamil}
-  - {name: Monastir}
-  - {name: Qasr Hallal}
-  code: '16'
-  name: Al Munastir
-- cities:
-  - {name: Kairouan}
-  code: '03'
-  name: Al Qayrawan
-- cities:
-  - {name: B}
-  - {name: Bajah}
-  code: '17'
-  name: Bajah
-- cities:
-  - {name: Bizerte}
-  - {name: El Alia}
-  - {name: Manzil Bu Ruqaybah}
-  - {name: Manzil Jamil}
-  - {name: Taburbah}
-  code: '18'
-  name: Banzart
-- cities:
-  - {name: Le Kef}
-  code: '14'
-  name: Kef
-- cities:
-  - {name: Marsa}
-  code: '28'
-  name: Madanin
-- cities:
-  - {name: Hammamet}
-  - {name: Manzil Bu Zalafah}
-  - {name: Nabeul}
-  - {name: Nabul}
-  - {name: Qurunbaliyah}
-  - {name: Sulayman}
-  - {name: Taklisah}
-  code: '19'
-  name: Nabul
-- cities:
-  - {name: Ben Rhilouf}
-  - {name: Qabis}
-  code: '29'
-  name: Qabis
-- cities:
-  - {name: Safaqis}
-  - {name: Sfax}
-  code: '32'
-  name: Safaqis
-- cities:
-  - {name: Bir El Bey}
-  - {name: Harqalah}
-  - {name: Sousse}
-  - {name: Susah}
-  - {name: Zawiyat Susah}
-  code: '23'
-  name: Susah
-- cities:
-  - {name: Ben Arous}
-  - {name: Hammam-lif}
-  - {name: Maqrin}
-  - {name: Rad}
-  - {name: Radis}
-  code: '36'
-  name: Tunis
-- cities:
-  - {name: Zaghouan}
-  code: '37'
-  name: Zaghwan
+- {code: '26', name: ''}
+- {code: '30', name: ''}
+- {code: '16', name: Al Munastir}
+- {code: '03', name: Al Qayrawan}
+- {code: '17', name: Bajah}
+- {code: '18', name: Banzart}
+- {code: '14', name: Kef}
+- {code: '28', name: Madanin}
+- {code: '19', name: Nabul}
+- {code: '29', name: Qabis}
+- {code: '32', name: Safaqis}
+- {code: '23', name: Susah}
+- {code: '36', name: Tunis}
+- {code: '37', name: Zaghwan}

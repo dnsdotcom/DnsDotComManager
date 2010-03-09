@@ -1,0 +1,329 @@
+- {name: Babice}
+- {name: Balin}
+- {name: Barglowka}
+- {name: Bedzin}
+- {name: Belk}
+- {name: Bestwina}
+- {name: Bestwinka}
+- {name: Bierun}
+- {name: Biskupice}
+- {name: Blazejowice}
+- {name: Bobrowniki}
+- {name: Bogucin Maly}
+- {name: Bojan}
+- {name: Bojsz}
+- {name: Bojszowy}
+- {name: Bolecin}
+- {name: Boleslaw}
+- {name: Borki}
+- {name: Borowa Wies}
+- {name: Borowiec}
+- {name: Borucin}
+- {name: Bory}
+- {name: Brudzowice}
+- {name: Brynek}
+- {name: Brzeszcze}
+- {name: Brzezce}
+- {name: Brzezie}
+- {name: Brzezinka}
+- {name: Brzeznica}
+- {name: Brzoz}
+- {name: Budziska}
+- {name: Bujak}
+- {name: Bukowina}
+- {name: Bukowno}
+- {name: Byczyna}
+- {name: Bydlin}
+- {name: Bykowina}
+- {name: Bytom}
+- {name: Chalupki}
+- {name: Chechlo}
+- {name: Chelm}
+- {name: Chorz}
+- {name: Chrzan}
+- {name: Chrzastowice}
+- {name: Chwalecice}
+- {name: Chwalowice}
+- {name: Ciezkowice}
+- {name: Cwiklice}
+- {name: Czark}
+- {name: Czarna Huta}
+- {name: Czarny Las}
+- {name: Czechowice}
+- {name: Czechowice-dziedzice}
+- {name: Czekan}
+- {name: Czeladz}
+- {name: Czerwionka}
+- {name: Czulow}
+- {name: Czyzowice}
+- {name: Dabrowa Gornicza}
+- {name: Dabrowka}
+- {name: Dobieszowice}
+- {name: Dobra}
+- {name: Frelich}
+- {name: Frydek}
+- {name: Fugas}
+- {name: G}
+- {name: Gaszowice}
+- {name: Gieraltowice}
+- {name: Gilowice}
+- {name: Gliwice}
+- {name: Goczalkowice}
+- {name: Goczalkowice Zdroj}
+- {name: God}
+- {name: Gogolowa}
+- {name: Golaczewy}
+- {name: Golasowice}
+- {name: Golasza Dolna}
+- {name: Golkowice}
+- {name: Goluchowice}
+- {name: Golysz}
+- {name: Gorka}
+- {name: Gorzyce}
+- {name: Gorzyczki}
+- {name: Grab}
+- {name: Grabowa}
+- {name: Granica}
+- {name: Grodziec}
+- {name: Grzawa}
+- {name: Huta}
+- {name: Imielin}
+- {name: Jan}
+- {name: Jankowice}
+- {name: Jankowice Rybnickie}
+- {name: Jaroszowice}
+- {name: Jaroszowiec}
+- {name: Jaskowice}
+- {name: Jastrzebie}
+- {name: Jastrzebie Zdroj}
+- {name: Jawiszowice}
+- {name: Jaworzno}
+- {name: Jedlina}
+- {name: Jejkowice}
+- {name: Kaczyce}
+- {name: Kaczyce G}
+- {name: Kamien}
+- {name: Kamieniec}
+- {name: Kamionka}
+- {name: Karb}
+- {name: Karchowice}
+- {name: Karniowice}
+- {name: Katy}
+- {name: Kazimierz}
+- {name: Kleszcz}
+- {name: Klimont}
+- {name: Klodnica}
+- {name: Klucze}
+- {name: Knur}
+- {name: Kobi}
+- {name: Kobielice}
+- {name: Kolonia}
+- {name: Konczyce Male}
+- {name: Kornowac}
+- {name: Koscielec}
+- {name: Kozle}
+- {name: Kozlow}
+- {name: Kr}
+- {name: Krostoszowice}
+- {name: Krupski Mlyn}
+- {name: Kryry}
+- {name: Krzanowice}
+- {name: Krzyzanowice}
+- {name: Kuznia Raciborska}
+- {name: Kuznica Raciborska}
+- {name: Kwasniow Dolny}
+- {name: Lacza}
+- {name: Lagiewniki}
+- {name: Laka}
+- {name: Lance}
+- {name: Lany}
+- {name: Laski}
+- {name: Laziska}
+- {name: Laziska Gorne}
+- {name: Lazy}
+- {name: Ledziny}
+- {name: Leka}
+- {name: Libiaz}
+- {name: Lipiny}
+- {name: Lipowiec}
+- {name: Lobzow}
+- {name: Lubomia}
+- {name: Lukow}
+- {name: Luszowice}
+- {name: Lyski}
+- {name: Malinowice}
+- {name: Marcisz}
+- {name: Maria}
+- {name: Marklowice}
+- {name: Marklowice Gorne}
+- {name: Mazancowice}
+- {name: Miasteczko}
+- {name: Miasteczko Slaskie}
+- {name: Miedzna}
+- {name: Mierzecice}
+- {name: Mikolow}
+- {name: Mloszowa}
+- {name: Mlyny}
+- {name: Mokre}
+- {name: Mosciska}
+- {name: Moscisko}
+- {name: Moszczenica}
+- {name: Mszana}
+- {name: Myslachowice}
+- {name: Myslowice}
+- {name: Naklo}
+- {name: Nedza}
+- {name: Nieborowice}
+- {name: Niedobczyce}
+- {name: Niegowonice}
+- {name: Niemce}
+- {name: Niewiesze}
+- {name: Niwiska}
+- {name: Nowe Chechlo}
+- {name: Ogrodzieniec}
+- {name: Olewin}
+- {name: Olkusz}
+- {name: Olszyny}
+- {name: Ornontowice}
+- {name: Orzech}
+- {name: Orzesze}
+- {name: Osiek}
+- {name: Osiny}
+- {name: Ozarowice}
+- {name: Paczyna}
+- {name: Pani}
+- {name: Pawlow}
+- {name: Pawlowice}
+- {name: Piasek}
+- {name: Piaski}
+- {name: Piece}
+- {name: Piekary Slaskie}
+- {name: Pielgrzymowice}
+- {name: Pietrowice Wielkie}
+- {name: Pila Koscielecka}
+- {name: Pilchowice}
+- {name: Pilica}
+- {name: Piotrowice}
+- {name: Pisarzowice}
+- {name: Plaza}
+- {name: Plebiscytowa}
+- {name: Pni}
+- {name: Podlas}
+- {name: Podlesie}
+- {name: Podzamcze}
+- {name: Pogrzebien}
+- {name: Pogwizd}
+- {name: Polomia}
+- {name: Poniszowice}
+- {name: Porabka}
+- {name: Poreba}
+- {name: Pruchna}
+- {name: Przecieszyn}
+- {name: Przyszowice}
+- {name: Psary}
+- {name: Psz}
+- {name: Pszczyna}
+- {name: Pyrzowice}
+- {name: Pyskowice}
+- {name: Rachowice}
+- {name: Racib}
+- {name: Radlin}
+- {name: Radostowice}
+- {name: Radziej}
+- {name: Radzionk}
+- {name: Rog}
+- {name: Rogoznik}
+- {name: Rokitno Szlacheckie}
+- {name: Ruda}
+- {name: Ruda Slaska}
+- {name: Rudnik}
+- {name: Rudno}
+- {name: Rudoltowice}
+- {name: Rudy}
+- {name: Rudziczka}
+- {name: Rudziniec}
+- {name: Rybna}
+- {name: Rybnik}
+- {name: Rycz}
+- {name: Rydultowy}
+- {name: Rzuch}
+- {name: Saczow}
+- {name: Siemianowice}
+- {name: Siemianowice Slaskie}
+- {name: Sierak}
+- {name: Siewierz}
+- {name: Skidzin}
+- {name: Skrzysz}
+- {name: Slawkow}
+- {name: Smolnica}
+- {name: Sosnicowice}
+- {name: Sosnowiec}
+- {name: Stanice}
+- {name: Stara Wies}
+- {name: Strzyzowice}
+- {name: Studzienice}
+- {name: Studzionka}
+- {name: Sulik}
+- {name: Suszec}
+- {name: Swibie}
+- {name: Swierklaniec}
+- {name: Swierklany}
+- {name: Swierklany Gorne}
+- {name: Swietochlowice}
+- {name: Szczejkowice}
+- {name: Szeroka}
+- {name: Szonowice}
+- {name: Tacisz}
+- {name: Tapkowice}
+- {name: Tarnowice}
+- {name: Tarnowskie G}
+- {name: Toszek}
+- {name: Trawniki}
+- {name: Trzebinia}
+- {name: Turza}
+- {name: Turza Slaska}
+- {name: Turze}
+- {name: Twor}
+- {name: Tworog Maly}
+- {name: Tychy}
+- {name: Uchylsko}
+- {name: Warszowice}
+- {name: Wesola}
+- {name: Wielopole}
+- {name: Wielowies}
+- {name: Wierbka}
+- {name: Wierzbica}
+- {name: Wierzchowiska}
+- {name: Wieszowa}
+- {name: Wilcza}
+- {name: Wisla Wielka}
+- {name: Wodzislaw}
+- {name: Wodzislaw Slaski}
+- {name: Wojkowice}
+- {name: Wola}
+- {name: Wolbrom}
+- {name: Wygielzow}
+- {name: Wymyslow}
+- {name: Wyry}
+- {name: Wysoka}
+- {name: Zabkowice}
+- {name: Zaborze}
+- {name: Zabrodzie}
+- {name: Zabrze}
+- {name: Zabrzeg}
+- {name: Zag}
+- {name: Zaleze}
+- {name: Zarki}
+- {name: Zarnowiec}
+- {name: Zarzecze}
+- {name: Zawada}
+- {name: Zawiercie}
+- {name: Zbroslawice}
+- {name: Zebrzydowice}
+- {name: Zendek}
+- {name: Zernica}
+- {name: Zielona}
+- {name: Ziemiecice}
+- {name: Zory}
+- {name: Zwierzyniec}
+- {name: Zwonowice}

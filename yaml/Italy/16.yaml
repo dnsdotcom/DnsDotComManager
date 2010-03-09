@@ -1,0 +1,420 @@
+- {name: Abbadia}
+- {name: Abbadia San Salvatore}
+- {name: Agliana}
+- {name: Agnano}
+- {name: Alberese}
+- {name: Altopascio}
+- {name: Ambra}
+- {name: Antella}
+- {name: Antignano}
+- {name: Antona}
+- {name: Apuania}
+- {name: Aquilea}
+- {name: Arcetri}
+- {name: Arcidosso}
+- {name: Arezzo}
+- {name: Argiano}
+- {name: Artimino}
+- {name: Asciano}
+- {name: Avenza}
+- {name: Badia Agnano}
+- {name: Bagno A Ripoli}
+- {name: Bagnoli}
+- {name: Barberino}
+- {name: Barberino Di Mugello}
+- {name: Barga}
+- {name: Battifolle}
+- {name: Bettolle}
+- {name: Bibbona}
+- {name: Bientina}
+- {name: Bolgheri}
+- {name: Borgo A Mozzano}
+- {name: Borgo San Lorenzo}
+- {name: Borro}
+- {name: Borselli}
+- {name: Bucciano}
+- {name: Bucine}
+- {name: Buonconvento}
+- {name: Buriano}
+- {name: Buti}
+- {name: Cala Galera}
+- {name: Calambrone}
+- {name: Calci}
+- {name: Calcinaia}
+- {name: Caldana}
+- {name: Calenzano}
+- {name: Camaiore}
+- {name: Campagnatico}
+- {name: Campese}
+- {name: Campi Bisenzio}
+- {name: Campiglia Marittima}
+- {name: Campo}
+- {name: Camporcioni}
+- {name: Camporgiano}
+- {name: Camucia}
+- {name: Cana}
+- {name: Cantagallo}
+- {name: Cantagrillo}
+- {name: Capalbio}
+- {name: Capannoli}
+- {name: Capannori}
+- {name: Capezzana}
+- {name: Capoliveri}
+- {name: Capraia}
+- {name: Carrara}
+- {name: Casa Villa}
+- {name: Casale Marittimo}
+- {name: Casciana Terme}
+- {name: Cascina}
+- {name: Case}
+- {name: Casellina}
+- {name: Casole D'elsa}
+- {name: Castagneto Carducci}
+- {name: Castel Del Piano}
+- {name: Castelfalfi}
+- {name: Castelfiorentino}
+- {name: Castellina Marittima}
+- {name: Castiglion Fibocchi}
+- {name: Castiglion Fiorentino}
+- {name: Castiglioncello}
+- {name: Cavo}
+- {name: Cavriglia}
+- {name: Cecina}
+- {name: Cedri}
+- {name: Cerbaia}
+- {name: Cerreto Guidi}
+- {name: Certaldo}
+- {name: Cesa}
+- {name: Chi}
+- {name: Chiani}
+- {name: Chiesina Uzzanese}
+- {name: Chiusdino}
+- {name: Chiusure}
+- {name: Cinigiano}
+- {name: Cinquale}
+- {name: Colle Val D'elsa}
+- {name: Collodi}
+- {name: Colomb}
+- {name: Compiobbi}
+- {name: Corti}
+- {name: Cortona}
+- {name: Cotone}
+- {name: Crespina}
+- {name: Cretaio}
+- {name: Culla}
+- {name: Cura Nuova}
+- {name: Cutigliano}
+- {name: Diecimo}
+- {name: Donnini}
+- {name: Elmo}
+- {name: Empoli}
+- {name: Fabbriche}
+- {name: Fabbriche Di Vallico}
+- {name: Fattoria}
+- {name: Fauglia}
+- {name: Fedi}
+- {name: Fiesole}
+- {name: Figline Valdarno}
+- {name: Firenze}
+- {name: Florence}
+- {name: Florentia}
+- {name: Florenz}
+- {name: Focette}
+- {name: Foiano}
+- {name: Foiano Della Chiana}
+- {name: Follonica}
+- {name: Fonteblanda}
+- {name: Fonterutoli}
+- {name: Fornacelle}
+- {name: Fornacette}
+- {name: Forte Dei Marmi}
+- {name: Fosso}
+- {name: Frassine}
+- {name: Fucecchio}
+- {name: Gagno}
+- {name: Gaiole In Chianti}
+- {name: Gallena}
+- {name: Galliano}
+- {name: Gallicano}
+- {name: Galluzzo}
+- {name: Gambassi}
+- {name: Gavorrano}
+- {name: Gello}
+- {name: Gherardi}
+- {name: Ghivizzano}
+- {name: Giglio}
+- {name: Giogoli}
+- {name: Grassina}
+- {name: Greve}
+- {name: Grosseto}
+- {name: Grotte}
+- {name: Guardistallo}
+- {name: Guasticce}
+- {name: Il Fabbro}
+- {name: Il Portico}
+- {name: Impruneta}
+- {name: Incisa}
+- {name: La Cava}
+- {name: La Chiocciola}
+- {name: La Collina}
+- {name: La Colonna}
+- {name: La Croce}
+- {name: La Dispensa}
+- {name: La Serra}
+- {name: La Ville}
+- {name: Laiatico}
+- {name: Lamole}
+- {name: Lamporecchio}
+- {name: Larderello}
+- {name: Lari}
+- {name: Lastra A Signa}
+- {name: Laterina}
+- {name: Latignano}
+- {name: Lavaiano}
+- {name: Lazzeretto}
+- {name: Le Case}
+- {name: Leccio}
+- {name: Leghorn}
+- {name: Levane}
+- {name: Lido Di Camaiore}
+- {name: Limite}
+- {name: Linari}
+- {name: Livorn}
+- {name: Livorno}
+- {name: Lornano}
+- {name: Lucca}
+- {name: Luciana}
+- {name: Luciano}
+- {name: Lucignano}
+- {name: Magazzini}
+- {name: Magliano In Toscana}
+- {name: Manciano}
+- {name: Manzano}
+- {name: Marciana}
+- {name: Marciana Marina}
+- {name: Marciano}
+- {name: Maresca}
+- {name: Marina Di Carrara}
+- {name: Marina Di Pietrasanta}
+- {name: Marina Di Pisa}
+- {name: Marinella}
+- {name: Marlia}
+- {name: Marliana}
+- {name: Marmi}
+- {name: Marti}
+- {name: Marzolo}
+- {name: Massa}
+- {name: Massa E Cozzile}
+- {name: Massa Marittima}
+- {name: Massarosa}
+- {name: Mattone}
+- {name: Migliarino Pisano}
+- {name: Migliorini}
+- {name: Minucciano}
+- {name: Moccia}
+- {name: Molazzana}
+- {name: Molinelli}
+- {name: Monsagrati}
+- {name: Monsummano}
+- {name: Monsummano Terme}
+- {name: Montaione}
+- {name: Montalcino}
+- {name: Montale}
+- {name: Monte Cucco}
+- {name: Monte San Savino}
+- {name: Montecalvo}
+- {name: Montecalvoli}
+- {name: Montecarlo}
+- {name: Montecastelli}
+- {name: Montecatini}
+- {name: Montecatini Terme}
+- {name: Montecuccoli}
+- {name: Montefalcone}
+- {name: Montefoscoli}
+- {name: Montelupo}
+- {name: Montelupo Fiorentino}
+- {name: Montemagno}
+- {name: Montemurlo}
+- {name: Monteriggioni}
+- {name: Monteroni}
+- {name: Montesecco}
+- {name: Montespertoli}
+- {name: Montevarchi}
+- {name: Monteverdi}
+- {name: Monticiano}
+- {name: Montieri}
+- {name: Montignoso}
+- {name: Montopoli In Val D'arno}
+- {name: Montorio}
+- {name: Mosciano}
+- {name: Murlo}
+- {name: Muro}
+- {name: Navacchio}
+- {name: Nicola}
+- {name: Nunziatella}
+- {name: Olmi}
+- {name: Orbetello}
+- {name: Ortonovo}
+- {name: Ossaia}
+- {name: Palagio}
+- {name: Palaia}
+- {name: Pancole}
+- {name: Panzano}
+- {name: Parezzana}
+- {name: Peccioli}
+- {name: Pelago}
+- {name: Pergine}
+- {name: Pergine Valdarno}
+- {name: Pescaglia}
+- {name: Pescaia}
+- {name: Pescia}
+- {name: Piaggiori}
+- {name: Pian Di Sc}
+- {name: Piancastagnaio}
+- {name: Pianore}
+- {name: Piastre}
+- {name: Piazza Al Serchio}
+- {name: Pienza}
+- {name: Pietrasanta}
+- {name: Pieve}
+- {name: Pieve A Salti}
+- {name: Pieve Fosciana}
+- {name: Pinocchio}
+- {name: Piombino}
+- {name: Pisa}
+- {name: Pistoia}
+- {name: Piteglio}
+- {name: Pitigliano}
+- {name: Poggibonsi}
+- {name: Poggio A Caiano}
+- {name: Pomarance}
+- {name: Ponsacco}
+- {name: Pontass}
+- {name: Pontassieve}
+- {name: 'Ponte A '}
+- {name: Ponte A Elsa}
+- {name: Ponte A Moriano}
+- {name: Ponte Buggianese}
+- {name: Pontedera}
+- {name: Pontelungo}
+- {name: Porcari}
+- {name: Porto Azzurro}
+- {name: Porto Ercole}
+- {name: Portoferraio}
+- {name: Pozzolatico}
+- {name: Prata}
+- {name: Pratantico}
+- {name: Prato}
+- {name: Pratolino}
+- {name: Procchio}
+- {name: Puntone}
+- {name: Puntoni}
+- {name: Quarrata}
+- {name: Querceta}
+- {name: Querceto}
+- {name: Radda}
+- {name: Radda In Chianti}
+- {name: Radicondoli}
+- {name: Rapolano Terme}
+- {name: Reggello}
+- {name: Ricasoli}
+- {name: Riccio}
+- {name: Rigutino}
+- {name: Rinaldi}
+- {name: Rio Marina}
+- {name: Riotorto}
+- {name: Riparbella}
+- {name: Roccastrada}
+- {name: Roccatederighi}
+- {name: Rosia}
+- {name: Rosignano Marittimo}
+- {name: Rosignano Solvay}
+- {name: Rosina}
+- {name: Rufina}
+- {name: Ruota}
+- {name: Salaiola}
+- {name: Sambuca Pistoiese}
+- {name: San Andrea}
+- {name: San Casciano In Val Di Pesa}
+- {name: San Casciano Val Di Pesa}
+- {name: San Donato In Poggio}
+- {name: San Gimignano}
+- {name: San Giovanni Valdarno}
+- {name: San Giuliano Terme}
+- {name: San Giusto}
+- {name: San Marcello Pistoiese}
+- {name: San Marziale}
+- {name: San Miniato}
+- {name: San Piero A Sieve}
+- {name: San Rocco A Pilli}
+- {name: San Sano}
+- {name: San Vincenti}
+- {name: San Vincenzo}
+- {name: Santa Fiora}
+- {name: Santa Luce}
+- {name: Santa Maria A Monte}
+- {name: Sassetta}
+- {name: Sassi}
+- {name: Saturnia}
+- {name: Scandicci}
+- {name: Scansano}
+- {name: Scarlino}
+- {name: Schignano}
+- {name: Seano}
+- {name: Seggiano}
+- {name: Seravezza}
+- {name: Serini}
+- {name: Serravalle Pistoiese}
+- {name: Serre}
+- {name: Sesto}
+- {name: Sesto Fiorentino}
+- {name: Settignano}
+- {name: Siena}
+- {name: Signa}
+- {name: Sillano}
+- {name: Sinalunga}
+- {name: Sorano}
+- {name: Sovana}
+- {name: Sovicille}
+- {name: Spinelli}
+- {name: Stabbia}
+- {name: Starda}
+- {name: Stazzema}
+- {name: Sticciano}
+- {name: Stigliano}
+- {name: Strada In Chianti}
+- {name: Subbiano}
+- {name: Suvereto}
+- {name: Tatti}
+- {name: Tegoia}
+- {name: Tegoleto}
+- {name: Terra Rossa}
+- {name: Terricciola}
+- {name: Tirrenia}
+- {name: Torre Del Lago}
+- {name: Torre Del Lago Puccini}
+- {name: Tre Colli}
+- {name: Triana}
+- {name: Uliveto Terme}
+- {name: Uzzano}
+- {name: Vada}
+- {name: Vaiano}
+- {name: Valiano}
+- {name: Valli}
+- {name: Valpiana}
+- {name: Vecchia}
+- {name: Vecchiano}
+- {name: Vellano}
+- {name: Venturina}
+- {name: Vescona}
+- {name: Vezza}
+- {name: Viareggio}
+- {name: Vicarello}
+- {name: Vicopisano}
+- {name: Villa Basilica}
+- {name: Villa Del Monte}
+- {name: Vinca}
+- {name: Vinci}
+- {name: Volterra}
+- {name: Zambra}
+- {name: Zanca}

@@ -1,0 +1,257 @@
+- {name: Albaredo}
+- {name: Aldeno}
+- {name: Algund}
+- {name: Andalo}
+- {name: Anterselva}
+- {name: Appiano}
+- {name: Arche}
+- {name: Arco}
+- {name: Auna Di Sotto}
+- {name: Avelengo}
+- {name: Baselga Di Pin}
+- {name: Bedollo}
+- {name: Bertoldi}
+- {name: Besenello}
+- {name: Bolzano}
+- {name: Bono}
+- {name: Bormio}
+- {name: Bosentino}
+- {name: Bozen}
+- {name: Branzoll}
+- {name: Brenner}
+- {name: Brennero}
+- {name: Bressanone}
+- {name: Brixen}
+- {name: Bronzolo}
+- {name: Bruneck}
+- {name: Brunico}
+- {name: Cadine}
+- {name: Cais}
+- {name: Calavino}
+- {name: Caldaro}
+- {name: Caldonazzo}
+- {name: Calliano}
+- {name: Campo Di Trens}
+- {name: Campo Tures}
+- {name: Campodenno}
+- {name: Capo Di Ponte}
+- {name: Carbonara}
+- {name: Cardano}
+- {name: Cares}
+- {name: Carisolo}
+- {name: Casetti}
+- {name: Cassana}
+- {name: Castelbello}
+- {name: Castelrotto}
+- {name: Cavareno}
+- {name: Cedegolo}
+- {name: Cembra}
+- {name: Ceola}
+- {name: Ceres}
+- {name: Cermes}
+- {name: Ceto}
+- {name: Cevo}
+- {name: Chienes}
+- {name: Civezzano}
+- {name: Cles}
+- {name: Cognola}
+- {name: Collalbo}
+- {name: Comano}
+- {name: Contrada}
+- {name: Coredo}
+- {name: Cortaccia}
+- {name: Cultura}
+- {name: Denno}
+- {name: Dimaro}
+- {name: Dobbiaco}
+- {name: Edolo}
+- {name: Egna}
+- {name: Faida}
+- {name: Falzes}
+- {name: Feldthurns}
+- {name: Fiav}
+- {name: Fleres}
+- {name: Floronzo}
+- {name: Folgaria}
+- {name: Fondo}
+- {name: Foppa}
+- {name: Forst}
+- {name: Fortezza}
+- {name: Frangart}
+- {name: Frangarto}
+- {name: Franzensfeste}
+- {name: Frena}
+- {name: Gais}
+- {name: Garda}
+- {name: Gargazon}
+- {name: Gargazzone}
+- {name: Girlan}
+- {name: Gola}
+- {name: Grosio}
+- {name: Grosotto}
+- {name: I Laghetti}
+- {name: Innichen}
+- {name: Kaltern}
+- {name: Kiens}
+- {name: Klausen}
+- {name: Kurtatsch}
+- {name: L}
+- {name: La Via}
+- {name: Laas}
+- {name: Laces}
+- {name: Lagarina}
+- {name: Laghetti}
+- {name: Lagundo}
+- {name: Laion}
+- {name: Laives}
+- {name: Lana}
+- {name: Larcher}
+- {name: Lasa}
+- {name: Lasino}
+- {name: Lastebasse}
+- {name: Latsch}
+- {name: Laurein}
+- {name: Lavis}
+- {name: Leifers}
+- {name: Levico}
+- {name: Levico Terme}
+- {name: Livigno}
+- {name: Livo}
+- {name: Longega}
+- {name: Lovero}
+- {name: Lunz}
+- {name: Luttach}
+- {name: Madonna Della Pace}
+- {name: Madonna Di Campiglio}
+- {name: Magr}
+- {name: Mal}
+- {name: Malonno}
+- {name: Marco}
+- {name: Marebbe}
+- {name: Marlengo}
+- {name: Marling}
+- {name: Maso Corto}
+- {name: Masseria}
+- {name: Mattarello}
+- {name: Mazia}
+- {name: Mazzo}
+- {name: Mendola}
+- {name: Merano}
+- {name: Mezzocorona}
+- {name: Mezzolombardo}
+- {name: Mocenigo}
+- {name: Moline}
+- {name: Molini Di Tures}
+- {name: Molveno}
+- {name: Monclassico}
+- {name: Monguelfo}
+- {name: Montagna}
+- {name: Montramito}
+- {name: Mori}
+- {name: Mot}
+- {name: Nago Torbole}
+- {name: Nalles}
+- {name: Naturno}
+- {name: Naturns}
+- {name: Niederdorf}
+- {name: Nomi}
+- {name: Nova Levante}
+- {name: Nova Ponente}
+- {name: Novacella}
+- {name: Novaledo}
+- {name: Oris}
+- {name: Padergnone}
+- {name: Pal}
+- {name: Parcines}
+- {name: Pedraces}
+- {name: Perca}
+- {name: Pergine Valsugana}
+- {name: Perli}
+- {name: Pfunders}
+- {name: Pinzolo}
+- {name: Plata}
+- {name: Plaus}
+- {name: Postal}
+- {name: Prateria}
+- {name: Pratomagno}
+- {name: Preore}
+- {name: Prevalle}
+- {name: Racines}
+- {name: Ras}
+- {name: Rasa}
+- {name: Rino}
+- {name: Rio Di Pusteria}
+- {name: Rodengo}
+- {name: Romagnano}
+- {name: Romeno}
+- {name: Rovereto}
+- {name: Sacco}
+- {name: Salorno}
+- {name: San Candido}
+- {name: Santa Giuliana}
+- {name: Sanzeno}
+- {name: Sarentino}
+- {name: Sarnthein}
+- {name: Saviore}
+- {name: Schabs}
+- {name: Schlanders}
+- {name: Sciaves}
+- {name: Selva Dei Molini}
+- {name: Sexten}
+- {name: Silandro}
+- {name: Siusi}
+- {name: Sondalo}
+- {name: Sonico}
+- {name: Spor}
+- {name: Spormaggiore}
+- {name: Stanga}
+- {name: Stenico}
+- {name: Sterzing}
+- {name: Taio}
+- {name: Taisten}
+- {name: Tassullo}
+- {name: Taufers}
+- {name: Tenno}
+- {name: Terlago}
+- {name: Terlan}
+- {name: Terlano}
+- {name: Termeno}
+- {name: Tione}
+- {name: Tione Di Trento}
+- {name: Tirano}
+- {name: Tires}
+- {name: Tiso}
+- {name: Toblach}
+- {name: Tola}
+- {name: Tram}
+- {name: Trent}
+- {name: Trento}
+- {name: Tres}
+- {name: Tuenno}
+- {name: Turchi}
+- {name: Unterinn}
+- {name: Vahrn}
+- {name: Valdaora}
+- {name: Valfurva}
+- {name: Vandoies Di Sopra}
+- {name: Varna}
+- {name: Varone}
+- {name: Vattaro}
+- {name: Vela}
+- {name: Velturno}
+- {name: Verv}
+- {name: Vico}
+- {name: Vigo}
+- {name: Vigo Rendena}
+- {name: Vigolo Vattaro}
+- {name: Villa Lagarina}
+- {name: Villa Ottone}
+- {name: Villabassa}
+- {name: Villazzano}
+- {name: Vilpiano}
+- {name: Vione}
+- {name: Vipiteno}
+- {name: Vols}
+- {name: Welsberg}
+- {name: Welschnofen}
+- {name: Zola}

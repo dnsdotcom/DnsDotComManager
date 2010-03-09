@@ -1,0 +1,358 @@
+- {name: ''}
+- {name: Abrest}
+- {name: Ainay-le-ch}
+- {name: All}
+- {name: Ally}
+- {name: Ambert}
+- {name: Anliac}
+- {name: Apcher}
+- {name: Arches}
+- {name: Archignat}
+- {name: Ardennes}
+- {name: Ardes}
+- {name: Arlanc}
+- {name: Arlet}
+- {name: Arnaud}
+- {name: Arpajon}
+- {name: Arronnes}
+- {name: Arsac}
+- {name: Arsac-en-velay}
+- {name: Arzon}
+- {name: Aubi}
+- {name: Aulnat}
+- {name: Aurec}
+- {name: Aurillac}
+- {name: Auzelles}
+- {name: Auzon}
+- {name: Avermes}
+- {name: Aydat}
+- {name: Bains}
+- {name: Ballot}
+- {name: Barry}
+- {name: Basset}
+- {name: Bayet}
+- {name: Beaumont}
+- {name: Beauregard-vendon}
+- {name: Beaux}
+- {name: Beauzac}
+- {name: Bellerive}
+- {name: Besson}
+- {name: Beyssac}
+- {name: Billom}
+- {name: Biot}
+- {name: Blanzat}
+- {name: Blavozy}
+- {name: Blesle}
+- {name: Blot}
+- {name: Bloux}
+- {name: Bord}
+- {name: Borde}
+- {name: Bort}
+- {name: Bost}
+- {name: Boucher}
+- {name: Bouchon}
+- {name: Bourbon}
+- {name: Bouzel}
+- {name: Brassac}
+- {name: Brassac-les-mines}
+- {name: Bresnay}
+- {name: Brioude}
+- {name: Brives-charensac}
+- {name: Bro}
+- {name: Bromont-lamothe}
+- {name: C}
+- {name: Caux}
+- {name: Cellule}
+- {name: Cesset}
+- {name: Ceyrat}
+- {name: Ch}
+- {name: Chabreloche}
+- {name: Chadeleuf}
+- {name: Chadrac}
+- {name: Chadron}
+- {name: Chalus}
+- {name: Chamali}
+- {name: Chamboulive}
+- {name: Chambre}
+- {name: Chambres}
+- {name: Champagnat}
+- {name: Champeix}
+- {name: Chanonat}
+- {name: Chantelle}
+- {name: Chappes}
+- {name: Charbonnier}
+- {name: Charmeil}
+- {name: Chaspuzac}
+- {name: Chastel}
+- {name: Chausse}
+- {name: Chaux}
+- {name: Chevagnes}
+- {name: Chirat}
+- {name: Clavi}
+- {name: Clermont-ferrand}
+- {name: Combris}
+- {name: Commentry}
+- {name: Condat}
+- {name: Cordes}
+- {name: Coren}
+- {name: Corent}
+- {name: Cosne}
+- {name: Cosne-d'allier}
+- {name: Coubon}
+- {name: Coudes}
+- {name: Cournols}
+- {name: Cournon}
+- {name: Cournon-d'auvergne}
+- {name: Courpi}
+- {name: Couteaux}
+- {name: Craponne-sur-arzon}
+- {name: Creuzier-le-neuf}
+- {name: Creuzier-le-vieux}
+- {name: Culhat}
+- {name: Cunlhat}
+- {name: Cussac}
+- {name: Cusset}
+- {name: D}
+- {name: Dom}
+- {name: Dompierre-sur-besbre}
+- {name: Dore}
+- {name: Doyet}
+- {name: Duret}
+- {name: Effiat}
+- {name: Enval}
+- {name: Espaly}
+- {name: Farge}
+- {name: Fay}
+- {name: Flat}
+- {name: Fontenilles}
+- {name: Fournier}
+- {name: Fruges}
+- {name: Gagn}
+- {name: Gaine}
+- {name: Gannat}
+- {name: Gelles}
+- {name: Gerzat}
+- {name: Giat}
+- {name: Giou-de-mamou}
+- {name: Givarlais}
+- {name: Gl}
+- {name: Glaine-montaigut}
+- {name: Gourdon}
+- {name: Grenier}
+- {name: H}
+- {name: Hors}
+- {name: Huriel}
+- {name: Hyds}
+- {name: Isserteaux}
+- {name: Issoire}
+- {name: Jaligny}
+- {name: Jenzat}
+- {name: Joubert}
+- {name: Joze}
+- {name: La Bastide}
+- {name: La Bonnette}
+- {name: La Bourboule}
+- {name: La Capelle}
+- {name: La Cha}
+- {name: La Chaumette}
+- {name: La Cit}
+- {name: La Gaillarde}
+- {name: La Jonch}
+- {name: La Justice}
+- {name: La Salvetat}
+- {name: La Sauvetat}
+- {name: Labrousse}
+- {name: Lacapelle}
+- {name: Lair}
+- {name: Landos}
+- {name: Langeac}
+- {name: Langlade}
+- {name: Lapalisse}
+- {name: Laroche}
+- {name: Lastic}
+- {name: Laussonne}
+- {name: Lavalette}
+- {name: Lavaudieu}
+- {name: Lavault-sainte-anne}
+- {name: Lavo}
+- {name: Le Bac}
+- {name: Le Bez}
+- {name: Le Bousquet}
+- {name: Le Broc}
+- {name: Le Cendre}
+- {name: Le Fromental}
+- {name: Le May}
+- {name: Le Mayet}
+- {name: Le Mazet}
+- {name: Le Monastier}
+- {name: Le Mont-dore}
+- {name: Le Montel}
+- {name: Le Montet}
+- {name: Le Trait}
+- {name: Le Vernet}
+- {name: Lempdes}
+- {name: Lery}
+- {name: 'Les '}
+- {name: Les Ancizes}
+- {name: Les Baux}
+- {name: Les Beaux}
+- {name: Les Cailloux}
+- {name: Les Isserts}
+- {name: Les Mines}
+- {name: Les Sarraix}
+- {name: Les Terrasses}
+- {name: Les Villettes}
+- {name: Lescure}
+- {name: Lezoux}
+- {name: Longuesaigne}
+- {name: Lorlanges}
+- {name: Loudes}
+- {name: Loupiac}
+- {name: Loz}
+- {name: Lurcy-l}
+- {name: Lusigny}
+- {name: Magnet}
+- {name: Malintrat}
+- {name: Mallet}
+- {name: Manson}
+- {name: Manzat}
+- {name: Marcenat}
+- {name: Marchal}
+- {name: Marcilhac}
+- {name: Maringues}
+- {name: Marsat}
+- {name: Martres-sur-morge}
+- {name: Maure}
+- {name: Mauriac}
+- {name: Maurs}
+- {name: Mazaye}
+- {name: Mazeyrat}
+- {name: Meaulne}
+- {name: Molinet}
+- {name: Monistrol}
+- {name: Monistrol-sur-loire}
+- {name: Montagnac}
+- {name: Montcombroux-les-mines}
+- {name: Monteil}
+- {name: Montel}
+- {name: Montfaucon}
+- {name: Montfaucon-en-velay}
+- {name: Montgolfier}
+- {name: Montlu}
+- {name: Montmarault}
+- {name: Montmirail}
+- {name: Montpensier}
+- {name: Montredon}
+- {name: Montsalvy}
+- {name: Montvert}
+- {name: Morel}
+- {name: Moulins}
+- {name: Mozac}
+- {name: Murat}
+- {name: Murat-le-quaire}
+- {name: N}
+- {name: Naucelles}
+- {name: Neschers}
+- {name: Neyrial}
+- {name: Nohanent}
+- {name: Nuits}
+- {name: Olby}
+- {name: Olli}
+- {name: Olliergues}
+- {name: Orcet}
+- {name: Orcines}
+- {name: Orl}
+- {name: Ours}
+- {name: P}
+- {name: Palladuc}
+- {name: Pallas}
+- {name: Paray-sous-briailles}
+- {name: Parrot}
+- {name: Paulhac}
+- {name: Paulhaguet}
+- {name: Paulhenc}
+- {name: Perrier}
+- {name: Peschadoires}
+- {name: Pierre}
+- {name: Pionsat}
+- {name: Polminhac}
+- {name: Pont-du-ch}
+- {name: Pontaumur}
+- {name: Pontgibaud}
+- {name: Pouzols}
+- {name: Prompsat}
+- {name: Puy-guillaume}
+- {name: R}
+- {name: Rachat}
+- {name: Rambert}
+- {name: Recours}
+- {name: Recusset}
+- {name: Retournac}
+- {name: Rilhac}
+- {name: Riom}
+- {name: Riom-}
+- {name: Romagnat}
+- {name: Rong}
+- {name: Roussy}
+- {name: Royat}
+- {name: Rozier}
+- {name: S}
+- {name: Sabatier}
+- {name: Saillant}
+- {name: Saint Eloy}
+- {name: Saint Ferr}
+- {name: Saint Gervais}
+- {name: Saint Pal}
+- {name: Saint-angel}
+- {name: Saint-b}
+- {name: Saint-beauzire}
+- {name: Saint-bonnet-de-salers}
+- {name: Saint-cl}
+- {name: Saint-flour}
+- {name: Saint-genes}
+- {name: Saint-germain-des-foss}
+- {name: Saint-germain-lembron}
+- {name: Saint-ignat}
+- {name: Saint-maigner}
+- {name: Saint-myon}
+- {name: Saint-paulien}
+- {name: Saint-pour}
+- {name: Saint-sylvestre-pragoulin}
+- {name: Sainte-anastasie}
+- {name: Sainte-florine}
+- {name: Sainte-sigol}
+- {name: Salomon}
+- {name: Saugues}
+- {name: Savignac}
+- {name: Sayat}
+- {name: Serr}
+- {name: Serres}
+- {name: Servant}
+- {name: Siran}
+- {name: Soulages}
+- {name: Soulasse}
+- {name: Soulier}
+- {name: Talizat}
+- {name: Tallende}
+- {name: Teilh}
+- {name: Tence}
+- {name: Theix}
+- {name: Thiers}
+- {name: Tr}
+- {name: Vallon-en-sully}
+- {name: Vals-pr}
+- {name: Varennes-sur-allier}
+- {name: Vaunac}
+- {name: Vendat}
+- {name: Verne}
+- {name: Vertolaye}
+- {name: Veyre}
+- {name: Vic-le-comte}
+- {name: Vichy}
+- {name: Villefranche-d'allier}
+- {name: Villelongue}
+- {name: Volvic}
+- {name: Voussac}
+- {name: Ydes}
+- {name: Yssingeaux}
+- {name: Yzeure}

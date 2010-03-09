@@ -1,72 +1,10 @@
-- cities:
-  - {name: Albion}
-  - {name: Pointe Aux Sables}
-  code: '12'
-  name: Black River
-- cities:
-  - {name: Bon Accueil}
-  - {name: Camp De Masque}
-  - {name: Centre De Flacq}
-  - {name: Flacq}
-  - {name: Lalmatie}
-  code: '13'
-  name: Flacq
-- cities:
-  - {name: Mah}
-  code: '14'
-  name: Grand Port
-- cities:
-  - {name: Camp Thorel}
-  - {name: Dagoti}
-  - {name: Esp}
-  - {name: Moka}
-  - {name: Montagne Blanche}
-  - {name: Pailles}
-  - {name: Quartier Militaire}
-  - {name: Reduit}
-  - {name: Saint Pierre}
-  code: '15'
-  name: Moka
-- cities:
-  - {name: Baie Du Tombeau}
-  - {name: Le Hochet}
-  - {name: Long Mountain}
-  - {name: Pamplemousses}
-  - {name: Terre Rouge}
-  - {name: Triolet}
-  code: '16'
-  name: Pamplemousses
-- cities:
-  - {name: Beau Bassin}
-  - {name: Curepipe}
-  - {name: Eb}
-  - {name: La Marie}
-  - {name: Malherbes}
-  - {name: Phoenix}
-  - {name: Quatre Bornes}
-  - {name: Rose Hill}
-  - {name: Vacoas}
-  code: '17'
-  name: Plaines Wilhems
-- cities:
-  - {name: Port Louis}
-  code: '18'
-  name: Port Louis
-- cities:
-  - {name: Belle Vue Maurel}
-  - {name: Goodlands}
-  - {name: Grand Baie}
-  - {name: Mapou}
-  - {name: Pereyb}
-  - {name: Petit Raffray}
-  - {name: Piton}
-  code: '19'
-  name: Riviere du Rempart
-- cities:
-  - {name: Port Mathurin}
-  code: '23'
-  name: Rodrigues
-- cities:
-  - {name: Surinam}
-  code: '20'
-  name: Savanne
+- {code: '12', name: Black River}
+- {code: '13', name: Flacq}
+- {code: '14', name: Grand Port}
+- {code: '15', name: Moka}
+- {code: '16', name: Pamplemousses}
+- {code: '17', name: Plaines Wilhems}
+- {code: '18', name: Port Louis}
+- {code: '19', name: Riviere du Rempart}
+- {code: '23', name: Rodrigues}
+- {code: '20', name: Savanne}

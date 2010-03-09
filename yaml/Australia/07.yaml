@@ -1,0 +1,550 @@
+- {name: Alberton}
+- {name: Albion}
+- {name: Alexandra}
+- {name: Alma}
+- {name: Altona}
+- {name: Anderson}
+- {name: Apollo Bay}
+- {name: Apsley}
+- {name: Ararat}
+- {name: Armadale}
+- {name: Arnold}
+- {name: Arundel}
+- {name: Ascot}
+- {name: Ascot Vale}
+- {name: Aspendale}
+- {name: Auburn}
+- {name: Avoca}
+- {name: Bacchus Marsh}
+- {name: Bairnsdale}
+- {name: Baker}
+- {name: Bald Hills}
+- {name: Ballan}
+- {name: Ballarat}
+- {name: Balmoral}
+- {name: Barkly}
+- {name: Barkstead}
+- {name: Barwon}
+- {name: Bass}
+- {name: Baxter}
+- {name: Baynton}
+- {name: Bayswater}
+- {name: Beaconsfield}
+- {name: Beeac}
+- {name: Belgrave}
+- {name: Belgrave Heights}
+- {name: Belgrave South}
+- {name: Bellarine}
+- {name: Bellbrae}
+- {name: Belmont}
+- {name: Bena}
+- {name: Benalla}
+- {name: Bendigo}
+- {name: Bendoc}
+- {name: Berwick}
+- {name: Beulah}
+- {name: Billabong}
+- {name: Black Flat}
+- {name: Black Rock North}
+- {name: Blackwood}
+- {name: Boisdale}
+- {name: Bolinda}
+- {name: Bolton}
+- {name: Bonbeach}
+- {name: Boronia}
+- {name: Box Hill}
+- {name: Braeside}
+- {name: Briar Hill}
+- {name: Bridgewater}
+- {name: Bright}
+- {name: Brighton}
+- {name: Broadford}
+- {name: Broadmeadows}
+- {name: Bromley}
+- {name: Broughton}
+- {name: Browns Plains}
+- {name: Brucknell}
+- {name: Brunswick}
+- {name: Buchan}
+- {name: Buchanan}
+- {name: Bulleen}
+- {name: Buninyong}
+- {name: Bunyip}
+- {name: Burleigh}
+- {name: Buxton}
+- {name: Callignee}
+- {name: Camberwell}
+- {name: Campbell}
+- {name: Campbellfield}
+- {name: Campbelltown}
+- {name: Camperdown}
+- {name: Canadian}
+- {name: Carina}
+- {name: Carrum}
+- {name: Carrum Downs}
+- {name: Castlemaine}
+- {name: Caulfield}
+- {name: Charlton}
+- {name: Chelsea}
+- {name: Chelsea Heights}
+- {name: Cheltenham}
+- {name: Christies}
+- {name: Clarendon}
+- {name: Clayton North}
+- {name: Clifton Springs}
+- {name: Clyde}
+- {name: Cobden}
+- {name: Cobram}
+- {name: Coburg}
+- {name: Cockatoo}
+- {name: Cohuna}
+- {name: Coimadai}
+- {name: Colac}
+- {name: Colbinabbin}
+- {name: Coldstream}
+- {name: Collingwood}
+- {name: Connewarre}
+- {name: Corio}
+- {name: Corryong}
+- {name: Cosgrove}
+- {name: Cow Flat}
+- {name: Cowes}
+- {name: Cowwarr}
+- {name: Craigieburn}
+- {name: Cranbourne}
+- {name: Cremorne}
+- {name: Creswick}
+- {name: Crossover}
+- {name: Croydon}
+- {name: Croydon North}
+- {name: Culgoa}
+- {name: Daisy Hill}
+- {name: Dandenong}
+- {name: Darby}
+- {name: Darch}
+- {name: Darlington}
+- {name: Dawson}
+- {name: Daylesford}
+- {name: Deakin}
+- {name: Dean}
+- {name: Deer Park}
+- {name: Denison}
+- {name: Denver}
+- {name: Derby}
+- {name: Derrimut}
+- {name: Devon}
+- {name: Diamond Creek}
+- {name: Digby}
+- {name: Diggers Rest}
+- {name: Dimboola}
+- {name: Dingley}
+- {name: Donald}
+- {name: Doncaster}
+- {name: Doncaster East}
+- {name: Donnybrook}
+- {name: Donvale}
+- {name: Douglas}
+- {name: Dromana}
+- {name: Drouin}
+- {name: Drummond}
+- {name: Drysdale}
+- {name: Durham Ox}
+- {name: Eaglehawk}
+- {name: Earlston}
+- {name: Eastoakleigh}
+- {name: Echuca}
+- {name: Ecklin South}
+- {name: Eden Park}
+- {name: Edithvale}
+- {name: Egerton}
+- {name: Elaine}
+- {name: Ellerslie}
+- {name: Elmhurst}
+- {name: Elsternwick}
+- {name: Eltham}
+- {name: Eltham North}
+- {name: Elwood}
+- {name: Epping}
+- {name: Epsom}
+- {name: Essendon}
+- {name: Euroa}
+- {name: Evelyn}
+- {name: Everton}
+- {name: Fairhaven}
+- {name: Fawkner}
+- {name: Fenwick}
+- {name: Fern Hill}
+- {name: Ferndale}
+- {name: Fernihurst}
+- {name: Fernshaw}
+- {name: Ferny Creek}
+- {name: Fielder}
+- {name: Fish Creek}
+- {name: Fitzroy}
+- {name: Five Ways}
+- {name: Flinders}
+- {name: Flynn}
+- {name: Footscray}
+- {name: Forest Hill}
+- {name: Forrest}
+- {name: Foster}
+- {name: Framlingham}
+- {name: Frankston}
+- {name: Frankston East}
+- {name: Garfield}
+- {name: Geelong}
+- {name: Geelong West}
+- {name: Giffard}
+- {name: Gisborne}
+- {name: Glen Waverley}
+- {name: Glenorchy}
+- {name: Glenroy}
+- {name: Glenvale}
+- {name: Gordon}
+- {name: Granite}
+- {name: Grant}
+- {name: Great Southern}
+- {name: Greenvale}
+- {name: Grovedale}
+- {name: Guildford}
+- {name: Hallam}
+- {name: Hamilton}
+- {name: Hampton Park}
+- {name: Harcourt}
+- {name: Hastings}
+- {name: Hawthorn}
+- {name: Hazelwood}
+- {name: Healesville}
+- {name: Heathcote}
+- {name: Heathmont}
+- {name: Heidelberg}
+- {name: Hepburn Springs}
+- {name: Highett}
+- {name: Hillcrest}
+- {name: Hillside}
+- {name: Homebush}
+- {name: Homewood}
+- {name: Hopetoun}
+- {name: Horsham}
+- {name: Hunter}
+- {name: Huon}
+- {name: Illawarra}
+- {name: Inglewood}
+- {name: Inverloch}
+- {name: Iona}
+- {name: Irymple}
+- {name: Jancourt}
+- {name: Jordan}
+- {name: Jordanville}
+- {name: Kalimna}
+- {name: Kalkallo}
+- {name: Kalorama}
+- {name: Kaniva}
+- {name: Karnak}
+- {name: Katamatite}
+- {name: Keilor}
+- {name: Kennington}
+- {name: Keon Park}
+- {name: Kerang}
+- {name: Kernot}
+- {name: Kew}
+- {name: Keysborough}
+- {name: Kilcunda}
+- {name: Killara}
+- {name: Kilmore}
+- {name: Kilsyth}
+- {name: Kinglake}
+- {name: Kinglake West}
+- {name: Kingston}
+- {name: Koetong}
+- {name: Korumburra}
+- {name: Kyabram}
+- {name: Kyneton}
+- {name: Labertouche}
+- {name: Lalor}
+- {name: Landsborough}
+- {name: Langley}
+- {name: Langwarrin}
+- {name: Lara}
+- {name: Laverton}
+- {name: Leichardt}
+- {name: Leongatha}
+- {name: Leopold}
+- {name: Lethbridge}
+- {name: Lexton}
+- {name: Lilydale}
+- {name: Lindsay}
+- {name: Linton}
+- {name: Loch}
+- {name: Lockington}
+- {name: Logan}
+- {name: Longford}
+- {name: Lorne}
+- {name: Lower Plenty}
+- {name: Lower Templestowe}
+- {name: Lyndhurst}
+- {name: Lyons}
+- {name: Lyonville}
+- {name: Lysterfield}
+- {name: Macarthur}
+- {name: Macedon}
+- {name: Maffra}
+- {name: Magpie}
+- {name: Maindample}
+- {name: Malmsbury}
+- {name: Malvern}
+- {name: Mangalore}
+- {name: Manor}
+- {name: Mansfield}
+- {name: Maribyrnong}
+- {name: Marshalltown}
+- {name: Melbourne}
+- {name: Melton}
+- {name: Melton South}
+- {name: Mentone}
+- {name: Menzies Creek}
+- {name: Meredith}
+- {name: Merricks}
+- {name: Merricks North}
+- {name: Merton}
+- {name: Milawa}
+- {name: Mildura}
+- {name: Millgrove}
+- {name: Mitre}
+- {name: Moama}
+- {name: Modella}
+- {name: Modewarre}
+- {name: Moe}
+- {name: Monbulk}
+- {name: Montgomery}
+- {name: Montmorency}
+- {name: Montrose}
+- {name: Moolap}
+- {name: Moonee Ponds}
+- {name: Moorabbin}
+- {name: Moorooduc}
+- {name: Mooroolbark}
+- {name: Mooroopna}
+- {name: Mordialloc}
+- {name: Mornington}
+- {name: Morrison}
+- {name: Mortlake}
+- {name: Morwell}
+- {name: Mount Beauty}
+- {name: Mount Best}
+- {name: Mount Clear}
+- {name: Mount Cottrell}
+- {name: Mount Dandenong}
+- {name: Mount Eliza}
+- {name: Mount Evelyn}
+- {name: Mount Martha}
+- {name: Mount Waverley}
+- {name: Mountain View}
+- {name: Moyhu}
+- {name: Mulgrave}
+- {name: Muntham}
+- {name: Murtoa}
+- {name: Myer}
+- {name: Myrtleford}
+- {name: Nagambie}
+- {name: Narrawong}
+- {name: Narre Warren}
+- {name: Narre Warren North}
+- {name: Nathalia}
+- {name: Navigator}
+- {name: Neerim}
+- {name: Nelson}
+- {name: Nerrina}
+- {name: Newham}
+- {name: Newhaven}
+- {name: Newington}
+- {name: Newport}
+- {name: Newry}
+- {name: Newstead}
+- {name: Newtown}
+- {name: Nicholson}
+- {name: Noble Park}
+- {name: Noojee}
+- {name: Noorat}
+- {name: Norlane}
+- {name: North Brighton}
+- {name: North Shore}
+- {name: Northcote}
+- {name: Northwood}
+- {name: Notting Hill}
+- {name: Nowa Nowa}
+- {name: Numurkah}
+- {name: Nunawading}
+- {name: Nyora}
+- {name: Oakleigh}
+- {name: Oakleigh East}
+- {name: Oakleigh South}
+- {name: Ocean Grove}
+- {name: Olinda}
+- {name: Orbost}
+- {name: Orford}
+- {name: Outtrim}
+- {name: Oxley}
+- {name: Pakenham}
+- {name: Panton Hill}
+- {name: Paradise}
+- {name: Parkdale}
+- {name: Parkwood}
+- {name: Pearcedale}
+- {name: Piangil}
+- {name: Pipers Creek}
+- {name: Point Cook}
+- {name: Point Lonsdale}
+- {name: Pomborneit}
+- {name: Port Fairy}
+- {name: Port Franklin}
+- {name: Port Melbourne}
+- {name: Portarlington}
+- {name: Portland}
+- {name: Prahran}
+- {name: Preston}
+- {name: Pyramid Hill}
+- {name: Queenscliff}
+- {name: Queensferry}
+- {name: Raglan}
+- {name: Red Cliffs}
+- {name: Red Hill}
+- {name: Redbank}
+- {name: Regent}
+- {name: Research}
+- {name: Reservoir}
+- {name: Richmond}
+- {name: Ringwood}
+- {name: Ringwood East}
+- {name: Ringwood North}
+- {name: Rochester}
+- {name: Rodborough}
+- {name: Rokeby}
+- {name: Rokewood}
+- {name: Romsey}
+- {name: Rosebery}
+- {name: Rosebud}
+- {name: Rosedale}
+- {name: Rowville}
+- {name: Rutherglen}
+- {name: Rye}
+- {name: Saint Albans}
+- {name: Saint Kilda}
+- {name: Sale}
+- {name: Salisbury}
+- {name: Sandown Park}
+- {name: Sandringham}
+- {name: Sassafras}
+- {name: Scoresby}
+- {name: Seaford}
+- {name: Seaton}
+- {name: Sebastopol}
+- {name: Seymour}
+- {name: Shady Creek}
+- {name: Shelbourne}
+- {name: Shepparton}
+- {name: Silvan}
+- {name: Sinclair}
+- {name: Smythes Creek}
+- {name: Somerton}
+- {name: Somerville}
+- {name: Sorrento}
+- {name: South Morang}
+- {name: South Yarra}
+- {name: Southern Cross}
+- {name: Speed}
+- {name: Spring Hill}
+- {name: Springfield}
+- {name: Springvale}
+- {name: Springvale South}
+- {name: Stanhope}
+- {name: Stanley}
+- {name: Stawell}
+- {name: Steiglitz}
+- {name: Stirling}
+- {name: Stockdale}
+- {name: Strath Creek}
+- {name: Strathfieldsaye}
+- {name: Strathmore}
+- {name: Sunbury}
+- {name: Sunshine}
+- {name: Sutherland}
+- {name: Swan Hill}
+- {name: Swan Reach}
+- {name: Swifts Creek}
+- {name: Sydenham}
+- {name: Syndal}
+- {name: Tabor}
+- {name: Tallangatta}
+- {name: Tally Ho}
+- {name: Tarneit}
+- {name: Tatura}
+- {name: Tawonga}
+- {name: Templestowe}
+- {name: Templestowe Lower}
+- {name: Tennyson}
+- {name: The Basin}
+- {name: The Patch}
+- {name: Thomastown}
+- {name: Tinamba}
+- {name: Tittybong}
+- {name: Tooborac}
+- {name: Toolamba}
+- {name: Toolern Vale}
+- {name: Toongabbie}
+- {name: Traralgon}
+- {name: Trentham}
+- {name: Truganina}
+- {name: Tullamarine}
+- {name: Tylden}
+- {name: Ultima}
+- {name: Upwey}
+- {name: Valhalla}
+- {name: Vermont}
+- {name: Victoria Valley}
+- {name: Vincent}
+- {name: Walkerville}
+- {name: Wallace}
+- {name: Wallacedale}
+- {name: Wallan}
+- {name: Wallington}
+- {name: Wandin}
+- {name: Wangaratta}
+- {name: Wantirna}
+- {name: Wantirna South}
+- {name: Waratah}
+- {name: Warragul}
+- {name: Warrandyte}
+- {name: Warrandyte South}
+- {name: Warrnambool}
+- {name: Waterford}
+- {name: Waterloo}
+- {name: Waurn Ponds}
+- {name: Wedderburn}
+- {name: Weerite}
+- {name: Welshpool}
+- {name: Wendouree}
+- {name: Werribee}
+- {name: Wheelers Hill}
+- {name: Whittlesea}
+- {name: Williamstown}
+- {name: Willow Grove}
+- {name: Winton}
+- {name: Wodonga}
+- {name: Wombat}
+- {name: Womerah}
+- {name: Wonthaggi}
+- {name: Woodend}
+- {name: Woodleigh}
+- {name: Woods Point}
+- {name: Woodside}
+- {name: Woodvale}
+- {name: Wy Yung}
+- {name: Yalca}
+- {name: Yarpturk}
+- {name: Yarra Glen}
+- {name: Yarra Junction}
+- {name: Yarram}
+- {name: Yarraville}
+- {name: Yarrawonga}
+- {name: Yea}

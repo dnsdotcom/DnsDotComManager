@@ -1,12 +1,3 @@
-- cities:
-  - {name: Hamilton}
-  code: '03'
-  name: Hamilton
-- cities:
-  - {name: Saint George}
-  code: '06'
-  name: Saint George
-- cities:
-  - {name: Somerset}
-  code: 08
-  name: Sandys
+- {code: '03', name: Hamilton}
+- {code: '06', name: Saint George}
+- {code: 08, name: Sandys}

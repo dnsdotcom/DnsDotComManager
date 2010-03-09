@@ -1,140 +1,29 @@
-- cities:
-  - {name: Agadir}
-  - {name: Inezgane}
-  code: '01'
-  name: Agadir
-- cities:
-  - {name: Zemamra}
-  code: '03'
-  name: Azilal
-- cities:
-  - {name: Oulad Daoud}
-  code: '04'
-  name: Ben Slimane
-- cities:
-  - {name: Beni Mellal}
-  - {name: Douar Hababza}
-  code: '05'
-  name: Beni Mellal
-- cities:
-  - {name: Poste}
-  code: '06'
-  name: Boulemane
-- cities:
-  - {name: Anfa}
-  - {name: Casablanca}
-  - {name: Mohammadia}
-  - {name: Mohammedia}
-  code: '07'
-  name: Casablanca
-- cities:
-  - {name: Taza}
-  code: 08
-  name: Chaouen
-- cities:
-  - {name: El Jadida}
-  code: 09
-  name: El Jadida
-- cities:
-  - {name: Benguerir}
-  - {name: Smara}
-  code: '10'
-  name: El Kelaa des Srarhna
-- cities:
-  - {name: Essaouira}
-  code: '12'
-  name: Essaouira
-- cities:
-  - {name: Douar A}
-  - {name: Sefrou}
-  code: '13'
-  name: Fes
-- cities:
-  - {name: Fez}
-  code: '14'
-  name: Figuig
-- cities:
-  - {name: Ifrane}
-  code: '33'
-  name: Guelmim
-- cities:
-  - {name: Kenitra}
-  - {name: Media}
-  code: '15'
-  name: Kenitra
-- cities:
-  - {name: Khemisset}
-  code: '16'
-  name: Khemisset
-- cities:
-  - {name: Khouribga}
-  code: '18'
-  name: Khouribga
-- cities:
-  - {name: Larache}
-  - {name: Safsaf}
-  code: '41'
-  name: Larache
-- cities:
-  - {name: A}
-  - {name: Asni}
-  - {name: Douar Mzoudia}
-  - {name: El Jadida}
-  - {name: Marrakech}
-  - {name: Marrakesh}
-  code: '19'
-  name: Marrakech
-- cities:
-  - {name: Mekn}
-  code: '20'
-  name: Meknes
-- cities:
-  - {name: Nador}
-  - {name: Sa}
-  code: '21'
-  name: Nador
-- cities:
-  - {name: Ouarzazate}
-  code: '22'
-  name: Ouarzazate
-- cities:
-  - {name: Oujda}
-  code: '23'
-  name: Oujda
-- cities:
-  - {name: '''a'}
-  - {name: Rabat}
-  - {name: Sal}
-  - {name: Skhirate}
-  - {name: Temara}
-  code: '24'
-  name: Rabat-Sale
-- cities:
-  - {name: Asfi}
-  - {name: Douar Oulad Moussa}
-  - {name: El K}
-  code: '25'
-  name: Safi
-- cities:
-  - {name: Settat}
-  code: '26'
-  name: Settat
-- cities:
-  - {name: Sidi Qasim}
-  code: '38'
-  name: Sidi Kacem
-- cities:
-  - {name: Tanger}
-  - {name: Tangier}
-  code: '27'
-  name: Tanger
-- cities:
-  - {name: Mansour}
-  - {name: Ouled Teima}
-  code: '39'
-  name: Taroudannt
-- cities:
-  - {name: Charga}
-  - {name: T}
-  code: '40'
-  name: Tetouan
+- {code: '01', name: Agadir}
+- {code: '03', name: Azilal}
+- {code: '04', name: Ben Slimane}
+- {code: '05', name: Beni Mellal}
+- {code: '06', name: Boulemane}
+- {code: '07', name: Casablanca}
+- {code: 08, name: Chaouen}
+- {code: 09, name: El Jadida}
+- {code: '10', name: El Kelaa des Srarhna}
+- {code: '12', name: Essaouira}
+- {code: '13', name: Fes}
+- {code: '14', name: Figuig}
+- {code: '33', name: Guelmim}
+- {code: '15', name: Kenitra}
+- {code: '16', name: Khemisset}
+- {code: '18', name: Khouribga}
+- {code: '41', name: Larache}
+- {code: '19', name: Marrakech}
+- {code: '20', name: Meknes}
+- {code: '21', name: Nador}
+- {code: '22', name: Ouarzazate}
+- {code: '23', name: Oujda}
+- {code: '24', name: Rabat-Sale}
+- {code: '25', name: Safi}
+- {code: '26', name: Settat}
+- {code: '38', name: Sidi Kacem}
+- {code: '27', name: Tanger}
+- {code: '39', name: Taroudannt}
+- {code: '40', name: Tetouan}

@@ -1,22 +1,5 @@
-- cities:
-  - {name: Aden}
-  - {name: Little Aden}
-  code: '02'
-  name: ''
-- cities:
-  - {name: Ibb}
-  code: '13'
-  name: ''
-- cities:
-  - {name: Taiz}
-  code: '11'
-  name: Dhamar
-- cities:
-  - {name: Mukalla}
-  - {name: Sana}
-  code: '04'
-  name: Hadramawt
-- cities:
-  - {name: Sanaa}
-  code: '16'
-  name: San
+- {code: '02', name: ''}
+- {code: '13', name: ''}
+- {code: '11', name: Dhamar}
+- {code: '04', name: Hadramawt}
+- {code: '16', name: San}

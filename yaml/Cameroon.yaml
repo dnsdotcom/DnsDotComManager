@@ -1,35 +1,7 @@
-- cities:
-  - {name: Mbalmayo}
-  - {name: Yaound}
-  code: '11'
-  name: Centre
-- cities:
-  - {name: Kouss}
-  code: '12'
-  name: Extreme-Nord
-- cities:
-  - {name: Akwa}
-  - {name: Douala}
-  - {name: Ed}
-  code: '05'
-  name: Littoral
-- cities:
-  - {name: Bamenda}
-  code: '07'
-  name: Nord-Ouest
-- cities:
-  - {name: Bafoussam}
-  - {name: Dschang}
-  code: 08
-  name: Ouest
-- cities:
-  - {name: ''}
-  - {name: Kumba}
-  code: '14'
-  name: Sud
-- cities:
-  - {name: Buea}
-  - {name: Limbe}
-  - {name: Moliko}
-  code: 09
-  name: Sud-Ouest
+- {code: '11', name: Centre}
+- {code: '12', name: Extreme-Nord}
+- {code: '05', name: Littoral}
+- {code: '07', name: Nord-Ouest}
+- {code: 08, name: Ouest}
+- {code: '14', name: Sud}
+- {code: 09, name: Sud-Ouest}

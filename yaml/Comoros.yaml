@@ -1,4 +1,1 @@
-- cities:
-  - {name: Moroni}
-  code: '02'
-  name: Grande Comore
+- {code: '02', name: Grande Comore}

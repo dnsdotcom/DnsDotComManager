@@ -1,14 +1,3 @@
-- cities:
-  - {name: Grenville}
-  code: '01'
-  name: Saint Andrew
-- cities:
-  - {name: Saint George}
-  - {name: Saint George's}
-  code: '03'
-  name: Saint George
-- cities:
-  - {name: Concord}
-  - {name: Gouyave}
-  code: '04'
-  name: Saint John
+- {code: '01', name: Saint Andrew}
+- {code: '03', name: Saint George}
+- {code: '04', name: Saint John}

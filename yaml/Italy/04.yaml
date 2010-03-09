@@ -1,0 +1,353 @@
+- {name: Acerra}
+- {name: Afragola}
+- {name: Agropoli}
+- {name: Aiello Del Sabato}
+- {name: Ailano}
+- {name: Airola}
+- {name: Albanella}
+- {name: Alfano}
+- {name: Alife}
+- {name: Altavilla Irpina}
+- {name: Alvignano}
+- {name: Amalfi}
+- {name: Amorosi}
+- {name: Anacapri}
+- {name: Andretta}
+- {name: Angri}
+- {name: Apice}
+- {name: Apollosa}
+- {name: Aquara}
+- {name: Ariano Irpino}
+- {name: Arienzo}
+- {name: Armentano}
+- {name: Arnone}
+- {name: Arpaia}
+- {name: Arzano}
+- {name: Ascea}
+- {name: Atrani}
+- {name: Atripalda}
+- {name: Avella}
+- {name: Avellino}
+- {name: Aversa}
+- {name: Bacoli}
+- {name: Bagnara}
+- {name: Bagnoli Irpino}
+- {name: Baia}
+- {name: Barba}
+- {name: Baronissi}
+- {name: Barra}
+- {name: Barre}
+- {name: Battipaglia}
+- {name: Bellona}
+- {name: Benevento}
+- {name: Bisaccia}
+- {name: Bonea}
+- {name: Bonito}
+- {name: Boscoreale}
+- {name: Boscotrecase}
+- {name: Bracigliano}
+- {name: Brusciano}
+- {name: Buonabitacolo}
+- {name: Buonalbergo}
+- {name: Caiazzo}
+- {name: Caivano}
+- {name: Calvanico}
+- {name: Calvizzano}
+- {name: Camaldoli}
+- {name: Camerota}
+- {name: Campagna}
+- {name: Campora}
+- {name: Camposano}
+- {name: Cancello Ed Arnone}
+- {name: Candida}
+- {name: Capaccio}
+- {name: Capodichino}
+- {name: Capodrise}
+- {name: Capri}
+- {name: Capua}
+- {name: Carbone}
+- {name: Cardile}
+- {name: Cardito}
+- {name: Carife}
+- {name: Casal Di Principe}
+- {name: Casalbuono}
+- {name: Casalduni}
+- {name: Casaletto}
+- {name: Casalnuovo}
+- {name: Casalnuovo Di Napoli}
+- {name: Casaluce}
+- {name: Casamarciano}
+- {name: Casandrino}
+- {name: Casapulla}
+- {name: Caserta}
+- {name: Casola Di Napoli}
+- {name: Casoria}
+- {name: Castel Campagnano}
+- {name: Castel San Giorgio}
+- {name: Castelfranci}
+- {name: Castellabate}
+- {name: Castellammare Di Stabia}
+- {name: Castelnuovo Cilento}
+- {name: Catona}
+- {name: Cautano}
+- {name: Cava}
+- {name: Cava De' Tirreni}
+- {name: Cava Dei Tirreni}
+- {name: Celso}
+- {name: Centola}
+- {name: Ceppaloni}
+- {name: Cerasa}
+- {name: Cercola}
+- {name: Cerreta}
+- {name: Cervino}
+- {name: Cicciano}
+- {name: Cimitile}
+- {name: Colle Sannita}
+- {name: Collegiata}
+- {name: Colliano}
+- {name: Comiziano}
+- {name: Contursi}
+- {name: Conza Della Campania}
+- {name: De Biasi}
+- {name: De Pascale}
+- {name: Domicella}
+- {name: Eboli}
+- {name: Ercolano}
+- {name: Faicchio}
+- {name: Fertilia}
+- {name: Fisciano}
+- {name: Flumeri}
+- {name: Foglianise}
+- {name: Fontanarosa}
+- {name: Foria}
+- {name: Forino}
+- {name: Forio}
+- {name: Formicola}
+- {name: Francolise}
+- {name: Frasso Telesino}
+- {name: Frattamaggiore}
+- {name: Frattaminore}
+- {name: Frigento}
+- {name: Fuorigrotta}
+- {name: Furore}
+- {name: Galdo}
+- {name: Gesualdo}
+- {name: Giffoni Valle Piana}
+- {name: Gioia Sannitica}
+- {name: Giugliano In Campania}
+- {name: Gragnano}
+- {name: Grazzanise}
+- {name: Greci}
+- {name: Grottaminarda}
+- {name: Grumo Nevano}
+- {name: Guardia Lombardi}
+- {name: Guardia Sanframondi}
+- {name: Ischia}
+- {name: Lacco Ameno}
+- {name: Lagonegro}
+- {name: Latronico}
+- {name: Laureana Cilento}
+- {name: Lauria}
+- {name: Lauro}
+- {name: Laviano}
+- {name: Liberi}
+- {name: Limatola}
+- {name: Lioni}
+- {name: Liveri}
+- {name: Lombardi}
+- {name: Luogosano}
+- {name: Maddaloni}
+- {name: Maiori}
+- {name: Mandia}
+- {name: Mandra}
+- {name: Manocalzati}
+- {name: Marano Di Napoli}
+- {name: Maratea}
+- {name: Marcianise}
+- {name: Marcone}
+- {name: Mariglianella}
+- {name: Marigliano}
+- {name: Marina Grande}
+- {name: Masiello}
+- {name: Materdomini}
+- {name: Melito Di Napoli}
+- {name: Mercato}
+- {name: Mercato San Severino}
+- {name: Mercogliano}
+- {name: Meta}
+- {name: Minori}
+- {name: Mirabella Eclano}
+- {name: Moiano}
+- {name: Molinara}
+- {name: Moliterno}
+- {name: Monte Di Procida}
+- {name: Montecalvo Irpino}
+- {name: Montecorice}
+- {name: Montecorvino Rovella}
+- {name: Montefalcione}
+- {name: Monteforte}
+- {name: Monteforte Irpino}
+- {name: Montefredane}
+- {name: Montefusco}
+- {name: Montemarano}
+- {name: Montemiletto}
+- {name: Montemurro}
+- {name: Montesarchio}
+- {name: Morcone}
+- {name: Morra De Sanctis}
+- {name: Morrone}
+- {name: Mugnano Del Cardinale}
+- {name: Mugnano Di Napoli}
+- {name: Naples}
+- {name: Napoli}
+- {name: Neapolis}
+- {name: Nocera}
+- {name: Nocera Inferiore}
+- {name: Nocera Superiore}
+- {name: Nola}
+- {name: Novi Velia}
+- {name: Nusco}
+- {name: Olevano Sul Tusciano}
+- {name: Oliveto Citra}
+- {name: Ottaviano}
+- {name: Padula}
+- {name: Paduli}
+- {name: Pagani}
+- {name: Palinuro}
+- {name: Palma Campania}
+- {name: Palomonte}
+- {name: Paolini}
+- {name: Parolise}
+- {name: Pasquarelli}
+- {name: Paternopoli}
+- {name: Paupisi}
+- {name: Pellegrini}
+- {name: Pellezzano}
+- {name: Perito}
+- {name: Persano}
+- {name: Piaggine}
+- {name: Pianillo}
+- {name: Piano Di Sorrento}
+- {name: Pianura}
+- {name: Pietradefusi}
+- {name: Pietramelara}
+- {name: Pietravairano}
+- {name: Pietrelcina}
+- {name: Pignataro Maggiore}
+- {name: Pimonte}
+- {name: Pioppi}
+- {name: Piscinola}
+- {name: Pisciotta}
+- {name: Poggiomarino}
+- {name: Poggioreale}
+- {name: Policastro}
+- {name: Polvica}
+- {name: Pomigliano D'arco}
+- {name: Pompei}
+- {name: Pontecagnano}
+- {name: Pontelandolfo}
+- {name: Pontelatone}
+- {name: Portici}
+- {name: Posillipo}
+- {name: Positano}
+- {name: Postiglione}
+- {name: Pozzillo}
+- {name: Pozzuoli}
+- {name: Praiano}
+- {name: Pratella}
+- {name: Procida}
+- {name: Quadrelle}
+- {name: Quaglietta}
+- {name: Qualiano}
+- {name: Quindici}
+- {name: Ravello}
+- {name: Recale}
+- {name: Resina}
+- {name: Riardo}
+- {name: Roccadaspide}
+- {name: Roccapiemonte}
+- {name: Roccarainola}
+- {name: Roccaromana}
+- {name: Rodio}
+- {name: Roscigno}
+- {name: Rotondella}
+- {name: Rotondi}
+- {name: Ruviano}
+- {name: Sala Consilina}
+- {name: Salento}
+- {name: Salerno}
+- {name: San Gennaro Vesuviano}
+- {name: San Giorgio A Cremano}
+- {name: San Giorgio Del Sannio}
+- {name: San Giuseppe Vesuviano}
+- {name: San Leucio}
+- {name: San Mango Piemonte}
+- {name: San Marco Evangelista}
+- {name: San Martino Valle Caudina}
+- {name: San Marzano Sul Sarno}
+- {name: San Michele Di Serino}
+- {name: San Nazario}
+- {name: San Paolo Bel Sito}
+- {name: San Prisco}
+- {name: San Rufo}
+- {name: San Sebastiano Al Vesuvio}
+- {name: Sant'anastasia}
+- {name: Santa Maria A Vico}
+- {name: Santa Maria Capua Vetere}
+- {name: Sanza}
+- {name: Sapri}
+- {name: Sarno}
+- {name: Sassano}
+- {name: Saviano}
+- {name: Scafati}
+- {name: Scala}
+- {name: Scalea}
+- {name: Scampitella}
+- {name: Schettini}
+- {name: Secondigliano}
+- {name: Serino}
+- {name: Serrara Fontana}
+- {name: Siano}
+- {name: Sicil}
+- {name: Sieti}
+- {name: Sirignano}
+- {name: Soccavo}
+- {name: Solofra}
+- {name: Solopaca}
+- {name: Somma Vesuviana}
+- {name: Sorrento}
+- {name: Sparanise}
+- {name: Spinoso}
+- {name: Striano}
+- {name: Taurasi}
+- {name: Teggiano}
+- {name: Telese}
+- {name: Terzigno}
+- {name: Torchiara}
+- {name: Torraca}
+- {name: Torre Annunziata}
+- {name: Torre Del Greco}
+- {name: Torre Le Nocelle}
+- {name: Torrecuso}
+- {name: Tortora}
+- {name: Tortorella}
+- {name: Tr}
+- {name: Tramonte}
+- {name: Tramonti}
+- {name: Treglia}
+- {name: Tufino}
+- {name: Vallata}
+- {name: Valle Agricola}
+- {name: Vallo Della Lucania}
+- {name: Vibonati}
+- {name: Vico Equense}
+- {name: Vietri Sul Mare}
+- {name: Viggiano}
+- {name: Villa Literno}
+- {name: Villammare}
+- {name: Villaricca}
+- {name: Vitulano}
+- {name: Vitulazio}
+- {name: Volturara Irpina}
+- {name: Vomero}
+- {name: Zungoli}

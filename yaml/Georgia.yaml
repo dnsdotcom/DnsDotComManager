@@ -1,45 +1,10 @@
-- cities:
-  - {name: Bakuriani}
-  code: '13'
-  name: Borjomis Raioni
-- cities:
-  - {name: Sameba}
-  code: '16'
-  name: Ch'okhatauris Raioni
-- cities:
-  - {name: Gldani}
-  - {name: Marneuli}
-  - {name: Tbilisi}
-  code: '19'
-  name: Dushet'is Raioni
-- cities:
-  - {name: Bolnisi}
-  - {name: Gori}
-  - {name: Rustavi}
-  code: '22'
-  name: Goris Raioni
-- cities:
-  - {name: Agara}
-  - {name: Kornisi}
-  code: '25'
-  name: K'arelis Raioni
-- cities:
-  - {name: Kaspi}
-  code: '26'
-  name: Kaspis Raioni
-- cities:
-  - {name: Khashuri}
-  code: '28'
-  name: Khashuris Raioni
-- cities:
-  - {name: Vake}
-  code: '38'
-  name: Mts'khet'is Raioni
-- cities:
-  - {name: Samtredia}
-  code: '47'
-  name: Sagarejos Raioni
-- cities:
-  - {name: Zugdidi}
-  code: '62'
-  name: Zestap'onis Raioni
+- {code: '13', name: Borjomis Raioni}
+- {code: '16', name: Ch'okhatauris Raioni}
+- {code: '19', name: Dushet'is Raioni}
+- {code: '22', name: Goris Raioni}
+- {code: '25', name: K'arelis Raioni}
+- {code: '26', name: Kaspis Raioni}
+- {code: '28', name: Khashuris Raioni}
+- {code: '38', name: Mts'khet'is Raioni}
+- {code: '47', name: Sagarejos Raioni}
+- {code: '62', name: Zestap'onis Raioni}

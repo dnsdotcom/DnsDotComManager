@@ -1,4 +1,1 @@
-- cities:
-  - {name: Nouakchott}
-  code: '06'
-  name: Trarza
+- {code: '06', name: Trarza}

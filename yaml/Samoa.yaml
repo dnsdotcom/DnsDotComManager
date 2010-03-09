@@ -1,4 +1,1 @@
-- cities:
-  - {name: Apia}
-  code: '00'
-  name: ''
+- {code: '00', name: ''}

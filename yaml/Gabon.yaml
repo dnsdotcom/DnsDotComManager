@@ -1,17 +1,4 @@
-- cities:
-  - {name: Libreville}
-  code: '01'
-  name: Estuaire
-- cities:
-  - {name: Lambar}
-  code: '03'
-  name: Moyen-Ogooue
-- cities:
-  - {name: Port Gentil}
-  code: '07'
-  name: Ogooue-Lolo
-- cities:
-  - {name: Gamba}
-  - {name: Port-gentil}
-  code: 08
-  name: Ogooue-Maritime
+- {code: '01', name: Estuaire}
+- {code: '03', name: Moyen-Ogooue}
+- {code: '07', name: Ogooue-Lolo}
+- {code: 08, name: Ogooue-Maritime}

@@ -1,33 +1,5 @@
-- cities:
-  - {name: Chittagong}
-  - {name: Chittagong Port}
-  code: '85'
-  name: ''
-- cities:
-  - {name: Dhaka}
-  - {name: Dhamrai}
-  - {name: Joydebpur}
-  - {name: Manikganj}
-  - {name: Mymensingh}
-  - {name: Nagar}
-  - {name: Rajshahi}
-  - {name: Sonargaon}
-  - {name: Tungi}
-  code: '81'
-  name: ''
-- cities:
-  - {name: Khulna}
-  code: '82'
-  name: ''
-- cities:
-  - {name: Bogra}
-  - {name: Dial}
-  - {name: Rangpur}
-  - {name: Tista}
-  code: '83'
-  name: ''
-- cities:
-  - {name: Maulvi Bazar}
-  - {name: Sylhet}
-  code: '86'
-  name: ''
+- {code: '85', name: ''}
+- {code: '81', name: ''}
+- {code: '82', name: ''}
+- {code: '83', name: ''}
+- {code: '86', name: ''}

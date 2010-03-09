@@ -1,0 +1,440 @@
+- {name: ''}
+- {name: Abzac}
+- {name: Adriers}
+- {name: Aiffres}
+- {name: Aigre}
+- {name: Aigrefeuille}
+- {name: Airvault}
+- {name: Allonne}
+- {name: Anais}
+- {name: Andilly}
+- {name: Angles}
+- {name: Angoul}
+- {name: Angoulins}
+- {name: Antigny}
+- {name: Anville}
+- {name: Ardilli}
+- {name: Argenton}
+- {name: Asni}
+- {name: Aubeterre}
+- {name: Aulnay}
+- {name: Aulnay-de-saintonge}
+- {name: Auxances}
+- {name: Availles-limouzine}
+- {name: Ayron}
+- {name: Aytr}
+- {name: Azay}
+- {name: B}
+- {name: Baignes}
+- {name: Ballon}
+- {name: Balzac}
+- {name: Barbezieux}
+- {name: Barro}
+- {name: Basses}
+- {name: Beaulieu-sous-bressuire}
+- {name: Beaulieu-sur-sonnette}
+- {name: Bellefonds}
+- {name: Bellevue}
+- {name: Benest}
+- {name: Bernac}
+- {name: Berneuil}
+- {name: Bess}
+- {name: Bessines}
+- {name: Biard}
+- {name: Biron}
+- {name: Blanzac}
+- {name: Bo}
+- {name: Bois}
+- {name: Bonnes}
+- {name: Bordas}
+- {name: Bords}
+- {name: Boscamnant}
+- {name: Bouin}
+- {name: Bourcefranc}
+- {name: Bouresse}
+- {name: Bourg-archambault}
+- {name: Bourgneuf}
+- {name: Boussac}
+- {name: Bresdon}
+- {name: Bressuire}
+- {name: Bretagne}
+- {name: Bretignolles}
+- {name: Breuil}
+- {name: Breuil-la-r}
+- {name: Breuil-magn}
+- {name: Breuillet}
+- {name: Brie}
+- {name: Brion}
+- {name: Brives}
+- {name: Brux}
+- {name: Burgaud}
+- {name: Bussac}
+- {name: Buxerolles}
+- {name: Buxeuil}
+- {name: C}
+- {name: Celle}
+- {name: Celles}
+- {name: Celles-sur-belle}
+- {name: Cellettes}
+- {name: Cenon-sur-vienne}
+- {name: Cercoux}
+- {name: Cerizay}
+- {name: Ch}
+- {name: Chabanais}
+- {name: Chabournay}
+- {name: Chalais}
+- {name: Chambon}
+- {name: Champagn}
+- {name: Champagnac}
+- {name: Champagne-mouton}
+- {name: Champdeniers}
+- {name: Champigny}
+- {name: Champniers}
+- {name: Chanteloup}
+- {name: Chapelle}
+- {name: Charmant}
+- {name: Charron}
+- {name: Chasseneuil}
+- {name: Chasseneuil-du-poitou}
+- {name: Chaunay}
+- {name: Chauray}
+- {name: Chauvigny}
+- {name: Chavagn}
+- {name: Chazelles}
+- {name: Chenay}
+- {name: Chepniers}
+- {name: Cherves-ch}
+- {name: Cherveux}
+- {name: Chir}
+- {name: Chirac}
+- {name: Chiz}
+- {name: Ciss}
+- {name: Civray}
+- {name: Cl}
+- {name: Claix}
+- {name: Clavette}
+- {name: Clion}
+- {name: Cognac}
+- {name: Colombiers}
+- {name: Confolens}
+- {name: Contr}
+- {name: Corme-royal}
+- {name: Couh}
+- {name: Coulgens}
+- {name: Coulonges}
+- {name: Cour}
+- {name: Courant}
+- {name: Courbillac}
+- {name: Cours}
+- {name: Couture}
+- {name: Craon}
+- {name: Dampierre}
+- {name: Dissay}
+- {name: Dolus}
+- {name: Esse}
+- {name: Excideuil}
+- {name: Eymoutiers}
+- {name: Faye}
+- {name: Fl}
+- {name: Fleur}
+- {name: Fontaine-le-comte}
+- {name: Fontcouverte}
+- {name: Fors}
+- {name: Fouqueure}
+- {name: Fouras}
+- {name: Fran}
+- {name: Fressines}
+- {name: Frontenay}
+- {name: Frontenay-rohan-rohan}
+- {name: Garat}
+- {name: Garde}
+- {name: Gensac}
+- {name: Gent}
+- {name: Gournay}
+- {name: Grand-pont}
+- {name: Granzay}
+- {name: Hiersac}
+- {name: Ingrandes}
+- {name: Iteuil}
+- {name: Jardres}
+- {name: Jarnac}
+- {name: Jaunay}
+- {name: Jaunay-clan}
+- {name: Jonzac}
+- {name: Jouss}
+- {name: Juicq}
+- {name: L}
+- {name: L'absie}
+- {name: L'isle-jourdain}
+- {name: La Bataille}
+- {name: La Bergerie}
+- {name: La Boissi}
+- {name: La Brise}
+- {name: La Caill}
+- {name: La Celle}
+- {name: La Ch}
+- {name: La Chaise}
+- {name: La Chapelle-pouilloux}
+- {name: La Charri}
+- {name: La Couarde}
+- {name: La Couronne}
+- {name: La Couture}
+- {name: La Jarrie}
+- {name: La Mothe}
+- {name: La Pommeraye}
+- {name: La Poterie}
+- {name: La Pouge}
+- {name: La Roch}
+- {name: La Rochefoucauld}
+- {name: La Rochelle}
+- {name: La Rochette}
+- {name: La Ronde}
+- {name: La Sabli}
+- {name: La Tremblade}
+- {name: La Vall}
+- {name: La Villedieu}
+- {name: Lagord}
+- {name: Landes}
+- {name: Laprade}
+- {name: Lathus}
+- {name: Launay}
+- {name: Le Bois}
+- {name: Le Ch}
+- {name: Le Fouilloux}
+- {name: Le Gond}
+- {name: Le Grand Breuil}
+- {name: Le Gua}
+- {name: Le Pont}
+- {name: Le Port}
+- {name: Le Retail}
+- {name: Le Tallud}
+- {name: Le Vert}
+- {name: Lenclo}
+- {name: Les Alleuds}
+- {name: Les Aubiers}
+- {name: Les Forges}
+- {name: Les Fosses}
+- {name: Les Gonds}
+- {name: Les Landes}
+- {name: Les Ormes}
+- {name: Les Pins}
+- {name: Les Sables}
+- {name: Les Sablons}
+- {name: Lesterps}
+- {name: Lezay}
+- {name: Lhommaiz}
+- {name: Lign}
+- {name: Ligni}
+- {name: Ligug}
+- {name: Linars}
+- {name: Loir}
+- {name: Loix}
+- {name: Lonnes}
+- {name: Lorign}
+- {name: Loudun}
+- {name: Loulay}
+- {name: Louzignac}
+- {name: Louzy}
+- {name: Luch}
+- {name: Lusignan}
+- {name: Lussac}
+- {name: Lux}
+- {name: M}
+- {name: Maill}
+- {name: Maine}
+- {name: Mair}
+- {name: Maisonneuve}
+- {name: Mansle}
+- {name: Marans}
+- {name: Marcillac}
+- {name: Marennes}
+- {name: Mareuil}
+- {name: Marnes}
+- {name: Marsac}
+- {name: Martigny}
+- {name: Massais}
+- {name: Matha}
+- {name: Mauz}
+- {name: Mazerolles}
+- {name: Mazeuil}
+- {name: Mazi}
+- {name: Melle}
+- {name: Merpins}
+- {name: Meschers}
+- {name: Meschers-sur-gironde}
+- {name: Messac}
+- {name: Mign}
+- {name: Mignaloux}
+- {name: Migron}
+- {name: Millac}
+- {name: Mirebeau}
+- {name: Moncoutant}
+- {name: Montalembert}
+- {name: Montamis}
+- {name: Montbrillais}
+- {name: Montbron}
+- {name: Montemboeuf}
+- {name: Montendre}
+- {name: Montguyon}
+- {name: Monthoiron}
+- {name: Montign}
+- {name: Montignac}
+- {name: Montlouis}
+- {name: Montmoreau}
+- {name: Montmorillon}
+- {name: Monts}
+- {name: Mornac}
+- {name: Mortagne}
+- {name: Mortiers}
+- {name: Moulin}
+- {name: Mouthiers}
+- {name: Naintr}
+- {name: Nalliers}
+- {name: Nanteuil}
+- {name: Nersac}
+- {name: Neuvicq}
+- {name: Nieul}
+- {name: Nieul-sur-mer}
+- {name: Niort}
+- {name: Nuaill}
+- {name: Nuaille-d'aunis}
+- {name: Oradour}
+- {name: P}
+- {name: Paizay-le-chapt}
+- {name: Pamproux}
+- {name: Parigny}
+- {name: Parthenay}
+- {name: Payr}
+- {name: Payroux}
+- {name: Pers}
+- {name: Persac}
+- {name: Pierrefitte}
+- {name: Plaisance}
+- {name: Plassac-rouffiac}
+- {name: Pleumartin}
+- {name: Pliboux}
+- {name: Poiroux}
+- {name: Poitiers}
+- {name: Polignac}
+- {name: Pommiers}
+- {name: Pompaire}
+- {name: Pons}
+- {name: Porcheresse}
+- {name: Prahecq}
+- {name: Prailles}
+- {name: Pressac}
+- {name: Prin}
+- {name: Puilboreau}
+- {name: Puymoyen}
+- {name: Puyravault}
+- {name: Queaux}
+- {name: Ranville}
+- {name: Reignac}
+- {name: Richemont}
+- {name: Rivi}
+- {name: Rochefort}
+- {name: Roland}
+- {name: Rom}
+- {name: Romagne}
+- {name: Romans}
+- {name: Rouffiac}
+- {name: Rouillac}
+- {name: Roullet}
+- {name: Roumazi}
+- {name: Royan}
+- {name: Ruelle}
+- {name: Ruelle-sur-touvre}
+- {name: Ruffec}
+- {name: S}
+- {name: Saint Martin}
+- {name: Saint-aigulin}
+- {name: Saint-amant-de-boixe}
+- {name: Saint-beno}
+- {name: Saint-est}
+- {name: Saint-g}
+- {name: Saint-gelais}
+- {name: Saint-georges-des-c}
+- {name: Saint-georges-du-bois}
+- {name: Saint-jean-d'angely}
+- {name: Saint-jean-de-sauves}
+- {name: Saint-m}
+- {name: Saint-maixent}
+- {name: Saint-maixent-l'ecole}
+- {name: Saint-mard}
+- {name: Saint-marsault}
+- {name: Saint-martial-de-vitaterne}
+- {name: Saint-martin-de-r}
+- {name: Saint-palais}
+- {name: Saint-palais-sur-mer}
+- {name: Saint-pardoux}
+- {name: Saint-pierre-du-palais}
+- {name: Saint-preuil}
+- {name: Saint-projet}
+- {name: Saint-sauveur-d'aunis}
+- {name: Saint-savin}
+- {name: Saint-simon}
+- {name: Saint-xandre}
+- {name: Saint-yrieix}
+- {name: Sainte-soulle}
+- {name: Saintes}
+- {name: Saivres}
+- {name: Saix}
+- {name: Salles}
+- {name: Sansac}
+- {name: Sauz}
+- {name: Savign}
+- {name: Segonzac}
+- {name: Seign}
+- {name: Signy}
+- {name: Sireuil}
+- {name: Smarves}
+- {name: Sommi}
+- {name: Soubran}
+- {name: Souch}
+- {name: Soudan}
+- {name: Souvign}
+- {name: Soyaux}
+- {name: Surg}
+- {name: Surin}
+- {name: Suris}
+- {name: Tabuteau}
+- {name: Taillebourg}
+- {name: Talmont}
+- {name: Terc}
+- {name: Ternay}
+- {name: Terves}
+- {name: Thaims}
+- {name: Thorign}
+- {name: Thorigny}
+- {name: Thouars}
+- {name: Tillou}
+- {name: Touvre}
+- {name: Triac}
+- {name: Trizay}
+- {name: Usseau}
+- {name: Usson}
+- {name: Usson-du-poitou}
+- {name: Vallet}
+- {name: Varenne}
+- {name: Vars}
+- {name: Varzay}
+- {name: Vendeuvre-du-poitou}
+- {name: Verdille}
+- {name: Verger}
+- {name: Vernoux}
+- {name: Verruyes}
+- {name: Vicq-sur-gartempe}
+- {name: Vignolles}
+- {name: Villebois}
+- {name: Villefagnan}
+- {name: Villej}
+- {name: Virson}
+- {name: Vivonne}
+- {name: Voeuil}
+- {name: Vouh}
+- {name: Vouill}
+- {name: Voul}
+- {name: Vouneuil}
+- {name: Vouthon}
+- {name: Yves}
+- {name: Yvrac}

@@ -1,0 +1,343 @@
+- {name: Abrera}
+- {name: Ager}
+- {name: Agramunt}
+- {name: Aguil}
+- {name: Aiguafreda}
+- {name: Aiguaviva}
+- {name: Al}
+- {name: Alb}
+- {name: Albesa}
+- {name: Alcanar}
+- {name: Alcoletge}
+- {name: Alella}
+- {name: Alguaire}
+- {name: Almenar}
+- {name: Alpicat}
+- {name: Altafulla}
+- {name: Ametlla}
+- {name: Ametlla De Mar}
+- {name: Ampolla}
+- {name: Amposta}
+- {name: Angl}
+- {name: Anglesola}
+- {name: Arb}
+- {name: Arenys De Mar}
+- {name: Arenys De Munt}
+- {name: Argentona}
+- {name: Armad}
+- {name: Armentera}
+- {name: Art}
+- {name: Artesa De Segre}
+- {name: Aubert}
+- {name: B}
+- {name: Ba}
+- {name: Badalona}
+- {name: Bag}
+- {name: Balaguer}
+- {name: Baleny}
+- {name: Barcelona}
+- {name: Begues}
+- {name: Begur}
+- {name: Bellavista}
+- {name: Belloch}
+- {name: Bellpuig}
+- {name: Bellver}
+- {name: Benifallet}
+- {name: Berga}
+- {name: Besal}
+- {name: Bescan}
+- {name: Biosca}
+- {name: Blanes}
+- {name: Boixols}
+- {name: Bolvir}
+- {name: Br}
+- {name: Breda}
+- {name: Cabrils}
+- {name: Calaf}
+- {name: Calafell}
+- {name: Calella}
+- {name: Calonge}
+- {name: Camallera}
+- {name: Camarasa}
+- {name: Cambrils}
+- {name: Campdev}
+- {name: Camprod}
+- {name: Canet De Mar}
+- {name: Capellades}
+- {name: Capmany}
+- {name: Cardedeu}
+- {name: Carme}
+- {name: Cass}
+- {name: Castell}
+- {name: Castellbell}
+- {name: Castellbisbal}
+- {name: Castelldefels}
+- {name: Castellet}
+- {name: Catllar}
+- {name: Celr}
+- {name: Central}
+- {name: Cer}
+- {name: Cervell}
+- {name: Cervera}
+- {name: Cervi}
+- {name: Clar}
+- {name: Clariana}
+- {name: Collbat}
+- {name: Colldejou}
+- {name: Constant}
+- {name: Corb}
+- {name: Corbera}
+- {name: Corbera De Llobregat}
+- {name: Cornell}
+- {name: Creixell}
+- {name: Crespi}
+- {name: Cubelles}
+- {name: Cubells}
+- {name: Cunit}
+- {name: Dosr}
+- {name: El Prat De Llobregat}
+- {name: El Vendrell}
+- {name: Els Monjos}
+- {name: Espinavesa}
+- {name: Estartit}
+- {name: Falset}
+- {name: Fatarella}
+- {name: Fatg}
+- {name: Ferr}
+- {name: Flix}
+- {name: Fondarella}
+- {name: Fonollosa}
+- {name: Fornells De La Selva}
+- {name: G}
+- {name: Gandesa}
+- {name: Garc}
+- {name: Garriga}
+- {name: Gav}
+- {name: Gay}
+- {name: Ger}
+- {name: Gerona}
+- {name: Golm}
+- {name: Gracia}
+- {name: Granollers}
+- {name: Gurb}
+- {name: Hospitalet}
+- {name: Hospitalet De Llobregat}
+- {name: Hostalric}
+- {name: Hostalrich}
+- {name: Igualada}
+- {name: Ir}
+- {name: Juneda}
+- {name: L}
+- {name: L'hospitalet De Llobregat}
+- {name: La Bisbal}
+- {name: La Canonja}
+- {name: La Escala}
+- {name: La Floresta}
+- {name: La Garriga}
+- {name: La Granada}
+- {name: La Granadella}
+- {name: La Guardia}
+- {name: La Llacuna}
+- {name: La Llagosta}
+- {name: La Pera}
+- {name: La Pineda}
+- {name: La Plana}
+- {name: La Pobla}
+- {name: La Salud}
+- {name: La Selva}
+- {name: La Tallada}
+- {name: La Vall}
+- {name: Las Angladas}
+- {name: Las Matas}
+- {name: Les Fonts}
+- {name: Llafranc}
+- {name: Llagostera}
+- {name: Llans}
+- {name: Llerona}
+- {name: Llinars}
+- {name: Lliss}
+- {name: Llorens}
+- {name: Lloret De Mar}
+- {name: Los L}
+- {name: Malgrat De Mar}
+- {name: Manlleu}
+- {name: Manresa}
+- {name: Marina}
+- {name: Martorell}
+- {name: Masnou}
+- {name: Masquefa}
+- {name: Masroig}
+- {name: Matadepera}
+- {name: Matar}
+- {name: Miralcamp}
+- {name: Miravet}
+- {name: Moi}
+- {name: Moja}
+- {name: Mol}
+- {name: Molin}
+- {name: Mollerusa}
+- {name: Mollet}
+- {name: Mollet Del Vall}
+- {name: Monells}
+- {name: Monistrol}
+- {name: Mont}
+- {name: Montferrer}
+- {name: Montgat}
+- {name: Montmel}
+- {name: Montorn}
+- {name: Montreal}
+- {name: Mora}
+- {name: Mora De Ebro}
+- {name: Morell}
+- {name: Navata}
+- {name: Ogassa}
+- {name: Olesa}
+- {name: Olesa De Bonesvalls}
+- {name: Olesa De Montserrat}
+- {name: Olot}
+- {name: Palafrugell}
+- {name: Palam}
+- {name: Palau}
+- {name: Pallaresos}
+- {name: Pallej}
+- {name: Pals}
+- {name: Papiol}
+- {name: Parets}
+- {name: Pau}
+- {name: Perell}
+- {name: Piera}
+- {name: Pineda}
+- {name: Playa De Aro}
+- {name: Plegamans}
+- {name: Pobla De Claramunt}
+- {name: Pobla De Montorn}
+- {name: Pobla De Segur}
+- {name: Poliny}
+- {name: Pont}
+- {name: Pont De Mol}
+- {name: Ponts}
+- {name: Porqueras}
+- {name: Porrera}
+- {name: Prades}
+- {name: Pratdip}
+- {name: Premi}
+- {name: Puigcerd}
+- {name: Puigpelat}
+- {name: Pujals Dels Pagesos}
+- {name: Quart}
+- {name: R}
+- {name: Rab}
+- {name: Reus}
+- {name: Rialp}
+- {name: Ribes}
+- {name: Riells}
+- {name: Ripoll}
+- {name: Ripollet}
+- {name: Riudecols}
+- {name: Riudellots De La Selva}
+- {name: Roda De Bar}
+- {name: Roma}
+- {name: Rosas}
+- {name: Rosell}
+- {name: Rub}
+- {name: Sabadell}
+- {name: Salard}
+- {name: Sald}
+- {name: Sallent}
+- {name: Salou}
+- {name: Salt}
+- {name: Sampedor}
+- {name: San Adri}
+- {name: San Carlos De La R}
+- {name: San Cugat Del Vall}
+- {name: San Cugat Sasgarrigas}
+- {name: San Juan Desp}
+- {name: San Lorenzo De Hort}
+- {name: San Pedro Pescador}
+- {name: Sans}
+- {name: Sant Andreu}
+- {name: Sant Cugat Del Vall}
+- {name: Sant Feliu De Gu}
+- {name: Sant Joan De Les Abadesses}
+- {name: Sant Joan De Vilatorrada}
+- {name: Sant Joan Les Fonts}
+- {name: Sant Juli}
+- {name: Sant Just Desvern}
+- {name: Sant Pere De Ribes}
+- {name: Sant Sadurn}
+- {name: Sant Salvador}
+- {name: Santa Coloma De Cervell}
+- {name: Santa Coloma De Gramanet}
+- {name: Santa Eugenia De Berga}
+- {name: Santa Eulalia De Ronsan}
+- {name: Santa Fe}
+- {name: Santa Pau}
+- {name: Santa Perpetua}
+- {name: Santo Tom}
+- {name: Santpedor}
+- {name: Sarri}
+- {name: Seo De Urgel}
+- {name: Serrat}
+- {name: Servi}
+- {name: Seva}
+- {name: Sils}
+- {name: Sitges}
+- {name: Siurana}
+- {name: Solsona}
+- {name: Sort}
+- {name: Subirats}
+- {name: Suria}
+- {name: Surp}
+- {name: T}
+- {name: Taradell}
+- {name: Tarr}
+- {name: Tarragona}
+- {name: Tarrasa}
+- {name: Tei}
+- {name: Tona}
+- {name: Tor}
+- {name: Tordera}
+- {name: Torell}
+- {name: Torre Del Espa}
+- {name: Torredembarra}
+- {name: Torrefarrera}
+- {name: Torrelles}
+- {name: Torrent}
+- {name: Torroella De Montgr}
+- {name: Tortosa}
+- {name: Tossa}
+- {name: Tremp}
+- {name: Ullastrell}
+- {name: Ulldecona}
+- {name: Valldoreix}
+- {name: Vallgorguina}
+- {name: Vallirana}
+- {name: Valls}
+- {name: Vandell}
+- {name: Ventall}
+- {name: Verges}
+- {name: Vic}
+- {name: Vidreras}
+- {name: Vilabella}
+- {name: Vilabertr}
+- {name: Vilablareix}
+- {name: Vilacolum}
+- {name: Viladec}
+- {name: Vilademuls}
+- {name: Vilafant}
+- {name: Vilajuiga}
+- {name: Vilallonga}
+- {name: Vilamalla}
+- {name: Vilanova}
+- {name: Vilanova De La Aguda}
+- {name: Vilanova De La Muga}
+- {name: Vilanova De Sau}
+- {name: Vilanova De Segri}
+- {name: Vilanova Del Cam}
+- {name: Vilanova I La Geltru}
+- {name: Vilaseca}
+- {name: Vilassar De Mar}
+- {name: Vilatenim}
+- {name: Vilov}
+- {name: Vinebre}
+- {name: Viure}

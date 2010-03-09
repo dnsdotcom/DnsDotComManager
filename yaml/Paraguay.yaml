@@ -1,37 +1,7 @@
-- cities:
-  - {name: Loma Plata}
-  code: '24'
-  name: ''
-- cities:
-  - {name: Ciudad Del Este}
-  - {name: Hernandarias}
-  - {name: Presidente Franco}
-  - {name: Santa Rita}
-  code: '01'
-  name: Alto Parana
-- cities:
-  - {name: Caaguaz}
-  - {name: Coronel Oviedo}
-  code: '04'
-  name: Caaguazu
-- cities:
-  - {name: Asunci}
-  - {name: Fernando De La Mora}
-  - {name: Lambar}
-  - {name: Luque}
-  - {name: San Lorenzo}
-  code: '06'
-  name: Central
-- cities:
-  - {name: Villarrica}
-  code: '10'
-  name: Guaira
-- cities:
-  - {name: Encarnaci}
-  - {name: Obligado}
-  code: '11'
-  name: Itapua
-- cities:
-  - {name: Pilar}
-  code: '13'
-  name: Neembucu
+- {code: '24', name: ''}
+- {code: '01', name: Alto Parana}
+- {code: '04', name: Caaguazu}
+- {code: '06', name: Central}
+- {code: '10', name: Guaira}
+- {code: '11', name: Itapua}
+- {code: '13', name: Neembucu}

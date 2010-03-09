@@ -1,0 +1,317 @@
+- {name: Albion}
+- {name: Alfred}
+- {name: Ashland}
+- {name: Auburn}
+- {name: Augusta}
+- {name: Aurora}
+- {name: Bailey Island}
+- {name: Baileyville}
+- {name: Bangor}
+- {name: Bar Harbor}
+- {name: Bar Mills}
+- {name: Bass Harbor}
+- {name: Bath}
+- {name: Belfast}
+- {name: Belgrade}
+- {name: Belgrade Lakes}
+- {name: Berwick}
+- {name: Bethel}
+- {name: Biddeford}
+- {name: Blaine}
+- {name: Blue Hill}
+- {name: Boothbay}
+- {name: Boothbay Harbor}
+- {name: Bowdoinham}
+- {name: Bradley}
+- {name: Brewer}
+- {name: Bridgton}
+- {name: Bristol}
+- {name: Brooklin}
+- {name: Brooks}
+- {name: Brooksville}
+- {name: Brownville}
+- {name: Brunswick}
+- {name: Bryant Pond}
+- {name: Buckfield}
+- {name: Bucksport}
+- {name: Burnham}
+- {name: Buxton}
+- {name: Calais}
+- {name: Camden}
+- {name: Canaan}
+- {name: Canton}
+- {name: Cape Elizabeth}
+- {name: Cape Neddick}
+- {name: Cape Porpoise}
+- {name: Caribou}
+- {name: Carmel}
+- {name: Casco}
+- {name: Castine}
+- {name: Center Lovell}
+- {name: Charleston}
+- {name: Chebeague Island}
+- {name: Cherryfield}
+- {name: China Village}
+- {name: Clinton}
+- {name: Columbia Falls}
+- {name: Coopers Mills}
+- {name: Corinna}
+- {name: Cornish}
+- {name: Cumberland Center}
+- {name: Cumberland Foreside}
+- {name: Damariscotta}
+- {name: Danforth}
+- {name: Danville}
+- {name: Deer Isle}
+- {name: Denmark}
+- {name: Dennysville}
+- {name: Detroit}
+- {name: Dexter}
+- {name: Dixfield}
+- {name: Dixmont}
+- {name: Dover Foxcroft}
+- {name: Dresden}
+- {name: Durham}
+- {name: Eagle Lake}
+- {name: East Baldwin}
+- {name: East Boothbay}
+- {name: East Dixfield}
+- {name: East Machias}
+- {name: East Orland}
+- {name: East Poland}
+- {name: East Vassalboro}
+- {name: East Waterboro}
+- {name: East Wilton}
+- {name: East Winthrop}
+- {name: Easton}
+- {name: Eddington}
+- {name: Edgecomb}
+- {name: Eliot}
+- {name: Ellsworth}
+- {name: Etna}
+- {name: Eustis}
+- {name: Exeter}
+- {name: Fairfield}
+- {name: Falmouth}
+- {name: Farmingdale}
+- {name: Farmington}
+- {name: Fort Fairfield}
+- {name: Fort Kent}
+- {name: Frankfort}
+- {name: Franklin}
+- {name: Freedom}
+- {name: Freeport}
+- {name: Frenchville}
+- {name: Fryeburg}
+- {name: Gardiner}
+- {name: Georgetown}
+- {name: Gorham}
+- {name: Grand Lake Stream}
+- {name: Gray}
+- {name: Greenbush}
+- {name: Greene}
+- {name: Greenville}
+- {name: Guilford}
+- {name: Hallowell}
+- {name: Hampden}
+- {name: Hancock}
+- {name: Harborside}
+- {name: Harpswell}
+- {name: Harrington}
+- {name: Harrison}
+- {name: Hartland}
+- {name: Hebron}
+- {name: Hiram}
+- {name: Holden}
+- {name: Hollis Center}
+- {name: Hope}
+- {name: Houlton}
+- {name: Howland}
+- {name: Hudson}
+- {name: Island Falls}
+- {name: Isle Au Haut}
+- {name: Islesboro}
+- {name: Jay}
+- {name: Jefferson}
+- {name: Jonesboro}
+- {name: Jonesport}
+- {name: Kenduskeag}
+- {name: Kennebunk}
+- {name: Kennebunkport}
+- {name: Kents Hill}
+- {name: Kingfield}
+- {name: Kittery}
+- {name: Kittery Point}
+- {name: Lebanon}
+- {name: Leeds}
+- {name: Levant}
+- {name: Lewiston}
+- {name: Liberty}
+- {name: Limerick}
+- {name: Limestone}
+- {name: Limington}
+- {name: Lincoln}
+- {name: Lincolnville}
+- {name: Lisbon}
+- {name: Lisbon Falls}
+- {name: Litchfield}
+- {name: Little Deer Isle}
+- {name: Livermore}
+- {name: Livermore Falls}
+- {name: Lovell}
+- {name: Lubec}
+- {name: Machias}
+- {name: Machiasport}
+- {name: Madawaska}
+- {name: Madison}
+- {name: Manchester}
+- {name: Mapleton}
+- {name: Mars Hill}
+- {name: Mechanic Falls}
+- {name: Medway}
+- {name: Mexico}
+- {name: Milbridge}
+- {name: Millinocket}
+- {name: Milo}
+- {name: Minot}
+- {name: Monmouth}
+- {name: Monroe}
+- {name: Monticello}
+- {name: Morrill}
+- {name: Mount Desert}
+- {name: Mount Vernon}
+- {name: Naples}
+- {name: New Gloucester}
+- {name: New Limerick}
+- {name: New Portland}
+- {name: New Sharon}
+- {name: Newcastle}
+- {name: Newport}
+- {name: Newry}
+- {name: Nobleboro}
+- {name: Norridgewock}
+- {name: North Anson}
+- {name: North Berwick}
+- {name: North Bridgton}
+- {name: North Turner}
+- {name: North Vassalboro}
+- {name: North Waterboro}
+- {name: North Yarmouth}
+- {name: Norway}
+- {name: Oakland}
+- {name: Ogunquit}
+- {name: Olamon}
+- {name: Old Orchard Beach}
+- {name: Old Town}
+- {name: Orland}
+- {name: Orono}
+- {name: Orrington}
+- {name: Owls Head}
+- {name: Oxford}
+- {name: Palermo}
+- {name: Palmyra}
+- {name: Paris}
+- {name: Parsonsfield}
+- {name: Patten}
+- {name: Peaks Island}
+- {name: Pembroke}
+- {name: Penobscot}
+- {name: Perry}
+- {name: Peru}
+- {name: Phillips}
+- {name: Phippsburg}
+- {name: Pittsfield}
+- {name: Poland}
+- {name: Portland}
+- {name: Pownal}
+- {name: Presque Isle}
+- {name: Prospect Harbor}
+- {name: Randolph}
+- {name: Rangeley}
+- {name: Raymond}
+- {name: Readfield}
+- {name: Richmond}
+- {name: Robbinston}
+- {name: Rockland}
+- {name: Rockport}
+- {name: Rumford}
+- {name: Sabattus}
+- {name: Saco}
+- {name: Saint Agatha}
+- {name: Saint Albans}
+- {name: Salsbury Cove}
+- {name: Sanford}
+- {name: Sangerville}
+- {name: Scarborough}
+- {name: Seal Harbor}
+- {name: Searsmont}
+- {name: Searsport}
+- {name: Sebago}
+- {name: Sebago Lake}
+- {name: Sebec}
+- {name: Sedgwick}
+- {name: Shapleigh}
+- {name: Sherman}
+- {name: Shirley Mills}
+- {name: Skowhegan}
+- {name: Smithfield}
+- {name: Solon}
+- {name: Sorrento}
+- {name: South Berwick}
+- {name: South Casco}
+- {name: South China}
+- {name: South Gardiner}
+- {name: South Paris}
+- {name: South Portland}
+- {name: Southport}
+- {name: Southwest Harbor}
+- {name: Springfield}
+- {name: Springvale}
+- {name: Spruce Head}
+- {name: Standish}
+- {name: Steep Falls}
+- {name: Stetson}
+- {name: Stillwater}
+- {name: Stockholm}
+- {name: Stockton Springs}
+- {name: Stoneham}
+- {name: Strong}
+- {name: Surry}
+- {name: Swans Island}
+- {name: Thomaston}
+- {name: Thorndike}
+- {name: Topsfield}
+- {name: Topsham}
+- {name: Troy}
+- {name: Turner}
+- {name: Union}
+- {name: Unity}
+- {name: Vassalboro}
+- {name: Vinalhaven}
+- {name: Waldoboro}
+- {name: Warren}
+- {name: Washburn}
+- {name: Waterboro}
+- {name: Waterford}
+- {name: Waterville}
+- {name: Wayne}
+- {name: Wells}
+- {name: West Baldwin}
+- {name: West Farmington}
+- {name: West Kennebunk}
+- {name: West Newfield}
+- {name: West Paris}
+- {name: West Rockport}
+- {name: Westbrook}
+- {name: Whitefield}
+- {name: Wilton}
+- {name: Windham}
+- {name: Windsor}
+- {name: Winter Harbor}
+- {name: Winterport}
+- {name: Winthrop}
+- {name: Wiscasset}
+- {name: Woolwich}
+- {name: Wytopitlock}
+- {name: Yarmouth}
+- {name: York}

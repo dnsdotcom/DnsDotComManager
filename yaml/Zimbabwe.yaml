@@ -1,22 +1,4 @@
-- cities:
-  - {name: Victoria Falls}
-  code: '00'
-  name: ''
-- cities:
-  - {name: Chitungwiza}
-  - {name: Harare}
-  - {name: Kwekwe}
-  - {name: Mutare}
-  - {name: Newlands}
-  code: '04'
-  name: Mashonaland East
-- cities:
-  - {name: Bulawayo}
-  - {name: Gweru}
-  code: '06'
-  name: Matabeleland North
-- cities:
-  - {name: Chikomo}
-  - {name: Masvingo}
-  code: '07'
-  name: Matabeleland South
+- {code: '00', name: ''}
+- {code: '04', name: Mashonaland East}
+- {code: '06', name: Matabeleland North}
+- {code: '07', name: Matabeleland South}

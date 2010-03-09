@@ -1,12 +1,3 @@
-- cities:
-  - {name: Bamako}
-  code: '01'
-  name: Bamako
-- cities:
-  - {name: Kayes}
-  code: '03'
-  name: Kayes
-- cities:
-  - {name: Koutiala}
-  code: '06'
-  name: Sikasso
+- {code: '01', name: Bamako}
+- {code: '03', name: Kayes}
+- {code: '06', name: Sikasso}

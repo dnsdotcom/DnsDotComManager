@@ -1,0 +1,255 @@
+- {name: Accadia}
+- {name: Acquarica Del Capo}
+- {name: Acquaviva Delle Fonti}
+- {name: Adelfia}
+- {name: Alberobello}
+- {name: Alberona}
+- {name: Alessano}
+- {name: Alezio}
+- {name: Alliste}
+- {name: Andrano}
+- {name: Andria}
+- {name: Apricena}
+- {name: Aquilonia}
+- {name: Aradeo}
+- {name: Arnesano}
+- {name: Ascoli Satriano}
+- {name: Avetrana}
+- {name: Baldassarri}
+- {name: Barbarano}
+- {name: Bari}
+- {name: Barletta}
+- {name: Biccari}
+- {name: Bisceglie}
+- {name: Bitetto}
+- {name: Bitonto}
+- {name: Bitritto}
+- {name: Botrugno}
+- {name: Bovino}
+- {name: Brindisi}
+- {name: C}
+- {name: Cagnano Varano}
+- {name: Campi Salentina}
+- {name: Campomarino}
+- {name: Candela}
+- {name: Canosa Di Puglia}
+- {name: Capurso}
+- {name: Carapelle}
+- {name: Carmiano}
+- {name: Carosino}
+- {name: Carovigno}
+- {name: Carpignano Salentino}
+- {name: Carpino}
+- {name: Casamassima}
+- {name: Casarano}
+- {name: Cassano Delle Murge}
+- {name: Castellana}
+- {name: Castellana Grotte}
+- {name: Castellaneta}
+- {name: Castrignano Del Capo}
+- {name: Cavallino}
+- {name: Ceglie Del Campo}
+- {name: Ceglie Messapico}
+- {name: Cellamare}
+- {name: Cellino San Marco}
+- {name: Cerignola}
+- {name: Cisternino}
+- {name: Citt}
+- {name: Collepasso}
+- {name: Conversano}
+- {name: Copertino}
+- {name: Corato}
+- {name: Corigliano D'otranto}
+- {name: Corsano}
+- {name: Crispiano}
+- {name: Cursi}
+- {name: Cutrofiano}
+- {name: Deliceto}
+- {name: Depressa}
+- {name: Diso}
+- {name: Dragoni}
+- {name: Erchie}
+- {name: Faeto}
+- {name: Faggiano}
+- {name: Fasano}
+- {name: Felline}
+- {name: Fellini}
+- {name: Foggia}
+- {name: Fragagnano}
+- {name: Francavilla Fontana}
+- {name: Francone}
+- {name: Franconi}
+- {name: Gagliano Del Capo}
+- {name: Galatina}
+- {name: Galatone}
+- {name: Gallipoli}
+- {name: Gaudiano}
+- {name: Gemini}
+- {name: Gesuiti}
+- {name: Giardinetto}
+- {name: Gioia Del Colle}
+- {name: Giovanni Rotondo}
+- {name: Giovinazzo}
+- {name: Giuggianello}
+- {name: Giuliano}
+- {name: Grottaglie}
+- {name: Grumo Appula}
+- {name: Guagnano}
+- {name: Guglionesi}
+- {name: Ischitella}
+- {name: La Selva}
+- {name: Lacedonia}
+- {name: Latiano}
+- {name: Lavello}
+- {name: Lecce}
+- {name: Leporano}
+- {name: Lequile}
+- {name: Lesina}
+- {name: Leuca}
+- {name: Leverano}
+- {name: Lizzanello}
+- {name: Lizzano}
+- {name: Locorotondo}
+- {name: Lucera}
+- {name: Maglie}
+- {name: Manduria}
+- {name: Manfredonia}
+- {name: Margherita Di Savoia}
+- {name: Mariotto}
+- {name: Marittima}
+- {name: Martano}
+- {name: Martignano}
+- {name: Martina Franca}
+- {name: Maruggio}
+- {name: Massafra}
+- {name: Matino}
+- {name: Mattinata}
+- {name: Melendugno}
+- {name: Melfi}
+- {name: Melissano}
+- {name: Melpignano}
+- {name: Merine}
+- {name: Mesagne}
+- {name: Miggiano}
+- {name: Minervino Murge}
+- {name: Modugno}
+- {name: Mola Di Bari}
+- {name: Molfetta}
+- {name: Monopoli}
+- {name: Montaguto}
+- {name: Monte Grappa}
+- {name: Monteiasi}
+- {name: Montemesola}
+- {name: Monteparano}
+- {name: Monteroni Di Lecce}
+- {name: Montesano}
+- {name: Montrone}
+- {name: Morciano}
+- {name: Motta Montecorvino}
+- {name: Mottola}
+- {name: Muro Leccese}
+- {name: Nard}
+- {name: Neviano}
+- {name: Noci}
+- {name: Nociglia}
+- {name: Noicattaro}
+- {name: Novoli}
+- {name: Ordona}
+- {name: Oria}
+- {name: Orta Nova}
+- {name: Ostuni}
+- {name: Otranto}
+- {name: Palagianello}
+- {name: Palagiano}
+- {name: Palese}
+- {name: Palo Del Colle}
+- {name: Palumbo}
+- {name: Panni}
+- {name: Parabita}
+- {name: Peschici}
+- {name: Poggiardo}
+- {name: Poggio Imperiale}
+- {name: Polignano A Mare}
+- {name: Porto Cesareo}
+- {name: Praia A Mare}
+- {name: Presicce}
+- {name: Pulsano}
+- {name: Putignano}
+- {name: Racale}
+- {name: Rignano Garganico}
+- {name: Ripalta}
+- {name: Roccaforzata}
+- {name: Rodi Garganico}
+- {name: Ruberto}
+- {name: Ruffano}
+- {name: Rutigliano}
+- {name: Ruvo Di Puglia}
+- {name: Salice Salentino}
+- {name: Salve}
+- {name: Sammichele Di Bari}
+- {name: San Cesario}
+- {name: San Giorgio Ionico}
+- {name: San Giorgio Jonico}
+- {name: San Giovanni Rotondo}
+- {name: San Marco In Lamis}
+- {name: San Pancrazio Salentino}
+- {name: San Pietro In Lama}
+- {name: San Pietro Vernotico}
+- {name: San Severo}
+- {name: San Vito Dei Normanni}
+- {name: Sannicandro Di Bari}
+- {name: Sannicola}
+- {name: Santa Cesarea}
+- {name: Santo Spirito}
+- {name: Sava}
+- {name: Secl}
+- {name: Serracapriola}
+- {name: Serrano}
+- {name: Sogliano Cavour}
+- {name: Soleto}
+- {name: Specchia}
+- {name: Spinazzola}
+- {name: Spongano}
+- {name: Squinzano}
+- {name: Statte}
+- {name: Sternatia}
+- {name: Stornara}
+- {name: Stornarella}
+- {name: Struda}
+- {name: Supersano}
+- {name: Surano}
+- {name: Surbo}
+- {name: Talsano}
+- {name: Taranto}
+- {name: Taurisano}
+- {name: Taviano}
+- {name: Terlizzi}
+- {name: Termoli}
+- {name: Tiggiano}
+- {name: Torchiarolo}
+- {name: Toritto}
+- {name: Torre Santa Susanna}
+- {name: Tr}
+- {name: Trani}
+- {name: Trappeto}
+- {name: Trepuzzi}
+- {name: Tricase}
+- {name: Triggiano}
+- {name: Trinitapoli}
+- {name: Troia}
+- {name: Tuglie}
+- {name: Turi}
+- {name: Tutino}
+- {name: Ugento}
+- {name: Uggiano}
+- {name: Uggiano La Chiesa}
+- {name: Ururi}
+- {name: Valenzano}
+- {name: Veglie}
+- {name: Vernole}
+- {name: Vico Del Gargano}
+- {name: Vieste}
+- {name: Volturara Appula}
+- {name: Volturino}
+- {name: Zapponeta}
+- {name: Zollino}

@@ -1,39 +1,9 @@
-- cities:
-  - {name: Safiah}
-  code: '07'
-  name: ''
-- cities:
-  - {name: Hidd}
-  code: '01'
-  name: Al Hadd
-- cities:
-  - {name: Manama}
-  code: '02'
-  name: Al Manamah
-- cities:
-  - {name: Sanad}
-  code: '11'
-  name: Al Mintaqah al Wusta
-- cities:
-  - {name: Barbar}
-  - {name: Budaiya}
-  - {name: Maqaba}
-  code: '10'
-  name: Al Mintaqah ash Shamaliyah
-- cities:
-  - {name: Muharraq}
-  - {name: Sar}
-  code: '03'
-  name: Al Muharraq
-- cities:
-  - {name: Hamad Town}
-  code: '13'
-  name: Ar Rifa
-- cities:
-  - {name: Isa Town}
-  code: '12'
-  name: Madinat
-- cities:
-  - {name: Sitrah}
-  code: '06'
-  name: Sitrah
+- {code: '07', name: ''}
+- {code: '01', name: Al Hadd}
+- {code: '02', name: Al Manamah}
+- {code: '11', name: Al Mintaqah al Wusta}
+- {code: '10', name: Al Mintaqah ash Shamaliyah}
+- {code: '03', name: Al Muharraq}
+- {code: '13', name: Ar Rifa}
+- {code: '12', name: Madinat}
+- {code: '06', name: Sitrah}

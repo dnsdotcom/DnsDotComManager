@@ -1,29 +1,4 @@
-- cities:
-  - {name: Ambohidahy}
-  - {name: Andafiavaratra}
-  - {name: Ankadimbahoaka}
-  - {name: Ankasina}
-  - {name: Ankorahotra}
-  - {name: Anosy}
-  - {name: Antananarivo}
-  - {name: Antanimena}
-  - {name: Antaninandro}
-  - {name: Antsirabe}
-  - {name: Mahamasina}
-  - {name: Tananarive}
-  - {name: Tanjombato}
-  code: '05'
-  name: Antananarivo
-- cities:
-  - {name: Antaninarenina}
-  code: '02'
-  name: Fianarantsoa
-- cities:
-  - {name: Mahajanga}
-  code: '03'
-  name: Mahajanga
-- cities:
-  - {name: Tamatave}
-  - {name: Toamasina}
-  code: '04'
-  name: Toamasina
+- {code: '05', name: Antananarivo}
+- {code: '02', name: Fianarantsoa}
+- {code: '03', name: Mahajanga}
+- {code: '04', name: Toamasina}

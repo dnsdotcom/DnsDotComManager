@@ -1,0 +1,208 @@
+- {name: Aleksandr}
+- {name: Annopol}
+- {name: August}
+- {name: Babice Stare}
+- {name: Baniocha}
+- {name: Bialobrzegi}
+- {name: Bialoleka}
+- {name: Bieliny}
+- {name: Blonie}
+- {name: Bobrowiec}
+- {name: Borzecin Duzy}
+- {name: Bramki}
+- {name: Brwin}
+- {name: Cegielnia}
+- {name: Choiny}
+- {name: Choszcz}
+- {name: Chotom}
+- {name: Czarna}
+- {name: Czastkow}
+- {name: Czosn}
+- {name: Dabrowa}
+- {name: Dawidy}
+- {name: Dluga Koscielna}
+- {name: Duchnice}
+- {name: Duczki}
+- {name: Dziekan}
+- {name: Dziekanow Lesny}
+- {name: Falenica}
+- {name: Falenty}
+- {name: G}
+- {name: Gaski}
+- {name: Glinianka}
+- {name: Gloskow}
+- {name: Golkow}
+- {name: Grabina}
+- {name: Grady}
+- {name: Groch}
+- {name: Grochale}
+- {name: Grodzisk}
+- {name: Grodzisk Mazowiecki}
+- {name: Grzedy}
+- {name: Henryk}
+- {name: Horn}
+- {name: Iwiczna}
+- {name: Izabela}
+- {name: Izabelin}
+- {name: Izbica}
+- {name: J}
+- {name: Jablonna}
+- {name: Jachranka}
+- {name: Jan}
+- {name: Janczewice}
+- {name: Janowo}
+- {name: Jaworowa}
+- {name: Jazgarzew}
+- {name: Jeziorzany}
+- {name: Jozefoslaw}
+- {name: Kaluszyn}
+- {name: Kampinos}
+- {name: Karczew}
+- {name: Karolina}
+- {name: Katy Wegierskie}
+- {name: Kaweczyn}
+- {name: Kaweczynek}
+- {name: Kielpin}
+- {name: Klaudyn}
+- {name: Kobylka}
+- {name: Koczargi Nowe}
+- {name: Koczargi Stare}
+- {name: Kolo}
+- {name: Komor}
+- {name: Komorniki}
+- {name: Konik Nowy}
+- {name: Konotopa}
+- {name: Konstancin-jeziorna}
+- {name: Konstantyn}
+- {name: Kosewo}
+- {name: Kostowiec}
+- {name: Kosumce}
+- {name: Kr}
+- {name: Krepa}
+- {name: Lajski}
+- {name: Laszczki}
+- {name: Latchorzew}
+- {name: Leczna}
+- {name: Legionowo}
+- {name: Leoncin}
+- {name: Lesznowola}
+- {name: Lipk}
+- {name: Lomianki}
+- {name: Majdan}
+- {name: Marki}
+- {name: Michalin}
+- {name: Michalow}
+- {name: Michalow Grabina}
+- {name: Michalow-reginow}
+- {name: Michalowice}
+- {name: Miedzylesie}
+- {name: Milan}
+- {name: Mlochow}
+- {name: Modlin}
+- {name: Mokot}
+- {name: Mrok}
+- {name: Muran}
+- {name: Mysiadlo}
+- {name: Nadarzyn}
+- {name: Nart}
+- {name: Natolin}
+- {name: Nieporet}
+- {name: Nowa Wies}
+- {name: Nowy Dw}
+- {name: Nowy Modlin}
+- {name: Ochota}
+- {name: Odrzywol}
+- {name: Okuniew}
+- {name: Olszewnica Nowa}
+- {name: Oltarzew}
+- {name: Opacz}
+- {name: Opacz Mala}
+- {name: Orzechowo}
+- {name: Ostr}
+- {name: Otrebusy}
+- {name: Otwock}
+- {name: Ozarow}
+- {name: Ozarow Mazowiecki}
+- {name: Palmiry}
+- {name: Parzniew}
+- {name: Pecice}
+- {name: Piaseczno}
+- {name: Piast}
+- {name: Podkowa Lesna}
+- {name: Pomiech}
+- {name: Poreby}
+- {name: Prace Duze}
+- {name: Prusy}
+- {name: Pruszk}
+- {name: Puchaly}
+- {name: Radonice}
+- {name: Radzymin}
+- {name: Rak}
+- {name: Raszt}
+- {name: Raszyn}
+- {name: Rembert}
+- {name: Robercin}
+- {name: Rokitno}
+- {name: Rozopole}
+- {name: Roztoka}
+- {name: Rusiec}
+- {name: Rynia}
+- {name: Sadowa}
+- {name: Sady}
+- {name: Saska Kepa}
+- {name: Sekocin}
+- {name: Sekocin Nowy}
+- {name: Sekocin Stary}
+- {name: Serock}
+- {name: Siedliska}
+- {name: Skrzeszew}
+- {name: Slawek}
+- {name: Slomczyn}
+- {name: Sluzewiec}
+- {name: Stanislawowo}
+- {name: Stara Iwiczna}
+- {name: Stare Babice}
+- {name: Stefanowo}
+- {name: Strzeni}
+- {name: Suchy Las}
+- {name: Sulej}
+- {name: Swierk}
+- {name: Szamocin}
+- {name: Tarchomin}
+- {name: Tarczyn}
+- {name: Targ}
+- {name: Tomasz}
+- {name: Trzciana}
+- {name: Tulowice}
+- {name: Ursus}
+- {name: Ustan}
+- {name: W}
+- {name: Warsaw}
+- {name: Wiazowna}
+- {name: Wieliszew}
+- {name: Wiktor}
+- {name: Wilan}
+- {name: Wilk}
+- {name: Wlochy}
+- {name: Wojciech}
+- {name: Wola}
+- {name: Wola Aleksandra}
+- {name: Wola Mrokowska}
+- {name: Wola Prazmowska}
+- {name: Wolica}
+- {name: Wolomin}
+- {name: Zabki}
+- {name: Zablocie}
+- {name: Zabor}
+- {name: Zakret}
+- {name: Zakroczym}
+- {name: Zalesie}
+- {name: Zalesie G}
+- {name: Zaluski}
+- {name: Zawady}
+- {name: Zdzary}
+- {name: Zeran}
+- {name: Zielonka}
+- {name: Zielonki}
+- {name: Zlotoklos}
+- {name: Zoliborz}

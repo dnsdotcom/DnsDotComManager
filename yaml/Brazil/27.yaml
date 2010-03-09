@@ -1,0 +1,360 @@
+- {name: ''}
+- {name: Adamantina}
+- {name: Agostinho}
+- {name: Agua}
+- {name: Agua Clar}
+- {name: Agudos}
+- {name: Altin}
+- {name: Am}
+- {name: Americana}
+- {name: Amparo}
+- {name: Andradina}
+- {name: Aparecida}
+- {name: Apia}
+- {name: Ara}
+- {name: Araraquara}
+- {name: Araras}
+- {name: Ariranha}
+- {name: Arraial}
+- {name: Artur Nogueira}
+- {name: Aruj}
+- {name: Assis}
+- {name: Atibaia}
+- {name: Avar}
+- {name: Bananal}
+- {name: Bariri}
+- {name: Barra Bonita}
+- {name: Barretos}
+- {name: Barrinha}
+- {name: Barueri}
+- {name: Bastos}
+- {name: Batatais}
+- {name: Bauru}
+- {name: Bebedouro}
+- {name: Bertioga}
+- {name: Bilac}
+- {name: Birigui}
+- {name: Biritiba-mirim}
+- {name: Boa Esperan}
+- {name: Bofete}
+- {name: Boituva}
+- {name: Bom Retiro}
+- {name: Bonfim Paulista}
+- {name: Borborema}
+- {name: Botafogo}
+- {name: Botucatu}
+- {name: Bra}
+- {name: Bragan}
+- {name: Brasil}
+- {name: Brodowski}
+- {name: Brotas}
+- {name: Buenos Aires}
+- {name: Buri}
+- {name: Buritama}
+- {name: C}
+- {name: Ca}
+- {name: Cabre}
+- {name: Cachoeira Paulista}
+- {name: Caconde}
+- {name: Caf}
+- {name: Cafel}
+- {name: Caieiras}
+- {name: Cajamar}
+- {name: Cajuru}
+- {name: Camargo}
+- {name: Campinas}
+- {name: Campo}
+- {name: Campos Do Jord}
+- {name: Canan}
+- {name: Cap}
+- {name: Capela Do Alto}
+- {name: Capivari}
+- {name: Caraguatatuba}
+- {name: Caramuru}
+- {name: Carapicu}
+- {name: Cardoso}
+- {name: Casa Branca}
+- {name: Castilho}
+- {name: Catanduva}
+- {name: Cedral}
+- {name: Cerquilho}
+- {name: Charqueada}
+- {name: Chavantes}
+- {name: Colina}
+- {name: Conchal}
+- {name: Conchas}
+- {name: Conquista}
+- {name: Coqueiros}
+- {name: Cordeir}
+- {name: Cosm}
+- {name: Cotia}
+- {name: Cravinhos}
+- {name: Cruzeiro}
+- {name: Cubat}
+- {name: Cunha}
+- {name: Descalvado}
+- {name: Diadema}
+- {name: Dias}
+- {name: Dois C}
+- {name: Dracena}
+- {name: Duartina}
+- {name: Elias Fausto}
+- {name: Embu}
+- {name: Embu-gua}
+- {name: Fartura}
+- {name: Fernand}
+- {name: Ferraz De Vasconcelos}
+- {name: Floreal}
+- {name: Franca}
+- {name: Francisco Morato}
+- {name: Franco Da Rocha}
+- {name: Freguesia Do O}
+- {name: Gar}
+- {name: General Salgado}
+- {name: Gon}
+- {name: Goulart}
+- {name: Gua}
+- {name: Guapia}
+- {name: Guar}
+- {name: Guararapes}
+- {name: Guararema}
+- {name: Guaratinguet}
+- {name: Guariba}
+- {name: Guaruj}
+- {name: Guarulhos}
+- {name: Guatapar}
+- {name: Hercul}
+- {name: Hortol}
+- {name: Ibat}
+- {name: Ibi}
+- {name: Ibir}
+- {name: Ibitinga}
+- {name: Ic}
+- {name: Iep}
+- {name: Igarapava}
+- {name: Ilha Solteira}
+- {name: Ilhabela}
+- {name: Indaiatuba}
+- {name: Ipe}
+- {name: Iper}
+- {name: Ipu}
+- {name: Iracem}
+- {name: It}
+- {name: Itaipu}
+- {name: Itajobi}
+- {name: Itanha}
+- {name: Itapecerica Da Serra}
+- {name: Itapetininga}
+- {name: Itapevi}
+- {name: Itapira}
+- {name: Itapu}
+- {name: Itaquaquecetuba}
+- {name: Itarar}
+- {name: Itariri}
+- {name: Itatiba}
+- {name: Itatinga}
+- {name: Itirapina}
+- {name: Itu}
+- {name: Ituverava}
+- {name: J}
+- {name: Ja}
+- {name: Jaboticabal}
+- {name: Jacare}
+- {name: Jaguari}
+- {name: Jales}
+- {name: Jandira}
+- {name: Jardin}
+- {name: Jarinu}
+- {name: Jo}
+- {name: Jos}
+- {name: Jundia}
+- {name: Juquitiba}
+- {name: Laranjal Paulista}
+- {name: Lav}
+- {name: Leme}
+- {name: Len}
+- {name: Limeira}
+- {name: Lind}
+- {name: Lins}
+- {name: Lorena}
+- {name: Louveira}
+- {name: Lu}
+- {name: Luc}
+- {name: Luiz Antonio}
+- {name: Luizi}
+- {name: Macatuba}
+- {name: Mairinque}
+- {name: Mairipor}
+- {name: Mar}
+- {name: Maraca}
+- {name: Mari}
+- {name: Martin}
+- {name: Mat}
+- {name: Mau}
+- {name: Miguel}
+- {name: Mineiros Do Tiet}
+- {name: Miracatu}
+- {name: Mirand}
+- {name: Mirassol}
+- {name: Mista}
+- {name: Mococa}
+- {name: Mogi Das Cruzes}
+- {name: Mogi-gua}
+- {name: Mogi-mirim}
+- {name: Moji Das Cruzes}
+- {name: Moji-mirim}
+- {name: Mongagu}
+- {name: Monte Alto}
+- {name: Monte Apraz}
+- {name: Monte Azul Paulista}
+- {name: Monte Mor}
+- {name: Morro Agudo}
+- {name: Morungaba}
+- {name: Motuca}
+- {name: Natividade Da Serra}
+- {name: Neves}
+- {name: Neves Paulista}
+- {name: Nhandeara}
+- {name: Nogueira}
+- {name: Nova Europa}
+- {name: Nova Granada}
+- {name: Nova Odessa}
+- {name: Nova Veneza}
+- {name: Nuporanga}
+- {name: Ocau}
+- {name: Ol}
+- {name: Onda Verde}
+- {name: Orindi}
+- {name: Orl}
+- {name: Osasco}
+- {name: Oscar Bressane}
+- {name: Osvaldo Cruz}
+- {name: Ourinhos}
+- {name: P}
+- {name: Pacaembu}
+- {name: Palmital}
+- {name: Para}
+- {name: Paragua}
+- {name: Paraibuna}
+- {name: Paranapanema}
+- {name: Pardinho}
+- {name: Pariquera-a}
+- {name: Paul}
+- {name: Paulo De Faria}
+- {name: Pederneiras}
+- {name: Pedra Bela}
+- {name: Pedregulho}
+- {name: Pedreira}
+- {name: Pen}
+- {name: Pereira Barreto}
+- {name: Peru}
+- {name: Piacatu}
+- {name: Piedade}
+- {name: Pilar Do Sul}
+- {name: Pindamonhangaba}
+- {name: Pindorama}
+- {name: Pinhal}
+- {name: Pinhalzinho}
+- {name: Pinheirinho}
+- {name: Pinheiros}
+- {name: Piracaia}
+- {name: Piracicaba}
+- {name: Piraju}
+- {name: Pirap}
+- {name: Pirapora Do Bom Jesus}
+- {name: Pirassununga}
+- {name: Piratininga}
+- {name: Pitangueiras}
+- {name: Planalto}
+- {name: Po}
+- {name: Poloni}
+- {name: Pomp}
+- {name: Pontal}
+- {name: Porangaba}
+- {name: Potirendaba}
+- {name: Prad}
+- {name: Praia Grande}
+- {name: Presidente Bernardes}
+- {name: Presidente Epit}
+- {name: Presidente Prudente}
+- {name: Presidente Venceslau}
+- {name: Primavera}
+- {name: Promiss}
+- {name: Quadra}
+- {name: Rancharia}
+- {name: Regente Feij}
+- {name: Registro}
+- {name: Ribeir}
+- {name: Rio Afonso}
+- {name: Rio Claro}
+- {name: Rio Das Pedras}
+- {name: Rio Grande Da Serra}
+- {name: Rio Preto}
+- {name: Roberto}
+- {name: Roseira}
+- {name: Rui Barbosa}
+- {name: S}
+- {name: Sabino}
+- {name: Saltinho}
+- {name: Salto}
+- {name: Salto De Pirapora}
+- {name: San Paulo}
+- {name: Santa Ad}
+- {name: Santa B}
+- {name: Santa Barbara D'oeste}
+- {name: Santa Branca}
+- {name: Santa C}
+- {name: Santa Catarina}
+- {name: Santa Cruz Das Palmeiras}
+- {name: Santa Cruz Do Rio Pardo}
+- {name: Santa Ernestina}
+- {name: Santa F}
+- {name: Santa Gertrudes}
+- {name: Santa Isabel}
+- {name: Santa L}
+- {name: Santa Rosa De Viterbo}
+- {name: Santa Terezinha}
+- {name: Santana De Parna}
+- {name: Santo Anast}
+- {name: Santo Andr}
+- {name: Santo Ant}
+- {name: Santos}
+- {name: Sap}
+- {name: Sarapu}
+- {name: Serra Negra}
+- {name: Serrana}
+- {name: Sert}
+- {name: Sever}
+- {name: Simonsen}
+- {name: Soares}
+- {name: Socorro}
+- {name: Sorocaba}
+- {name: Sumar}
+- {name: Suzano}
+- {name: Tabo}
+- {name: Tanabi}
+- {name: Taquaritinga}
+- {name: Taquarituba}
+- {name: Taraba}
+- {name: Tarum}
+- {name: Tatu}
+- {name: Taubat}
+- {name: Tenente}
+- {name: Teodoro Sampaio}
+- {name: Tiet}
+- {name: Trememb}
+- {name: Tup}
+- {name: Tupi Paulista}
+- {name: Turi}
+- {name: Ubatuba}
+- {name: Uchoa}
+- {name: Urup}
+- {name: V}
+- {name: Valinhos}
+- {name: Valpara}
+- {name: Vargem Grande Do Sul}
+- {name: Vinhedo}
+- {name: Viradouro}
+- {name: Vista Alegre Do Alto}
+- {name: Votorantim}
+- {name: Votuporanga}

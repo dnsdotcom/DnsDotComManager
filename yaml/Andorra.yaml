@@ -1,29 +1,7 @@
-- cities:
-  - {name: Andorra La Vella}
-  code: '07'
-  name: Andorra la Vella
-- cities:
-  - {name: Soldeu}
-  code: '02'
-  name: Canillo
-- cities:
-  - {name: Encamp}
-  code: '03'
-  name: Encamp
-- cities:
-  - {name: Engordany}
-  - {name: Les Escaldes}
-  code: 08
-  name: Escaldes-Engordany
-- cities:
-  - {name: La Massana}
-  code: '04'
-  name: La Massana
-- cities:
-  - {name: Ordino}
-  code: '05'
-  name: Ordino
-- cities:
-  - {name: Sant Juli}
-  code: '06'
-  name: Sant Julia de Loria
+- {code: '07', name: Andorra la Vella}
+- {code: '02', name: Canillo}
+- {code: '03', name: Encamp}
+- {code: 08, name: Escaldes-Engordany}
+- {code: '04', name: La Massana}
+- {code: '05', name: Ordino}
+- {code: '06', name: Sant Julia de Loria}

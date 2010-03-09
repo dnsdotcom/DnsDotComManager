@@ -1,0 +1,239 @@
+- {name: Adamant}
+- {name: Albany}
+- {name: Alburg}
+- {name: Arlington}
+- {name: Ascutney}
+- {name: Barnard}
+- {name: Barnet}
+- {name: Barre}
+- {name: Barton}
+- {name: Beecher Falls}
+- {name: Bellows Falls}
+- {name: Belmont}
+- {name: Bennington}
+- {name: Bethel}
+- {name: Bomoseen}
+- {name: Bondville}
+- {name: Bradford}
+- {name: Brandon}
+- {name: Brattleboro}
+- {name: Bridgewater}
+- {name: Bridgewater Corners}
+- {name: Bridport}
+- {name: Bristol}
+- {name: Brookfield}
+- {name: Brownsville}
+- {name: Burlington}
+- {name: Cabot}
+- {name: Calais}
+- {name: Cambridge}
+- {name: Cambridgeport}
+- {name: Canaan}
+- {name: Castleton}
+- {name: Cavendish}
+- {name: Charlotte}
+- {name: Chester}
+- {name: Chittenden}
+- {name: Colchester}
+- {name: Corinth}
+- {name: Craftsbury}
+- {name: Craftsbury Common}
+- {name: Cuttingsville}
+- {name: Danby}
+- {name: Danville}
+- {name: Derby}
+- {name: Derby Line}
+- {name: Dorset}
+- {name: East Arlington}
+- {name: East Calais}
+- {name: East Corinth}
+- {name: East Dorset}
+- {name: East Fairfield}
+- {name: East Hardwick}
+- {name: East Middlebury}
+- {name: East Montpelier}
+- {name: East Randolph}
+- {name: East Ryegate}
+- {name: East Saint Johnsbury}
+- {name: East Thetford}
+- {name: East Wallingford}
+- {name: Eden}
+- {name: Eden Mills}
+- {name: Enosburg Falls}
+- {name: Essex}
+- {name: Essex Junction}
+- {name: Fair Haven}
+- {name: Fairfax}
+- {name: Fairfield}
+- {name: Fairlee}
+- {name: Ferrisburg}
+- {name: Forest Dale}
+- {name: Franklin}
+- {name: Glover}
+- {name: Grafton}
+- {name: Grand Isle}
+- {name: Graniteville}
+- {name: Granville}
+- {name: Greensboro}
+- {name: Greensboro Bend}
+- {name: Guildhall}
+- {name: Hancock}
+- {name: Hardwick}
+- {name: Hartford}
+- {name: Hartland}
+- {name: Hartland Four Corners}
+- {name: Highgate Center}
+- {name: Highgate Springs}
+- {name: Hinesburg}
+- {name: Huntington}
+- {name: Hyde Park}
+- {name: Hydeville}
+- {name: Island Pond}
+- {name: Jacksonville}
+- {name: Jeffersonville}
+- {name: Jericho}
+- {name: Johnson}
+- {name: Jonesville}
+- {name: Killington}
+- {name: Lake Elmore}
+- {name: Londonderry}
+- {name: Lower Waterford}
+- {name: Ludlow}
+- {name: Lunenburg}
+- {name: Lyndon}
+- {name: Lyndon Center}
+- {name: Lyndonville}
+- {name: Manchester}
+- {name: Manchester Center}
+- {name: Marlboro}
+- {name: Marshfield}
+- {name: Middlebury}
+- {name: Middletown Springs}
+- {name: Milton}
+- {name: Monkton}
+- {name: Montgomery Center}
+- {name: Montpelier}
+- {name: Moretown}
+- {name: Morgan}
+- {name: Morrisville}
+- {name: Moscow}
+- {name: Mount Holly}
+- {name: New Haven}
+- {name: Newfane}
+- {name: Newport}
+- {name: North Bennington}
+- {name: North Clarendon}
+- {name: North Ferrisburg}
+- {name: North Hero}
+- {name: North Hyde Park}
+- {name: North Pomfret}
+- {name: North Pownal}
+- {name: North Springfield}
+- {name: North Thetford}
+- {name: North Troy}
+- {name: Northfield}
+- {name: Northfield Falls}
+- {name: Norwich}
+- {name: Orleans}
+- {name: Orwell}
+- {name: Peacham}
+- {name: Perkinsville}
+- {name: Peru}
+- {name: Pittsfield}
+- {name: Pittsford}
+- {name: Plainfield}
+- {name: Plymouth}
+- {name: Post Mills}
+- {name: Poultney}
+- {name: Pownal}
+- {name: Proctor}
+- {name: Proctorsville}
+- {name: Putney}
+- {name: Quechee}
+- {name: Randolph}
+- {name: Randolph Center}
+- {name: Reading}
+- {name: Readsboro}
+- {name: Richford}
+- {name: Richmond}
+- {name: Ripton}
+- {name: Rochester}
+- {name: Roxbury}
+- {name: Rutland}
+- {name: Saint Albans}
+- {name: Saint Johnsbury}
+- {name: Salisbury}
+- {name: Saxtons River}
+- {name: Shaftsbury}
+- {name: Sharon}
+- {name: Sheffield}
+- {name: Shelburne}
+- {name: Sheldon}
+- {name: Shoreham}
+- {name: South Barre}
+- {name: South Burlington}
+- {name: South Hero}
+- {name: South Londonderry}
+- {name: South Newfane}
+- {name: South Pomfret}
+- {name: South Royalton}
+- {name: South Ryegate}
+- {name: South Strafford}
+- {name: South Woodstock}
+- {name: Springfield}
+- {name: Stamford}
+- {name: Starksboro}
+- {name: Stockbridge}
+- {name: Stowe}
+- {name: Strafford}
+- {name: Sutton}
+- {name: Swanton}
+- {name: Thetford}
+- {name: Thetford Center}
+- {name: Topsham}
+- {name: Townshend}
+- {name: Tunbridge}
+- {name: Underhill}
+- {name: Underhill Center}
+- {name: Vergennes}
+- {name: Vernon}
+- {name: Vershire}
+- {name: Waitsfield}
+- {name: Wallingford}
+- {name: Warren}
+- {name: Waterbury}
+- {name: Waterbury Center}
+- {name: Waterville}
+- {name: Websterville}
+- {name: Wells}
+- {name: Wells River}
+- {name: West Charleston}
+- {name: West Danville}
+- {name: West Dover}
+- {name: West Fairlee}
+- {name: West Halifax}
+- {name: West Hartford}
+- {name: West Pawlet}
+- {name: West Rupert}
+- {name: West Rutland}
+- {name: West Topsham}
+- {name: West Townshend}
+- {name: West Wardsboro}
+- {name: Westford}
+- {name: Westminster}
+- {name: Westminster Station}
+- {name: Weston}
+- {name: White River Junction}
+- {name: Whiting}
+- {name: Whitingham}
+- {name: Wilder}
+- {name: Williamstown}
+- {name: Williamsville}
+- {name: Williston}
+- {name: Wilmington}
+- {name: Windsor}
+- {name: Winooski}
+- {name: Wolcott}
+- {name: Woodbury}
+- {name: Woodstock}
+- {name: Worcester}

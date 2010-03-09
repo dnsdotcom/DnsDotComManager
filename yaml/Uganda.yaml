@@ -1,9 +1,2 @@
-- cities:
-  - {name: Mityana}
-  code: '56'
-  name: ''
-- cities:
-  - {name: Kampala}
-  - {name: Makerere}
-  code: '37'
-  name: Kampala
+- {code: '56', name: ''}
+- {code: '37', name: Kampala}

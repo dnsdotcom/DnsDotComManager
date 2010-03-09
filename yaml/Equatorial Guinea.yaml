@@ -1,8 +1,2 @@
-- cities:
-  - {name: Malabo}
-  code: '04'
-  name: Bioko Norte
-- cities:
-  - {name: Bata}
-  code: 08
-  name: Litoral
+- {code: '04', name: Bioko Norte}
+- {code: 08, name: Litoral}

@@ -1,0 +1,372 @@
+- {name: Acquappesa}
+- {name: Acri}
+- {name: Adami}
+- {name: Agrifoglio}
+- {name: Albergo}
+- {name: Aless}
+- {name: Altomonte}
+- {name: Amantea}
+- {name: Amendolara}
+- {name: Amica}
+- {name: Anoia}
+- {name: Arena}
+- {name: Argusto}
+- {name: Ariola}
+- {name: Armo}
+- {name: Attilia}
+- {name: Avena}
+- {name: Badolato}
+- {name: Bagnara Calabra}
+- {name: Barretta}
+- {name: Basilico}
+- {name: Belladama}
+- {name: Belladonna}
+- {name: Belmonte}
+- {name: Belsito}
+- {name: Belvedere Marittimo}
+- {name: Bianchi}
+- {name: Bisignano}
+- {name: Bivona}
+- {name: Bonifati}
+- {name: Borgia}
+- {name: Botricello}
+- {name: Briatico}
+- {name: Brunetto}
+- {name: Bucchi}
+- {name: Buchi}
+- {name: Buonvicino}
+- {name: Caccuri}
+- {name: Calimera}
+- {name: Calvisi}
+- {name: Cancello}
+- {name: Candidoni}
+- {name: Canna}
+- {name: Capanne}
+- {name: Capo Rizzuto}
+- {name: Capocasale}
+- {name: Cappella}
+- {name: Cardinale}
+- {name: Caria}
+- {name: Cariati}
+- {name: Carolei}
+- {name: Caroni}
+- {name: Carrao}
+- {name: Casino}
+- {name: Castella}
+- {name: Castrolibero}
+- {name: Castroregio}
+- {name: Castrovillari}
+- {name: Catanzaro}
+- {name: Cavaliere}
+- {name: Celico}
+- {name: Ceraso}
+- {name: Cersosimo}
+- {name: Certosa}
+- {name: Cerva}
+- {name: Cervicati}
+- {name: Cessaniti}
+- {name: Cetraro}
+- {name: Chiaramonte}
+- {name: Chiaravalle Centrale}
+- {name: Chiriaco}
+- {name: Cicala}
+- {name: Cicchetti}
+- {name: Cir}
+- {name: Cirella}
+- {name: Cleto}
+- {name: Colosimi}
+- {name: Coraci}
+- {name: Corigliano Calabro}
+- {name: Cortale}
+- {name: Corvo}
+- {name: Cosentino}
+- {name: Cosenza}
+- {name: Cosoleto}
+- {name: Cotronei}
+- {name: Cropalati}
+- {name: Cropani}
+- {name: Crosetto}
+- {name: Crosia}
+- {name: Crosta}
+- {name: Crotone}
+- {name: Crucoli}
+- {name: Curinga}
+- {name: Cutro}
+- {name: Das}
+- {name: Davoli}
+- {name: Decollatura}
+- {name: Destro}
+- {name: Diamante}
+- {name: Diano}
+- {name: Dinami}
+- {name: Dipignano}
+- {name: Episcopia}
+- {name: Fabrizia}
+- {name: Fagnano Castello}
+- {name: Failla}
+- {name: Falerna}
+- {name: Fantini}
+- {name: Fardella}
+- {name: Faro}
+- {name: Fasana}
+- {name: Favata}
+- {name: Feroleto}
+- {name: Fiera}
+- {name: Filadelfia}
+- {name: Filogaso}
+- {name: Firmo}
+- {name: Fiumefreddo Bruzio}
+- {name: Francavilla}
+- {name: Francavilla In Sinni}
+- {name: Francica}
+- {name: Frascineto}
+- {name: Frassa}
+- {name: Fuscaldo}
+- {name: Galatro}
+- {name: Galli}
+- {name: Gallina}
+- {name: Gallucci}
+- {name: Gambarelli}
+- {name: Garigliano}
+- {name: Gasperina}
+- {name: Gerocarne}
+- {name: Giampaolo}
+- {name: Giardinello}
+- {name: Giardini}
+- {name: Gimigliano}
+- {name: Gioia}
+- {name: Gioia Tauro}
+- {name: Giosafat}
+- {name: Girello}
+- {name: Girifalco}
+- {name: Gizzeria}
+- {name: Golino}
+- {name: Gu}
+- {name: Guido}
+- {name: Gullo}
+- {name: Ianni}
+- {name: Il Monte}
+- {name: Il Torrione}
+- {name: Ionadi}
+- {name: Ioppolo}
+- {name: Isca}
+- {name: Isca Sullo Ionio}
+- {name: Isola Capo Rizzuto}
+- {name: La Casella}
+- {name: La Foresta}
+- {name: La Mattina}
+- {name: La Motta}
+- {name: La Torretta}
+- {name: Labonia}
+- {name: Laino Borgo}
+- {name: Laino Castello}
+- {name: Lam}
+- {name: Laratta}
+- {name: Lattarico}
+- {name: Laureana Di Borrello}
+- {name: Limbadi}
+- {name: Longobardi}
+- {name: Longobucco}
+- {name: Lorica}
+- {name: Lungro}
+- {name: Luzzi}
+- {name: Macri}
+- {name: Madia}
+- {name: Magisano}
+- {name: Maida}
+- {name: Maierato}
+- {name: Malito}
+- {name: Malvito}
+- {name: Mandatoriccio}
+- {name: Mangone}
+- {name: Marano Principato}
+- {name: Marcellinara}
+- {name: Marri}
+- {name: Marzi}
+- {name: Mauro}
+- {name: Mazza}
+- {name: Mazzuca}
+- {name: Melicucc}
+- {name: Melissa}
+- {name: Mendicino}
+- {name: Menniti}
+- {name: Merendi}
+- {name: Mesiano}
+- {name: Mesoraca}
+- {name: Mezzana}
+- {name: Michelotti}
+- {name: Mileto}
+- {name: Mirto}
+- {name: Molinari}
+- {name: Molinaro}
+- {name: Monaco}
+- {name: Monasterace}
+- {name: Mongrassano}
+- {name: Montalto Uffugo}
+- {name: Montauro}
+- {name: Montegiordano}
+- {name: Montepaone}
+- {name: Morelli}
+- {name: Mormanno}
+- {name: Motta}
+- {name: Nicastro}
+- {name: Nicotera}
+- {name: Nocera Terinese}
+- {name: Nocera Tirinese}
+- {name: Oliva}
+- {name: Orsi}
+- {name: Orsomarso}
+- {name: Orti}
+- {name: Ovile}
+- {name: Palermiti}
+- {name: Pallagorio}
+- {name: Palmi}
+- {name: Palombella}
+- {name: Paludi}
+- {name: Panettieri}
+- {name: Paola}
+- {name: Paoli}
+- {name: Paradiso}
+- {name: Paravati}
+- {name: Parenti}
+- {name: Pasquale}
+- {name: Passaggio}
+- {name: Pastine}
+- {name: Pedace}
+- {name: Pedivigliano}
+- {name: Pentone}
+- {name: Petilia Policastro}
+- {name: Petrizzi}
+- {name: Petron}
+- {name: Pianopoli}
+- {name: Pietrapiana}
+- {name: Piscopio}
+- {name: Pizzo}
+- {name: Pizzoni}
+- {name: Platania}
+- {name: Pogliano}
+- {name: Polverini}
+- {name: Porcile}
+- {name: Pozzella}
+- {name: Purgatorio}
+- {name: Ramondo}
+- {name: Ramundo}
+- {name: Reggio Calabria}
+- {name: Reggio Di Calabria}
+- {name: Regina}
+- {name: Rende}
+- {name: Ricadi}
+- {name: Rizzi}
+- {name: Rizziconi}
+- {name: Rizzuti}
+- {name: Rocca Di Neto}
+- {name: Roccabernarda}
+- {name: Rocchi}
+- {name: Rocco}
+- {name: Roggiano Gravina}
+- {name: Rogliano}
+- {name: Rosarno}
+- {name: Rose}
+- {name: Roseto}
+- {name: Roseto Capo Spulico}
+- {name: Rosito}
+- {name: Rossano}
+- {name: Rota Greca}
+- {name: Rotonda}
+- {name: Rovella}
+- {name: Rovello}
+- {name: Rovito}
+- {name: S}
+- {name: Sabatino}
+- {name: Salerni}
+- {name: San Calogero}
+- {name: San Costantino Albanese}
+- {name: San Demetrio Corone}
+- {name: San Domenico}
+- {name: San Ferdinando}
+- {name: San Floro}
+- {name: San Francesco}
+- {name: San Gaetano}
+- {name: San Giovanni In Fiore}
+- {name: San Lucido}
+- {name: San Mango}
+- {name: San Marco Argentano}
+- {name: San Pasquale}
+- {name: San Severino}
+- {name: San Vincenzo}
+- {name: San Vito Sullo I}
+- {name: Sangineto}
+- {name: Sant'agata Di Esaro}
+- {name: Santa Domenica}
+- {name: Santa Severina}
+- {name: Saracena}
+- {name: Sarbo}
+- {name: Sarro}
+- {name: Satriano}
+- {name: Savuto}
+- {name: Sbarre}
+- {name: Scandale}
+- {name: Scarcelli}
+- {name: Schiavonea}
+- {name: Schiavonia}
+- {name: Scifo}
+- {name: Scola}
+- {name: Scorza}
+- {name: Seggio}
+- {name: Sellia}
+- {name: Seminara}
+- {name: Senise}
+- {name: Serra Pedace}
+- {name: Serra San Bruno}
+- {name: Serrastretta}
+- {name: Serrata}
+- {name: Sersale}
+- {name: Sibari}
+- {name: Signorelli}
+- {name: Silos}
+- {name: Simeri}
+- {name: Simone}
+- {name: Sinopoli}
+- {name: Soriano Calabro}
+- {name: Soverato}
+- {name: Soveria}
+- {name: Soveria Mannelli}
+- {name: Spartimento}
+- {name: Spezzano Albanese}
+- {name: Spezzano Della Sila}
+- {name: Spilinga}
+- {name: Spineto}
+- {name: Squillace}
+- {name: Stalett}
+- {name: Strongoli}
+- {name: Tarsia}
+- {name: Taurianova}
+- {name: Terranova}
+- {name: Terranova Da S}
+- {name: Terranuova}
+- {name: Terravecchia}
+- {name: Tiriolo}
+- {name: Tocci}
+- {name: Todero}
+- {name: Torano Castello}
+- {name: Torretta}
+- {name: Toscano}
+- {name: Trebisacce}
+- {name: Trenta}
+- {name: Tropea}
+- {name: Umbri}
+- {name: Vadi}
+- {name: Vallefiorita}
+- {name: Varapodio}
+- {name: Vazzano}
+- {name: Vena}
+- {name: Verbicaro}
+- {name: Verzino}
+- {name: Vibo Valentia}
+- {name: Villa Gi}
+- {name: Villapiana}
+- {name: Vito}
+- {name: Zaccaria}
+- {name: Zagaria}
+- {name: Zagarise}
+- {name: Zumpano}

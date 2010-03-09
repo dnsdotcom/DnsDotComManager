@@ -1,0 +1,1245 @@
+- {name: Accord}
+- {name: Acra}
+- {name: Adams}
+- {name: Adams Basin}
+- {name: Adams Center}
+- {name: Addison}
+- {name: Afton}
+- {name: Akron}
+- {name: Albany}
+- {name: Albertson}
+- {name: Albion}
+- {name: Alcove}
+- {name: Alden}
+- {name: Alder Creek}
+- {name: Alexandria Bay}
+- {name: Alfred}
+- {name: Alfred Station}
+- {name: Allegany}
+- {name: Allentown}
+- {name: Alpine}
+- {name: Altamont}
+- {name: Altmar}
+- {name: Altona}
+- {name: Amagansett}
+- {name: Amawalk}
+- {name: Amenia}
+- {name: Amityville}
+- {name: Amsterdam}
+- {name: Ancram}
+- {name: Andes}
+- {name: Angola}
+- {name: Annandale On Hudson}
+- {name: Antwerp}
+- {name: Apalachin}
+- {name: Appleton}
+- {name: Apulia Station}
+- {name: Arcade}
+- {name: Ardsley}
+- {name: Argyle}
+- {name: Arkport}
+- {name: Arkville}
+- {name: Armonk}
+- {name: Arverne}
+- {name: Ashland}
+- {name: Ashville}
+- {name: Astoria}
+- {name: Athens}
+- {name: Atlantic Beach}
+- {name: Attica}
+- {name: Au Sable Forks}
+- {name: Auburn}
+- {name: Aurora}
+- {name: Austerlitz}
+- {name: Ava}
+- {name: Averill Park}
+- {name: Avoca}
+- {name: Avon}
+- {name: Babylon}
+- {name: Bainbridge}
+- {name: Baldwin}
+- {name: Baldwin Place}
+- {name: Baldwinsville}
+- {name: Ballston Lake}
+- {name: Ballston Spa}
+- {name: Barker}
+- {name: Barryville}
+- {name: Barton}
+- {name: Basom}
+- {name: Batavia}
+- {name: Bath}
+- {name: Bay Shore}
+- {name: Bayport}
+- {name: Bayside}
+- {name: Bayville}
+- {name: Beacon}
+- {name: Bear Mountain}
+- {name: Bearsville}
+- {name: Bedford}
+- {name: Bedford Hills}
+- {name: Bellerose}
+- {name: Bellmore}
+- {name: Bellport}
+- {name: Bellvale}
+- {name: Belmont}
+- {name: Bemus Point}
+- {name: Bergen}
+- {name: Berkshire}
+- {name: Berlin}
+- {name: Berne}
+- {name: Bethpage}
+- {name: Big Flats}
+- {name: Big Indian}
+- {name: Binghamton}
+- {name: Black River}
+- {name: Blauvelt}
+- {name: Bliss}
+- {name: Blodgett Mills}
+- {name: Bloomfield}
+- {name: Blooming Grove}
+- {name: Bloomingburg}
+- {name: Bloomingdale}
+- {name: Bloomville}
+- {name: Blossvale}
+- {name: Blue Mountain Lake}
+- {name: Blue Point}
+- {name: Bohemia}
+- {name: Boiceville}
+- {name: Bolivar}
+- {name: Bolton Landing}
+- {name: Bombay}
+- {name: Boonville}
+- {name: Boston}
+- {name: Bouckville}
+- {name: Bovina Center}
+- {name: Bowmansville}
+- {name: Brainardsville}
+- {name: Brant}
+- {name: Brant Lake}
+- {name: Breesport}
+- {name: Breezy Point}
+- {name: Brentwood}
+- {name: Brewerton}
+- {name: Brewster}
+- {name: Briarcliff Manor}
+- {name: Bridgehampton}
+- {name: Bridgeport}
+- {name: Bridgewater}
+- {name: Brightwaters}
+- {name: Broadalbin}
+- {name: Brockport}
+- {name: Brocton}
+- {name: Bronx}
+- {name: Bronxville}
+- {name: Brookhaven}
+- {name: Brooklyn}
+- {name: Brownville}
+- {name: Brushton}
+- {name: Buchanan}
+- {name: Buffalo}
+- {name: Bullville}
+- {name: Burdett}
+- {name: Burlingham}
+- {name: Burnt Hills}
+- {name: Burt}
+- {name: Buskirk}
+- {name: Byron}
+- {name: Cairo}
+- {name: Calcium}
+- {name: Caledonia}
+- {name: Callicoon}
+- {name: Calverton}
+- {name: Cambria Heights}
+- {name: Cambridge}
+- {name: Camden}
+- {name: Camillus}
+- {name: Campbell}
+- {name: Campbell Hall}
+- {name: Canaan}
+- {name: Canajoharie}
+- {name: Canandaigua}
+- {name: Canastota}
+- {name: Candor}
+- {name: Caneadea}
+- {name: Canisteo}
+- {name: Canton}
+- {name: Cape Vincent}
+- {name: Carle Place}
+- {name: Carmel}
+- {name: Caroga Lake}
+- {name: Carthage}
+- {name: Cassadaga}
+- {name: Cassville}
+- {name: Castile}
+- {name: Castle Creek}
+- {name: Castle Point}
+- {name: Castleton On Hudson}
+- {name: Castorland}
+- {name: Catskill}
+- {name: Cattaraugus}
+- {name: Cayuga}
+- {name: Cazenovia}
+- {name: Cedarhurst}
+- {name: Center Moriches}
+- {name: Centereach}
+- {name: Centerport}
+- {name: Central Bridge}
+- {name: Central Islip}
+- {name: Central Square}
+- {name: Central Valley}
+- {name: Chadwicks}
+- {name: Chaffee}
+- {name: Champlain}
+- {name: Chappaqua}
+- {name: Chateaugay}
+- {name: Chatham}
+- {name: Chaumont}
+- {name: Chautauqua}
+- {name: Chazy}
+- {name: Chemung}
+- {name: Chenango Bridge}
+- {name: Chenango Forks}
+- {name: Cherry Creek}
+- {name: Cherry Valley}
+- {name: Chester}
+- {name: Chestertown}
+- {name: Chichester}
+- {name: Chittenango}
+- {name: Churchville}
+- {name: Cicero}
+- {name: Cincinnatus}
+- {name: Clarence}
+- {name: Clarence Center}
+- {name: Clark Mills}
+- {name: Clarksville}
+- {name: Claryville}
+- {name: Clay}
+- {name: Clayton}
+- {name: Cleveland}
+- {name: Cleverdale}
+- {name: Clifton Park}
+- {name: Clifton Springs}
+- {name: Clinton}
+- {name: Clinton Corners}
+- {name: Clintondale}
+- {name: Clockville}
+- {name: Clyde}
+- {name: Cobleskill}
+- {name: Cochecton}
+- {name: Coeymans Hollow}
+- {name: Cohocton}
+- {name: Cohoes}
+- {name: Cold Brook}
+- {name: Cold Spring}
+- {name: Cold Spring Harbor}
+- {name: Colden}
+- {name: College Point}
+- {name: Colliersville}
+- {name: Collins Center}
+- {name: Commack}
+- {name: Conesus}
+- {name: Congers}
+- {name: Conklin}
+- {name: Constantia}
+- {name: Cooperstown}
+- {name: Copake}
+- {name: Copake Falls}
+- {name: Copenhagen}
+- {name: Copiague}
+- {name: Coram}
+- {name: Corfu}
+- {name: Corinth}
+- {name: Corning}
+- {name: Cornwall}
+- {name: Cornwall On Hudson}
+- {name: Corona}
+- {name: Cortland}
+- {name: Cortlandt Manor}
+- {name: Cottekill}
+- {name: Coxsackie}
+- {name: Cranberry Lake}
+- {name: Craryville}
+- {name: Croghan}
+- {name: Crompond}
+- {name: Cropseyville}
+- {name: Cross River}
+- {name: Croton Falls}
+- {name: Croton On Hudson}
+- {name: Crown Point}
+- {name: Cuba}
+- {name: Cuddebackville}
+- {name: Cutchogue}
+- {name: Dale}
+- {name: Dalton}
+- {name: Dannemora}
+- {name: Dansville}
+- {name: Darien Center}
+- {name: Davenport}
+- {name: Dayton}
+- {name: De Kalb Junction}
+- {name: De Ruyter}
+- {name: Deansboro}
+- {name: Deer Park}
+- {name: Deer River}
+- {name: Delancey}
+- {name: Delanson}
+- {name: Delevan}
+- {name: Delhi}
+- {name: Delmar}
+- {name: Denver}
+- {name: Depew}
+- {name: Deposit}
+- {name: Derby}
+- {name: Dewittville}
+- {name: Dexter}
+- {name: Diamond Point}
+- {name: Dobbs Ferry}
+- {name: Dolgeville}
+- {name: Dover Plains}
+- {name: Dryden}
+- {name: Duanesburg}
+- {name: Dundee}
+- {name: Dunkirk}
+- {name: Durhamville}
+- {name: Eagle Bay}
+- {name: Eagle Bridge}
+- {name: Earlton}
+- {name: Earlville}
+- {name: East Amherst}
+- {name: East Aurora}
+- {name: East Berne}
+- {name: East Bethany}
+- {name: East Bloomfield}
+- {name: East Chatham}
+- {name: East Concord}
+- {name: East Elmhurst}
+- {name: East Greenbush}
+- {name: East Hampton}
+- {name: East Islip}
+- {name: East Jewett}
+- {name: East Meadow}
+- {name: East Meredith}
+- {name: East Moriches}
+- {name: East Nassau}
+- {name: East Northport}
+- {name: East Norwich}
+- {name: East Otto}
+- {name: East Pembroke}
+- {name: East Pharsalia}
+- {name: East Quogue}
+- {name: East Randolph}
+- {name: East Rochester}
+- {name: East Rockaway}
+- {name: East Setauket}
+- {name: East Syracuse}
+- {name: Eastchester}
+- {name: Eastport}
+- {name: Eden}
+- {name: Edmeston}
+- {name: Edwards}
+- {name: Elba}
+- {name: Elbridge}
+- {name: Eldred}
+- {name: Elizabethtown}
+- {name: Ellenburg Depot}
+- {name: Ellenville}
+- {name: Ellicottville}
+- {name: Elma}
+- {name: Elmhurst}
+- {name: Elmira}
+- {name: Elmont}
+- {name: Elmsford}
+- {name: Endicott}
+- {name: Esopus}
+- {name: Esperance}
+- {name: Essex}
+- {name: Evans Mills}
+- {name: Fabius}
+- {name: Fairport}
+- {name: Falconer}
+- {name: Fallsburg}
+- {name: Far Rockaway}
+- {name: Farmingdale}
+- {name: Farmington}
+- {name: Farmingville}
+- {name: Fayetteville}
+- {name: Felts Mills}
+- {name: Ferndale}
+- {name: Feura Bush}
+- {name: Fillmore}
+- {name: Findley Lake}
+- {name: Fishers}
+- {name: Fishers Island}
+- {name: Fishkill}
+- {name: Floral Park}
+- {name: Florida}
+- {name: Flushing}
+- {name: Fly Creek}
+- {name: Fonda}
+- {name: Forest Hills}
+- {name: Forestburgh}
+- {name: Forestport}
+- {name: Forestville}
+- {name: Fort Ann}
+- {name: Fort Drum}
+- {name: Fort Edward}
+- {name: Fort Hunter}
+- {name: Fort Johnson}
+- {name: Fort Montgomery}
+- {name: Fort Plain}
+- {name: Frankfort}
+- {name: Franklin}
+- {name: Franklin Springs}
+- {name: Franklin Square}
+- {name: Franklinville}
+- {name: Fredonia}
+- {name: Freedom}
+- {name: Freeport}
+- {name: Freeville}
+- {name: Fresh Meadows}
+- {name: Frewsburg}
+- {name: Friendship}
+- {name: Fulton}
+- {name: Fultonham}
+- {name: Fultonville}
+- {name: Galway}
+- {name: Gansevoort}
+- {name: Garden City}
+- {name: Gardiner}
+- {name: Garnerville}
+- {name: Garrison}
+- {name: Gasport}
+- {name: Geneseo}
+- {name: Geneva}
+- {name: Genoa}
+- {name: Germantown}
+- {name: Gerry}
+- {name: Getzville}
+- {name: Ghent}
+- {name: Gilbertsville}
+- {name: Gilboa}
+- {name: Glen Aubrey}
+- {name: Glen Cove}
+- {name: Glen Head}
+- {name: Glen Oaks}
+- {name: Glenfield}
+- {name: Glenham}
+- {name: Glenmont}
+- {name: Glens Falls}
+- {name: Glenwood}
+- {name: Glenwood Landing}
+- {name: Gloversville}
+- {name: Goldens Bridge}
+- {name: Goshen}
+- {name: Gouverneur}
+- {name: Gowanda}
+- {name: Grafton}
+- {name: Grahamsville}
+- {name: Grand Island}
+- {name: Granville}
+- {name: Great Neck}
+- {name: Great River}
+- {name: Great Valley}
+- {name: Greene}
+- {name: Greenfield Center}
+- {name: Greenfield Park}
+- {name: Greenlawn}
+- {name: Greenport}
+- {name: Greenvale}
+- {name: Greenville}
+- {name: Greenwich}
+- {name: Greenwood}
+- {name: Greenwood Lake}
+- {name: Greig}
+- {name: Groton}
+- {name: Groveland}
+- {name: Guilderland}
+- {name: Guilderland Center}
+- {name: Guilford}
+- {name: Hadley}
+- {name: Hagaman}
+- {name: Hailesboro}
+- {name: Halcottsville}
+- {name: Hamburg}
+- {name: Hamilton}
+- {name: Hamlin}
+- {name: Hammond}
+- {name: Hammondsport}
+- {name: Hampton Bays}
+- {name: Hancock}
+- {name: Hannacroix}
+- {name: Hannawa Falls}
+- {name: Hannibal}
+- {name: Harford}
+- {name: Harpersfield}
+- {name: Harpursville}
+- {name: Harriman}
+- {name: Harrison}
+- {name: Harrisville}
+- {name: Hartford}
+- {name: Hartsdale}
+- {name: Hastings}
+- {name: Hastings On Hudson}
+- {name: Hauppauge}
+- {name: Haverstraw}
+- {name: Hawthorne}
+- {name: Hector}
+- {name: Hemlock}
+- {name: Hempstead}
+- {name: Henderson}
+- {name: Henrietta}
+- {name: Herkimer}
+- {name: Hermon}
+- {name: Heuvelton}
+- {name: Hewlett}
+- {name: Hicksville}
+- {name: High Falls}
+- {name: Highland}
+- {name: Highland Falls}
+- {name: Highland Mills}
+- {name: Hillburn}
+- {name: Hillsdale}
+- {name: Hilton}
+- {name: Hinckley}
+- {name: Hinsdale}
+- {name: Hoffmeister}
+- {name: Hogansburg}
+- {name: Holbrook}
+- {name: Holland}
+- {name: Holland Patent}
+- {name: Holley}
+- {name: Hollis}
+- {name: Hollowville}
+- {name: Holmes}
+- {name: Holtsville}
+- {name: Homer}
+- {name: Honeoye}
+- {name: Honeoye Falls}
+- {name: Hoosick}
+- {name: Hoosick Falls}
+- {name: Hopewell Junction}
+- {name: Hornell}
+- {name: Horseheads}
+- {name: Houghton}
+- {name: Howard Beach}
+- {name: Howes Cave}
+- {name: Hubbardsville}
+- {name: Hudson}
+- {name: Hudson Falls}
+- {name: Hughsonville}
+- {name: Huguenot}
+- {name: Hume}
+- {name: Huntington}
+- {name: Huntington Station}
+- {name: Hurley}
+- {name: Hurleyville}
+- {name: Hyde Park}
+- {name: Ilion}
+- {name: Indian Lake}
+- {name: Inlet}
+- {name: Interlaken}
+- {name: Inwood}
+- {name: Ionia}
+- {name: Irving}
+- {name: Irvington}
+- {name: Island Park}
+- {name: Islandia}
+- {name: Islip}
+- {name: Islip Terrace}
+- {name: Ithaca}
+- {name: Jackson Heights}
+- {name: Jamaica}
+- {name: Jamesport}
+- {name: Jamestown}
+- {name: Jamesville}
+- {name: Java Center}
+- {name: Jay}
+- {name: Jefferson}
+- {name: Jefferson Valley}
+- {name: Jericho}
+- {name: Johnsburg}
+- {name: Johnson}
+- {name: Johnson City}
+- {name: Johnsonville}
+- {name: Johnstown}
+- {name: Jordan}
+- {name: Jordanville}
+- {name: Katonah}
+- {name: Keene Valley}
+- {name: Keeseville}
+- {name: Kendall}
+- {name: Kenoza Lake}
+- {name: Kerhonkson}
+- {name: Keuka Park}
+- {name: Kew Gardens}
+- {name: Kinderhook}
+- {name: King Ferry}
+- {name: Kings Park}
+- {name: Kingston}
+- {name: Kirkville}
+- {name: Kirkwood}
+- {name: Knowlesville}
+- {name: Knoxboro}
+- {name: La Fargeville}
+- {name: La Fayette}
+- {name: Lacona}
+- {name: Lagrangeville}
+- {name: Lake Clear}
+- {name: Lake George}
+- {name: Lake Grove}
+- {name: Lake Katrine}
+- {name: Lake Luzerne}
+- {name: Lake Peekskill}
+- {name: Lake Placid}
+- {name: Lake Pleasant}
+- {name: Lake View}
+- {name: Lakemont}
+- {name: Lakeville}
+- {name: Lakewood}
+- {name: Lancaster}
+- {name: Lansing}
+- {name: Larchmont}
+- {name: Latham}
+- {name: Laurel}
+- {name: Laurens}
+- {name: Lawrence}
+- {name: Lawtons}
+- {name: Le Roy}
+- {name: Lee Center}
+- {name: Leeds}
+- {name: Leicester}
+- {name: Leon}
+- {name: Leonardsville}
+- {name: Levittown}
+- {name: Lewiston}
+- {name: Lexington}
+- {name: Liberty}
+- {name: Lily Dale}
+- {name: Lima}
+- {name: Lincolndale}
+- {name: Lindenhurst}
+- {name: Lindley}
+- {name: Lisle}
+- {name: Little Falls}
+- {name: Little Genesee}
+- {name: Little Neck}
+- {name: Little Valley}
+- {name: Liverpool}
+- {name: Livingston}
+- {name: Livingston Manor}
+- {name: Livonia}
+- {name: Livonia Center}
+- {name: Loch Sheldrake}
+- {name: Locke}
+- {name: Lockport}
+- {name: Lockwood}
+- {name: Locust Valley}
+- {name: Long Beach}
+- {name: Long Eddy}
+- {name: Long Island City}
+- {name: Lorraine}
+- {name: Lowville}
+- {name: Lynbrook}
+- {name: Lyndonville}
+- {name: Lyon Mountain}
+- {name: Lyons}
+- {name: Lyons Falls}
+- {name: Macedon}
+- {name: Machias}
+- {name: Madrid}
+- {name: Mahopac}
+- {name: Maine}
+- {name: Malden Bridge}
+- {name: Malone}
+- {name: Malverne}
+- {name: Mamaroneck}
+- {name: Manchester}
+- {name: Manhasset}
+- {name: Manlius}
+- {name: Manorville}
+- {name: Maple View}
+- {name: Marathon}
+- {name: Marcellus}
+- {name: Marcy}
+- {name: Margaretville}
+- {name: Marietta}
+- {name: Marilla}
+- {name: Marion}
+- {name: Marlboro}
+- {name: Martville}
+- {name: Maryknoll}
+- {name: Maspeth}
+- {name: Massapequa}
+- {name: Massapequa Park}
+- {name: Massena}
+- {name: Mastic}
+- {name: Mastic Beach}
+- {name: Mattituck}
+- {name: Maybrook}
+- {name: Mayfield}
+- {name: Mayville}
+- {name: Mc Connellsville}
+- {name: Mc Donough}
+- {name: Mc Graw}
+- {name: Mechanicville}
+- {name: Mecklenburg}
+- {name: Medford}
+- {name: Medina}
+- {name: Mellenville}
+- {name: Melrose}
+- {name: Melville}
+- {name: Memphis}
+- {name: Mendon}
+- {name: Meridian}
+- {name: Merrick}
+- {name: Mexico}
+- {name: Middle Granville}
+- {name: Middle Island}
+- {name: Middle Village}
+- {name: Middleburgh}
+- {name: Middleport}
+- {name: Middlesex}
+- {name: Middletown}
+- {name: Middleville}
+- {name: Milford}
+- {name: Mill Neck}
+- {name: Millbrook}
+- {name: Miller Place}
+- {name: Millerton}
+- {name: Millport}
+- {name: Millwood}
+- {name: Milton}
+- {name: Mineola}
+- {name: Mineville}
+- {name: Minoa}
+- {name: Modena}
+- {name: Mohawk}
+- {name: Mohegan Lake}
+- {name: Mongaup Valley}
+- {name: Monroe}
+- {name: Monsey}
+- {name: Montauk}
+- {name: Montezuma}
+- {name: Montgomery}
+- {name: Monticello}
+- {name: Montour Falls}
+- {name: Montrose}
+- {name: Mooers}
+- {name: Mooers Forks}
+- {name: Moravia}
+- {name: Moriah}
+- {name: Moriches}
+- {name: Morris}
+- {name: Morrisonville}
+- {name: Morristown}
+- {name: Morrisville}
+- {name: Mottville}
+- {name: Mount Kisco}
+- {name: Mount Morris}
+- {name: Mount Sinai}
+- {name: Mount Tremper}
+- {name: Mount Upton}
+- {name: Mount Vernon}
+- {name: Mountain Dale}
+- {name: Mountainville}
+- {name: Mumford}
+- {name: Munnsville}
+- {name: Nanuet}
+- {name: Napanoch}
+- {name: Naples}
+- {name: Narrowsburg}
+- {name: Nassau}
+- {name: Natural Bridge}
+- {name: Nedrow}
+- {name: Nesconset}
+- {name: New Baltimore}
+- {name: New Berlin}
+- {name: New City}
+- {name: New Hampton}
+- {name: New Hartford}
+- {name: New Hyde Park}
+- {name: New Lebanon}
+- {name: New Paltz}
+- {name: New Rochelle}
+- {name: New Windsor}
+- {name: New Woodstock}
+- {name: New York}
+- {name: New York Mills}
+- {name: Newark}
+- {name: Newark Valley}
+- {name: Newburgh}
+- {name: Newfane}
+- {name: Newfield}
+- {name: Newport}
+- {name: Newtonville}
+- {name: Niagara Falls}
+- {name: Niagara University}
+- {name: Nichols}
+- {name: Nicholville}
+- {name: Nineveh}
+- {name: North Babylon}
+- {name: North Bay}
+- {name: North Chatham}
+- {name: North Chili}
+- {name: North Collins}
+- {name: North Creek}
+- {name: North Evans}
+- {name: North Granville}
+- {name: North Greece}
+- {name: North Java}
+- {name: North Norwich}
+- {name: North Rose}
+- {name: North Salem}
+- {name: North Tonawanda}
+- {name: Northport}
+- {name: Northville}
+- {name: Norwich}
+- {name: Norwood}
+- {name: Nunda}
+- {name: Nyack}
+- {name: Oak Hill}
+- {name: Oakdale}
+- {name: Oakland Gardens}
+- {name: Oaks Corners}
+- {name: Ocean Beach}
+- {name: Oceanside}
+- {name: Odessa}
+- {name: Ogdensburg}
+- {name: Old Bethpage}
+- {name: Old Chatham}
+- {name: Old Forge}
+- {name: Old Westbury}
+- {name: Olean}
+- {name: Olivebridge}
+- {name: Olmstedville}
+- {name: Oneida}
+- {name: Oneonta}
+- {name: Ontario}
+- {name: Orangeburg}
+- {name: Orchard Park}
+- {name: Orient}
+- {name: Oriskany}
+- {name: Ossining}
+- {name: Oswegatchie}
+- {name: Oswego}
+- {name: Otego}
+- {name: Otisville}
+- {name: Ovid}
+- {name: Owego}
+- {name: Owls Head}
+- {name: Oxford}
+- {name: Oyster Bay}
+- {name: Ozone Park}
+- {name: Painted Post}
+- {name: Palatine Bridge}
+- {name: Palenville}
+- {name: Palisades}
+- {name: Palmyra}
+- {name: Paradox}
+- {name: Parish}
+- {name: Parishville}
+- {name: Patchogue}
+- {name: Patterson}
+- {name: Pattersonville}
+- {name: Paul Smiths}
+- {name: Pavilion}
+- {name: Pawling}
+- {name: Pearl River}
+- {name: Peconic}
+- {name: Peekskill}
+- {name: Pelham}
+- {name: Penfield}
+- {name: Penn Yan}
+- {name: Pennellville}
+- {name: Perry}
+- {name: Peru}
+- {name: Peterboro}
+- {name: Petersburg}
+- {name: Phelps}
+- {name: Philadelphia}
+- {name: Philmont}
+- {name: Phoenicia}
+- {name: Phoenix}
+- {name: Piermont}
+- {name: Pike}
+- {name: Pine Bush}
+- {name: Pine City}
+- {name: Pine Hill}
+- {name: Pine Island}
+- {name: Pine Plains}
+- {name: Piseco}
+- {name: Pitcher}
+- {name: Pittsford}
+- {name: Plainview}
+- {name: Plainville}
+- {name: Plattekill}
+- {name: Plattsburgh}
+- {name: Pleasant Valley}
+- {name: Pleasantville}
+- {name: Plessis}
+- {name: Plymouth}
+- {name: Poland}
+- {name: Pomona}
+- {name: Pompey}
+- {name: Poplar Ridge}
+- {name: Port Byron}
+- {name: Port Chester}
+- {name: Port Crane}
+- {name: Port Ewen}
+- {name: Port Gibson}
+- {name: Port Henry}
+- {name: Port Jefferson}
+- {name: Port Jefferson Station}
+- {name: Port Jervis}
+- {name: Port Kent}
+- {name: Port Leyden}
+- {name: Port Washington}
+- {name: Portland}
+- {name: Potsdam}
+- {name: Pottersville}
+- {name: Poughkeepsie}
+- {name: Poughquag}
+- {name: Pound Ridge}
+- {name: Prattsburgh}
+- {name: Prattsville}
+- {name: Preble}
+- {name: Pulaski}
+- {name: Pulteney}
+- {name: Purchase}
+- {name: Putnam Station}
+- {name: Putnam Valley}
+- {name: Quaker Street}
+- {name: Queens Village}
+- {name: Queensbury}
+- {name: Quogue}
+- {name: Randolph}
+- {name: Ransomville}
+- {name: Raquette Lake}
+- {name: Ravena}
+- {name: Ray Brook}
+- {name: Red Creek}
+- {name: Red Hook}
+- {name: Redfield}
+- {name: Redwood}
+- {name: Rego Park}
+- {name: Remsen}
+- {name: Rensselaer}
+- {name: Rensselaer Falls}
+- {name: Rensselaerville}
+- {name: Retsof}
+- {name: Rexford}
+- {name: Rexville}
+- {name: Rhinebeck}
+- {name: Richburg}
+- {name: Richfield Springs}
+- {name: Richland}
+- {name: Richmond Hill}
+- {name: Richville}
+- {name: Ridge}
+- {name: Ridgewood}
+- {name: Ripley}
+- {name: Riverhead}
+- {name: Rochester}
+- {name: Rock City Falls}
+- {name: Rock Hill}
+- {name: Rock Stream}
+- {name: Rock Tavern}
+- {name: Rockaway Park}
+- {name: Rockville Centre}
+- {name: Rocky Point}
+- {name: Rome}
+- {name: Romulus}
+- {name: Ronkonkoma}
+- {name: Roosevelt}
+- {name: Roscoe}
+- {name: Rosedale}
+- {name: Rosendale}
+- {name: Roslyn}
+- {name: Roslyn Heights}
+- {name: Rotterdam Junction}
+- {name: Round Lake}
+- {name: Round Top}
+- {name: Rouses Point}
+- {name: Roxbury}
+- {name: Rush}
+- {name: Rushford}
+- {name: Rushville}
+- {name: Rye}
+- {name: Sabael}
+- {name: Sackets Harbor}
+- {name: Sag Harbor}
+- {name: Saint Albans}
+- {name: Saint Bonaventure}
+- {name: Saint James}
+- {name: Saint Johnsville}
+- {name: Saint Regis Falls}
+- {name: Salamanca}
+- {name: Salem}
+- {name: Salisbury Center}
+- {name: Salisbury Mills}
+- {name: Salt Point}
+- {name: Sanborn}
+- {name: Sandusky}
+- {name: Sandy Creek}
+- {name: Sangerfield}
+- {name: Saranac}
+- {name: Saranac Lake}
+- {name: Saratoga Springs}
+- {name: Sardinia}
+- {name: Saugerties}
+- {name: Sauquoit}
+- {name: Savannah}
+- {name: Savona}
+- {name: Sayville}
+- {name: Scarsdale}
+- {name: Schaghticoke}
+- {name: Schenectady}
+- {name: Schoharie}
+- {name: Schroon Lake}
+- {name: Schuylerville}
+- {name: Scipio Center}
+- {name: Scottsville}
+- {name: Sea Cliff}
+- {name: Seaford}
+- {name: Selden}
+- {name: Selkirk}
+- {name: Seneca Falls}
+- {name: Sharon Springs}
+- {name: Shelter Island}
+- {name: Shenorock}
+- {name: Sherburne}
+- {name: Sheridan}
+- {name: Sherman}
+- {name: Sherrill}
+- {name: Shirley}
+- {name: Shokan}
+- {name: Shoreham}
+- {name: Shortsville}
+- {name: Shrub Oak}
+- {name: Shushan}
+- {name: Sidney}
+- {name: Sidney Center}
+- {name: Silver Bay}
+- {name: Silver Creek}
+- {name: Silver Lake}
+- {name: Silver Springs}
+- {name: Sinclairville}
+- {name: Skaneateles}
+- {name: Skaneateles Falls}
+- {name: Slate Hill}
+- {name: Slingerlands}
+- {name: Sloansville}
+- {name: Sloatsburg}
+- {name: Smithtown}
+- {name: Smithville Flats}
+- {name: Sodus}
+- {name: Somers}
+- {name: Sonyea}
+- {name: Sound Beach}
+- {name: South Bethlehem}
+- {name: South Cairo}
+- {name: South Colton}
+- {name: South Dayton}
+- {name: South Fallsburg}
+- {name: South Glens Falls}
+- {name: South New Berlin}
+- {name: South Ozone Park}
+- {name: South Plymouth}
+- {name: South Richmond Hill}
+- {name: South Salem}
+- {name: South Wales}
+- {name: Southampton}
+- {name: Southfields}
+- {name: Southold}
+- {name: Sparkill}
+- {name: Sparrow Bush}
+- {name: Speculator}
+- {name: Spencer}
+- {name: Spencerport}
+- {name: Spencertown}
+- {name: Speonk}
+- {name: Spring Brook}
+- {name: Spring Glen}
+- {name: Spring Valley}
+- {name: Springfield Gardens}
+- {name: Springville}
+- {name: Springwater}
+- {name: Staatsburg}
+- {name: Stafford}
+- {name: Stamford}
+- {name: Stanfordville}
+- {name: Star Lake}
+- {name: Staten Island}
+- {name: Stephentown}
+- {name: Sterling Forest}
+- {name: Stillwater}
+- {name: Stittville}
+- {name: Stockton}
+- {name: Stone Ridge}
+- {name: Stony Brook}
+- {name: Stony Creek}
+- {name: Stony Point}
+- {name: Stormville}
+- {name: Stottville}
+- {name: Stratford}
+- {name: Strykersville}
+- {name: Stuyvesant}
+- {name: Stuyvesant Falls}
+- {name: Suffern}
+- {name: Sugar Loaf}
+- {name: Summitville}
+- {name: Sundown}
+- {name: Sunnyside}
+- {name: Surprise}
+- {name: Swan Lake}
+- {name: Syosset}
+- {name: Syracuse}
+- {name: Tallman}
+- {name: Tappan}
+- {name: Tarrytown}
+- {name: Theresa}
+- {name: Thiells}
+- {name: Thornwood}
+- {name: Three Mile Bay}
+- {name: Ticonderoga}
+- {name: Tillson}
+- {name: Tivoli}
+- {name: Tonawanda}
+- {name: Tribes Hill}
+- {name: Troupsburg}
+- {name: Troy}
+- {name: Trumansburg}
+- {name: Truxton}
+- {name: Tuckahoe}
+- {name: Tully}
+- {name: Tupper Lake}
+- {name: Turin}
+- {name: Tuxedo Park}
+- {name: Ulster Park}
+- {name: Unadilla}
+- {name: Union Springs}
+- {name: Uniondale}
+- {name: Upper Jay}
+- {name: Upton}
+- {name: Utica}
+- {name: Vails Gate}
+- {name: Valatie}
+- {name: Valhalla}
+- {name: Valley Cottage}
+- {name: Valley Falls}
+- {name: Valley Stream}
+- {name: Van Etten}
+- {name: Van Hornesville}
+- {name: Verbank}
+- {name: Vermontville}
+- {name: Vernon}
+- {name: Vernon Center}
+- {name: Verona}
+- {name: Verona Beach}
+- {name: Versailles}
+- {name: Vestal}
+- {name: Victor}
+- {name: Victory Mills}
+- {name: Voorheesville}
+- {name: Waccabuc}
+- {name: Wading River}
+- {name: Wainscott}
+- {name: Walden}
+- {name: Wales Center}
+- {name: Walker Valley}
+- {name: Wallkill}
+- {name: Walton}
+- {name: Walworth}
+- {name: Wampsville}
+- {name: Wantagh}
+- {name: Wappingers Falls}
+- {name: Warrensburg}
+- {name: Warsaw}
+- {name: Warwick}
+- {name: Washingtonville}
+- {name: Wassaic}
+- {name: Water Mill}
+- {name: Waterford}
+- {name: Waterloo}
+- {name: Waterport}
+- {name: Watertown}
+- {name: Watervliet}
+- {name: Watkins Glen}
+- {name: Waverly}
+- {name: Wawarsing}
+- {name: Wayland}
+- {name: Webster}
+- {name: Weedsport}
+- {name: Wellesley Island}
+- {name: Wells}
+- {name: Wells Bridge}
+- {name: Wellsburg}
+- {name: Wellsville}
+- {name: West Babylon}
+- {name: West Chazy}
+- {name: West Clarksville}
+- {name: West Coxsackie}
+- {name: West Davenport}
+- {name: West Falls}
+- {name: West Harrison}
+- {name: West Haverstraw}
+- {name: West Hempstead}
+- {name: West Henrietta}
+- {name: West Hurley}
+- {name: West Islip}
+- {name: West Monroe}
+- {name: West Nyack}
+- {name: West Park}
+- {name: West Point}
+- {name: West Sand Lake}
+- {name: West Sayville}
+- {name: West Shokan}
+- {name: West Valley}
+- {name: Westbury}
+- {name: Westerlo}
+- {name: Westfield}
+- {name: Westhampton}
+- {name: Westhampton Beach}
+- {name: Westmoreland}
+- {name: Westons Mills}
+- {name: Westport}
+- {name: Westtown}
+- {name: White Plains}
+- {name: Whitehall}
+- {name: Whitesboro}
+- {name: Whitestone}
+- {name: Whitesville}
+- {name: Whitney Point}
+- {name: Willet}
+- {name: Williamson}
+- {name: Williston Park}
+- {name: Willsboro}
+- {name: Willseyville}
+- {name: Wilmington}
+- {name: Wilson}
+- {name: Windham}
+- {name: Windsor}
+- {name: Wingdale}
+- {name: Winthrop}
+- {name: Wolcott}
+- {name: Woodbourne}
+- {name: Woodbury}
+- {name: Woodgate}
+- {name: Woodhaven}
+- {name: Woodhull}
+- {name: Woodmere}
+- {name: Woodside}
+- {name: Woodstock}
+- {name: Worcester}
+- {name: Wyandanch}
+- {name: Wynantskill}
+- {name: Wyoming}
+- {name: Yaphank}
+- {name: Yonkers}
+- {name: York}
+- {name: Yorkshire}
+- {name: Yorktown Heights}
+- {name: Yorkville}
+- {name: Youngstown}
+- {name: Youngsville}
+- {name: Yulan}

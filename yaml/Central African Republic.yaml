@@ -1,7 +1,2 @@
-- cities:
-  - {name: Bangui}
-  code: '18'
-  name: Bangui
-- cities: []
-  code: '17'
-  name: Ombella-Mpoko
+- {code: '18', name: Bangui}
+- {code: '17', name: Ombella-Mpoko}

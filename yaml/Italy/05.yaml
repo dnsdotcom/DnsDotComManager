@@ -1,0 +1,841 @@
+- {name: Abetone}
+- {name: Acqualagna}
+- {name: Acquanegra}
+- {name: Acquanegra Cremonese}
+- {name: Acquaviva}
+- {name: Agazzano}
+- {name: Alberica}
+- {name: Albero}
+- {name: Alberone}
+- {name: Albinea}
+- {name: Alfero}
+- {name: Alfonsine}
+- {name: Alseno}
+- {name: Altedo}
+- {name: Amola}
+- {name: Anghiari}
+- {name: Annicco}
+- {name: Antico}
+- {name: Anzola}
+- {name: Apecchio}
+- {name: Arcevia}
+- {name: Argelato}
+- {name: Argenta}
+- {name: Ariano Ferrarese}
+- {name: Auditore}
+- {name: Bagnacavallo}
+- {name: Bagnara Di Romagna}
+- {name: Bagno Di Romagna}
+- {name: Bagnolo In Piano}
+- {name: Baiso}
+- {name: Balze}
+- {name: Banzola}
+- {name: Baragazza}
+- {name: Barbara}
+- {name: Barberini}
+- {name: Barbiano}
+- {name: Barchi}
+- {name: Barco}
+- {name: Baricella}
+- {name: Baselica}
+- {name: Basilicanova}
+- {name: Bastiglia}
+- {name: Belicchi}
+- {name: Bellaria}
+- {name: Bellariva}
+- {name: Belvedere Fogliense}
+- {name: Belvedere Ostrense}
+- {name: Benedello}
+- {name: Bentivoglio}
+- {name: Bersano}
+- {name: Bertinoro}
+- {name: Besenzone}
+- {name: Bianconese}
+- {name: Bibbiano}
+- {name: Bibbiena}
+- {name: Bizzuno}
+- {name: Boara}
+- {name: Boccaleone}
+- {name: Bologna}
+- {name: Bomporto}
+- {name: Bona}
+- {name: Bondeno}
+- {name: Borella}
+- {name: Borello}
+- {name: Boretto}
+- {name: Borghese}
+- {name: Borghi}
+- {name: Borgo Alla Collina}
+- {name: Borgo Maggiore}
+- {name: Borgo Nuovo}
+- {name: Borgo San Giacomo}
+- {name: Borgo Tossignano}
+- {name: Borgoforte}
+- {name: Borgonovo Val Tidone}
+- {name: Borio}
+- {name: Borra}
+- {name: Botteghe}
+- {name: Botteghino}
+- {name: Bozzolo}
+- {name: Branca}
+- {name: Brescello}
+- {name: Brisighella}
+- {name: Broletto}
+- {name: Bronzo}
+- {name: Budrio}
+- {name: Bugia}
+- {name: Bulgaria}
+- {name: Burana}
+- {name: Busseto}
+- {name: Cadelbosco}
+- {name: Cadelbosco Di Sopra}
+- {name: Cadeo}
+- {name: Cagli}
+- {name: Calcara}
+- {name: Calderara Di Reno}
+- {name: Calendasco}
+- {name: Calvatone}
+- {name: Camerino}
+- {name: Camigliano}
+- {name: Caminata}
+- {name: Campagnola Emilia}
+- {name: Campegine}
+- {name: Campiano}
+- {name: Campiglio}
+- {name: Campitello}
+- {name: Campogalliano}
+- {name: Camposanto}
+- {name: Camugnano}
+- {name: Canaro}
+- {name: Cancelli}
+- {name: Cannella}
+- {name: Canneto Sull'oglio}
+- {name: Canossa}
+- {name: Canovetta}
+- {name: Caorso}
+- {name: Capicchia}
+- {name: Capitello}
+- {name: Caprese}
+- {name: Caprese Michelangelo}
+- {name: Cardella}
+- {name: Carpaneto}
+- {name: Carpaneto Piacentino}
+- {name: Carpegna}
+- {name: Carpena}
+- {name: Carpi}
+- {name: Carpineta}
+- {name: Carpineti}
+- {name: Carpini}
+- {name: Cartiera}
+- {name: Cartoceto}
+- {name: Cartura}
+- {name: Carzeto}
+- {name: Casa Nova}
+- {name: Casa Nuova}
+- {name: Casaglia}
+- {name: Casalecchio}
+- {name: Casalecchio Di Reno}
+- {name: Casalgrande}
+- {name: Casalmaggiore}
+- {name: Casalpusterlengo}
+- {name: Casalromano}
+- {name: Caseificio}
+- {name: Caselle}
+- {name: Casina}
+- {name: Casinalbo}
+- {name: Casma}
+- {name: Casola}
+- {name: Casola Valsenio}
+- {name: Casoni}
+- {name: Castagnara}
+- {name: Castagno}
+- {name: Castagnolo}
+- {name: Castel Bolognese}
+- {name: Castel Colonna}
+- {name: Castel Di Casio}
+- {name: Castel Focognano}
+- {name: Castel Guelfo}
+- {name: Castel Guelfo Di Bologna}
+- {name: Castel Maggiore}
+- {name: Castel San Niccol}
+- {name: Castel San Pietro Terme}
+- {name: Castelbellino}
+- {name: Casteldidone}
+- {name: Castelfranco Emilia}
+- {name: Castelguelfo}
+- {name: Castellarano}
+- {name: Castello}
+- {name: Castello D'argile}
+- {name: Castello Di Serravalle}
+- {name: Castelnovo}
+- {name: Castelnovo Di Sotto}
+- {name: Castelnuovo Di Sotto}
+- {name: Castelnuovo Rangone}
+- {name: Castelplanio}
+- {name: Castelraimondo}
+- {name: Castelverde}
+- {name: Castelvetro}
+- {name: Castelvetro Di Modena}
+- {name: Castenaso}
+- {name: Castiglione Dei Pepoli}
+- {name: Castione}
+- {name: Castro}
+- {name: Castrocaro Terme}
+- {name: Cataldo}
+- {name: Catellani}
+- {name: Cattolica}
+- {name: Cavallara}
+- {name: Cavezzo}
+- {name: Cavola}
+- {name: Cavoleto}
+- {name: Cavriago}
+- {name: Cavriana}
+- {name: Cazzano}
+- {name: Celle}
+- {name: Celletta}
+- {name: Cento}
+- {name: Cerasolo}
+- {name: Cerruti}
+- {name: Cervia}
+- {name: Cesena}
+- {name: Cesenatico}
+- {name: Cetona}
+- {name: Chero}
+- {name: Chianciano}
+- {name: Chianciano Terme}
+- {name: Chiesa}
+- {name: Chiesino}
+- {name: Chiozzola}
+- {name: Chitignano}
+- {name: Chius}
+- {name: Chiusa}
+- {name: Chiusi}
+- {name: Ciano}
+- {name: Cicognara}
+- {name: Cicognolo}
+- {name: Cigliano}
+- {name: Cingia De' Botti}
+- {name: Cisi}
+- {name: Citerna}
+- {name: Citt}
+- {name: Civitella Di Romagna}
+- {name: Coazze}
+- {name: Coccolia}
+- {name: Cocconi}
+- {name: Codemondo}
+- {name: Codigoro}
+- {name: Codisotto}
+- {name: Codogno}
+- {name: Cognento}
+- {name: Cogozzo}
+- {name: Colbordolo}
+- {name: Collecchio}
+- {name: Collegarola}
+- {name: Collina}
+- {name: Collino}
+- {name: Colombara}
+- {name: Colombaro}
+- {name: Colorno}
+- {name: Colunga}
+- {name: Comacchio}
+- {name: Commessaggio}
+- {name: Concordia}
+- {name: Concordia Sulla Secchia}
+- {name: Consandolo}
+- {name: Conselice}
+- {name: Convento}
+- {name: Coriano}
+- {name: Corinaldo}
+- {name: Corno Giovine}
+- {name: Correggio}
+- {name: Corsalone}
+- {name: Cortemaggiore}
+- {name: Cortile}
+- {name: Cortina}
+- {name: Cotignola}
+- {name: Cremona}
+- {name: Crespellano}
+- {name: Crevalcore}
+- {name: Cupramontana}
+- {name: Decima}
+- {name: Dicomano}
+- {name: Dogana}
+- {name: Domagnano}
+- {name: Dosimo}
+- {name: Dosolo}
+- {name: Dosso}
+- {name: Dotti}
+- {name: Dozza}
+- {name: Esanatoglia}
+- {name: Fabbiano}
+- {name: Fabbrica}
+- {name: Fabbrico}
+- {name: Fabriano}
+- {name: Fabro}
+- {name: Faenza}
+- {name: Falciano}
+- {name: Falcioni}
+- {name: Falconara}
+- {name: Falera}
+- {name: Fanano}
+- {name: Farn}
+- {name: Farneto}
+- {name: Felino}
+- {name: Felisio}
+- {name: Fermignano}
+- {name: Ferrara}
+- {name: Ficarolo}
+- {name: Fidenza}
+- {name: Fiesso}
+- {name: Fiesso Umbertiano}
+- {name: Filo}
+- {name: Finale Emilia}
+- {name: Fiorano Modenese}
+- {name: Fiorentino}
+- {name: Fiorenzuola D'arda}
+- {name: Firenzuola}
+- {name: Fiumana}
+- {name: Fombio}
+- {name: Fondaccio}
+- {name: Fontana}
+- {name: Fontanelice}
+- {name: Fontanella}
+- {name: Fontanellato}
+- {name: Fontevivo}
+- {name: Forl}
+- {name: Forlimpopoli}
+- {name: Formigine}
+- {name: Fornace}
+- {name: Fornello}
+- {name: Fornovo Di Taro}
+- {name: Fossalta}
+- {name: Fossato}
+- {name: Fossato Di Vico}
+- {name: Fossolo}
+- {name: Fossombrone}
+- {name: Francolino}
+- {name: Frassinoro}
+- {name: Fronte}
+- {name: Frontone}
+- {name: Fusignano}
+- {name: Gabbiano}
+- {name: Gabicce}
+- {name: Gaggio}
+- {name: Gaggio Montano}
+- {name: Gagliole}
+- {name: Galeata}
+- {name: Galliera}
+- {name: Galvana}
+- {name: Gambellara}
+- {name: Gambettola}
+- {name: Gasparini}
+- {name: Gattatico}
+- {name: Gatteo}
+- {name: Gatteo A Mare}
+- {name: Gaville}
+- {name: Gazzata}
+- {name: Gazzolo}
+- {name: Gazzuolo}
+- {name: Gemmano}
+- {name: Genga}
+- {name: Germagnano}
+- {name: Giaggiolo}
+- {name: Gigliola}
+- {name: Gioiella}
+- {name: Gli Angeli}
+- {name: Gonzaga}
+- {name: Goro}
+- {name: Gossolengo}
+- {name: Gradara}
+- {name: Granarolo}
+- {name: Gricignano}
+- {name: Grisignano}
+- {name: Grizzana}
+- {name: Grontardo}
+- {name: Grumello Cremonese}
+- {name: Gualdo Tadino}
+- {name: Gualinga}
+- {name: Gualtieri}
+- {name: Guardamiglio}
+- {name: Guastalla}
+- {name: Gubbio}
+- {name: Guiglia}
+- {name: Gussola}
+- {name: Idice}
+- {name: Igea Marina}
+- {name: Il Borgo}
+- {name: Il Casino}
+- {name: Il Casone}
+- {name: Il Collegio}
+- {name: Il Conte}
+- {name: Il Poggio}
+- {name: Il Ponte}
+- {name: Imola}
+- {name: Isola Del Piano}
+- {name: Isola Dovarese}
+- {name: La Casetta}
+- {name: La Fabbrica}
+- {name: La Luna}
+- {name: La Madonnina}
+- {name: La Marchesa}
+- {name: La Martina}
+- {name: La Mura}
+- {name: La Pieve}
+- {name: La Pioppa}
+- {name: La Posta}
+- {name: La Sirena}
+- {name: La Stella}
+- {name: La Torre}
+- {name: Lagosanto}
+- {name: Lama}
+- {name: Lama Mocogno}
+- {name: Langhirano}
+- {name: Larciano}
+- {name: Larzano}
+- {name: Lavezzola}
+- {name: Lavino Di Mezzo}
+- {name: Lazzari}
+- {name: Lemignano}
+- {name: Lentigione}
+- {name: Lesignano De' Bagni}
+- {name: Liano}
+- {name: Lido Di Savio}
+- {name: Lido Di Spina}
+- {name: Lo Spino}
+- {name: Loiano}
+- {name: Lolli}
+- {name: Londa}
+- {name: Longastrino}
+- {name: Longiano}
+- {name: Loro Ciuffenna}
+- {name: Lucrezia}
+- {name: Lugnano}
+- {name: Lugo}
+- {name: Lunano}
+- {name: Luzzara}
+- {name: Macerone}
+- {name: Madonna Della Neve}
+- {name: Madonnina}
+- {name: Maestra}
+- {name: Maiolati Spontini}
+- {name: Maiolo}
+- {name: Malalbergo}
+- {name: Maleo}
+- {name: Malva}
+- {name: Mambrini}
+- {name: Manzoni}
+- {name: Maranello}
+- {name: Marano Sul Panaro}
+- {name: Marina}
+- {name: Marischio}
+- {name: Marmirolo}
+- {name: Marola}
+- {name: Marotta}
+- {name: Marradi}
+- {name: Martorano}
+- {name: Marzabotto}
+- {name: Masi Torello}
+- {name: Masiera}
+- {name: Massa Lombarda}
+- {name: Mastro}
+- {name: Matelica}
+- {name: Medesano}
+- {name: Medicina}
+- {name: Medolla}
+- {name: Melara}
+- {name: Meldola}
+- {name: Meleto}
+- {name: Mensa}
+- {name: Mercatino}
+- {name: Mercato Saraceno}
+- {name: Mercato Vecchio}
+- {name: Mergo}
+- {name: Mesola}
+- {name: Mezzani}
+- {name: Mezzano}
+- {name: Mezzolara}
+- {name: Migliara}
+- {name: Migliarina}
+- {name: Migliarino}
+- {name: Migliaro}
+- {name: Milano Marittima}
+- {name: Minerbio}
+- {name: Mirabello}
+- {name: Miramare}
+- {name: Mirandola}
+- {name: Miravalle}
+- {name: Misano}
+- {name: Misano Adriatico}
+- {name: Mod}
+- {name: Modena}
+- {name: Modigliana}
+- {name: Moglia}
+- {name: Moie}
+- {name: Molinaccio}
+- {name: Molinella}
+- {name: Monchio}
+- {name: Mondavio}
+- {name: Mondolfo}
+- {name: Monghidoro}
+- {name: Monta}
+- {name: Montagnola}
+- {name: Montalbano}
+- {name: Montaletto}
+- {name: Monte Benedetto}
+- {name: Monte Grimano}
+- {name: Monte Roberto}
+- {name: Monte San Pietro}
+- {name: Montebello}
+- {name: Montecalderaro}
+- {name: Montecalvo In Foglia}
+- {name: Montecarotto}
+- {name: Montecastello}
+- {name: Montecavolo}
+- {name: Montecchio Emilia}
+- {name: Montechiarugolo}
+- {name: Monteciccardo}
+- {name: Montefiore Conca}
+- {name: Montefiorino}
+- {name: Montefortino}
+- {name: Montegelli}
+- {name: Montelabbate}
+- {name: Montepiano}
+- {name: Montepulciano}
+- {name: Montepulciano Stazione}
+- {name: Monterado}
+- {name: Monterchi}
+- {name: Monterenzio}
+- {name: Montescudo}
+- {name: Montese}
+- {name: Monteveglio}
+- {name: Montiano}
+- {name: Monzuno}
+- {name: Morciano Di Romagna}
+- {name: Mordano}
+- {name: Morello}
+- {name: Morina}
+- {name: Morro D'alba}
+- {name: Motta Baluffi}
+- {name: Mulazzano}
+- {name: Nestore}
+- {name: Noceto}
+- {name: Nomadelfia}
+- {name: Nonantola}
+- {name: Novafeltria}
+- {name: Novellara}
+- {name: Novi Di Modena}
+- {name: Occhiobello}
+- {name: Ognissanti}
+- {name: Orio Litta}
+- {name: Ortignano Raggiolo}
+- {name: Ospitale}
+- {name: Ostellato}
+- {name: Ostra}
+- {name: Ostra Vetere}
+- {name: Paderno}
+- {name: Padule}
+- {name: Palagano}
+- {name: Palazzina}
+- {name: Palazzone}
+- {name: Palazzuolo}
+- {name: Palidano}
+- {name: Palladio}
+- {name: Pallino}
+- {name: Parigi}
+- {name: Parma}
+- {name: Parola}
+- {name: Passano}
+- {name: Passatore}
+- {name: Passetto}
+- {name: Pastorello}
+- {name: Paterna}
+- {name: Pavullo}
+- {name: Pavullo Nel Frignano}
+- {name: Pegognaga}
+- {name: Penna}
+- {name: Pennabilli}
+- {name: Pergola}
+- {name: Persiceto}
+- {name: Perticara}
+- {name: Petrella Guidi}
+- {name: Petriano}
+- {name: Pezza}
+- {name: Pezzano}
+- {name: Piacentina}
+- {name: Piacenza}
+- {name: Piadena}
+- {name: Pian Del Cerro}
+- {name: Piana}
+- {name: Piandimeleto}
+- {name: Piane}
+- {name: Pianello Val Tidone}
+- {name: Piangipane}
+- {name: Pianoro}
+- {name: Pianta}
+- {name: Pietralunga}
+- {name: Pieve Del Pino}
+- {name: Pieve Dugliara}
+- {name: Pieve Santo Stefano}
+- {name: Pievepelago}
+- {name: Pilastri}
+- {name: Pilastro}
+- {name: Piobbico}
+- {name: Piozzano}
+- {name: Piratello}
+- {name: Pistrino}
+- {name: Piticchio}
+- {name: Pizzighettone}
+- {name: Podenzano}
+- {name: Poggetto}
+- {name: Poggio Berni}
+- {name: Poggio Renatico}
+- {name: Poggiolino}
+- {name: Poiano}
+- {name: Polesine}
+- {name: Polesine Parmense}
+- {name: Polignano}
+- {name: Polinago}
+- {name: Pomponesco}
+- {name: Pomposa}
+- {name: Ponte Nuovo}
+- {name: Ponte Rizzoli}
+- {name: Ponte Trevisani}
+- {name: Pontecchio}
+- {name: Pontelagoscuro}
+- {name: Pontenure}
+- {name: Poppi}
+- {name: Porretta Terme}
+- {name: Portico}
+- {name: Portile}
+- {name: Porto Fuori}
+- {name: Porto Garibaldi}
+- {name: Portomaggiore}
+- {name: Pozzaglio Ed Uniti}
+- {name: Pozzuolo}
+- {name: Prada}
+- {name: Pradone}
+- {name: Pratovecchio}
+- {name: Premilcuore}
+- {name: Provvidenza}
+- {name: Pugliano}
+- {name: Quara}
+- {name: Quarto}
+- {name: Quarto Inferiore}
+- {name: Quattro Castella}
+- {name: Querciola}
+- {name: Radicofani}
+- {name: Raffa}
+- {name: Ravarino}
+- {name: Ravenna}
+- {name: Reda}
+- {name: Reggio Nell Emilia}
+- {name: Reggio Nell'emilia}
+- {name: Reggiolo}
+- {name: Renazzo}
+- {name: Resega}
+- {name: Rezzano}
+- {name: Riale}
+- {name: Ric}
+- {name: Riccione}
+- {name: Rignano}
+- {name: Rigosa}
+- {name: Rimale}
+- {name: Rimini}
+- {name: Rio Saliceto}
+- {name: Riola}
+- {name: Riolo}
+- {name: Riolo Terme}
+- {name: Rioveggio}
+- {name: Ripe}
+- {name: Rivalta}
+- {name: Rivarolo Mantovano}
+- {name: Rivergaro}
+- {name: Riviera}
+- {name: Rivola}
+- {name: Roccabianca}
+- {name: Rolo}
+- {name: Roncaglia}
+- {name: Ronchetti}
+- {name: Ronco}
+- {name: Rosora}
+- {name: Rossena}
+- {name: Rotta}
+- {name: Rottofreno}
+- {name: Rubiera}
+- {name: Russi}
+- {name: Russo}
+- {name: Sabbioneta}
+- {name: Sabbioni}
+- {name: Sala Baganza}
+- {name: Sala Bolognese}
+- {name: Saletto}
+- {name: Salina}
+- {name: Salsomaggiore}
+- {name: Salsomaggiore Terme}
+- {name: Saltara}
+- {name: Saludecio}
+- {name: Salvaterra}
+- {name: San Antonio}
+- {name: San Cipriano}
+- {name: San Damiano}
+- {name: San Demetrio}
+- {name: San Donnino}
+- {name: San Faustino}
+- {name: San Felice Sul Panaro}
+- {name: San Gabriele}
+- {name: San Geminiano}
+- {name: San Giorgio Di Piano}
+- {name: San Giovanni In Marignano}
+- {name: San Giovanni In Persiceto}
+- {name: San Giuliano}
+- {name: San Giustino}
+- {name: San Lazzaro Di Savena}
+- {name: San Leo}
+- {name: San Lorenzo In Campo}
+- {name: San Marcello}
+- {name: San Martino In Rio}
+- {name: San Maurizio}
+- {name: San Mauro Pascoli}
+- {name: San Nazzaro}
+- {name: San Nicol}
+- {name: San Patrignano}
+- {name: San Pellegrino}
+- {name: San Piero}
+- {name: San Pietro In Casale}
+- {name: San Prospero}
+- {name: San Protaso}
+- {name: San Secondo}
+- {name: San Secondo Parmense}
+- {name: San Zaccaria}
+- {name: Sansepolcro}
+- {name: Sant Angelo}
+- {name: Sant'ippolito}
+- {name: Santa Anna}
+- {name: Santa Caterina}
+- {name: Santa Cecilia}
+- {name: Santa Sofia}
+- {name: Santa Viola}
+- {name: Santarcangelo}
+- {name: Santerno}
+- {name: Sarmato}
+- {name: Sarsina}
+- {name: Sarteano}
+- {name: Sasso Marconi}
+- {name: Sassocorvaro}
+- {name: Sassoferrato}
+- {name: Sassuolo}
+- {name: Savignano}
+- {name: Savignano Sul Panaro}
+- {name: Savignano Sul Rubicone}
+- {name: Savigno}
+- {name: Savio}
+- {name: Scandiano}
+- {name: Scandolara Ravara}
+- {name: Scarperia}
+- {name: Scarzara}
+- {name: Scheggia}
+- {name: Scipione}
+- {name: Secchia}
+- {name: Senigallia}
+- {name: Senna Lodigiana}
+- {name: Serra San Quirico}
+- {name: Serraglio}
+- {name: Serramazzoni}
+- {name: Sesso}
+- {name: Sestino}
+- {name: Sesto Ed Uniti}
+- {name: Sestola}
+- {name: Settima}
+- {name: Silla}
+- {name: Sissa}
+- {name: Soci}
+- {name: Sogliano}
+- {name: Sogliano Al Rubicone}
+- {name: Solarolo Rainerio}
+- {name: Soliera}
+- {name: Solignano}
+- {name: Soragna}
+- {name: Sorbano}
+- {name: Sorbara}
+- {name: Sorbolo}
+- {name: Sospiro}
+- {name: Spilamberto}
+- {name: Spineta}
+- {name: Stagno}
+- {name: Stefania}
+- {name: Stella}
+- {name: Sterpeti}
+- {name: Stia}
+- {name: Stienta}
+- {name: Strognano}
+- {name: Suzzara}
+- {name: Tabano}
+- {name: Tagliata}
+- {name: Talamello}
+- {name: Talla}
+- {name: Tamara}
+- {name: Taverna}
+- {name: Tavoleto}
+- {name: Tavullia}
+- {name: Terra Del Sole}
+- {name: Terranuova Bracciolini}
+- {name: Tessello}
+- {name: Testa}
+- {name: Tieni}
+- {name: Toano}
+- {name: Tomba}
+- {name: Torriana}
+- {name: Torrile}
+- {name: Traversa}
+- {name: Traversetolo}
+- {name: Travo}
+- {name: Trebbio}
+- {name: Trecasali}
+- {name: Tredozio}
+- {name: Trentola}
+- {name: Tresigallo}
+- {name: Urbania}
+- {name: Urbino}
+- {name: Vaccari}
+- {name: Vado}
+- {name: Valentini}
+- {name: Valle}
+- {name: Vallone}
+- {name: Valtreara}
+- {name: Valverde}
+- {name: Variano}
+- {name: Vasconi}
+- {name: Vergato}
+- {name: Verna}
+- {name: Verucchio}
+- {name: Vescovato}
+- {name: Vetto}
+- {name: Vezzano Sul Crostolo}
+- {name: Viadana}
+- {name: Viano}
+- {name: Vicchio}
+- {name: Vicofertile}
+- {name: Vigarano}
+- {name: Vigarano Mainarda}
+- {name: Vigatto}
+- {name: Vignale}
+- {name: Vignola}
+- {name: Vigolzone}
+- {name: Vill}
+- {name: Villa}
+- {name: Villa Maria}
+- {name: Villa Marina}
+- {name: Villa Minozzo}
+- {name: Villa Verucchio}
+- {name: Villabianca}
+- {name: Villalta}
+- {name: Villanova}
+- {name: Villanuova}
+- {name: Viserba}
+- {name: Volano}
+- {name: Voltre}
+- {name: Zena}
+- {name: Zibello}
+- {name: Zimella}
+- {name: Zocca}
+- {name: Zola Predosa}

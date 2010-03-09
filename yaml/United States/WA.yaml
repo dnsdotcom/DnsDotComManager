@@ -1,0 +1,398 @@
+- {name: Aberdeen}
+- {name: Acme}
+- {name: Addy}
+- {name: Adna}
+- {name: Airway Heights}
+- {name: Allyn}
+- {name: Amanda Park}
+- {name: Amboy}
+- {name: Anacortes}
+- {name: Anatone}
+- {name: Anderson Island}
+- {name: Arlington}
+- {name: Ashford}
+- {name: Asotin}
+- {name: Auburn}
+- {name: Bainbridge Island}
+- {name: Baring}
+- {name: Battle Ground}
+- {name: Beaver}
+- {name: Belfair}
+- {name: Bellevue}
+- {name: Bellingham}
+- {name: Benge}
+- {name: Benton City}
+- {name: Bickleton}
+- {name: Bingen}
+- {name: Black Diamond}
+- {name: Blaine}
+- {name: Blakely Island}
+- {name: Bonney Lake}
+- {name: Bothell}
+- {name: Bow}
+- {name: Bremerton}
+- {name: Brewster}
+- {name: Bridgeport}
+- {name: Brinnon}
+- {name: Brownstown}
+- {name: Brush Prairie}
+- {name: Buckley}
+- {name: Buena}
+- {name: Burbank}
+- {name: Burlington}
+- {name: Burton}
+- {name: Camano Island}
+- {name: Camas}
+- {name: Camp Murray}
+- {name: Carlsborg}
+- {name: Carnation}
+- {name: Carson}
+- {name: Cashmere}
+- {name: Castle Rock}
+- {name: Cathlamet}
+- {name: Centerville}
+- {name: Centralia}
+- {name: Chattaroy}
+- {name: Chehalis}
+- {name: Chelan}
+- {name: Chelan Falls}
+- {name: Cheney}
+- {name: Chewelah}
+- {name: Chimacum}
+- {name: Chinook}
+- {name: Cinebar}
+- {name: Clallam Bay}
+- {name: Clarkston}
+- {name: Clayton}
+- {name: Cle Elum}
+- {name: Clinton}
+- {name: Colbert}
+- {name: Colfax}
+- {name: College Place}
+- {name: Colton}
+- {name: Colville}
+- {name: Concrete}
+- {name: Connell}
+- {name: Conway}
+- {name: Cosmopolis}
+- {name: Cougar}
+- {name: Coulee City}
+- {name: Coulee Dam}
+- {name: Coupeville}
+- {name: Cowiche}
+- {name: Creston}
+- {name: Curlew}
+- {name: Curtis}
+- {name: Cusick}
+- {name: Custer}
+- {name: Dallesport}
+- {name: Danville}
+- {name: Darrington}
+- {name: Davenport}
+- {name: Dayton}
+- {name: Deer Harbor}
+- {name: Deer Park}
+- {name: Deming}
+- {name: Dixie}
+- {name: Doty}
+- {name: Dupont}
+- {name: Duvall}
+- {name: East Olympia}
+- {name: East Wenatchee}
+- {name: Easton}
+- {name: Eastsound}
+- {name: Eatonville}
+- {name: Edmonds}
+- {name: Edwall}
+- {name: Electric City}
+- {name: Elk}
+- {name: Ellensburg}
+- {name: Elma}
+- {name: Elmer City}
+- {name: Eltopia}
+- {name: Endicott}
+- {name: Entiat}
+- {name: Enumclaw}
+- {name: Ephrata}
+- {name: Ethel}
+- {name: Everett}
+- {name: Everson}
+- {name: Fairchild Air Force Base}
+- {name: Fairfield}
+- {name: Fall City}
+- {name: Farmington}
+- {name: Federal Way}
+- {name: Ferndale}
+- {name: Ford}
+- {name: Forks}
+- {name: Fox Island}
+- {name: Freeland}
+- {name: Friday Harbor}
+- {name: Garfield}
+- {name: George}
+- {name: Gifford}
+- {name: Gig Harbor}
+- {name: Glenoma}
+- {name: Glenwood}
+- {name: Gold Bar}
+- {name: Goldendale}
+- {name: Graham}
+- {name: Grand Coulee}
+- {name: Grandview}
+- {name: Granger}
+- {name: Granite Falls}
+- {name: Grapeview}
+- {name: Greenacres}
+- {name: Greenbank}
+- {name: Hansville}
+- {name: Harrah}
+- {name: Harrington}
+- {name: Hartline}
+- {name: Hobart}
+- {name: Hoquiam}
+- {name: Hunters}
+- {name: Husum}
+- {name: Ilwaco}
+- {name: Index}
+- {name: Indianola}
+- {name: Ione}
+- {name: Issaquah}
+- {name: Joyce}
+- {name: Kalama}
+- {name: Kapowsin}
+- {name: Keller}
+- {name: Kelso}
+- {name: Kenmore}
+- {name: Kennewick}
+- {name: Kent}
+- {name: Kettle Falls}
+- {name: Keyport}
+- {name: Kingston}
+- {name: Kirkland}
+- {name: Kittitas}
+- {name: Klickitat}
+- {name: La Center}
+- {name: La Conner}
+- {name: La Push}
+- {name: Lacey}
+- {name: Lacrosse}
+- {name: Lake Stevens}
+- {name: Lakebay}
+- {name: Lakewood}
+- {name: Lamont}
+- {name: Langley}
+- {name: Leavenworth}
+- {name: Lebam}
+- {name: Liberty Lake}
+- {name: Lilliwaup}
+- {name: Lind}
+- {name: Littlerock}
+- {name: Long Beach}
+- {name: Longbranch}
+- {name: Longview}
+- {name: Loon Lake}
+- {name: Lopez Island}
+- {name: Lummi Island}
+- {name: Lyle}
+- {name: Lyman}
+- {name: Lynden}
+- {name: Lynnwood}
+- {name: Mabton}
+- {name: Malaga}
+- {name: Malone}
+- {name: Manchester}
+- {name: Mansfield}
+- {name: Manson}
+- {name: Maple Falls}
+- {name: Maple Valley}
+- {name: Marysville}
+- {name: Mattawa}
+- {name: Mcchord Afb}
+- {name: Mccleary}
+- {name: Mckenna}
+- {name: Mead}
+- {name: Medical Lake}
+- {name: Medina}
+- {name: Menlo}
+- {name: Mercer Island}
+- {name: Mesa}
+- {name: Mica}
+- {name: Milton}
+- {name: Moclips}
+- {name: Monitor}
+- {name: Monroe}
+- {name: Montesano}
+- {name: Morton}
+- {name: Moses Lake}
+- {name: Mossyrock}
+- {name: Mount Vernon}
+- {name: Mountlake Terrace}
+- {name: Moxee}
+- {name: Mukilteo}
+- {name: Naches}
+- {name: Napavine}
+- {name: Naselle}
+- {name: Neah Bay}
+- {name: Neilton}
+- {name: Nespelem}
+- {name: Newman Lake}
+- {name: Newport}
+- {name: Nine Mile Falls}
+- {name: Nordland}
+- {name: North Bend}
+- {name: North Bonneville}
+- {name: North Lakewood}
+- {name: Northport}
+- {name: Oak Harbor}
+- {name: Oakesdale}
+- {name: Oakville}
+- {name: Ocean Park}
+- {name: Ocean Shores}
+- {name: Odessa}
+- {name: Okanogan}
+- {name: Olalla}
+- {name: Olga}
+- {name: Olympia}
+- {name: Omak}
+- {name: Onalaska}
+- {name: Orcas}
+- {name: Orient}
+- {name: Orondo}
+- {name: Oroville}
+- {name: Orting}
+- {name: Othello}
+- {name: Otis Orchards}
+- {name: Outlook}
+- {name: Pacific}
+- {name: Pacific Beach}
+- {name: Palisades}
+- {name: Palouse}
+- {name: Parker}
+- {name: Pasco}
+- {name: Pateros}
+- {name: Paterson}
+- {name: Pe Ell}
+- {name: Point Roberts}
+- {name: Pomeroy}
+- {name: Port Angeles}
+- {name: Port Gamble}
+- {name: Port Hadlock}
+- {name: Port Ludlow}
+- {name: Port Orchard}
+- {name: Port Townsend}
+- {name: Poulsbo}
+- {name: Prescott}
+- {name: Preston}
+- {name: Prosser}
+- {name: Pullman}
+- {name: Puyallup}
+- {name: Quilcene}
+- {name: Quincy}
+- {name: Rainier}
+- {name: Randle}
+- {name: Ravensdale}
+- {name: Raymond}
+- {name: Reardan}
+- {name: Redmond}
+- {name: Redondo}
+- {name: Renton}
+- {name: Republic}
+- {name: Retsil}
+- {name: Richland}
+- {name: Ridgefield}
+- {name: Ritzville}
+- {name: Riverside}
+- {name: Rochester}
+- {name: Rock Island}
+- {name: Rockford}
+- {name: Rollingbay}
+- {name: Rosalia}
+- {name: Rosburg}
+- {name: Roslyn}
+- {name: Roy}
+- {name: Royal City}
+- {name: Saint John}
+- {name: Salkum}
+- {name: Sammamish}
+- {name: Satsop}
+- {name: Seabeck}
+- {name: Seahurst}
+- {name: Seattle}
+- {name: Sedro Woolley}
+- {name: Selah}
+- {name: Sequim}
+- {name: Shaw Island}
+- {name: Shelton}
+- {name: Silvana}
+- {name: Silver Creek}
+- {name: Silverdale}
+- {name: Skamokawa}
+- {name: Skykomish}
+- {name: Snohomish}
+- {name: Snoqualmie}
+- {name: Snoqualmie Pass}
+- {name: Soap Lake}
+- {name: South Bend}
+- {name: South Colby}
+- {name: Southworth}
+- {name: Spanaway}
+- {name: Spangle}
+- {name: Spokane}
+- {name: Springdale}
+- {name: Stanwood}
+- {name: Starbuck}
+- {name: Steilacoom}
+- {name: Steptoe}
+- {name: Stevenson}
+- {name: Stratford}
+- {name: Sultan}
+- {name: Sumas}
+- {name: Sumner}
+- {name: Sunnyside}
+- {name: Suquamish}
+- {name: Tacoma}
+- {name: Taholah}
+- {name: Tekoa}
+- {name: Tenino}
+- {name: Tieton}
+- {name: Tokeland}
+- {name: Toledo}
+- {name: Tonasket}
+- {name: Toppenish}
+- {name: Touchet}
+- {name: Toutle}
+- {name: Tracyton}
+- {name: Tumwater}
+- {name: Twisp}
+- {name: Underwood}
+- {name: Union}
+- {name: University Place}
+- {name: Usk}
+- {name: Valley}
+- {name: Vancouver}
+- {name: Vashon}
+- {name: Veradale}
+- {name: Waitsburg}
+- {name: Walla Walla}
+- {name: Wallula}
+- {name: Wapato}
+- {name: Warden}
+- {name: Washougal}
+- {name: Washtucna}
+- {name: Waterville}
+- {name: Wauna}
+- {name: Wellpinit}
+- {name: Wenatchee}
+- {name: West Richland}
+- {name: Westport}
+- {name: White Salmon}
+- {name: Wilbur}
+- {name: Winlock}
+- {name: Winthrop}
+- {name: Wishram}
+- {name: Woodinville}
+- {name: Woodland}
+- {name: Yacolt}
+- {name: Yakima}
+- {name: Yelm}
+- {name: Zillah}

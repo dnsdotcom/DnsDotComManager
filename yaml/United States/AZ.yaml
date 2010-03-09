@@ -1,0 +1,214 @@
+- {name: Aguila}
+- {name: Ajo}
+- {name: Alpine}
+- {name: Amado}
+- {name: Apache Junction}
+- {name: Arizona City}
+- {name: Arlington}
+- {name: Ash Fork}
+- {name: Avondale}
+- {name: Bagdad}
+- {name: Bapchule}
+- {name: Bellemont}
+- {name: Benson}
+- {name: Bisbee}
+- {name: Black Canyon City}
+- {name: Blue Gap}
+- {name: Bouse}
+- {name: Buckeye}
+- {name: Bullhead City}
+- {name: Bylas}
+- {name: Cameron}
+- {name: Camp Verde}
+- {name: Carefree}
+- {name: Casa Grande}
+- {name: Cashion}
+- {name: Cave Creek}
+- {name: Central}
+- {name: Chambers}
+- {name: Chandler}
+- {name: Chinle}
+- {name: Chino Valley}
+- {name: Cibecue}
+- {name: Cibola}
+- {name: Clarkdale}
+- {name: Claypool}
+- {name: Clifton}
+- {name: Cochise}
+- {name: Colorado City}
+- {name: Concho}
+- {name: Congress}
+- {name: Coolidge}
+- {name: Cornville}
+- {name: Cortaro}
+- {name: Cottonwood}
+- {name: Crown King}
+- {name: Dewey}
+- {name: Dolan Springs}
+- {name: Douglas}
+- {name: Dragoon}
+- {name: Duncan}
+- {name: Eagar}
+- {name: El Mirage}
+- {name: Elfrida}
+- {name: Elgin}
+- {name: Eloy}
+- {name: Flagstaff}
+- {name: Florence}
+- {name: Fort Defiance}
+- {name: Fort Huachuca}
+- {name: Fort Mcdowell}
+- {name: Fort Mohave}
+- {name: Fountain Hills}
+- {name: Fredonia}
+- {name: Gadsden}
+- {name: Ganado}
+- {name: Gila Bend}
+- {name: Gilbert}
+- {name: Glendale}
+- {name: Globe}
+- {name: Golden Valley}
+- {name: Goodyear}
+- {name: Grand Canyon}
+- {name: Gray Mountain}
+- {name: Green Valley}
+- {name: Happy Jack}
+- {name: Hayden}
+- {name: Hereford}
+- {name: Higley}
+- {name: Holbrook}
+- {name: Hotevilla}
+- {name: Houck}
+- {name: Huachuca City}
+- {name: Humboldt}
+- {name: Jerome}
+- {name: Joseph City}
+- {name: Kayenta}
+- {name: Keams Canyon}
+- {name: Kearny}
+- {name: Kingman}
+- {name: Kirkland}
+- {name: Kykotsmovi Village}
+- {name: Lake Havasu City}
+- {name: Lake Montezuma}
+- {name: Lakeside}
+- {name: Laveen}
+- {name: Leupp}
+- {name: Litchfield Park}
+- {name: Littlefield}
+- {name: Lukachukai}
+- {name: Luke Afb}
+- {name: Mammoth}
+- {name: Many Farms}
+- {name: Marana}
+- {name: Maricopa}
+- {name: Mayer}
+- {name: Mc Neal}
+- {name: Mesa}
+- {name: Miami}
+- {name: Mohave Valley}
+- {name: Morenci}
+- {name: Morristown}
+- {name: Mount Lemmon}
+- {name: Naco}
+- {name: Nazlini}
+- {name: New River}
+- {name: Nogales}
+- {name: Oatman}
+- {name: Oracle}
+- {name: Overgaard}
+- {name: Page}
+- {name: Paradise Valley}
+- {name: Parker}
+- {name: Parks Community Post Office}
+- {name: Patagonia}
+- {name: Paulden}
+- {name: Payson}
+- {name: Peach Springs}
+- {name: Pearce}
+- {name: Peoria}
+- {name: Peridot}
+- {name: Phoenix}
+- {name: Pima}
+- {name: Pine}
+- {name: Pinedale}
+- {name: Pinetop}
+- {name: Pinon}
+- {name: Pomerene}
+- {name: Poston}
+- {name: Prescott}
+- {name: Prescott Valley}
+- {name: Quartzsite}
+- {name: Queen Creek}
+- {name: Red Rock}
+- {name: Red Valley}
+- {name: Rillito}
+- {name: Rimrock}
+- {name: Rio Rico}
+- {name: Rio Verde}
+- {name: Rock Point}
+- {name: Roll}
+- {name: Roosevelt}
+- {name: Sacaton}
+- {name: Safford}
+- {name: Sahuarita}
+- {name: Saint David}
+- {name: Saint Johns}
+- {name: Saint Michaels}
+- {name: Salome}
+- {name: San Carlos}
+- {name: San Luis}
+- {name: San Manuel}
+- {name: San Simon}
+- {name: Sanders}
+- {name: Scottsdale}
+- {name: Second Mesa}
+- {name: Sedona}
+- {name: Seligman}
+- {name: Sells}
+- {name: Show Low}
+- {name: Sierra Vista}
+- {name: Skull Valley}
+- {name: Snowflake}
+- {name: Somerton}
+- {name: Sonoita}
+- {name: Springerville}
+- {name: Stanfield}
+- {name: Sun City}
+- {name: Sun City West}
+- {name: Superior}
+- {name: Surprise}
+- {name: Tacna}
+- {name: Taylor}
+- {name: Teec Nos Pos}
+- {name: Tempe}
+- {name: Thatcher}
+- {name: Tolleson}
+- {name: Tombstone}
+- {name: Tonalea}
+- {name: Tonopah}
+- {name: Tonto Basin}
+- {name: Topawa}
+- {name: Tortilla Flat}
+- {name: Tsaile}
+- {name: Tuba City}
+- {name: Tubac}
+- {name: Tucson}
+- {name: Vail}
+- {name: Waddell}
+- {name: Wellton}
+- {name: Wenden}
+- {name: White Mountain Lake}
+- {name: Whiteriver}
+- {name: Wickenburg}
+- {name: Wikieup}
+- {name: Willcox}
+- {name: Williams}
+- {name: Window Rock}
+- {name: Winkelman}
+- {name: Winslow}
+- {name: Wittmann}
+- {name: Woodruff}
+- {name: Young}
+- {name: Youngtown}
+- {name: Yuma}

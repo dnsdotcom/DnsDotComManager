@@ -1,8 +1,2 @@
-- cities:
-  - {name: Gizo}
-  code: '00'
-  name: ''
-- cities:
-  - {name: Honiara}
-  code: 08
-  name: Makira
+- {code: '00', name: ''}
+- {code: 08, name: Makira}

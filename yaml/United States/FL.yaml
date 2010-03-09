@@ -1,0 +1,446 @@
+- {name: Alachua}
+- {name: Altamonte Springs}
+- {name: Altha}
+- {name: Altoona}
+- {name: Alva}
+- {name: Anna Maria}
+- {name: Anthony}
+- {name: Apalachicola}
+- {name: Apollo Beach}
+- {name: Apopka}
+- {name: Arcadia}
+- {name: Archer}
+- {name: Astatula}
+- {name: Astor}
+- {name: Atlantic Beach}
+- {name: Auburndale}
+- {name: Avon Park}
+- {name: Babson Park}
+- {name: Baker}
+- {name: Balm}
+- {name: Barberville}
+- {name: Bartow}
+- {name: Bell}
+- {name: Belle Glade}
+- {name: Belleair Beach}
+- {name: Belleview}
+- {name: Beverly Hills}
+- {name: Big Pine Key}
+- {name: Blountstown}
+- {name: Boca Grande}
+- {name: Boca Raton}
+- {name: Bokeelia}
+- {name: Bonifay}
+- {name: Bonita Springs}
+- {name: Bostwick}
+- {name: Bowling Green}
+- {name: Boynton Beach}
+- {name: Bradenton}
+- {name: Bradenton Beach}
+- {name: Brandon}
+- {name: Branford}
+- {name: Bristol}
+- {name: Bronson}
+- {name: Brooker}
+- {name: Brooksville}
+- {name: Bryant}
+- {name: Bunnell}
+- {name: Bushnell}
+- {name: Callahan}
+- {name: Candler}
+- {name: Cantonment}
+- {name: Cape Canaveral}
+- {name: Cape Coral}
+- {name: Captiva}
+- {name: Carrabelle}
+- {name: Caryville}
+- {name: Casselberry}
+- {name: Cedar Key}
+- {name: Center Hill}
+- {name: Century}
+- {name: Chattahoochee}
+- {name: Chiefland}
+- {name: Chipley}
+- {name: Christmas}
+- {name: Citra}
+- {name: Clarcona}
+- {name: Clearwater}
+- {name: Clearwater Beach}
+- {name: Clermont}
+- {name: Clewiston}
+- {name: Cocoa}
+- {name: Cocoa Beach}
+- {name: Coleman}
+- {name: Cottondale}
+- {name: Crawfordville}
+- {name: Crescent City}
+- {name: Crestview}
+- {name: Cross City}
+- {name: Crystal River}
+- {name: Crystal Springs}
+- {name: Dade City}
+- {name: Dania}
+- {name: Davenport}
+- {name: Day}
+- {name: Daytona Beach}
+- {name: De Leon Springs}
+- {name: Debary}
+- {name: Deerfield Beach}
+- {name: Defuniak Springs}
+- {name: Deland}
+- {name: Delray Beach}
+- {name: Deltona}
+- {name: Destin}
+- {name: Doctors Inlet}
+- {name: Dover}
+- {name: Dundee}
+- {name: Dunedin}
+- {name: Dunnellon}
+- {name: Durant}
+- {name: Eagle Lake}
+- {name: Earleton}
+- {name: East Palatka}
+- {name: Eastlake Weir}
+- {name: Eastpoint}
+- {name: Eaton Park}
+- {name: Ebro}
+- {name: Edgar}
+- {name: Edgewater}
+- {name: Eglin Afb}
+- {name: Elfers}
+- {name: Elkton}
+- {name: Ellenton}
+- {name: Englewood}
+- {name: Estero}
+- {name: Eustis}
+- {name: Everglades City}
+- {name: Fedhaven}
+- {name: Fernandina Beach}
+- {name: Ferndale}
+- {name: Flagler Beach}
+- {name: Florahome}
+- {name: Floral City}
+- {name: Fort Lauderdale}
+- {name: Fort Mc Coy}
+- {name: Fort Meade}
+- {name: Fort Myers}
+- {name: Fort Myers Beach}
+- {name: Fort Pierce}
+- {name: Fort Walton Beach}
+- {name: Fort White}
+- {name: Fountain}
+- {name: Freeport}
+- {name: Frostproof}
+- {name: Fruitland Park}
+- {name: Gainesville}
+- {name: Geneva}
+- {name: Georgetown}
+- {name: Gibsonton}
+- {name: Glen Saint Mary}
+- {name: Glenwood}
+- {name: Goldenrod}
+- {name: Gonzalez}
+- {name: Goodland}
+- {name: Gotha}
+- {name: Graceville}
+- {name: Graham}
+- {name: Grand Island}
+- {name: Grand Ridge}
+- {name: Green Cove Springs}
+- {name: Greensboro}
+- {name: Greenville}
+- {name: Greenwood}
+- {name: Gretna}
+- {name: Groveland}
+- {name: Gulf Breeze}
+- {name: Gulf Hammock}
+- {name: Haines City}
+- {name: Hallandale}
+- {name: Hampton}
+- {name: Hastings}
+- {name: Havana}
+- {name: Hawthorne}
+- {name: Hernando}
+- {name: Hialeah}
+- {name: High Springs}
+- {name: Highland City}
+- {name: Hilliard}
+- {name: Hobe Sound}
+- {name: Holder}
+- {name: Holiday}
+- {name: Hollister}
+- {name: Hollywood}
+- {name: Holt}
+- {name: Homeland}
+- {name: Homestead}
+- {name: Homosassa}
+- {name: Hosford}
+- {name: Howey In The Hills}
+- {name: Hudson}
+- {name: Hurlburt Field}
+- {name: Immokalee}
+- {name: Indialantic}
+- {name: Indian Lake Estates}
+- {name: Indian Rocks Beach}
+- {name: Indiantown}
+- {name: Inglis}
+- {name: Intercession City}
+- {name: Interlachen}
+- {name: Inverness}
+- {name: Islamorada}
+- {name: Jacksonville}
+- {name: Jacksonville Beach}
+- {name: Jasper}
+- {name: Jay}
+- {name: Jensen Beach}
+- {name: Jupiter}
+- {name: Kathleen}
+- {name: Key Biscayne}
+- {name: Key Largo}
+- {name: Key West}
+- {name: Keystone Heights}
+- {name: Kissimmee}
+- {name: La Crosse}
+- {name: Labelle}
+- {name: Lacoochee}
+- {name: Lady Lake}
+- {name: Lake Alfred}
+- {name: Lake Butler}
+- {name: Lake City}
+- {name: Lake Hamilton}
+- {name: Lake Helen}
+- {name: Lake Mary}
+- {name: Lake Monroe}
+- {name: Lake Panasoffkee}
+- {name: Lake Placid}
+- {name: Lake Wales}
+- {name: Lake Worth}
+- {name: Lakeland}
+- {name: Lamont}
+- {name: Land O Lakes}
+- {name: Largo}
+- {name: Laurel Hill}
+- {name: Lawtey}
+- {name: Lecanto}
+- {name: Lee}
+- {name: Leesburg}
+- {name: Lehigh Acres}
+- {name: Lithia}
+- {name: Live Oak}
+- {name: Lloyd}
+- {name: Long Key}
+- {name: Longboat Key}
+- {name: Longwood}
+- {name: Loxahatchee}
+- {name: Lulu}
+- {name: Lutz}
+- {name: Lynn Haven}
+- {name: Macclenny}
+- {name: Madison}
+- {name: Maitland}
+- {name: Malabar}
+- {name: Mango}
+- {name: Marathon}
+- {name: Marco Island}
+- {name: Marianna}
+- {name: Mary Esther}
+- {name: Mascotte}
+- {name: Mayo}
+- {name: Mc Alpin}
+- {name: Mc David}
+- {name: Melbourne}
+- {name: Melbourne Beach}
+- {name: Melrose}
+- {name: Merritt Island}
+- {name: Miami}
+- {name: Miami Beach}
+- {name: Micanopy}
+- {name: Middleburg}
+- {name: Midway}
+- {name: Milton}
+- {name: Mims}
+- {name: Minneola}
+- {name: Miramar Beach}
+- {name: Molino}
+- {name: Monticello}
+- {name: Montverde}
+- {name: Moore Haven}
+- {name: Morriston}
+- {name: Mossy Head}
+- {name: Mount Dora}
+- {name: Mulberry}
+- {name: Murdock}
+- {name: Myakka City}
+- {name: Naples}
+- {name: Navarre}
+- {name: Neptune Beach}
+- {name: New Port Richey}
+- {name: New Smyrna Beach}
+- {name: Newberry}
+- {name: Niceville}
+- {name: Nobleton}
+- {name: Nokomis}
+- {name: North Fort Myers}
+- {name: North Miami Beach}
+- {name: North Palm Beach}
+- {name: North Port}
+- {name: O Brien}
+- {name: Oak Hill}
+- {name: Oakland}
+- {name: Ocala}
+- {name: Ochopee}
+- {name: Ocklawaha}
+- {name: Ocoee}
+- {name: Odessa}
+- {name: Okahumpka}
+- {name: Okeechobee}
+- {name: Old Town}
+- {name: Oldsmar}
+- {name: Olustee}
+- {name: Ona}
+- {name: Oneco}
+- {name: Opa Locka}
+- {name: Orange City}
+- {name: Orange Lake}
+- {name: Orange Park}
+- {name: Orange Springs}
+- {name: Orlando}
+- {name: Ormond Beach}
+- {name: Osprey}
+- {name: Osteen}
+- {name: Otter Creek}
+- {name: Oviedo}
+- {name: Oxford}
+- {name: Ozona}
+- {name: Pahokee}
+- {name: Paisley}
+- {name: Palatka}
+- {name: Palm Bay}
+- {name: Palm Beach}
+- {name: Palm Beach Gardens}
+- {name: Palm City}
+- {name: Palm Coast}
+- {name: Palm Harbor}
+- {name: Palmetto}
+- {name: Panacea}
+- {name: Panama City}
+- {name: Panama City Beach}
+- {name: Parrish}
+- {name: Patrick Afb}
+- {name: Paxton}
+- {name: Pembroke Pines}
+- {name: Pensacola}
+- {name: Perry}
+- {name: Pierson}
+- {name: Pineland}
+- {name: Pinellas Park}
+- {name: Placida}
+- {name: Plant City}
+- {name: Plymouth}
+- {name: Polk City}
+- {name: Pomona Park}
+- {name: Pompano Beach}
+- {name: Ponce De Leon}
+- {name: Ponte Vedra Beach}
+- {name: Port Charlotte}
+- {name: Port Orange}
+- {name: Port Richey}
+- {name: Port Saint Joe}
+- {name: Port Saint Lucie}
+- {name: Port Salerno}
+- {name: Punta Gorda}
+- {name: Quincy}
+- {name: Raiford}
+- {name: Reddick}
+- {name: River Ranch}
+- {name: Riverview}
+- {name: Rockledge}
+- {name: Roseland}
+- {name: Rosemary Beach}
+- {name: Rotonda West}
+- {name: Ruskin}
+- {name: Safety Harbor}
+- {name: Saint Augustine}
+- {name: Saint Cloud}
+- {name: Saint James City}
+- {name: Saint Leo}
+- {name: Saint Petersburg}
+- {name: San Antonio}
+- {name: San Mateo}
+- {name: Sanderson}
+- {name: Sanford}
+- {name: Sanibel}
+- {name: Santa Rosa Beach}
+- {name: Sarasota}
+- {name: Satellite Beach}
+- {name: Satsuma}
+- {name: Sebastian}
+- {name: Sebring}
+- {name: Seffner}
+- {name: Seminole}
+- {name: Seville}
+- {name: Shalimar}
+- {name: Sharpes}
+- {name: Silver Springs}
+- {name: Sorrento}
+- {name: South Bay}
+- {name: Sparr}
+- {name: Spring Hill}
+- {name: Starke}
+- {name: Steinhatchee}
+- {name: Stuart}
+- {name: Sumatra}
+- {name: Summerfield}
+- {name: Summerland Key}
+- {name: Sumterville}
+- {name: Sun City}
+- {name: Sun City Center}
+- {name: Suwannee}
+- {name: Sydney}
+- {name: Tallahassee}
+- {name: Tallevast}
+- {name: Tampa}
+- {name: Tangerine}
+- {name: Tarpon Springs}
+- {name: Tavares}
+- {name: Tavernier}
+- {name: Thonotosassa}
+- {name: Titusville}
+- {name: Trenton}
+- {name: Umatilla}
+- {name: Valparaiso}
+- {name: Valrico}
+- {name: Vanderbilt Beach}
+- {name: Venice}
+- {name: Venus}
+- {name: Vernon}
+- {name: Vero Beach}
+- {name: Wabasso}
+- {name: Waldo}
+- {name: Wauchula}
+- {name: Wausau}
+- {name: Waverly}
+- {name: Webster}
+- {name: Weirsdale}
+- {name: Welaka}
+- {name: Wellborn}
+- {name: Wesley Chapel}
+- {name: West Palm Beach}
+- {name: Westville}
+- {name: Wewahitchka}
+- {name: White Springs}
+- {name: Wildwood}
+- {name: Williston}
+- {name: Wimauma}
+- {name: Windermere}
+- {name: Winter Garden}
+- {name: Winter Haven}
+- {name: Winter Park}
+- {name: Winter Springs}
+- {name: Woodville}
+- {name: Worthington Springs}
+- {name: Youngstown}
+- {name: Yulee}
+- {name: Zellwood}
+- {name: Zephyrhills}
+- {name: Zolfo Springs}

@@ -1,8 +1,1 @@
-- cities:
-  - {name: Christiansted}
-  - {name: Frederiksted}
-  - {name: Kingshill}
-  - {name: St John}
-  - {name: St Thomas}
-  code: (nu
-  name: ''
+- {code: (nu, name: ''}

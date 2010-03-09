@@ -1,0 +1,194 @@
+- {name: Acme}
+- {name: Airdrie}
+- {name: Alix}
+- {name: Alliance}
+- {name: Andrew}
+- {name: Ardmore}
+- {name: Ardrossan}
+- {name: Ashmont}
+- {name: Athabasca}
+- {name: Balzac}
+- {name: Banff}
+- {name: Barons}
+- {name: Barrhead}
+- {name: Bashaw}
+- {name: Bassano}
+- {name: Beaumont}
+- {name: Beaverlodge}
+- {name: Beiseker}
+- {name: Bellevue}
+- {name: Benalto}
+- {name: Big Valley}
+- {name: Black Diamond}
+- {name: Blackfalds}
+- {name: Blackie}
+- {name: Blairmore}
+- {name: Bluffton}
+- {name: Bon Accord}
+- {name: Bonnyville}
+- {name: Bow Island}
+- {name: Bowden}
+- {name: Boyle}
+- {name: Breton}
+- {name: Brooks}
+- {name: Calgary}
+- {name: Calmar}
+- {name: Camrose}
+- {name: Canmore}
+- {name: Cardston}
+- {name: Caroline}
+- {name: Carseland}
+- {name: Carstairs}
+- {name: Castor}
+- {name: Champion}
+- {name: Chauvin}
+- {name: Cherhill}
+- {name: Chestermere}
+- {name: Chilliwack}
+- {name: Chipman}
+- {name: Claresholm}
+- {name: Clive}
+- {name: Coaldale}
+- {name: Cochrane}
+- {name: Cold Lake}
+- {name: Coleman}
+- {name: Consort}
+- {name: Coronation}
+- {name: Coutts}
+- {name: Cremona}
+- {name: Crossfield}
+- {name: Daysland}
+- {name: Delburne}
+- {name: Devon}
+- {name: Didsbury}
+- {name: Donatville}
+- {name: Donnelly}
+- {name: Dowling}
+- {name: Drayton Valley}
+- {name: Driftpile}
+- {name: Drumheller}
+- {name: Duchess}
+- {name: Duffield}
+- {name: Dunmore}
+- {name: Edgerton}
+- {name: Edmonton}
+- {name: Edson}
+- {name: Elk Point}
+- {name: Fairview}
+- {name: Foremost}
+- {name: Forestburg}
+- {name: Fort Macleod}
+- {name: Fort Mcmurray}
+- {name: Fort Saskatchewan}
+- {name: Fort Vermilion}
+- {name: Fort Vermillion}
+- {name: Gleichen}
+- {name: Glendon}
+- {name: Glenwood}
+- {name: Grand Centre}
+- {name: Grande Prairie}
+- {name: Grimshaw}
+- {name: Hanna}
+- {name: Hardisty}
+- {name: High Level}
+- {name: High Prairie}
+- {name: High River}
+- {name: Hines Creek}
+- {name: Hinton}
+- {name: Hobbema}
+- {name: Hythe}
+- {name: Innisfail}
+- {name: Irricana}
+- {name: Jarvie}
+- {name: Jasper}
+- {name: Joussard}
+- {name: Killam}
+- {name: Kinuso}
+- {name: Kitscoty}
+- {name: Lac La Biche}
+- {name: Lacombe}
+- {name: Lake Louise}
+- {name: Lamont}
+- {name: Leduc}
+- {name: Legal}
+- {name: Lethbridge}
+- {name: Lloydminster}
+- {name: Mallaig}
+- {name: Mannville}
+- {name: Mclennan}
+- {name: Mcmurray}
+- {name: Medicine Hat}
+- {name: Milk River}
+- {name: Millet}
+- {name: Morinville}
+- {name: Morrin}
+- {name: Mossleigh}
+- {name: Munson}
+- {name: Nampa}
+- {name: Nanton}
+- {name: Nisku}
+- {name: Nobleford}
+- {name: North Vancouver}
+- {name: Okotoks}
+- {name: Olds}
+- {name: Onoway}
+- {name: Peace River}
+- {name: Penhold}
+- {name: Pincher Creek}
+- {name: Plamondon}
+- {name: Ponoka}
+- {name: Radway}
+- {name: Raymond}
+- {name: Red Deer}
+- {name: Redcliff}
+- {name: Richmond}
+- {name: Rimbey}
+- {name: Rocky Mountain House}
+- {name: Rosebud}
+- {name: Rumsey}
+- {name: Saint Albert}
+- {name: Saint Lina}
+- {name: Saint Paul}
+- {name: Sexsmith}
+- {name: Sherwood Park}
+- {name: Slave Lake}
+- {name: Smith}
+- {name: Smoky Lake}
+- {name: Spruce Grove}
+- {name: Standard}
+- {name: Stettler}
+- {name: Stirling}
+- {name: Stony Plain}
+- {name: Strathmore}
+- {name: Surrey}
+- {name: Sylvan Lake}
+- {name: Taber}
+- {name: Tangent}
+- {name: Three Hills}
+- {name: Tilley}
+- {name: Tofield}
+- {name: Trochu}
+- {name: Two Hills}
+- {name: Valleyview}
+- {name: Vancouver}
+- {name: Vauxhall}
+- {name: Vegreville}
+- {name: Vermilion}
+- {name: Vermillion}
+- {name: Veteran}
+- {name: Vulcan}
+- {name: Wainwright}
+- {name: Warden}
+- {name: Waskatenau}
+- {name: Webster}
+- {name: Wembley}
+- {name: Westlock}
+- {name: Wetaskiwin}
+- {name: Whitecourt}
+- {name: Widewater}
+- {name: Wildwood}
+- {name: Winfield}
+- {name: Winnipeg}
+- {name: Woking}
+- {name: Wrentham}
+- {name: Youngstown}

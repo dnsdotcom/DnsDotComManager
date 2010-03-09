@@ -1,20 +1,5 @@
-- cities:
-  - {name: Sandy Point}
-  code: '02'
-  name: Saint Anne Sandy Point
-- cities:
-  - {name: Basseterre}
-  code: '03'
-  name: Saint George Basseterre
-- cities:
-  - {name: Gingerland}
-  code: '04'
-  name: Saint George Gingerland
-- cities:
-  - {name: Charlestown}
-  code: '07'
-  name: Saint John Figtree
-- cities:
-  - {name: Cayon}
-  code: 08
-  name: Saint Mary Cayon
+- {code: '02', name: Saint Anne Sandy Point}
+- {code: '03', name: Saint George Basseterre}
+- {code: '04', name: Saint George Gingerland}
+- {code: '07', name: Saint John Figtree}
+- {code: 08, name: Saint Mary Cayon}

@@ -1,0 +1,390 @@
+- {name: ''}
+- {name: Agay}
+- {name: Aiguilles}
+- {name: Aix-en-provence}
+- {name: Allauch}
+- {name: Alleins}
+- {name: Allemagne}
+- {name: Allemagne-en-provence}
+- {name: Amen}
+- {name: Amignon}
+- {name: Ansouis}
+- {name: Antibes}
+- {name: Apt}
+- {name: Argens}
+- {name: Arles}
+- {name: Aspremont}
+- {name: Aubagne}
+- {name: Aubignan}
+- {name: Aug}
+- {name: Aureille}
+- {name: Auribeau}
+- {name: Auriol}
+- {name: Avignon}
+- {name: B}
+- {name: Bagnols-en-for}
+- {name: Bandol}
+- {name: Banon}
+- {name: Baratier}
+- {name: Barbentane}
+- {name: Barcelonnette}
+- {name: Baudinard}
+- {name: Beaulieu-sur-mer}
+- {name: Beaumes}
+- {name: Beaumont-de-pertuis}
+- {name: Beausoleil}
+- {name: Belcod}
+- {name: Berre}
+- {name: Berre-l'etang}
+- {name: Besse-sur-issole}
+- {name: Beuil}
+- {name: Biot}
+- {name: Biver}
+- {name: Boll}
+- {name: Bonneveine}
+- {name: Bonnieux}
+- {name: Bormes}
+- {name: Bormes-les-mimosas}
+- {name: Bouc-bel-air}
+- {name: Bras}
+- {name: Brian}
+- {name: Brignoles}
+- {name: Brunet}
+- {name: Cabasse}
+- {name: Cabri}
+- {name: Cadenet}
+- {name: Caderousse}
+- {name: Cadolive}
+- {name: Cagnes}
+- {name: Cagnes-sur-mer}
+- {name: Caille}
+- {name: Camaret}
+- {name: Cannes}
+- {name: Cantaron}
+- {name: Carc}
+- {name: Carnoules}
+- {name: Caromb}
+- {name: Carpentras}
+- {name: Carqueiranne}
+- {name: Carro}
+- {name: Carros}
+- {name: Carry}
+- {name: Carry-le-rouet}
+- {name: Cassis}
+- {name: Castellane}
+- {name: Caumont-sur-durance}
+- {name: Cavaillon}
+- {name: Cavalaire}
+- {name: Cavalaire-sur-mer}
+- {name: Ceyreste}
+- {name: Ch}
+- {name: Chanolles}
+- {name: Charleval}
+- {name: Chorges}
+- {name: Cogolin}
+- {name: Collobri}
+- {name: Contadour}
+- {name: Corbi}
+- {name: Cotignac}
+- {name: Coudoux}
+- {name: Courth}
+- {name: Crestet}
+- {name: Crillon}
+- {name: Cuers}
+- {name: Cuges-les-pins}
+- {name: Dauphin}
+- {name: Digne}
+- {name: Draguignan}
+- {name: Drap}
+- {name: Embrun}
+- {name: Entrechaux}
+- {name: Entrevaux}
+- {name: Espinasses}
+- {name: Eygali}
+- {name: Eygui}
+- {name: Eyragues}
+- {name: Faucon}
+- {name: Fayence}
+- {name: Flassans-sur-issole}
+- {name: Flayosc}
+- {name: Fontvieille}
+- {name: Forcalquier}
+- {name: Fos-sur-mer}
+- {name: Fr}
+- {name: Fuveau}
+- {name: G}
+- {name: Gap}
+- {name: Gar}
+- {name: Gardanne}
+- {name: Garnier}
+- {name: Gassin}
+- {name: Gignac-la-nerthe}
+- {name: Gigondas}
+- {name: Girard}
+- {name: Giraud}
+- {name: Golfe-juan}
+- {name: Gonfaron}
+- {name: Gordes}
+- {name: Gr}
+- {name: Grambois}
+- {name: Grans}
+- {name: Grasse}
+- {name: Graveson}
+- {name: Grillon}
+- {name: Grimaud}
+- {name: Gros}
+- {name: Guillaumes}
+- {name: Guillestre}
+- {name: Hotel}
+- {name: Hy}
+- {name: Isola}
+- {name: Istres}
+- {name: Jouques}
+- {name: Juan}
+- {name: Juan-les-pins}
+- {name: L'isle-sur-la-sorgue}
+- {name: La Barben}
+- {name: La Bastidonne}
+- {name: La Bouilladisse}
+- {name: La Brigue}
+- {name: La Brillanne}
+- {name: La Cadi}
+- {name: La Ciotat}
+- {name: La Colle}
+- {name: La Crau}
+- {name: La Fare}
+- {name: La Farl}
+- {name: La Fossette}
+- {name: La Garde}
+- {name: La Garde-freinet}
+- {name: La Gaude}
+- {name: La Londe}
+- {name: La Monta}
+- {name: La Motte}
+- {name: La Napoule}
+- {name: La Portani}
+- {name: La Redonne}
+- {name: La Roquette}
+- {name: La Route}
+- {name: La Saulce}
+- {name: La Seyne}
+- {name: La Seyne-sur-mer}
+- {name: La Trinit}
+- {name: La Turbie}
+- {name: La Valette-du-var}
+- {name: Lacoste}
+- {name: Lagnes}
+- {name: Lamanon}
+- {name: Lambesc}
+- {name: Lamotte}
+- {name: Lan}
+- {name: Lapalud}
+- {name: Laragne}
+- {name: Lascours}
+- {name: Laure}
+- {name: Lauris}
+- {name: Lav}
+- {name: Lavigne}
+- {name: Laye}
+- {name: Lazer}
+- {name: Le Bar}
+- {name: Le Barroux}
+- {name: Le Beausset}
+- {name: Le Caire}
+- {name: Le Canet}
+- {name: Le Cannet}
+- {name: Le Castellet}
+- {name: Le Lavandou}
+- {name: Le Muy}
+- {name: Le Pontet}
+- {name: Le Pradet}
+- {name: Le Revest}
+- {name: Le Rouret}
+- {name: Le Rove}
+- {name: Le Tholonet}
+- {name: Le Thor}
+- {name: Les Arcs}
+- {name: Les Cardaires}
+- {name: Les Condamines}
+- {name: Les Grands}
+- {name: Les Hameaux}
+- {name: Les Jardins}
+- {name: Les Lecques}
+- {name: Les M}
+- {name: Les Milles}
+- {name: Les Orres}
+- {name: Les Pennes}
+- {name: Les Playes}
+- {name: Les-pennes-mirabeau}
+- {name: Levens}
+- {name: Libre}
+- {name: Lorgues}
+- {name: M}
+- {name: Magagnosc}
+- {name: Malijai}
+- {name: Mallefougasse}
+- {name: Mallemoisson}
+- {name: Mallemort}
+- {name: Mandelieu}
+- {name: Manosque}
+- {name: Marie}
+- {name: Marignane}
+- {name: Marseille}
+- {name: Martigues}
+- {name: Masseboeuf}
+- {name: Mazan}
+- {name: Mazargues}
+- {name: Menton}
+- {name: Meyrargues}
+- {name: Meyreuil}
+- {name: Mimet}
+- {name: Mirabeau}
+- {name: Miramas}
+- {name: Moll}
+- {name: Mondragon}
+- {name: Mont}
+- {name: Montauroux}
+- {name: Monteux}
+- {name: Montfavet}
+- {name: Montgen}
+- {name: Montmaur}
+- {name: Montmeyan}
+- {name: Mormoiron}
+- {name: Mouans-sartoux}
+- {name: Mougins}
+- {name: Moul}
+- {name: Mouri}
+- {name: N}
+- {name: Nans-les-pins}
+- {name: Nice}
+- {name: Noves}
+- {name: Ollioules}
+- {name: Ondres}
+- {name: Opio}
+- {name: Oppedette}
+- {name: Oraison}
+- {name: Orange}
+- {name: Orgon}
+- {name: P}
+- {name: Palette}
+- {name: Peille}
+- {name: Pernes-les-fontaines}
+- {name: Pertuis}
+- {name: Peymeinade}
+- {name: Peynier}
+- {name: Peypin}
+- {name: Peyruis}
+- {name: Pierrefeu}
+- {name: Pierrerue}
+- {name: Pignans}
+- {name: Piolenc}
+- {name: Plan-de-cuques}
+- {name: Plan-de-la-tour}
+- {name: Plascassier}
+- {name: Pont De Vivaux}
+- {name: Port-de-bouc}
+- {name: Port-saint-louis-du-rh}
+- {name: Pourri}
+- {name: Puget}
+- {name: Puget-ville}
+- {name: Puyloubier}
+- {name: Puyricard}
+- {name: R}
+- {name: Rasteau}
+- {name: Riez}
+- {name: Rigaud}
+- {name: Rivet}
+- {name: Robion}
+- {name: Rocbaron}
+- {name: Rognac}
+- {name: Rognes}
+- {name: Rognonas}
+- {name: Roquebrune-cap-martin}
+- {name: Roquefort-la-b}
+- {name: Roquevaire}
+- {name: Roumoules}
+- {name: S}
+- {name: Saint Louis}
+- {name: Saint-auban}
+- {name: Saint-cannat}
+- {name: Saint-cyr-sur-mer}
+- {name: Saint-j}
+- {name: Saint-laurent-du-var}
+- {name: Saint-mandrier}
+- {name: Saint-mandrier-sur-mer}
+- {name: Saint-marcellin}
+- {name: Saint-marcellin-l}
+- {name: Saint-martin-de-crau}
+- {name: Saint-maximin-la-sainte-baume}
+- {name: Saint-mitre-les-remparts}
+- {name: Saint-paul-lez-durance}
+- {name: Saint-r}
+- {name: Saint-rapha}
+- {name: Saint-savournin}
+- {name: Saint-trinit}
+- {name: Saint-zacharie}
+- {name: Sainte-anastasie-sur-issole}
+- {name: Sainte-maxime}
+- {name: Sainte-tulle}
+- {name: Salernes}
+- {name: Salin-de-giraud}
+- {name: Salon-de-provence}
+- {name: Sanary}
+- {name: Sanary-sur-mer}
+- {name: Saorge}
+- {name: Sarrians}
+- {name: Saumane-de-vaucluse}
+- {name: Sausset-les-pins}
+- {name: Sauze}
+- {name: Seillans}
+- {name: Sept}
+- {name: Seyne}
+- {name: Signes}
+- {name: Simiane}
+- {name: Simiane-collongue}
+- {name: Sivergues}
+- {name: Six Fours}
+- {name: Solli}
+- {name: Sorgues}
+- {name: Sospel}
+- {name: Souliers}
+- {name: Tallard}
+- {name: Tamaris}
+- {name: Tarascon}
+- {name: Tavernes}
+- {name: Tende}
+- {name: Toulon}
+- {name: Tourette}
+- {name: Tourrette}
+- {name: Tourrettes-sur-loup}
+- {name: Tourtour}
+- {name: Tourves}
+- {name: Trans}
+- {name: Trans-en-provence}
+- {name: Trets}
+- {name: Uchaux}
+- {name: Utelle}
+- {name: Vacqueyras}
+- {name: Valberg}
+- {name: Valbonne}
+- {name: Vallauris}
+- {name: Valr}
+- {name: Varages}
+- {name: Ved}
+- {name: Velaux}
+- {name: Velleron}
+- {name: Vence}
+- {name: Venelles}
+- {name: Ventabren}
+- {name: Veynes}
+- {name: Vidauban}
+- {name: Villefranche-sur-mer}
+- {name: Villelaure}
+- {name: Villeneuve}
+- {name: Villeneuve-loubet}
+- {name: Vinon-sur-verdon}
+- {name: Vins}
+- {name: Viol}
+- {name: Vitrolles}
+- {name: Volonne}
+- {name: Volx}

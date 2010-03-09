@@ -1,0 +1,768 @@
+- {name: Abbadia Lariana}
+- {name: Abbiategrasso}
+- {name: Adro}
+- {name: Agnadello}
+- {name: Agrate}
+- {name: Agrate Brianza}
+- {name: Agro}
+- {name: Airuno}
+- {name: Alagna}
+- {name: Albate}
+- {name: Albiate}
+- {name: Albino}
+- {name: Albizzate}
+- {name: Albonico}
+- {name: Albuzzano}
+- {name: Alm}
+- {name: Alzano Lombardo}
+- {name: Ameno}
+- {name: Angera}
+- {name: Angolo}
+- {name: Annone Di Brianza}
+- {name: Antea}
+- {name: Antegnate}
+- {name: Anzano Del Parco}
+- {name: Aprica}
+- {name: Arcene}
+- {name: Arconate}
+- {name: Arcore}
+- {name: Ardesio}
+- {name: Arena Po}
+- {name: Arese}
+- {name: Argine}
+- {name: Arluno}
+- {name: Armeno}
+- {name: Arona}
+- {name: Arosio}
+- {name: Arsago}
+- {name: Arsago Seprio}
+- {name: Artogne}
+- {name: Asola}
+- {name: Asso}
+- {name: Averara}
+- {name: Azzate}
+- {name: Azzone}
+- {name: B}
+- {name: Baggio}
+- {name: Bagini}
+- {name: Bagnolo Cremasco}
+- {name: Bagnolo Mella}
+- {name: Bagolino}
+- {name: Ballabio}
+- {name: Baranzate}
+- {name: Barbaiana}
+- {name: Bareggio}
+- {name: Barghe}
+- {name: Barlassina}
+- {name: Barni}
+- {name: Barzan}
+- {name: Barzana}
+- {name: Bassano}
+- {name: Bassano Bresciano}
+- {name: Baveno}
+- {name: Belgioioso}
+- {name: Bellagio}
+- {name: Bellano}
+- {name: Berbenno}
+- {name: Bereguardo}
+- {name: Bergamo}
+- {name: Berlingo}
+- {name: Besana}
+- {name: Besana Brianza}
+- {name: Besana In Brianza}
+- {name: Besano}
+- {name: Besate}
+- {name: Besnate}
+- {name: Besozzo}
+- {name: Beura}
+- {name: Biandronno}
+- {name: Biassono}
+- {name: Bienno}
+- {name: Binasco}
+- {name: Bindo}
+- {name: Bissone}
+- {name: Boario Terme}
+- {name: Bocca Di Croce}
+- {name: Bollate}
+- {name: Bordogna}
+- {name: Borghetto Lodigiano}
+- {name: Borgo Di Terzo}
+- {name: Borgo Ticino}
+- {name: Borgomanero}
+- {name: Borgone}
+- {name: Borgoratto}
+- {name: Borgosatollo}
+- {name: Bornasco}
+- {name: Borno}
+- {name: Bosisio Parini}
+- {name: Botta}
+- {name: Bottanuco}
+- {name: Botticino Sera}
+- {name: Bovezzo}
+- {name: Bovisio}
+- {name: Bovisio Masciago}
+- {name: Brebbia}
+- {name: Brembate}
+- {name: Brembilla}
+- {name: Brenna}
+- {name: Breno}
+- {name: Brescia}
+- {name: Bressana}
+- {name: Bressana Bottarone}
+- {name: Bresso}
+- {name: Briga Novarese}
+- {name: Brivio}
+- {name: Broni}
+- {name: Brugherio}
+- {name: Brunate}
+- {name: Bruzzano}
+- {name: Buglio In Monte}
+- {name: Busto Arsizio}
+- {name: Busto Garolfo}
+- {name: Cadimarco}
+- {name: Caglio}
+- {name: Cairate}
+- {name: Cal}
+- {name: Calcinate}
+- {name: Calcinato}
+- {name: Calcio}
+- {name: Calolziocorte}
+- {name: Calusco D'adda}
+- {name: Calvenzano}
+- {name: Calvisano}
+- {name: Cama}
+- {name: Cambiago}
+- {name: Camisano}
+- {name: Camparada}
+- {name: Campione}
+- {name: Candoglia}
+- {name: Canegrate}
+- {name: Canneto Pavese}
+- {name: Cannobio}
+- {name: Canova}
+- {name: Cant}
+- {name: Canzo}
+- {name: Capergnanica}
+- {name: Caprino}
+- {name: Caprino Bergamasco}
+- {name: Capriolo}
+- {name: Carate}
+- {name: Carate Brianza}
+- {name: Caravaggio}
+- {name: Caravate}
+- {name: Carella}
+- {name: Carimate}
+- {name: Carmine}
+- {name: Carnago}
+- {name: Carnate}
+- {name: Carona}
+- {name: Carpenedolo}
+- {name: Carpiano}
+- {name: Carugate}
+- {name: Carvico}
+- {name: Casalbuttano}
+- {name: Casale Corte Cerro}
+- {name: Casaletto Ceredano}
+- {name: Casalmaiocco}
+- {name: Casalmorano}
+- {name: Casalmoro}
+- {name: Casaloldo}
+- {name: Casalzuigno}
+- {name: Casarile}
+- {name: Casatenovo}
+- {name: Casatisma}
+- {name: Casazza}
+- {name: Casei Gerola}
+- {name: Caselle Lurani}
+- {name: Casirate D'adda}
+- {name: Casnigo}
+- {name: Casorate Primo}
+- {name: Casorate Sempione}
+- {name: Casorezzo}
+- {name: Cassano D'adda}
+- {name: Cassiglio}
+- {name: Casteggio}
+- {name: Castegnato}
+- {name: Castel Goffredo}
+- {name: Castel Mella}
+- {name: Castel San Giovanni}
+- {name: Castellanza}
+- {name: Castelleone}
+- {name: Castelletto Sopra Ticino}
+- {name: Castelli Calepio}
+- {name: Castelnuovo Scrivia}
+- {name: Castelseprio}
+- {name: Castenedolo}
+- {name: Castiglione Delle Stiviere}
+- {name: Castiglione Olona}
+- {name: Casto}
+- {name: Castronno}
+- {name: Cava Manara}
+- {name: Cavaria}
+- {name: Cavaria Con Premezzo}
+- {name: Cavenago Di Brianza}
+- {name: Cazzago San Martino}
+- {name: Cecino}
+- {name: Cedrasco}
+- {name: Cene}
+- {name: Cerete}
+- {name: Ceriano Laghetto}
+- {name: Cermenate}
+- {name: Cernobbio}
+- {name: Cernusco}
+- {name: Cernusco Sul Naviglio}
+- {name: Cerro Lago Maggiore}
+- {name: Cerro Maggiore}
+- {name: Cesano Maderno}
+- {name: Cesara}
+- {name: Chiari}
+- {name: Chiavenna}
+- {name: Chiesa In Valmalenco}
+- {name: Chioso}
+- {name: Chiuro}
+- {name: Cicogna}
+- {name: Cima}
+- {name: Cinisello}
+- {name: Cinisello Balsamo}
+- {name: Cirimido}
+- {name: Cisano Bergamasco}
+- {name: Ciserano}
+- {name: Cislago}
+- {name: Cisliano}
+- {name: Cittiglio}
+- {name: Cividate Al Piano}
+- {name: Cividate Camuno}
+- {name: Clanezzo}
+- {name: Clusane}
+- {name: Clusane Sul Lago}
+- {name: Clusone}
+- {name: Coccaglio}
+- {name: Cocquio Trevisago}
+- {name: Codevilla}
+- {name: Colere}
+- {name: Colico}
+- {name: Collio}
+- {name: Cologne}
+- {name: Cologno}
+- {name: Cologno Al Serio}
+- {name: Cologno Monzese}
+- {name: Colturano}
+- {name: Comazzo}
+- {name: Comerio}
+- {name: Como}
+- {name: Comun Nuovo}
+- {name: Concorezzo}
+- {name: Concorrezzo}
+- {name: Corana}
+- {name: Corbetta}
+- {name: Cormano}
+- {name: Corna}
+- {name: Cornalba}
+- {name: Cornale}
+- {name: Cornaredo}
+- {name: Cornate}
+- {name: Corsico}
+- {name: Corte Franca}
+- {name: Corteolona}
+- {name: Costa Di Mezzate}
+- {name: Costa Volpino}
+- {name: Covo}
+- {name: Crema}
+- {name: Cremeno}
+- {name: Crescenzago}
+- {name: Crespiatica}
+- {name: Crodo}
+- {name: Crugnola}
+- {name: Crusinallo}
+- {name: Cure}
+- {name: Curno}
+- {name: Cusano Milanino}
+- {name: Cusio}
+- {name: Dairago}
+- {name: Dalmine}
+- {name: Darfo}
+- {name: Delebio}
+- {name: Dello}
+- {name: Dervio}
+- {name: Desco}
+- {name: Desenzano}
+- {name: Desenzano Del Garda}
+- {name: Desio}
+- {name: Domaso}
+- {name: Domodossola}
+- {name: Dongo}
+- {name: Dorio}
+- {name: Dorno}
+- {name: Dovera}
+- {name: Dubino}
+- {name: Endine Gaiano}
+- {name: Erba}
+- {name: Esine}
+- {name: Faedo}
+- {name: Fagnano}
+- {name: Fagnano Olona}
+- {name: Fenile}
+- {name: Ferno}
+- {name: Ferrera Erbognone}
+- {name: Fiesse}
+- {name: Filighera}
+- {name: Fino}
+- {name: Fino Mornasco}
+- {name: Fleri}
+- {name: Flero}
+- {name: Fonti}
+- {name: Foppolo}
+- {name: Formazza}
+- {name: Fornovo San Giovanni}
+- {name: Frua}
+- {name: Fusine}
+- {name: Gaggiano}
+- {name: Galbiate}
+- {name: Gallarate}
+- {name: Gambara}
+- {name: Gambol}
+- {name: Gandino}
+- {name: Ganna}
+- {name: Garbagnate Milanese}
+- {name: Gardone Val Trompia}
+- {name: Garlasco}
+- {name: Gavardo}
+- {name: Gavirate}
+- {name: Gazzada}
+- {name: Gazzaniga}
+- {name: Gemonio}
+- {name: Genivolta}
+- {name: Gera}
+- {name: Gera Lario}
+- {name: Gerenzago}
+- {name: Gerola}
+- {name: Gerosa}
+- {name: Gessate}
+- {name: Ghedi}
+- {name: Ghiaie}
+- {name: Ghiffa}
+- {name: Ghisalba}
+- {name: Giussago}
+- {name: Giussano}
+- {name: Goglio}
+- {name: Golasecca}
+- {name: Gordona}
+- {name: Gorgonzola}
+- {name: Gorla Maggiore}
+- {name: Gorle}
+- {name: Gorno}
+- {name: Gottolengo}
+- {name: Gozzano}
+- {name: Gozzi}
+- {name: Grandate}
+- {name: Gravedona}
+- {name: Gravellona Toce}
+- {name: Griante}
+- {name: Gromo}
+- {name: Gropello Cairoli}
+- {name: Grumello Del Monte}
+- {name: Grumo}
+- {name: Guglielmo}
+- {name: Gussago}
+- {name: Idro}
+- {name: Il Forno}
+- {name: Induno Olona}
+- {name: Intra}
+- {name: Introbio}
+- {name: Inverigo}
+- {name: Inzago}
+- {name: Iseo}
+- {name: Ispra}
+- {name: Izano}
+- {name: La Pila}
+- {name: Lacchiarella}
+- {name: Laglio}
+- {name: Lainate}
+- {name: Lallio}
+- {name: Lambrate}
+- {name: Landriano}
+- {name: Lanzo}
+- {name: Lanzo D'intelvi}
+- {name: Lardirago}
+- {name: Lavena Ponte Tresa}
+- {name: Laveno}
+- {name: Laveno Mombello}
+- {name: Lavenone}
+- {name: Lecco}
+- {name: Leffe}
+- {name: Legnano}
+- {name: Lenna}
+- {name: Lenno}
+- {name: Leno}
+- {name: Lentate Sul Seveso}
+- {name: Lesa}
+- {name: Lezzeno}
+- {name: Lierna}
+- {name: Limbiate}
+- {name: Linate}
+- {name: Linate Al Lambro}
+- {name: Liscate}
+- {name: Lissone}
+- {name: Lizzola}
+- {name: Locate Di Triulzi}
+- {name: Locate Triulzi}
+- {name: Locate Varesino}
+- {name: Lodi}
+- {name: Lodi Vecchio}
+- {name: Lograto}
+- {name: Lomagna}
+- {name: Lomazzo}
+- {name: Lonate Ceppino}
+- {name: Lonato}
+- {name: Lovere}
+- {name: Lucino}
+- {name: Luino}
+- {name: Lungavilla}
+- {name: Lurago Marinone}
+- {name: Lurate Caccivio}
+- {name: Luzzana}
+- {name: Maccagno}
+- {name: Madesimo}
+- {name: Madignano}
+- {name: Magenta}
+- {name: Maggio}
+- {name: Magno}
+- {name: Mailand}
+- {name: Mairano}
+- {name: Malgrate}
+- {name: Malnate}
+- {name: Mandello}
+- {name: Mandello Del Lario}
+- {name: Manerbio}
+- {name: Mapello}
+- {name: Marcallo Con Casone}
+- {name: Marcheno}
+- {name: Mariano Comense}
+- {name: Marnate}
+- {name: Marone}
+- {name: Martinengo}
+- {name: Marzio}
+- {name: Masera}
+- {name: Masino}
+- {name: Maslianico}
+- {name: Meda}
+- {name: Medolago}
+- {name: Medole}
+- {name: Meina}
+- {name: Mele}
+- {name: Melegnanello}
+- {name: Melegnano}
+- {name: Mello}
+- {name: Melzo}
+- {name: Menaggio}
+- {name: Merate}
+- {name: Mese}
+- {name: Mezzanino}
+- {name: Mezzoldo}
+- {name: Milan}
+- {name: Milano}
+- {name: Miradolo Terme}
+- {name: Misinto}
+- {name: Missaglia}
+- {name: Molteno}
+- {name: Monaci}
+- {name: Moniga}
+- {name: Montanaso Lombardo}
+- {name: Monte Marenzo}
+- {name: Montecucco}
+- {name: Montichiari}
+- {name: Montodine}
+- {name: Monza}
+- {name: Morbegno}
+- {name: Morimondo}
+- {name: Mornago}
+- {name: Mortara}
+- {name: Mossini}
+- {name: Motta Visconti}
+- {name: Mozzanica}
+- {name: Mozzate}
+- {name: Muggi}
+- {name: Mura}
+- {name: Murata}
+- {name: Musso}
+- {name: Nave}
+- {name: Nembro}
+- {name: Nerviano}
+- {name: Nona}
+- {name: Nova Milanese}
+- {name: Novate}
+- {name: Novate Mezzola}
+- {name: Novate Milanese}
+- {name: Nozza}
+- {name: Nuvolento}
+- {name: Odolo}
+- {name: Offanengo}
+- {name: Oggiono}
+- {name: Olgiate Comasco}
+- {name: Olgiate Molgora}
+- {name: Olgiate Olona}
+- {name: Olginate}
+- {name: Olmeneta}
+- {name: Olmo}
+- {name: Oltre Il Colle}
+- {name: Omegna}
+- {name: Oneta}
+- {name: Onzato}
+- {name: Opera}
+- {name: Origgio}
+- {name: Orio Al Serio}
+- {name: Ornago}
+- {name: Ornavasso}
+- {name: Ornica}
+- {name: Orsenigo}
+- {name: Orta}
+- {name: Orzinuovi}
+- {name: Orzivecchi}
+- {name: Osmate}
+- {name: Osnago}
+- {name: Ossago}
+- {name: Ossona}
+- {name: Ostiano}
+- {name: Ottobiano}
+- {name: Ozzero}
+- {name: Padenghe}
+- {name: Padenghe Sul Garda}
+- {name: Paderno Dugnano}
+- {name: Paderno Franciacorta}
+- {name: Paini}
+- {name: Palazzolo}
+- {name: Pallanza}
+- {name: Pallanzeno}
+- {name: Palosco}
+- {name: Pandino}
+- {name: Pantigliate}
+- {name: Parabiago}
+- {name: Paratico}
+- {name: Parre}
+- {name: Paruzzaro}
+- {name: Passirano}
+- {name: Passo}
+- {name: Paullo}
+- {name: Pavia}
+- {name: Pavone}
+- {name: Pavone Del Mella}
+- {name: Peghera}
+- {name: Pella}
+- {name: Peschiera}
+- {name: Pian Camuno}
+- {name: Pianca}
+- {name: Piancogno}
+- {name: Piantedo}
+- {name: Piazza Brembana}
+- {name: Piedimulera}
+- {name: Pietro}
+- {name: Pieve Porto Morone}
+- {name: Pieve Vergonte}
+- {name: Pigra}
+- {name: Pioltello}
+- {name: Pisogne}
+- {name: Piuro}
+- {name: Poggiridenti}
+- {name: Pogliano Milanese}
+- {name: Pogno}
+- {name: Pompiano}
+- {name: Poncarale}
+- {name: Ponte Chiasso}
+- {name: Ponte Lambro}
+- {name: Ponte Nossa}
+- {name: Ponte San Pietro}
+- {name: Pontevico}
+- {name: Pontida}
+- {name: Porlezza}
+- {name: Porta}
+- {name: Portalbera}
+- {name: Porto Ceresio}
+- {name: Porto Valtravaglia}
+- {name: Postalesio}
+- {name: Pralboino}
+- {name: Prata Camportaccio}
+- {name: Premana}
+- {name: Premeno}
+- {name: Premosello}
+- {name: Premosello Chiovenda}
+- {name: Pumenengo}
+- {name: Pusiano}
+- {name: Quarona}
+- {name: Quinzano D'oglio}
+- {name: Rancio Valcuvia}
+- {name: Rescaldina}
+- {name: Retorbido}
+- {name: Rezzato}
+- {name: Rezzonico}
+- {name: Rho}
+- {name: Ripalta Cremasca}
+- {name: Rivolta}
+- {name: Robbiate}
+- {name: Robecco}
+- {name: Robecco D'oglio}
+- {name: Robecco Sul Naviglio}
+- {name: Roccafranca}
+- {name: Rodano}
+- {name: Rogolo}
+- {name: Romanengo}
+- {name: Romano Di Lombardia}
+- {name: Rosate}
+- {name: Rovagnate}
+- {name: Rovato}
+- {name: Rovellasca}
+- {name: Rovello Porro}
+- {name: Rovetta}
+- {name: Rozzano}
+- {name: Rudiano}
+- {name: Sabbia}
+- {name: Sabbio Chiese}
+- {name: Sal}
+- {name: Sale Marasino}
+- {name: Samarate}
+- {name: San Donato Milanese}
+- {name: San Fedele}
+- {name: San Giuliano Milanese}
+- {name: San Pellegrino Terme}
+- {name: Santa}
+- {name: Santa Brigida}
+- {name: Santo Stefano Ticino}
+- {name: Sarezzo}
+- {name: Sarnico}
+- {name: Saronno}
+- {name: Schianno}
+- {name: Schilpario}
+- {name: Secugnago}
+- {name: Sedriano}
+- {name: Segrate}
+- {name: Selvino}
+- {name: Senago}
+- {name: Seniga}
+- {name: Seregno}
+- {name: Sergnano}
+- {name: Seriate}
+- {name: Serina}
+- {name: Serio}
+- {name: Sesto Calende}
+- {name: Sesto San Giovanni}
+- {name: Seveso}
+- {name: Silvano Pietra}
+- {name: Siziano}
+- {name: Solbiate Arno}
+- {name: Solbiate Olona}
+- {name: Solto Collina}
+- {name: Somma}
+- {name: Somma Lombardo}
+- {name: Soncino}
+- {name: Sondrio}
+- {name: Soresina}
+- {name: Sorisole}
+- {name: Sormano}
+- {name: Sotto Il Monte}
+- {name: Sovere}
+- {name: Spino D'adda}
+- {name: Spirano}
+- {name: Stezzano}
+- {name: Stradella}
+- {name: Stresa}
+- {name: Sumirago}
+- {name: Taceno}
+- {name: Taino}
+- {name: Tavazzano}
+- {name: Tavernola}
+- {name: Tavernola Bergamasca}
+- {name: Tavernole Sul Mella}
+- {name: Teglio}
+- {name: Telgate}
+- {name: Ternate}
+- {name: Torbole}
+- {name: Torno}
+- {name: Torrazza Coste}
+- {name: Torre Boldone}
+- {name: Torre D'isola}
+- {name: Tradate}
+- {name: Trarego}
+- {name: Travagliato}
+- {name: Travedona}
+- {name: Tremezzo}
+- {name: Trescore}
+- {name: Trescore Balneario}
+- {name: Trescore Cremasco}
+- {name: Treviglio}
+- {name: Trezzano Sul Naviglio}
+- {name: Trezzo}
+- {name: Tribiano}
+- {name: Triuggio}
+- {name: Tromello}
+- {name: Trucazzano}
+- {name: Truccazzano}
+- {name: Uggiate}
+- {name: Urgnano}
+- {name: Usmate}
+- {name: Usmate Velate}
+- {name: Vailate}
+- {name: Vairano}
+- {name: Valbondione}
+- {name: Valduggia}
+- {name: Valeggio}
+- {name: Valentino}
+- {name: Valganna}
+- {name: Valmadrera}
+- {name: Valnegra}
+- {name: Valtorta}
+- {name: Vanzago}
+- {name: Vaprio}
+- {name: Varallo}
+- {name: Varallo Pombia}
+- {name: Varedo}
+- {name: Varenna}
+- {name: Varese}
+- {name: Varzo}
+- {name: Vassena}
+- {name: Vedano Olona}
+- {name: Vedeseta}
+- {name: Veleso}
+- {name: Vellezzo Bellini}
+- {name: Venegono}
+- {name: Venegono Inferiore}
+- {name: Venegono Superiore}
+- {name: Vercurago}
+- {name: Verdello}
+- {name: Vergano}
+- {name: Vergiate}
+- {name: Vermezzo}
+- {name: Vernate}
+- {name: Verolanuova}
+- {name: Verolavecchia}
+- {name: Vertemate}
+- {name: Vertova}
+- {name: Vestone}
+- {name: Vidigulfo}
+- {name: Vigevano}
+- {name: Viggi}
+- {name: Vignate}
+- {name: Villa Cortese}
+- {name: Villa Di Serio}
+- {name: Villa Guardia}
+- {name: Villachiara}
+- {name: Villadossola}
+- {name: Villanterio}
+- {name: Villanuova Sul Clisi}
+- {name: Villasanta}
+- {name: Villavesco}
+- {name: Vimercate}
+- {name: Vimodrone}
+- {name: Visano}
+- {name: Vittuone}
+- {name: Vobarno}
+- {name: Voga}
+- {name: Voghera}
+- {name: Vogogna}
+- {name: Zandobbio}
+- {name: Zanica}
+- {name: Zelo Buon Persico}
+- {name: Zerbo}
+- {name: Ziano}
+- {name: Ziano Piacentino}
+- {name: Zibido}
+- {name: Zibido San Giacomo}
+- {name: Zogno}

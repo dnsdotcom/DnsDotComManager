@@ -1,4 +1,1 @@
-- cities:
-  - {name: Bujumbura}
-  code: '02'
-  name: Bujumbura
+- {code: '02', name: Bujumbura}

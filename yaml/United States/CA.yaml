@@ -1,0 +1,1073 @@
+- {name: Acampo}
+- {name: Acton}
+- {name: Adelanto}
+- {name: Agoura Hills}
+- {name: Aguanga}
+- {name: Ahwahnee}
+- {name: Alameda}
+- {name: Alamo}
+- {name: Albany}
+- {name: Albion}
+- {name: Alhambra}
+- {name: Aliso Viejo}
+- {name: Alpaugh}
+- {name: Alpine}
+- {name: Alta}
+- {name: Altadena}
+- {name: Altaville}
+- {name: Alturas}
+- {name: Alviso}
+- {name: Amador City}
+- {name: American Canyon}
+- {name: Anaheim}
+- {name: Anderson}
+- {name: Angels Camp}
+- {name: Angelus Oaks}
+- {name: Angwin}
+- {name: Antelope}
+- {name: Antioch}
+- {name: Anza}
+- {name: Apple Valley}
+- {name: Applegate}
+- {name: Aptos}
+- {name: Arbuckle}
+- {name: Arcadia}
+- {name: Arcata}
+- {name: Armona}
+- {name: Arnold}
+- {name: Aromas}
+- {name: Arroyo Grande}
+- {name: Artesia}
+- {name: Artois}
+- {name: Arvin}
+- {name: Atascadero}
+- {name: Atherton}
+- {name: Atwater}
+- {name: Atwood}
+- {name: Auberry}
+- {name: Auburn}
+- {name: Avalon}
+- {name: Avenal}
+- {name: Avery}
+- {name: Avila Beach}
+- {name: Azusa}
+- {name: Bakersfield}
+- {name: Baldwin Park}
+- {name: Bangor}
+- {name: Banning}
+- {name: Bard}
+- {name: Barstow}
+- {name: Bayside}
+- {name: Beale Afb}
+- {name: Beaumont}
+- {name: Bell}
+- {name: Bell Gardens}
+- {name: Bella Vista}
+- {name: Bellflower}
+- {name: Belmont}
+- {name: Belvedere Tiburon}
+- {name: Ben Lomond}
+- {name: Benicia}
+- {name: Berkeley}
+- {name: Berry Creek}
+- {name: Bethel Island}
+- {name: Beverly Hills}
+- {name: Bieber}
+- {name: Big Bear City}
+- {name: Big Bear Lake}
+- {name: Big Creek}
+- {name: Big Pine}
+- {name: Big Sur}
+- {name: Biggs}
+- {name: Biola}
+- {name: Birds Landing}
+- {name: Bishop}
+- {name: Blairsden-graeagle}
+- {name: Blocksburg}
+- {name: Bloomington}
+- {name: Blue Jay}
+- {name: Blue Lake}
+- {name: Blythe}
+- {name: Bodega}
+- {name: Bodega Bay}
+- {name: Bodfish}
+- {name: Bolinas}
+- {name: Bonita}
+- {name: Bonsall}
+- {name: Boonville}
+- {name: Boron}
+- {name: Borrego Springs}
+- {name: Boulder Creek}
+- {name: Boulevard}
+- {name: Boyes Hot Springs}
+- {name: Brawley}
+- {name: Brea}
+- {name: Brentwood}
+- {name: Bridgeport}
+- {name: Bridgeville}
+- {name: Brisbane}
+- {name: Brookdale}
+- {name: Brooks}
+- {name: Browns Valley}
+- {name: Brownsville}
+- {name: Bryn Mawr}
+- {name: Buellton}
+- {name: Buena Park}
+- {name: Burbank}
+- {name: Burlingame}
+- {name: Burney}
+- {name: Burrel}
+- {name: Buttonwillow}
+- {name: Byron}
+- {name: Cabazon}
+- {name: Calabasas}
+- {name: Calexico}
+- {name: Caliente}
+- {name: California City}
+- {name: California Hot Springs}
+- {name: Calimesa}
+- {name: Calipatria}
+- {name: Calistoga}
+- {name: Calpella}
+- {name: Camarillo}
+- {name: Cambria}
+- {name: Camino}
+- {name: Camp Pendleton}
+- {name: Campbell}
+- {name: Campo}
+- {name: Camptonville}
+- {name: Canby}
+- {name: Canoga Park}
+- {name: Cantil}
+- {name: Canyon}
+- {name: Canyon Country}
+- {name: Capay}
+- {name: Capistrano Beach}
+- {name: Capitola}
+- {name: Cardiff By The Sea}
+- {name: Carlsbad}
+- {name: Carmel}
+- {name: Carmel By The Sea}
+- {name: Carmel Valley}
+- {name: Carmichael}
+- {name: Carnelian Bay}
+- {name: Carpinteria}
+- {name: Carson}
+- {name: Caruthers}
+- {name: Caspar}
+- {name: Castaic}
+- {name: Castro Valley}
+- {name: Castroville}
+- {name: Cathedral City}
+- {name: Catheys Valley}
+- {name: Cayucos}
+- {name: Cazadero}
+- {name: Cedar Glen}
+- {name: Cedar Ridge}
+- {name: Cedarpines Park}
+- {name: Cedarville}
+- {name: Ceres}
+- {name: Cerritos}
+- {name: Chatsworth}
+- {name: Chester}
+- {name: Chicago Park}
+- {name: Chico}
+- {name: Chilcoot}
+- {name: Chinese Camp}
+- {name: Chino}
+- {name: Chino Hills}
+- {name: Chowchilla}
+- {name: Chualar}
+- {name: Chula Vista}
+- {name: Citrus Heights}
+- {name: City Of Industry}
+- {name: Claremont}
+- {name: Clarksburg}
+- {name: Clayton}
+- {name: Clearlake}
+- {name: Clearlake Oaks}
+- {name: Clearlake Park}
+- {name: Clements}
+- {name: Cloverdale}
+- {name: Clovis}
+- {name: Coachella}
+- {name: Coalinga}
+- {name: Coarsegold}
+- {name: Cobb}
+- {name: Coleville}
+- {name: Colfax}
+- {name: Coloma}
+- {name: Colton}
+- {name: Columbia}
+- {name: Colusa}
+- {name: Compton}
+- {name: Concord}
+- {name: Cool}
+- {name: Copperopolis}
+- {name: Corcoran}
+- {name: Corning}
+- {name: Corona}
+- {name: Corona Del Mar}
+- {name: Coronado}
+- {name: Corte Madera}
+- {name: Costa Mesa}
+- {name: Cotati}
+- {name: Cottonwood}
+- {name: Coulterville}
+- {name: Courtland}
+- {name: Covelo}
+- {name: Covina}
+- {name: Coyote}
+- {name: Crescent City}
+- {name: Crescent Mills}
+- {name: Crest Park}
+- {name: Crestline}
+- {name: Creston}
+- {name: Crockett}
+- {name: Crows Landing}
+- {name: Culver City}
+- {name: Cupertino}
+- {name: Cutler}
+- {name: Cypress}
+- {name: Daggett}
+- {name: Daly City}
+- {name: Dana Point}
+- {name: Danville}
+- {name: Davenport}
+- {name: Davis}
+- {name: Deer Park}
+- {name: Del Mar}
+- {name: Del Rey}
+- {name: Delano}
+- {name: Delhi}
+- {name: Denair}
+- {name: Descanso}
+- {name: Desert Hot Springs}
+- {name: Diablo}
+- {name: Diamond Bar}
+- {name: Diamond Springs}
+- {name: Dillon Beach}
+- {name: Dinuba}
+- {name: Dixon}
+- {name: Dobbins}
+- {name: Dorris}
+- {name: Dos Palos}
+- {name: Dos Rios}
+- {name: Douglas City}
+- {name: Downey}
+- {name: Downieville}
+- {name: Drytown}
+- {name: Duarte}
+- {name: Dublin}
+- {name: Ducor}
+- {name: Dulzura}
+- {name: Dunlap}
+- {name: Dunnigan}
+- {name: Dunsmuir}
+- {name: Durham}
+- {name: Dutch Flat}
+- {name: Eagleville}
+- {name: Earlimart}
+- {name: Earp}
+- {name: East Irvine}
+- {name: Edison}
+- {name: Edwards}
+- {name: El Cajon}
+- {name: El Centro}
+- {name: El Cerrito}
+- {name: El Dorado}
+- {name: El Dorado Hills}
+- {name: El Granada}
+- {name: El Monte}
+- {name: El Nido}
+- {name: El Portal}
+- {name: El Segundo}
+- {name: El Sobrante}
+- {name: El Toro}
+- {name: El Verano}
+- {name: Eldridge}
+- {name: Elk}
+- {name: Elk Grove}
+- {name: Elmira}
+- {name: Elverta}
+- {name: Emeryville}
+- {name: Emigrant Gap}
+- {name: Empire}
+- {name: Encinitas}
+- {name: Encino}
+- {name: Escalon}
+- {name: Escondido}
+- {name: Esparto}
+- {name: Etna}
+- {name: Eureka}
+- {name: Exeter}
+- {name: Fair Oaks}
+- {name: Fairfax}
+- {name: Fairfield}
+- {name: Fall River Mills}
+- {name: Fallbrook}
+- {name: Farmersville}
+- {name: Farmington}
+- {name: Fawnskin}
+- {name: Fellows}
+- {name: Felton}
+- {name: Ferndale}
+- {name: Fiddletown}
+- {name: Fillmore}
+- {name: Finley}
+- {name: Firebaugh}
+- {name: Fish Camp}
+- {name: Five Points}
+- {name: Floriston}
+- {name: Folsom}
+- {name: Fontana}
+- {name: Foothill Ranch}
+- {name: Forbestown}
+- {name: Forest Falls}
+- {name: Forest Knolls}
+- {name: Forest Ranch}
+- {name: Foresthill}
+- {name: Forestville}
+- {name: Forks Of Salmon}
+- {name: Fort Bidwell}
+- {name: Fort Bragg}
+- {name: Fort Dick}
+- {name: Fort Irwin}
+- {name: Fort Jones}
+- {name: Fortuna}
+- {name: Fountain Valley}
+- {name: Fowler}
+- {name: Frazier Park}
+- {name: Freedom}
+- {name: Fremont}
+- {name: French Camp}
+- {name: French Gulch}
+- {name: Fresno}
+- {name: Friant}
+- {name: Fullerton}
+- {name: Galt}
+- {name: Garberville}
+- {name: Garden Grove}
+- {name: Garden Valley}
+- {name: Gardena}
+- {name: Georgetown}
+- {name: Gerber}
+- {name: Geyserville}
+- {name: Gilroy}
+- {name: Glen Ellen}
+- {name: Glendale}
+- {name: Glendora}
+- {name: Glenn}
+- {name: Glennville}
+- {name: Gold Run}
+- {name: Goleta}
+- {name: Gonzales}
+- {name: Goshen}
+- {name: Granada Hills}
+- {name: Grand Terrace}
+- {name: Granite Bay}
+- {name: Grass Valley}
+- {name: Graton}
+- {name: Green Valley Lake}
+- {name: Greenbrae}
+- {name: Greenfield}
+- {name: Greenville}
+- {name: Greenwood}
+- {name: Gridley}
+- {name: Grimes}
+- {name: Grizzly Flats}
+- {name: Groveland}
+- {name: Grover Beach}
+- {name: Guadalupe}
+- {name: Gualala}
+- {name: Guasti}
+- {name: Guerneville}
+- {name: Guinda}
+- {name: Gustine}
+- {name: Hacienda Heights}
+- {name: Half Moon Bay}
+- {name: Hanford}
+- {name: Happy Camp}
+- {name: Harbor City}
+- {name: Hat Creek}
+- {name: Hathaway Pines}
+- {name: Hawaiian Gardens}
+- {name: Hawthorne}
+- {name: Hayfork}
+- {name: Hayward}
+- {name: Healdsburg}
+- {name: Heber}
+- {name: Helendale}
+- {name: Hemet}
+- {name: Herald}
+- {name: Hercules}
+- {name: Herlong}
+- {name: Hermosa Beach}
+- {name: Hesperia}
+- {name: Hickman}
+- {name: Hidden Valley Lake}
+- {name: Highland}
+- {name: Hilmar}
+- {name: Hinkley}
+- {name: Hollister}
+- {name: Holt}
+- {name: Holtville}
+- {name: Holy City}
+- {name: Homeland}
+- {name: Hoopa}
+- {name: Hopland}
+- {name: Hornitos}
+- {name: Hughson}
+- {name: Hume}
+- {name: Huntington Beach}
+- {name: Huntington Park}
+- {name: Huron}
+- {name: Hyampom}
+- {name: Hydesville}
+- {name: Idyllwild}
+- {name: Igo}
+- {name: Imperial}
+- {name: Imperial Beach}
+- {name: Independence}
+- {name: Indian Wells}
+- {name: Indio}
+- {name: Inglewood}
+- {name: Inverness}
+- {name: Inyokern}
+- {name: Ione}
+- {name: Irvine}
+- {name: Isleton}
+- {name: Ivanhoe}
+- {name: Jackson}
+- {name: Jacumba}
+- {name: Jamestown}
+- {name: Jamul}
+- {name: Janesville}
+- {name: Jenner}
+- {name: Jolon}
+- {name: Joshua Tree}
+- {name: Julian}
+- {name: June Lake}
+- {name: Keene}
+- {name: Kelseyville}
+- {name: Kentfield}
+- {name: Kenwood}
+- {name: Kerman}
+- {name: Kernville}
+- {name: Kettleman City}
+- {name: Keyes}
+- {name: King City}
+- {name: Kings Beach}
+- {name: Kings Canyon National Pk}
+- {name: Kingsburg}
+- {name: Klamath}
+- {name: Klamath River}
+- {name: Knights Landing}
+- {name: Knightsen}
+- {name: Korbel}
+- {name: Kyburz}
+- {name: La Canada Flintridge}
+- {name: La Crescenta}
+- {name: La Grange}
+- {name: La Habra}
+- {name: La Honda}
+- {name: La Jolla}
+- {name: La Mesa}
+- {name: La Mirada}
+- {name: La Palma}
+- {name: La Puente}
+- {name: La Quinta}
+- {name: La Verne}
+- {name: Ladera Ranch}
+- {name: Lafayette}
+- {name: Laguna Beach}
+- {name: Laguna Hills}
+- {name: Laguna Niguel}
+- {name: Laguna Woods}
+- {name: Lake Arrowhead}
+- {name: Lake Elsinore}
+- {name: Lake Forest}
+- {name: Lake Hughes}
+- {name: Lake Isabella}
+- {name: Lakehead}
+- {name: Lakeport}
+- {name: Lakeside}
+- {name: Lakewood}
+- {name: Lamont}
+- {name: Lancaster}
+- {name: Landers}
+- {name: Larkspur}
+- {name: Lathrop}
+- {name: Laton}
+- {name: Lawndale}
+- {name: Laytonville}
+- {name: Le Grand}
+- {name: Lebec}
+- {name: Lee Vining}
+- {name: Lemon Cove}
+- {name: Lemon Grove}
+- {name: Lemoore}
+- {name: Lewiston}
+- {name: Lincoln}
+- {name: Linden}
+- {name: Lindsay}
+- {name: Litchfield}
+- {name: Littleriver}
+- {name: Littlerock}
+- {name: Live Oak}
+- {name: Livermore}
+- {name: Livingston}
+- {name: Llano}
+- {name: Lockeford}
+- {name: Lockwood}
+- {name: Lodi}
+- {name: Loma Linda}
+- {name: Lomita}
+- {name: Lompoc}
+- {name: Lone Pine}
+- {name: Long Barn}
+- {name: Long Beach}
+- {name: Loomis}
+- {name: Los Alamitos}
+- {name: Los Altos}
+- {name: Los Angeles}
+- {name: Los Banos}
+- {name: Los Gatos}
+- {name: Los Molinos}
+- {name: Los Olivos}
+- {name: Los Osos}
+- {name: Lotus}
+- {name: Lower Lake}
+- {name: Loyalton}
+- {name: Lucerne}
+- {name: Lucerne Valley}
+- {name: Ludlow}
+- {name: Lynwood}
+- {name: Lytle Creek}
+- {name: Madera}
+- {name: Madison}
+- {name: Magalia}
+- {name: Malibu}
+- {name: Mammoth Lakes}
+- {name: Manhattan Beach}
+- {name: Manteca}
+- {name: March Air Reserve Base}
+- {name: Maricopa}
+- {name: Marina}
+- {name: Marina Del Rey}
+- {name: Mariposa}
+- {name: Markleeville}
+- {name: Marshall}
+- {name: Martell}
+- {name: Martinez}
+- {name: Marysville}
+- {name: Mather}
+- {name: Maxwell}
+- {name: Maywood}
+- {name: Mc Farland}
+- {name: Mc Kittrick}
+- {name: Mcclellan}
+- {name: Mccloud}
+- {name: Mckinleyville}
+- {name: Meadow Valley}
+- {name: Meadow Vista}
+- {name: Mecca}
+- {name: Mendocino}
+- {name: Mendota}
+- {name: Menifee}
+- {name: Menlo Park}
+- {name: Mentone}
+- {name: Merced}
+- {name: Meridian}
+- {name: Mi Wuk Village}
+- {name: Middletown}
+- {name: Midpines}
+- {name: Midway City}
+- {name: Mill Creek}
+- {name: Mill Valley}
+- {name: Millbrae}
+- {name: Millville}
+- {name: Milpitas}
+- {name: Mineral}
+- {name: Mira Loma}
+- {name: Miramonte}
+- {name: Miranda}
+- {name: Mission Hills}
+- {name: Mission Viejo}
+- {name: Moccasin}
+- {name: Modesto}
+- {name: Mojave}
+- {name: Mokelumne Hill}
+- {name: Mono Hot Springs}
+- {name: Monrovia}
+- {name: Montague}
+- {name: Montara}
+- {name: Montclair}
+- {name: Monte Rio}
+- {name: Montebello}
+- {name: Monterey}
+- {name: Monterey Park}
+- {name: Montrose}
+- {name: Moorpark}
+- {name: Moraga}
+- {name: Moreno Valley}
+- {name: Morgan Hill}
+- {name: Morongo Valley}
+- {name: Morro Bay}
+- {name: Moss Beach}
+- {name: Moss Landing}
+- {name: Mount Aukum}
+- {name: Mount Hamilton}
+- {name: Mount Hermon}
+- {name: Mount Laguna}
+- {name: Mount Shasta}
+- {name: Mount Wilson}
+- {name: Mountain Center}
+- {name: Mountain Ranch}
+- {name: Mountain View}
+- {name: Mt Baldy}
+- {name: Murphys}
+- {name: Murrieta}
+- {name: Napa}
+- {name: National City}
+- {name: Needles}
+- {name: Nevada City}
+- {name: New Cuyama}
+- {name: Newark}
+- {name: Newberry Springs}
+- {name: Newbury Park}
+- {name: Newcastle}
+- {name: Newhall}
+- {name: Newman}
+- {name: Newport Beach}
+- {name: Newport Coast}
+- {name: Nicasio}
+- {name: Nice}
+- {name: Nicolaus}
+- {name: Niland}
+- {name: Nipomo}
+- {name: Norco}
+- {name: Norden}
+- {name: North Fork}
+- {name: North Highlands}
+- {name: North Hills}
+- {name: North Hollywood}
+- {name: North Palm Springs}
+- {name: North San Juan}
+- {name: Northridge}
+- {name: Norwalk}
+- {name: Novato}
+- {name: Nuevo}
+- {name: O Neals}
+- {name: Oak Park}
+- {name: Oak Run}
+- {name: Oak View}
+- {name: Oakdale}
+- {name: Oakhurst}
+- {name: Oakland}
+- {name: Oakley}
+- {name: Oakville}
+- {name: Occidental}
+- {name: Oceano}
+- {name: Oceanside}
+- {name: Ojai}
+- {name: Olancha}
+- {name: Old Station}
+- {name: Olivehurst}
+- {name: Olympic Valley}
+- {name: Ontario}
+- {name: Orange}
+- {name: Orange Cove}
+- {name: Orangevale}
+- {name: Oregon House}
+- {name: Orick}
+- {name: Orinda}
+- {name: Orland}
+- {name: Oro Grande}
+- {name: Orosi}
+- {name: Oroville}
+- {name: Oxnard}
+- {name: Pacific Grove}
+- {name: Pacific Palisades}
+- {name: Pacifica}
+- {name: Pacoima}
+- {name: Paicines}
+- {name: Pala}
+- {name: Palermo}
+- {name: Palm Desert}
+- {name: Palm Springs}
+- {name: Palmdale}
+- {name: Palo Alto}
+- {name: Palo Cedro}
+- {name: Palomar Mountain}
+- {name: Palos Verdes Peninsula}
+- {name: Panorama City}
+- {name: Paradise}
+- {name: Paramount}
+- {name: Parlier}
+- {name: Pasadena}
+- {name: Paso Robles}
+- {name: Patterson}
+- {name: Patton}
+- {name: Pauma Valley}
+- {name: Pearblossom}
+- {name: Pebble Beach}
+- {name: Penn Valley}
+- {name: Penngrove}
+- {name: Penryn}
+- {name: Perris}
+- {name: Pescadero}
+- {name: Petaluma}
+- {name: Petrolia}
+- {name: Phelan}
+- {name: Philo}
+- {name: Pico Rivera}
+- {name: Piedmont}
+- {name: Piedra}
+- {name: Pilot Hill}
+- {name: Pine Grove}
+- {name: Pine Valley}
+- {name: Pinole}
+- {name: Pinon Hills}
+- {name: Pioneer}
+- {name: Pioneertown}
+- {name: Piru}
+- {name: Pismo Beach}
+- {name: Pittsburg}
+- {name: Pixley}
+- {name: Placentia}
+- {name: Placerville}
+- {name: Planada}
+- {name: Platina}
+- {name: Playa Del Rey}
+- {name: Pleasant Hill}
+- {name: Pleasanton}
+- {name: Plymouth}
+- {name: Point Arena}
+- {name: Point Mugu Nawc}
+- {name: Point Reyes Station}
+- {name: Pollock Pines}
+- {name: Pomona}
+- {name: Pope Valley}
+- {name: Port Costa}
+- {name: Port Hueneme}
+- {name: Port Hueneme Cbc Base}
+- {name: Porterville}
+- {name: Portola}
+- {name: Portola Valley}
+- {name: Potrero}
+- {name: Potter Valley}
+- {name: Poway}
+- {name: Prather}
+- {name: Princeton}
+- {name: Quincy}
+- {name: Rackerby}
+- {name: Raisin City}
+- {name: Ramona}
+- {name: Ranchita}
+- {name: Rancho Cordova}
+- {name: Rancho Cucamonga}
+- {name: Rancho Mirage}
+- {name: Rancho Palos Verdes}
+- {name: Rancho Santa Fe}
+- {name: Rancho Santa Margarita}
+- {name: Ravendale}
+- {name: Raymond}
+- {name: Red Bluff}
+- {name: Redding}
+- {name: Redlands}
+- {name: Redondo Beach}
+- {name: Redway}
+- {name: Redwood City}
+- {name: Redwood Estates}
+- {name: Redwood Valley}
+- {name: Reedley}
+- {name: Represa}
+- {name: Rescue}
+- {name: Reseda}
+- {name: Rialto}
+- {name: Richgrove}
+- {name: Richmond}
+- {name: Richvale}
+- {name: Ridgecrest}
+- {name: Rio Dell}
+- {name: Rio Linda}
+- {name: Rio Oso}
+- {name: Rio Vista}
+- {name: Ripon}
+- {name: Riverbank}
+- {name: Riverdale}
+- {name: Riverside}
+- {name: Robbins}
+- {name: Rocklin}
+- {name: Rodeo}
+- {name: Rohnert Park}
+- {name: Rosamond}
+- {name: Rosemead}
+- {name: Roseville}
+- {name: Ross}
+- {name: Rough And Ready}
+- {name: Rowland Heights}
+- {name: Running Springs}
+- {name: Rutherford}
+- {name: Sacramento}
+- {name: Saint Helena}
+- {name: Salida}
+- {name: Salinas}
+- {name: Salton City}
+- {name: Salyer}
+- {name: Samoa}
+- {name: San Andreas}
+- {name: San Anselmo}
+- {name: San Ardo}
+- {name: San Bernardino}
+- {name: San Bruno}
+- {name: San Carlos}
+- {name: San Clemente}
+- {name: San Diego}
+- {name: San Dimas}
+- {name: San Fernando}
+- {name: San Francisco}
+- {name: San Gabriel}
+- {name: San Geronimo}
+- {name: San Gregorio}
+- {name: San Jacinto}
+- {name: San Joaquin}
+- {name: San Jose}
+- {name: San Juan Bautista}
+- {name: San Juan Capistrano}
+- {name: San Leandro}
+- {name: San Lorenzo}
+- {name: San Luis Obispo}
+- {name: San Luis Rey}
+- {name: San Marcos}
+- {name: San Marino}
+- {name: San Martin}
+- {name: San Mateo}
+- {name: San Miguel}
+- {name: San Pablo}
+- {name: San Pedro}
+- {name: San Quentin}
+- {name: San Rafael}
+- {name: San Ramon}
+- {name: San Simeon}
+- {name: San Ysidro}
+- {name: Sanger}
+- {name: Santa Ana}
+- {name: Santa Barbara}
+- {name: Santa Clara}
+- {name: Santa Clarita}
+- {name: Santa Cruz}
+- {name: Santa Fe Springs}
+- {name: Santa Margarita}
+- {name: Santa Maria}
+- {name: Santa Monica}
+- {name: Santa Paula}
+- {name: Santa Rosa}
+- {name: Santa Ynez}
+- {name: Santa Ysabel}
+- {name: Santee}
+- {name: Saratoga}
+- {name: Sausalito}
+- {name: Scotia}
+- {name: Scotts Valley}
+- {name: Seal Beach}
+- {name: Seaside}
+- {name: Sebastopol}
+- {name: Seeley}
+- {name: Selma}
+- {name: Sequoia National Park}
+- {name: Shafter}
+- {name: Shandon}
+- {name: Shasta Lake}
+- {name: Sheridan}
+- {name: Sherman Oaks}
+- {name: Shingle Springs}
+- {name: Shingletown}
+- {name: Sierra Madre}
+- {name: Sierraville}
+- {name: Signal Hill}
+- {name: Silverado}
+- {name: Simi Valley}
+- {name: Sloughhouse}
+- {name: Smartville}
+- {name: Smith River}
+- {name: Snelling}
+- {name: Soda Springs}
+- {name: Solana Beach}
+- {name: Soledad}
+- {name: Solvang}
+- {name: Somerset}
+- {name: Somes Bar}
+- {name: Somis}
+- {name: Sonoma}
+- {name: Sonora}
+- {name: Soquel}
+- {name: Soulsbyville}
+- {name: South El Monte}
+- {name: South Gate}
+- {name: South Lake Tahoe}
+- {name: South Pasadena}
+- {name: South San Francisco}
+- {name: Spreckels}
+- {name: Spring Valley}
+- {name: Springville}
+- {name: Squaw Valley}
+- {name: Standard}
+- {name: Stanford}
+- {name: Stanton}
+- {name: Stevenson Ranch}
+- {name: Stevinson}
+- {name: Stinson Beach}
+- {name: Stockton}
+- {name: Stonyford}
+- {name: Storrie}
+- {name: Stratford}
+- {name: Strathmore}
+- {name: Strawberry}
+- {name: Strawberry Valley}
+- {name: Studio City}
+- {name: Sugarloaf}
+- {name: Suisun City}
+- {name: Sultana}
+- {name: Summerland}
+- {name: Sun City}
+- {name: Sun Valley}
+- {name: Sunland}
+- {name: Sunnyvale}
+- {name: Sunol}
+- {name: Sunset Beach}
+- {name: Surfside}
+- {name: Susanville}
+- {name: Sutter}
+- {name: Sutter Creek}
+- {name: Sylmar}
+- {name: Taft}
+- {name: Tahoe City}
+- {name: Tahoe Vista}
+- {name: Tahoma}
+- {name: Tarzana}
+- {name: Taylorsville}
+- {name: Tecate}
+- {name: Tecopa}
+- {name: Tehachapi}
+- {name: Tehama}
+- {name: Temecula}
+- {name: Temple City}
+- {name: Templeton}
+- {name: Termo}
+- {name: Terra Bella}
+- {name: The Sea Ranch}
+- {name: Thermal}
+- {name: Thousand Oaks}
+- {name: Thousand Palms}
+- {name: Three Rivers}
+- {name: Tipton}
+- {name: Tollhouse}
+- {name: Toluca Lake}
+- {name: Tomales}
+- {name: Topanga}
+- {name: Torrance}
+- {name: Trabuco Canyon}
+- {name: Tracy}
+- {name: Tranquillity}
+- {name: Traver}
+- {name: Travis Afb}
+- {name: Tres Pinos}
+- {name: Trinity Center}
+- {name: Truckee}
+- {name: Tujunga}
+- {name: Tulare}
+- {name: Tulelake}
+- {name: Tuolumne}
+- {name: Tupman}
+- {name: Turlock}
+- {name: Tustin}
+- {name: Twain Harte}
+- {name: Twentynine Palms}
+- {name: Twin Bridges}
+- {name: Twin Peaks}
+- {name: Ukiah}
+- {name: Union City}
+- {name: Universal City}
+- {name: Upland}
+- {name: Upper Lake}
+- {name: Vacaville}
+- {name: Valencia}
+- {name: Vallecito}
+- {name: Vallejo}
+- {name: Valley Center}
+- {name: Valley Ford}
+- {name: Valley Springs}
+- {name: Valley Village}
+- {name: Valyermo}
+- {name: Van Nuys}
+- {name: Venice}
+- {name: Ventura}
+- {name: Vernalis}
+- {name: Victor}
+- {name: Victorville}
+- {name: Villa Grande}
+- {name: Villa Park}
+- {name: Vina}
+- {name: Vineburg}
+- {name: Visalia}
+- {name: Vista}
+- {name: Wallace}
+- {name: Walnut}
+- {name: Walnut Creek}
+- {name: Walnut Grove}
+- {name: Warner Springs}
+- {name: Wasco}
+- {name: Washington}
+- {name: Waterford}
+- {name: Watsonville}
+- {name: Waukena}
+- {name: Weaverville}
+- {name: Weed}
+- {name: Weimar}
+- {name: West Covina}
+- {name: West Hills}
+- {name: West Hollywood}
+- {name: West Point}
+- {name: West Sacramento}
+- {name: Westlake Village}
+- {name: Westley}
+- {name: Westminster}
+- {name: Westwood}
+- {name: Wheatland}
+- {name: White Water}
+- {name: Whitethorn}
+- {name: Whittier}
+- {name: Wildomar}
+- {name: Williams}
+- {name: Willits}
+- {name: Willow Creek}
+- {name: Willows}
+- {name: Wilmington}
+- {name: Wilton}
+- {name: Winchester}
+- {name: Windsor}
+- {name: Winnetka}
+- {name: Winterhaven}
+- {name: Winters}
+- {name: Winton}
+- {name: Wishon}
+- {name: Wofford Heights}
+- {name: Woodacre}
+- {name: Woodbridge}
+- {name: Woodlake}
+- {name: Woodland}
+- {name: Woodland Hills}
+- {name: Wrightwood}
+- {name: Yermo}
+- {name: Yolo}
+- {name: Yorba Linda}
+- {name: Yorkville}
+- {name: Yosemite National Park}
+- {name: Yountville}
+- {name: Yreka}
+- {name: Yuba City}
+- {name: Yucaipa}
+- {name: Yucca Valley}
+- {name: Zamora}

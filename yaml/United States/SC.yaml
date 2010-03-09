@@ -1,0 +1,301 @@
+- {name: Abbeville}
+- {name: Aiken}
+- {name: Alcolu}
+- {name: Allendale}
+- {name: Anderson}
+- {name: Andrews}
+- {name: Arcadia}
+- {name: Awendaw}
+- {name: Aynor}
+- {name: Bamberg}
+- {name: Barnwell}
+- {name: Batesburg}
+- {name: Bath}
+- {name: Beaufort}
+- {name: Beech Island}
+- {name: Belton}
+- {name: Bennettsville}
+- {name: Bethune}
+- {name: Bishopville}
+- {name: Blacksburg}
+- {name: Blackstock}
+- {name: Blackville}
+- {name: Blair}
+- {name: Blenheim}
+- {name: Bluffton}
+- {name: Blythewood}
+- {name: Boiling Springs}
+- {name: Bonneau}
+- {name: Bowman}
+- {name: Bradley}
+- {name: Branchville}
+- {name: Buffalo}
+- {name: Cades}
+- {name: Calhoun Falls}
+- {name: Camden}
+- {name: Cameron}
+- {name: Campobello}
+- {name: Canadys}
+- {name: Carlisle}
+- {name: Cassatt}
+- {name: Catawba}
+- {name: Cayce}
+- {name: Central}
+- {name: Chapin}
+- {name: Chappells}
+- {name: Charleston}
+- {name: Charleston Afb}
+- {name: Cheraw}
+- {name: Chesnee}
+- {name: Chester}
+- {name: Chesterfield}
+- {name: Clearwater}
+- {name: Clemson}
+- {name: Cleveland}
+- {name: Clifton}
+- {name: Clinton}
+- {name: Clio}
+- {name: Clover}
+- {name: Columbia}
+- {name: Conway}
+- {name: Cope}
+- {name: Cordova}
+- {name: Cottageville}
+- {name: Coward}
+- {name: Cowpens}
+- {name: Cross}
+- {name: Cross Hill}
+- {name: Dalzell}
+- {name: Darlington}
+- {name: Davis Station}
+- {name: Denmark}
+- {name: Dillon}
+- {name: Donalds}
+- {name: Dorchester}
+- {name: Drayton}
+- {name: Due West}
+- {name: Duncan}
+- {name: Early Branch}
+- {name: Easley}
+- {name: Eastover}
+- {name: Edgefield}
+- {name: Edisto Island}
+- {name: Effingham}
+- {name: Elgin}
+- {name: Elloree}
+- {name: Enoree}
+- {name: Estill}
+- {name: Eutawville}
+- {name: Fair Play}
+- {name: Fairfax}
+- {name: Fairforest}
+- {name: Florence}
+- {name: Folly Beach}
+- {name: Fort Lawn}
+- {name: Fort Mill}
+- {name: Fountain Inn}
+- {name: Gadsden}
+- {name: Gaffney}
+- {name: Galivants Ferry}
+- {name: Gaston}
+- {name: Georgetown}
+- {name: Gilbert}
+- {name: Gloverville}
+- {name: Goose Creek}
+- {name: Gramling}
+- {name: Graniteville}
+- {name: Gray Court}
+- {name: Great Falls}
+- {name: Greeleyville}
+- {name: Green Pond}
+- {name: Greenville}
+- {name: Greenwood}
+- {name: Greer}
+- {name: Gresham}
+- {name: Hamer}
+- {name: Hampton}
+- {name: Hardeeville}
+- {name: Harleyville}
+- {name: Hartsville}
+- {name: Heath Springs}
+- {name: Hemingway}
+- {name: Hickory Grove}
+- {name: Hilton Head Island}
+- {name: Hodges}
+- {name: Holly Hill}
+- {name: Hollywood}
+- {name: Honea Path}
+- {name: Hopkins}
+- {name: Huger}
+- {name: Inman}
+- {name: Irmo}
+- {name: Islandton}
+- {name: Isle Of Palms}
+- {name: Iva}
+- {name: Jackson}
+- {name: Jefferson}
+- {name: Jenkinsville}
+- {name: Joanna}
+- {name: Johns Island}
+- {name: Johnsonville}
+- {name: Johnston}
+- {name: Jonesville}
+- {name: Kershaw}
+- {name: Kinards}
+- {name: Kingstree}
+- {name: La France}
+- {name: Ladson}
+- {name: Ladys Island}
+- {name: Lake City}
+- {name: Lake View}
+- {name: Lamar}
+- {name: Lancaster}
+- {name: Landrum}
+- {name: Latta}
+- {name: Laurens}
+- {name: Leesville}
+- {name: Lexington}
+- {name: Liberty}
+- {name: Little Mountain}
+- {name: Little River}
+- {name: Lobeco}
+- {name: Lockhart}
+- {name: Long Creek}
+- {name: Longs}
+- {name: Loris}
+- {name: Lugoff}
+- {name: Luray}
+- {name: Lydia}
+- {name: Lyman}
+- {name: Lynchburg}
+- {name: Manning}
+- {name: Marietta}
+- {name: Marion}
+- {name: Mauldin}
+- {name: Mc Bee}
+- {name: Mc Clellanville}
+- {name: Mc Coll}
+- {name: Mc Connells}
+- {name: Mc Cormick}
+- {name: Mccormick}
+- {name: Modoc}
+- {name: Moncks Corner}
+- {name: Monetta}
+- {name: Moore}
+- {name: Mount Croghan}
+- {name: Mount Pleasant}
+- {name: Mountain Rest}
+- {name: Mountville}
+- {name: Mullins}
+- {name: Murrells Inlet}
+- {name: Myrtle Beach}
+- {name: Neeses}
+- {name: New Ellenton}
+- {name: Newberry}
+- {name: Nichols}
+- {name: Ninety Six}
+- {name: Norris}
+- {name: North}
+- {name: North Augusta}
+- {name: North Charleston}
+- {name: North Myrtle Beach}
+- {name: Norway}
+- {name: Okatie}
+- {name: Olanta}
+- {name: Orangeburg}
+- {name: Pacolet}
+- {name: Pacolet Mills}
+- {name: Pageland}
+- {name: Pamplico}
+- {name: Parksville}
+- {name: Patrick}
+- {name: Pauline}
+- {name: Pawleys Island}
+- {name: Peak}
+- {name: Pelion}
+- {name: Pelzer}
+- {name: Pendleton}
+- {name: Pickens}
+- {name: Piedmont}
+- {name: Pineland}
+- {name: Pineville}
+- {name: Pinewood}
+- {name: Pomaria}
+- {name: Port Royal}
+- {name: Prosperity}
+- {name: Ravenel}
+- {name: Reidville}
+- {name: Rembert}
+- {name: Richburg}
+- {name: Ridge Spring}
+- {name: Ridgeland}
+- {name: Ridgeville}
+- {name: Ridgeway}
+- {name: Rock Hill}
+- {name: Roebuck}
+- {name: Round O}
+- {name: Rowesville}
+- {name: Ruby}
+- {name: Ruffin}
+- {name: Russellville}
+- {name: Saint George}
+- {name: Saint Helena Island}
+- {name: Saint Matthews}
+- {name: Saint Stephen}
+- {name: Salem}
+- {name: Salley}
+- {name: Salters}
+- {name: Saluda}
+- {name: Sandy Springs}
+- {name: Santee}
+- {name: Scranton}
+- {name: Sellers}
+- {name: Seneca}
+- {name: Shaw A F B}
+- {name: Silverstreet}
+- {name: Simpsonville}
+- {name: Six Mile}
+- {name: Smyrna}
+- {name: Spartanburg}
+- {name: Starr}
+- {name: Startex}
+- {name: State Park}
+- {name: Sullivans Island}
+- {name: Summerton}
+- {name: Summerville}
+- {name: Sumter}
+- {name: Sunset}
+- {name: Swansea}
+- {name: Taylors}
+- {name: Tigerville}
+- {name: Timmonsville}
+- {name: Townville}
+- {name: Travelers Rest}
+- {name: Trenton}
+- {name: Troy}
+- {name: Union}
+- {name: Vance}
+- {name: Varnville}
+- {name: Wadmalaw Island}
+- {name: Wagener}
+- {name: Walhalla}
+- {name: Walterboro}
+- {name: Ward}
+- {name: Ware Shoals}
+- {name: Warrenville}
+- {name: Waterloo}
+- {name: Wedgefield}
+- {name: Wellford}
+- {name: West Columbia}
+- {name: West Union}
+- {name: Westminster}
+- {name: White Rock}
+- {name: White Stone}
+- {name: Whitmire}
+- {name: Williamston}
+- {name: Williston}
+- {name: Windsor}
+- {name: Winnsboro}
+- {name: Woodruff}
+- {name: Yemassee}
+- {name: York}

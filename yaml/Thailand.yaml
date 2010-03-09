@@ -1,343 +1,64 @@
-- cities:
-  - {name: Nong Han}
-  code: '19'
-  name: ''
-- cities:
-  - {name: Amnat}
-  code: '71'
-  name: ''
-- cities:
-  - {name: Chaiyo}
-  code: '35'
-  name: Ang Thong
-- cities:
-  - {name: Buriram}
-  - {name: Yang}
-  code: '28'
-  name: Buriram
-- cities:
-  - {name: Chachoengsao}
-  code: '44'
-  name: Chachoengsao
-- cities:
-  - {name: Chaiyaphum}
-  - {name: Chaiyapoom}
-  code: '26'
-  name: Chaiyaphum
-- cities:
-  - {name: Chantaburi}
-  - {name: Chanthaburi}
-  - {name: Daun}
-  code: '48'
-  name: Chanthaburi
-- cities:
-  - {name: Chiang Mai}
-  - {name: Chiengmai}
-  - {name: Doi Saket}
-  - {name: Kang}
-  - {name: Mae Rim}
-  - {name: Sansai}
-  code: '02'
-  name: Chiang Mai
-- cities:
-  - {name: Bhan}
-  - {name: Chiang Rai}
-  - {name: Phan}
-  code: '03'
-  name: Chiang Rai
-- cities:
-  - {name: Ban Bung}
-  - {name: Cholburi}
-  - {name: Chon Buri}
-  - {name: Napa}
-  - {name: Pattaya}
-  - {name: Phan Thong}
-  - {name: Phanthong}
-  - {name: Si Racha}
-  - {name: Sriracha}
-  code: '46'
-  name: Chon Buri
-- cities:
-  - {name: Chumphon}
-  - {name: Chumpon}
-  - {name: Lang Suan}
-  code: '58'
-  name: Chumphon
-- cities:
-  - {name: Kalasin}
-  code: '23'
-  name: Kalasin
-- cities:
-  - {name: Kamphaeng Phet}
-  code: '11'
-  name: Kamphaeng Phet
-- cities:
-  - {name: Kanchanaburi}
-  code: '50'
-  name: Kanchanaburi
-- cities:
-  - {name: Khon Kaen}
-  - {name: Khonkean}
-  - {name: Samran}
-  code: '22'
-  name: Khon Kaen
-- cities:
-  - {name: Krabi}
-  - {name: Lanta}
-  code: '63'
-  name: Krabi
-- cities:
-  - {name: Bangkok}
-  - {name: Bangkok Noi}
-  - {name: Bankok}
-  - {name: Dusit}
-  - {name: Saladaeng}
-  code: '40'
-  name: Krung Thep
-- cities:
-  - {name: Hong}
-  - {name: Lampang}
-  code: '06'
-  name: Lampang
-- cities:
-  - {name: Lamphun}
-  - {name: Lampoon}
-  code: '05'
-  name: Lamphun
-- cities:
-  - {name: Loei}
-  code: '18'
-  name: Loei
-- cities:
-  - {name: Mukdahan}
-  code: '78'
-  name: Mukdahan
-- cities:
-  - {name: Nakhon Pathom}
-  code: '53'
-  name: Nakhon Pathom
-- cities:
-  - {name: Korat}
-  - {name: Nakhon Ratchasima}
-  - {name: Nakhonratsima}
-  code: '27'
-  name: Nakhon Ratchasima
-- cities:
-  - {name: Nakhon Sawan}
-  - {name: Nong Bua}
-  code: '16'
-  name: Nakhon Sawan
-- cities:
-  - {name: Nakhon Si Thammarat}
-  code: '64'
-  name: Nakhon Si Thammarat
-- cities:
-  - {name: Chang}
-  code: '04'
-  name: Nan
-- cities:
-  - {name: Bang Bua Thong}
-  - {name: Nonthaburi}
-  code: '38'
-  name: Nonthaburi
-- cities:
-  - {name: Pathum Thani}
-  - {name: Rangsit}
-  - {name: Thanyaburi}
-  code: '39'
-  name: Pathum Thani
-- cities:
-  - {name: Pattani}
-  code: '69'
-  name: Pattani
-- cities:
-  - {name: Phangnga}
-  code: '61'
-  name: Phangnga
-- cities:
-  - {name: Patalung}
-  code: '66'
-  name: Phatthalung
-- cities:
-  - {name: Phayao}
-  code: '41'
-  name: Phayao
-- cities:
-  - {name: Phetchabun}
-  code: '14'
-  name: Phetchabun
-- cities:
-  - {name: Cha-am}
-  - {name: Laem}
-  - {name: Phetchaburi}
-  code: '56'
-  name: Phetchaburi
-- cities:
-  - {name: Phichit}
-  - {name: Pichit}
-  code: '13'
-  name: Phichit
-- cities:
-  - {name: Muang Pitsanulok}
-  - {name: Phitsanulok}
-  - {name: Pitsanulok}
-  code: '12'
-  name: Phitsanulok
-- cities:
-  - {name: Ayudhya}
-  - {name: Ayuthaya}
-  - {name: Ayutthaya}
-  - {name: Uthai}
-  - {name: Wang Noi}
-  code: '36'
-  name: Phra Nakhon Si Ayutthaya
-- cities:
-  - {name: Long}
-  - {name: Phrae}
-  - {name: Prae}
-  - {name: Song}
-  - {name: Thong}
-  code: '07'
-  name: Phrae
-- cities:
-  - {name: Phuket}
-  - {name: Puket}
-  - {name: Thalang}
-  code: '62'
-  name: Phuket
-- cities:
-  - {name: Watana}
-  code: '45'
-  name: Prachin Buri
-- cities:
-  - {name: Hua Hin}
-  - {name: Pak Klong}
-  - {name: Prachuab}
-  - {name: Prachuap Khiri Khan}
-  code: '57'
-  name: Prachuap Khiri Khan
-- cities:
-  - {name: Ranong}
-  code: '59'
-  name: Ranong
-- cities:
-  - {name: Bang Phae}
-  - {name: Muang Rajburi}
-  - {name: Ratchaburi}
-  code: '52'
-  name: Ratchaburi
-- cities:
-  - {name: Rayong}
-  code: '47'
-  name: Rayong
-- cities:
-  - {name: Roi Et}
-  - {name: Roi-ed}
-  - {name: Suwannaphum}
-  code: '25'
-  name: Roi Et
-- cities:
-  - {name: Sakhon Nakhon}
-  - {name: Sakol}
-  code: '20'
-  name: Sakon Nakhon
-- cities:
-  - {name: Bang Kapi}
-  - {name: Klong Toey}
-  - {name: Paknam}
-  - {name: Phra Khanong}
-  - {name: Phra Pradaeng}
-  - {name: Prakanong}
-  - {name: Samrong}
-  - {name: Samut}
-  - {name: Samut Prakan}
-  code: '42'
-  name: Samut Prakan
-- cities:
-  - {name: Krathum Baen}
-  - {name: Mahachai}
-  - {name: Samut Sakhon}
-  code: '55'
-  name: Samut Sakhon
-- cities:
-  - {name: Amphawa}
-  - {name: Samut Songkhram}
-  code: '54'
-  name: Samut Songkhram
-- cities:
-  - {name: Satun}
-  code: '67'
-  name: Satun
-- cities:
-  - {name: Ban Bang Chik}
-  code: '33'
-  name: Sing Buri
-- cities:
-  - {name: Sang}
-  - {name: Srisaket}
-  code: '30'
-  name: Sisaket
-- cities:
-  - {name: Hat Yai}
-  - {name: Jana}
-  - {name: Klong}
-  - {name: Sala}
-  - {name: Songkhla}
-  - {name: Songkla}
-  code: '68'
-  name: Songkhla
-- cities:
-  - {name: Khiri Mat}
-  - {name: Kong}
-  - {name: Sukhothai}
-  code: 09
-  name: Sukhothai
-- cities:
-  - {name: Phanom}
-  - {name: Surat}
-  - {name: Surat Thani}
-  code: '60'
-  name: Surat Thani
-- cities:
-  - {name: Surin}
-  - {name: Tha Tum}
-  code: '29'
-  name: Surin
-- cities:
-  - {name: Mae Sord}
-  - {name: Umphang}
-  code: 08
-  name: Tak
-- cities:
-  - {name: Trang}
-  code: '65'
-  name: Trang
-- cities:
-  - {name: Khlong}
-  - {name: Trad}
-  - {name: Trat}
-  code: '49'
-  name: Trat
-- cities:
-  - {name: Ubon}
-  - {name: Ubon Ratchathani}
-  code: '75'
-  name: Ubon Ratchathani
-- cities:
-  - {name: Kumphawapi}
-  - {name: Udon}
-  - {name: Udon Thani}
-  code: '76'
-  name: Udon Thani
-- cities:
-  - {name: Uttaradit}
-  code: '10'
-  name: Uttaradit
-- cities:
-  - {name: Yala}
-  code: '70'
-  name: Yala
-- cities:
-  - {name: Yasothon}
-  code: '72'
-  name: Yasothon
+- {code: '19', name: ''}
+- {code: '71', name: ''}
+- {code: '35', name: Ang Thong}
+- {code: '28', name: Buriram}
+- {code: '44', name: Chachoengsao}
+- {code: '26', name: Chaiyaphum}
+- {code: '48', name: Chanthaburi}
+- {code: '02', name: Chiang Mai}
+- {code: '03', name: Chiang Rai}
+- {code: '46', name: Chon Buri}
+- {code: '58', name: Chumphon}
+- {code: '23', name: Kalasin}
+- {code: '11', name: Kamphaeng Phet}
+- {code: '50', name: Kanchanaburi}
+- {code: '22', name: Khon Kaen}
+- {code: '63', name: Krabi}
+- {code: '40', name: Krung Thep}
+- {code: '06', name: Lampang}
+- {code: '05', name: Lamphun}
+- {code: '18', name: Loei}
+- {code: '78', name: Mukdahan}
+- {code: '53', name: Nakhon Pathom}
+- {code: '27', name: Nakhon Ratchasima}
+- {code: '16', name: Nakhon Sawan}
+- {code: '64', name: Nakhon Si Thammarat}
+- {code: '04', name: Nan}
+- {code: '38', name: Nonthaburi}
+- {code: '39', name: Pathum Thani}
+- {code: '69', name: Pattani}
+- {code: '61', name: Phangnga}
+- {code: '66', name: Phatthalung}
+- {code: '41', name: Phayao}
+- {code: '14', name: Phetchabun}
+- {code: '56', name: Phetchaburi}
+- {code: '13', name: Phichit}
+- {code: '12', name: Phitsanulok}
+- {code: '36', name: Phra Nakhon Si Ayutthaya}
+- {code: '07', name: Phrae}
+- {code: '62', name: Phuket}
+- {code: '45', name: Prachin Buri}
+- {code: '57', name: Prachuap Khiri Khan}
+- {code: '59', name: Ranong}
+- {code: '52', name: Ratchaburi}
+- {code: '47', name: Rayong}
+- {code: '25', name: Roi Et}
+- {code: '20', name: Sakon Nakhon}
+- {code: '42', name: Samut Prakan}
+- {code: '55', name: Samut Sakhon}
+- {code: '54', name: Samut Songkhram}
+- {code: '67', name: Satun}
+- {code: '33', name: Sing Buri}
+- {code: '30', name: Sisaket}
+- {code: '68', name: Songkhla}
+- {code: 09, name: Sukhothai}
+- {code: '60', name: Surat Thani}
+- {code: '29', name: Surin}
+- {code: 08, name: Tak}
+- {code: '65', name: Trang}
+- {code: '49', name: Trat}
+- {code: '75', name: Ubon Ratchathani}
+- {code: '76', name: Udon Thani}
+- {code: '10', name: Uttaradit}
+- {code: '70', name: Yala}
+- {code: '72', name: Yasothon}

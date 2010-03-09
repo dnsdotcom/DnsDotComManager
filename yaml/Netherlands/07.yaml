@@ -1,0 +1,290 @@
+- {name: '''s-graveland'}
+- {name: '''t Veld'}
+- {name: '''t Zand'}
+- {name: Aalsmeer}
+- {name: Aartswoud}
+- {name: Abbekerk}
+- {name: Abbenes}
+- {name: Aerdenhout}
+- {name: Akersloot}
+- {name: Alkmaar}
+- {name: Amstelveen}
+- {name: Amsterdam}
+- {name: Andijk}
+- {name: Ankeveen}
+- {name: Anna Paulowna}
+- {name: Assendelft}
+- {name: Avenhorn}
+- {name: Badhoevedorp}
+- {name: Bakkum}
+- {name: Barsingerhorn}
+- {name: Beets}
+- {name: Beinsdorp}
+- {name: Belt}
+- {name: Bennebroek}
+- {name: Benningbroek}
+- {name: Bentveld}
+- {name: Bergen}
+- {name: Berkhout}
+- {name: Beverwijk}
+- {name: Bijlmer}
+- {name: Blaricum}
+- {name: Bloemendaal}
+- {name: Blokdijk}
+- {name: Blokker}
+- {name: Bobeldijk}
+- {name: Boekel}
+- {name: Boerdijk}
+- {name: Boesingheliede}
+- {name: Bovenkarspel}
+- {name: Breezand}
+- {name: Broek}
+- {name: Broek In Waterland}
+- {name: Broek Op Langedijk}
+- {name: Buitenkaag}
+- {name: Burg}
+- {name: Burgerbrug}
+- {name: Burgerveen}
+- {name: Bussum}
+- {name: Callantsoog}
+- {name: Camp}
+- {name: Castricum}
+- {name: Cruquius}
+- {name: De Burg}
+- {name: De Cocksdorp}
+- {name: De Goorn}
+- {name: De Gouw}
+- {name: De Heul}
+- {name: De Hoef}
+- {name: De Hout}
+- {name: De Koog}
+- {name: De Kwakel}
+- {name: De Rijp}
+- {name: De Waal}
+- {name: De Weere}
+- {name: De Woude}
+- {name: Den Burg}
+- {name: Den Helder}
+- {name: Den Ilp}
+- {name: Den Oever}
+- {name: Diemen}
+- {name: Dirkshorn}
+- {name: Driehuis}
+- {name: Driehuizen}
+- {name: Driemond}
+- {name: Duin En Bosch}
+- {name: Duivendrecht}
+- {name: Durgerdam}
+- {name: Dusseldorp}
+- {name: Edam}
+- {name: Egmond Aan Den Hoef}
+- {name: Egmond Aan Zee}
+- {name: Egmond-binnen}
+- {name: Enkhuizen}
+- {name: Gouw}
+- {name: Gouwe}
+- {name: Graft}
+- {name: Graftdijk}
+- {name: Groeneveld}
+- {name: Groenveld}
+- {name: Groet}
+- {name: Grootebroek}
+- {name: Grootschermer}
+- {name: Haarlem}
+- {name: Haarlemmerliede}
+- {name: Haarlemmermeer}
+- {name: Halfweg}
+- {name: Harenkarspel}
+- {name: Haringhuizen}
+- {name: Hauwert}
+- {name: Heemskerk}
+- {name: Heemstede}
+- {name: Heerhugowaard}
+- {name: Heiloo}
+- {name: Helder}
+- {name: Hem}
+- {name: Hembrug}
+- {name: Hensbroek}
+- {name: Hilversum}
+- {name: Hippolytushoef}
+- {name: Hoofddorp}
+- {name: Hoofdorp}
+- {name: Hoogkarspel}
+- {name: Hoogwoud}
+- {name: Hoorn}
+- {name: Huiswaard}
+- {name: Huizen}
+- {name: Ijmond}
+- {name: Ijmuiden}
+- {name: Ilpendam}
+- {name: Jisp}
+- {name: Julianadorp}
+- {name: Kabel}
+- {name: Kalf}
+- {name: Kapel}
+- {name: Katwoude}
+- {name: Kerkbuurt}
+- {name: Knollendam}
+- {name: Koedijk}
+- {name: Kolhorn}
+- {name: Koog}
+- {name: Koog Aan De Zaan}
+- {name: Kortenhoef}
+- {name: Krabbendam}
+- {name: Kreileroord}
+- {name: Krommenie}
+- {name: Kudelstaart}
+- {name: Kwadijk}
+- {name: Lagedijk}
+- {name: Lambertschaag}
+- {name: Landsmeer}
+- {name: Langedijk}
+- {name: Langereis}
+- {name: Laren}
+- {name: Leimuiderbrug}
+- {name: Lijnden}
+- {name: Limmen}
+- {name: Lutjebroek}
+- {name: Lutjewinkel}
+- {name: Marken}
+- {name: Markenbinnen}
+- {name: Medemblik}
+- {name: Meerestein}
+- {name: Middel}
+- {name: Middelie}
+- {name: Middenbeemster}
+- {name: Middenmeer}
+- {name: Midwoud}
+- {name: Molens}
+- {name: Monnickendam}
+- {name: Muiden}
+- {name: Muiderberg}
+- {name: Naarden}
+- {name: Neck}
+- {name: Nederhorst Den Berg}
+- {name: Nes Aan De Amstel}
+- {name: Nibbixwoud}
+- {name: Nieuw-vennep}
+- {name: Nieuwe-niedorp}
+- {name: Nieuwer Amstel}
+- {name: Noord-scharwoude}
+- {name: Noordbeemster}
+- {name: Noordeinde}
+- {name: Noordermeer}
+- {name: Obdam}
+- {name: Oost}
+- {name: Oost-graftdijk}
+- {name: Oosteinde}
+- {name: Oosterblokker}
+- {name: Oosterend}
+- {name: Oosterland}
+- {name: Oosterleek}
+- {name: Oosthuizen}
+- {name: Oostwoud}
+- {name: Oostzaan}
+- {name: Opmeer}
+- {name: Opperdoes}
+- {name: Osdorp}
+- {name: Oterleek}
+- {name: Oude Meer}
+- {name: Oude-niedorp}
+- {name: Oudendijk}
+- {name: Ouder Amstel}
+- {name: Ouderkerk}
+- {name: Ouderkerk Aan De Amstel}
+- {name: Oudeschild}
+- {name: Oudesluis}
+- {name: Oudijk}
+- {name: Oudkarspel}
+- {name: Oudorp}
+- {name: Overmeer}
+- {name: Overveen}
+- {name: Petten}
+- {name: Princenhof}
+- {name: Purmer}
+- {name: Purmerend}
+- {name: Purmerland}
+- {name: Rijsenhout}
+- {name: Rozenburg}
+- {name: Santpoort}
+- {name: Santpoort-noord}
+- {name: Santpoort-zuid}
+- {name: Schagen}
+- {name: Schagerbrug}
+- {name: Schalkwijk}
+- {name: Schardam}
+- {name: Scharwoude}
+- {name: Schellinkhout}
+- {name: Schermerhorn}
+- {name: Schiphol}
+- {name: Schoorl}
+- {name: Sijbekarspel}
+- {name: Sint Maarten}
+- {name: Sint Pancras}
+- {name: Slootdorp}
+- {name: Sloten}
+- {name: Sloterdijk}
+- {name: Slotervaart}
+- {name: Spaarndam}
+- {name: Spanbroek}
+- {name: Spierdijk}
+- {name: Stompetoren}
+- {name: Stroe}
+- {name: Stroet}
+- {name: Tienhoven}
+- {name: Tuindorp}
+- {name: Tuitjenhorn}
+- {name: Twisk}
+- {name: Twist}
+- {name: Uitgeest}
+- {name: Ursem}
+- {name: Veenhuizen}
+- {name: Veld}
+- {name: Veldhuis}
+- {name: Velsen}
+- {name: Velzen}
+- {name: Venhuizen}
+- {name: Vijfhuizen}
+- {name: Vogelenzang}
+- {name: Volendam}
+- {name: Vrouwenakker}
+- {name: Waal}
+- {name: Waarland}
+- {name: Warder}
+- {name: Warmenhuizen}
+- {name: Watergang}
+- {name: Watergraafsmeer}
+- {name: Weesp}
+- {name: Wervershoof}
+- {name: West-knollendam}
+- {name: Westbeemster}
+- {name: Westergeest}
+- {name: Westerland}
+- {name: Westwoud}
+- {name: Westzaan}
+- {name: Wieringerwaard}
+- {name: Wieringerwerf}
+- {name: Wijdenes}
+- {name: Wijdewormer}
+- {name: Wijk Aan Zee}
+- {name: Winkel}
+- {name: Wognum}
+- {name: Wormer}
+- {name: Wormerveer}
+- {name: Ymuiden}
+- {name: Zaandam}
+- {name: Zaandijk}
+- {name: Zaanstad}
+- {name: Zandvoort}
+- {name: Zevenhuizen}
+- {name: Zuid-scharwoude}
+- {name: Zuideinde}
+- {name: Zuidermeer}
+- {name: Zuiderwoude}
+- {name: Zuidoostbeemster}
+- {name: Zuidschermer}
+- {name: Zwaag}
+- {name: Zwaagdijk}
+- {name: Zwaagdijk-oost}
+- {name: Zwaanshoek}
+- {name: Zwanenburg}

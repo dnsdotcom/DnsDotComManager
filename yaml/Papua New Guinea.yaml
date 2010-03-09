@@ -1,13 +1,3 @@
-- cities:
-  - {name: Waigani}
-  code: '03'
-  name: Milne Bay
-- cities:
-  - {name: Lae}
-  code: '14'
-  name: Morobe
-- cities:
-  - {name: Boroko}
-  - {name: Port Moresby}
-  code: '20'
-  name: National Capital
+- {code: '03', name: Milne Bay}
+- {code: '14', name: Morobe}
+- {code: '20', name: National Capital}

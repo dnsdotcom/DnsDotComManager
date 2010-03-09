@@ -1,76 +1,14 @@
-- cities:
-  - {name: La Ceiba}
-  - {name: Tela}
-  code: '01'
-  name: Atlantida
-- cities:
-  - {name: Choluteca}
-  code: '02'
-  name: Choluteca
-- cities:
-  - {name: Tocoa}
-  - {name: Util}
-  code: '03'
-  name: Colon
-- cities:
-  - {name: Comayagua}
-  - {name: San Jos}
-  - {name: Siguatepeque}
-  code: '04'
-  name: Comayagua
-- cities:
-  - {name: Cop}
-  - {name: Cucuyagua}
-  - {name: San Pedro}
-  code: '05'
-  name: Copan
-- cities:
-  - {name: Choloma}
-  - {name: Chotepe}
-  - {name: La Lima}
-  - {name: Omoa}
-  - {name: Puerto Cort}
-  - {name: San Pedro Sula}
-  - {name: Villanueva}
-  code: '06'
-  name: Cortes
-- cities:
-  - {name: El Para}
-  - {name: Los Andes}
-  code: '07'
-  name: El Paraiso
-- cities:
-  - {name: Cortes}
-  - {name: Tegucigalpa}
-  code: 08
-  name: Francisco Morazan
-- cities:
-  - {name: Intibuc}
-  code: '10'
-  name: Intibuca
-- cities:
-  - {name: Roat}
-  - {name: West End}
-  code: '11'
-  name: Islas de la Bahia
-- cities:
-  - {name: La Uni}
-  code: '13'
-  name: Lempira
-- cities:
-  - {name: Catacamas}
-  - {name: Mangulile}
-  code: '15'
-  name: Olancho
-- cities:
-  - {name: Pe}
-  - {name: Santa B}
-  code: '16'
-  name: Santa Barbara
-- cities:
-  - {name: El Progreso}
-  - {name: Moraz}
-  - {name: Victoria}
-  - {name: Yoro}
-  code: '18'
-  name: Yoro
+- {code: '01', name: Atlantida}
+- {code: '02', name: Choluteca}
+- {code: '03', name: Colon}
+- {code: '04', name: Comayagua}
+- {code: '05', name: Copan}
+- {code: '06', name: Cortes}
+- {code: '07', name: El Paraiso}
+- {code: 08, name: Francisco Morazan}
+- {code: '10', name: Intibuca}
+- {code: '11', name: Islas de la Bahia}
+- {code: '13', name: Lempira}
+- {code: '15', name: Olancho}
+- {code: '16', name: Santa Barbara}
+- {code: '18', name: Yoro}

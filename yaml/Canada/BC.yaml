@@ -1,0 +1,211 @@
+- {name: Abbotsford}
+- {name: Abbottsford}
+- {name: Agassiz}
+- {name: Aiyansh}
+- {name: Aldergrove}
+- {name: Alert Bay}
+- {name: Anahim Lake}
+- {name: Armstrong}
+- {name: Ashcroft}
+- {name: Atlin}
+- {name: Bamfield}
+- {name: Barri}
+- {name: Bella Bella}
+- {name: Bella Coola}
+- {name: Bowser}
+- {name: Brackendale}
+- {name: Brentwood Bay}
+- {name: Bridge Lake}
+- {name: Brisco}
+- {name: Burnaby}
+- {name: Burns Lake}
+- {name: Cache Creek}
+- {name: Calgary}
+- {name: Campbell River}
+- {name: Canal Flats}
+- {name: Cassidy}
+- {name: Castlegar}
+- {name: Chase}
+- {name: Chemainus}
+- {name: Chilliwack}
+- {name: Clayhurst}
+- {name: Clearwater}
+- {name: Clinton}
+- {name: Cloverdale}
+- {name: Cobble Hill}
+- {name: Comox}
+- {name: Coquitlam}
+- {name: Courtenay}
+- {name: Cowichan Bay}
+- {name: Cranbrook}
+- {name: Crescent Valley}
+- {name: Creston}
+- {name: Crofton}
+- {name: Cumberland}
+- {name: Dawson Creek}
+- {name: Dease Lake}
+- {name: Delta}
+- {name: Denman Island}
+- {name: Deroche}
+- {name: Duncan}
+- {name: Edgewood}
+- {name: Edmonton}
+- {name: Enderby}
+- {name: Etobicoke}
+- {name: Extension}
+- {name: Fairmont Hot Springs}
+- {name: Fauquier}
+- {name: Fernie}
+- {name: Fort Nelson}
+- {name: Fort Saint James}
+- {name: Fort Saint John}
+- {name: Fraser Lake}
+- {name: Fruitvale}
+- {name: Gabriola}
+- {name: Ganges}
+- {name: Garibaldi}
+- {name: Gibsons}
+- {name: Gold Bridge}
+- {name: Golden}
+- {name: Grand Forks}
+- {name: Greenwood}
+- {name: Hagensborg}
+- {name: Halfmoon Bay}
+- {name: Hartley Bay}
+- {name: Hazelton}
+- {name: Hixon}
+- {name: Holberg}
+- {name: Hope}
+- {name: Houston}
+- {name: Invermere}
+- {name: Kamloops}
+- {name: Kaslo}
+- {name: Kelowna}
+- {name: Keremeos}
+- {name: Kimberley}
+- {name: Kimberly}
+- {name: Kincolith}
+- {name: Kitchener}
+- {name: Kitimat}
+- {name: Kitwanga}
+- {name: Kleena Kleene}
+- {name: Klemtu}
+- {name: Ladner}
+- {name: Ladysmith}
+- {name: Lake Cowichan}
+- {name: Langley}
+- {name: Lasalle}
+- {name: Lillooet}
+- {name: Little Fort}
+- {name: Logan Lake}
+- {name: Lumby}
+- {name: Lytton}
+- {name: Mackenzie}
+- {name: Mansons Landing}
+- {name: Maple Ridge}
+- {name: Marysville}
+- {name: Masset}
+- {name: Massett}
+- {name: Mayne}
+- {name: Mcbride}
+- {name: Merritt}
+- {name: Merville}
+- {name: Midway}
+- {name: Mission}
+- {name: Moberly Lake}
+- {name: Montreal}
+- {name: Nakusp}
+- {name: Nanaimo}
+- {name: Nanoose Bay}
+- {name: Nelson}
+- {name: New Westminster}
+- {name: Newgate}
+- {name: North Saanich}
+- {name: North Vancouver}
+- {name: Okanagan}
+- {name: Oliver}
+- {name: One Hundred Mile House}
+- {name: Osoyoos}
+- {name: Ottawa}
+- {name: Pacific}
+- {name: Parksville}
+- {name: Peachland}
+- {name: Pemberton}
+- {name: Penticton}
+- {name: Pike}
+- {name: Pinantan}
+- {name: Pitt Meadows}
+- {name: Port Alberni}
+- {name: Port Alice}
+- {name: Port Clements}
+- {name: Port Coquitlam}
+- {name: Port Hardy}
+- {name: Port Mann}
+- {name: Port Mcneill}
+- {name: Port Mellon}
+- {name: Port Moody}
+- {name: Pouce Coup}
+- {name: Powell River}
+- {name: Prince George}
+- {name: Prince Rupert}
+- {name: Princeton}
+- {name: Pritchard}
+- {name: Qualicum Beach}
+- {name: Quathiaski Cove}
+- {name: Queen Charlotte}
+- {name: Quesnel}
+- {name: Radium Hot Springs}
+- {name: Revelstoke}
+- {name: Richmond}
+- {name: Riondel}
+- {name: Roberts Creek}
+- {name: Rock Creek}
+- {name: Rosedale}
+- {name: Rossland}
+- {name: Saanichton}
+- {name: Salmo}
+- {name: Salmon Arm}
+- {name: Savona}
+- {name: Sayward}
+- {name: Sechelt}
+- {name: Seton Portage}
+- {name: Sicamous}
+- {name: Sidney}
+- {name: Skidegate}
+- {name: Slocan}
+- {name: Smithers}
+- {name: Sointula}
+- {name: Sooke}
+- {name: Sorrento}
+- {name: Squamish}
+- {name: Stephen}
+- {name: Stewart}
+- {name: Summerland}
+- {name: Summit Lake}
+- {name: Surrey}
+- {name: Tahsis}
+- {name: Tappen}
+- {name: Taylor}
+- {name: Telegraph Creek}
+- {name: Terrace}
+- {name: Tlell}
+- {name: Tofino}
+- {name: Trail}
+- {name: Tsawwassen}
+- {name: Tulameen}
+- {name: Ucluelet}
+- {name: Union Bay}
+- {name: Valemount}
+- {name: Vananda}
+- {name: Vancouver}
+- {name: Vanderhoof}
+- {name: Vernon}
+- {name: Victoria}
+- {name: Westbank}
+- {name: Whaletown}
+- {name: White Rock}
+- {name: Williams Lake}
+- {name: Windermere}
+- {name: Winfield}
+- {name: Wright}
+- {name: Zeballos}

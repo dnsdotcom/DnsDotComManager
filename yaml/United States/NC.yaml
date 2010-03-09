@@ -1,0 +1,643 @@
+- {name: Aberdeen}
+- {name: Advance}
+- {name: Ahoskie}
+- {name: Alamance}
+- {name: Albemarle}
+- {name: Albertson}
+- {name: Alexander}
+- {name: Alexis}
+- {name: Alliance}
+- {name: Altamahaw}
+- {name: Andrews}
+- {name: Angier}
+- {name: Apex}
+- {name: Arapahoe}
+- {name: Ararat}
+- {name: Arden}
+- {name: Ash}
+- {name: Asheboro}
+- {name: Asheville}
+- {name: Atlantic Beach}
+- {name: Aulander}
+- {name: Aurora}
+- {name: Autryville}
+- {name: Avon}
+- {name: Ayden}
+- {name: Badin}
+- {name: Bahama}
+- {name: Bailey}
+- {name: Bakersville}
+- {name: Banner Elk}
+- {name: Barco}
+- {name: Barium Springs}
+- {name: Barnardsville}
+- {name: Bath}
+- {name: Battleboro}
+- {name: Bayboro}
+- {name: Bear Creek}
+- {name: Beaufort}
+- {name: Belews Creek}
+- {name: Belhaven}
+- {name: Belmont}
+- {name: Bennett}
+- {name: Benson}
+- {name: Bessemer City}
+- {name: Bethel}
+- {name: Beulaville}
+- {name: Biscoe}
+- {name: Black Creek}
+- {name: Black Mountain}
+- {name: Bladenboro}
+- {name: Blanch}
+- {name: Blowing Rock}
+- {name: Boiling Springs}
+- {name: Bolivia}
+- {name: Bonlee}
+- {name: Boomer}
+- {name: Boone}
+- {name: Boonville}
+- {name: Bostic}
+- {name: Brasstown}
+- {name: Brevard}
+- {name: Bridgeton}
+- {name: Broadway}
+- {name: Browns Summit}
+- {name: Brunswick}
+- {name: Bryson City}
+- {name: Buies Creek}
+- {name: Bullock}
+- {name: Bunn}
+- {name: Bunnlevel}
+- {name: Burgaw}
+- {name: Burlington}
+- {name: Burnsville}
+- {name: Butner}
+- {name: Buxton}
+- {name: Bynum}
+- {name: Calabash}
+- {name: Calypso}
+- {name: Camden}
+- {name: Cameron}
+- {name: Camp Lejeune}
+- {name: Candler}
+- {name: Candor}
+- {name: Canton}
+- {name: Caroleen}
+- {name: Carolina Beach}
+- {name: Carrboro}
+- {name: Carthage}
+- {name: Cary}
+- {name: Casar}
+- {name: Cashiers}
+- {name: Castalia}
+- {name: Castle Hayne}
+- {name: Catawba}
+- {name: Cedar Grove}
+- {name: Cerro Gordo}
+- {name: Chadbourn}
+- {name: Chapel Hill}
+- {name: Charlotte}
+- {name: Cherokee}
+- {name: Cherry Point}
+- {name: Cherryville}
+- {name: China Grove}
+- {name: Chinquapin}
+- {name: Chocowinity}
+- {name: Claremont}
+- {name: Clarendon}
+- {name: Clarkton}
+- {name: Clayton}
+- {name: Clemmons}
+- {name: Cleveland}
+- {name: Climax}
+- {name: Clinton}
+- {name: Clyde}
+- {name: Coats}
+- {name: Cofield}
+- {name: Coinjock}
+- {name: Colerain}
+- {name: Colfax}
+- {name: Collettsville}
+- {name: Columbia}
+- {name: Columbus}
+- {name: Comfort}
+- {name: Como}
+- {name: Concord}
+- {name: Conetoe}
+- {name: Connellys Springs}
+- {name: Conover}
+- {name: Cooleemee}
+- {name: Corapeake}
+- {name: Cornelius}
+- {name: Corolla}
+- {name: Cove City}
+- {name: Cramerton}
+- {name: Creedmoor}
+- {name: Creston}
+- {name: Creswell}
+- {name: Crouse}
+- {name: Crumpler}
+- {name: Cullowhee}
+- {name: Cumnock}
+- {name: Currie}
+- {name: Currituck}
+- {name: Dallas}
+- {name: Danbury}
+- {name: Davidson}
+- {name: Davis}
+- {name: Deep Gap}
+- {name: Deep Run}
+- {name: Delco}
+- {name: Denton}
+- {name: Denver}
+- {name: Dillsboro}
+- {name: Dobson}
+- {name: Dover}
+- {name: Drexel}
+- {name: Dublin}
+- {name: Dudley}
+- {name: Dunn}
+- {name: Durham}
+- {name: Eagle Springs}
+- {name: East Bend}
+- {name: East Flat Rock}
+- {name: Eden}
+- {name: Edenton}
+- {name: Edneyville}
+- {name: Edward}
+- {name: Efland}
+- {name: Elizabeth City}
+- {name: Elizabethtown}
+- {name: Elk Park}
+- {name: Elkin}
+- {name: Ellenboro}
+- {name: Ellerbe}
+- {name: Elm City}
+- {name: Elon}
+- {name: Emerald Isle}
+- {name: Engelhard}
+- {name: Enka}
+- {name: Ennice}
+- {name: Erwin}
+- {name: Ether}
+- {name: Etowah}
+- {name: Eure}
+- {name: Everetts}
+- {name: Evergreen}
+- {name: Fair Bluff}
+- {name: Fairfield}
+- {name: Fairmont}
+- {name: Fairview}
+- {name: Faison}
+- {name: Falcon}
+- {name: Fallston}
+- {name: Farmville}
+- {name: Fayetteville}
+- {name: Ferguson}
+- {name: Flat Rock}
+- {name: Fleetwood}
+- {name: Fletcher}
+- {name: Fontana Dam}
+- {name: Forest City}
+- {name: Fort Bragg}
+- {name: Fountain}
+- {name: Four Oaks}
+- {name: Franklin}
+- {name: Franklinton}
+- {name: Franklinville}
+- {name: Fremont}
+- {name: Fuquay Varina}
+- {name: Garland}
+- {name: Garner}
+- {name: Garysburg}
+- {name: Gastonia}
+- {name: Gates}
+- {name: Gatesville}
+- {name: Germanton}
+- {name: Gerton}
+- {name: Gibson}
+- {name: Gibsonville}
+- {name: Glen Alpine}
+- {name: Glenville}
+- {name: Godwin}
+- {name: Gold Hill}
+- {name: Goldsboro}
+- {name: Goldston}
+- {name: Graham}
+- {name: Grandy}
+- {name: Granite Falls}
+- {name: Granite Quarry}
+- {name: Grantsboro}
+- {name: Grassy Creek}
+- {name: Greensboro}
+- {name: Greenville}
+- {name: Grifton}
+- {name: Grimesland}
+- {name: Grover}
+- {name: Gulf}
+- {name: Halifax}
+- {name: Hamlet}
+- {name: Hampstead}
+- {name: Hamptonville}
+- {name: Harbinger}
+- {name: Harmony}
+- {name: Harrells}
+- {name: Harrellsville}
+- {name: Harrisburg}
+- {name: Hatteras}
+- {name: Havelock}
+- {name: Haw River}
+- {name: Hayesville}
+- {name: Henderson}
+- {name: Hendersonville}
+- {name: Henrico}
+- {name: Henrietta}
+- {name: Hertford}
+- {name: Hickory}
+- {name: High Point}
+- {name: High Shoals}
+- {name: Highfalls}
+- {name: Highlands}
+- {name: Hildebran}
+- {name: Hillsborough}
+- {name: Hobbsville}
+- {name: Hobgood}
+- {name: Hoffman}
+- {name: Hollister}
+- {name: Holly Ridge}
+- {name: Holly Springs}
+- {name: Hookerton}
+- {name: Hope Mills}
+- {name: Horse Shoe}
+- {name: Hot Springs}
+- {name: Hubert}
+- {name: Hudson}
+- {name: Huntersville}
+- {name: Hurdle Mills}
+- {name: Indian Trail}
+- {name: Iron Station}
+- {name: Jackson}
+- {name: Jacksonville}
+- {name: Jamestown}
+- {name: Jamesville}
+- {name: Jefferson}
+- {name: Jonas Ridge}
+- {name: Jonesville}
+- {name: Julian}
+- {name: Kannapolis}
+- {name: Kelford}
+- {name: Kenansville}
+- {name: Kenly}
+- {name: Kernersville}
+- {name: Kill Devil Hills}
+- {name: King}
+- {name: Kings Mountain}
+- {name: Kinston}
+- {name: Kipling}
+- {name: Kittrell}
+- {name: Kitty Hawk}
+- {name: Knightdale}
+- {name: Knotts Island}
+- {name: Kure Beach}
+- {name: La Grange}
+- {name: Lake Junaluska}
+- {name: Lake Lure}
+- {name: Lake Toxaway}
+- {name: Lake Waccamaw}
+- {name: Landis}
+- {name: Lansing}
+- {name: Lattimore}
+- {name: Laurel Springs}
+- {name: Laurinburg}
+- {name: Lawndale}
+- {name: Lawsonville}
+- {name: Leasburg}
+- {name: Leicester}
+- {name: Leland}
+- {name: Lemon Springs}
+- {name: Lenoir}
+- {name: Lewiston Woodville}
+- {name: Lewisville}
+- {name: Lexington}
+- {name: Liberty}
+- {name: Lillington}
+- {name: Lincolnton}
+- {name: Linden}
+- {name: Linville}
+- {name: Linwood}
+- {name: Littleton}
+- {name: Locust}
+- {name: Louisburg}
+- {name: Lowell}
+- {name: Lowgap}
+- {name: Lucama}
+- {name: Lumber Bridge}
+- {name: Lumberton}
+- {name: Lynn}
+- {name: Macclesfield}
+- {name: Madison}
+- {name: Maggie Valley}
+- {name: Magnolia}
+- {name: Maiden}
+- {name: Mamers}
+- {name: Manns Harbor}
+- {name: Manson}
+- {name: Manteo}
+- {name: Maple}
+- {name: Maple Hill}
+- {name: Marble}
+- {name: Margarettsville}
+- {name: Marion}
+- {name: Mars Hill}
+- {name: Marshall}
+- {name: Marshallberg}
+- {name: Marshville}
+- {name: Matthews}
+- {name: Maury}
+- {name: Maxton}
+- {name: Mayodan}
+- {name: Maysville}
+- {name: Mc Leansville}
+- {name: Mccutcheon Field}
+- {name: Mebane}
+- {name: Micaville}
+- {name: Micro}
+- {name: Middlesex}
+- {name: Midland}
+- {name: Midway Park}
+- {name: Mill Spring}
+- {name: Millers Creek}
+- {name: Milton}
+- {name: Mineral Springs}
+- {name: Misenheimer}
+- {name: Mocksville}
+- {name: Moncure}
+- {name: Monroe}
+- {name: Montreat}
+- {name: Mooresboro}
+- {name: Mooresville}
+- {name: Moravian Falls}
+- {name: Morehead City}
+- {name: Morganton}
+- {name: Morrisville}
+- {name: Mount Airy}
+- {name: Mount Gilead}
+- {name: Mount Holly}
+- {name: Mount Mourne}
+- {name: Mount Olive}
+- {name: Mount Pleasant}
+- {name: Mount Ulla}
+- {name: Mountain Home}
+- {name: Moyock}
+- {name: Murfreesboro}
+- {name: Murphy}
+- {name: Nags Head}
+- {name: Naples}
+- {name: Nashville}
+- {name: Nebo}
+- {name: New Bern}
+- {name: New Hill}
+- {name: New London}
+- {name: Newell}
+- {name: Newland}
+- {name: Newport}
+- {name: Newton}
+- {name: Newton Grove}
+- {name: Norman}
+- {name: North Wilkesboro}
+- {name: Norwood}
+- {name: Oak City}
+- {name: Oak Island}
+- {name: Oak Ridge}
+- {name: Oakboro}
+- {name: Ocean Isle Beach}
+- {name: Ocracoke}
+- {name: Old Fort}
+- {name: Olin}
+- {name: Olivia}
+- {name: Oriental}
+- {name: Orrum}
+- {name: Otto}
+- {name: Oxford}
+- {name: Parkton}
+- {name: Parmele}
+- {name: Patterson}
+- {name: Paw Creek}
+- {name: Peachland}
+- {name: Pelham}
+- {name: Pembroke}
+- {name: Penrose}
+- {name: Pfafftown}
+- {name: Pikeville}
+- {name: Pilot Mountain}
+- {name: Pine Hall}
+- {name: Pine Level}
+- {name: Pinebluff}
+- {name: Pinehurst}
+- {name: Pineola}
+- {name: Pinetops}
+- {name: Pinetown}
+- {name: Pineville}
+- {name: Pink Hill}
+- {name: Pinnacle}
+- {name: Pisgah Forest}
+- {name: Pittsboro}
+- {name: Pleasant Garden}
+- {name: Plymouth}
+- {name: Point Harbor}
+- {name: Polkton}
+- {name: Polkville}
+- {name: Pollocksville}
+- {name: Pope A F B}
+- {name: Poplar Branch}
+- {name: Powells Point}
+- {name: Princeton}
+- {name: Prospect Hill}
+- {name: Providence}
+- {name: Purlear}
+- {name: Raeford}
+- {name: Raleigh}
+- {name: Ramseur}
+- {name: Randleman}
+- {name: Red Oak}
+- {name: Red Springs}
+- {name: Reidsville}
+- {name: Rex}
+- {name: Richfield}
+- {name: Richlands}
+- {name: Roanoke Rapids}
+- {name: Roaring Gap}
+- {name: Roaring River}
+- {name: Robbins}
+- {name: Robbinsville}
+- {name: Robersonville}
+- {name: Rockingham}
+- {name: Rockwell}
+- {name: Rocky Mount}
+- {name: Rocky Point}
+- {name: Rodanthe}
+- {name: Rolesville}
+- {name: Ronda}
+- {name: Roper}
+- {name: Rose Hill}
+- {name: Roseboro}
+- {name: Rosman}
+- {name: Rougemont}
+- {name: Rowland}
+- {name: Roxboro}
+- {name: Roxobel}
+- {name: Ruffin}
+- {name: Rural Hall}
+- {name: Rutherford College}
+- {name: Rutherfordton}
+- {name: Saint Pauls}
+- {name: Salemburg}
+- {name: Salisbury}
+- {name: Saluda}
+- {name: Sandy Ridge}
+- {name: Sanford}
+- {name: Sapphire}
+- {name: Saratoga}
+- {name: Scotland Neck}
+- {name: Scotts}
+- {name: Scranton}
+- {name: Seagrove}
+- {name: Sealevel}
+- {name: Selma}
+- {name: Semora}
+- {name: Seven Springs}
+- {name: Severn}
+- {name: Shallotte}
+- {name: Shannon}
+- {name: Shawboro}
+- {name: Shelby}
+- {name: Sherrills Ford}
+- {name: Siler City}
+- {name: Siloam}
+- {name: Sims}
+- {name: Skyland}
+- {name: Smithfield}
+- {name: Smyrna}
+- {name: Sneads Ferry}
+- {name: Snow Camp}
+- {name: Snow Hill}
+- {name: Sophia}
+- {name: South Mills}
+- {name: Southern Pines}
+- {name: Southport}
+- {name: Sparta}
+- {name: Speed}
+- {name: Spindale}
+- {name: Spring Hope}
+- {name: Spring Lake}
+- {name: Spruce Pine}
+- {name: Staley}
+- {name: Stanfield}
+- {name: Stanley}
+- {name: Stantonsburg}
+- {name: Star}
+- {name: State Road}
+- {name: Statesville}
+- {name: Stedman}
+- {name: Stella}
+- {name: Stem}
+- {name: Stokesdale}
+- {name: Stoneville}
+- {name: Stony Point}
+- {name: Stovall}
+- {name: Sugar Grove}
+- {name: Summerfield}
+- {name: Sunbury}
+- {name: Sunset Beach}
+- {name: Supply}
+- {name: Swannanoa}
+- {name: Swanquarter}
+- {name: Swansboro}
+- {name: Swepsonville}
+- {name: Sylva}
+- {name: Tabor City}
+- {name: Tar Heel}
+- {name: Tarawa Terrace}
+- {name: Tarboro}
+- {name: Taylorsville}
+- {name: Teachey}
+- {name: Terrell}
+- {name: Thomasville}
+- {name: Thurmond}
+- {name: Tillery}
+- {name: Timberlake}
+- {name: Toast}
+- {name: Tobaccoville}
+- {name: Todd}
+- {name: Topton}
+- {name: Trenton}
+- {name: Trinity}
+- {name: Troutman}
+- {name: Troy}
+- {name: Tryon}
+- {name: Tuckasegee}
+- {name: Turkey}
+- {name: Tuxedo}
+- {name: Tyner}
+- {name: Union Grove}
+- {name: Union Mills}
+- {name: Valdese}
+- {name: Vale}
+- {name: Vanceboro}
+- {name: Vass}
+- {name: Vilas}
+- {name: Waco}
+- {name: Wade}
+- {name: Wadesboro}
+- {name: Wagram}
+- {name: Wake Forest}
+- {name: Walkertown}
+- {name: Wallace}
+- {name: Wallburg}
+- {name: Walnut Cove}
+- {name: Walstonburg}
+- {name: Wanchese}
+- {name: Warne}
+- {name: Warrensville}
+- {name: Warrenton}
+- {name: Warsaw}
+- {name: Washington}
+- {name: Waxhaw}
+- {name: Waynesville}
+- {name: Weaverville}
+- {name: Webster}
+- {name: Welcome}
+- {name: Weldon}
+- {name: Wendell}
+- {name: Wentworth}
+- {name: West End}
+- {name: West Jefferson}
+- {name: Westfield}
+- {name: Whitakers}
+- {name: White Oak}
+- {name: Whiteville}
+- {name: Whitsett}
+- {name: Whittier}
+- {name: Wilkesboro}
+- {name: Willard}
+- {name: Williamston}
+- {name: Willow Spring}
+- {name: Wilmington}
+- {name: Wilson}
+- {name: Wilsons Mills}
+- {name: Windsor}
+- {name: Winfall}
+- {name: Wingate}
+- {name: Winnabow}
+- {name: Winston Salem}
+- {name: Winterville}
+- {name: Winton}
+- {name: Woodland}
+- {name: Woodleaf}
+- {name: Wrightsville Beach}
+- {name: Yadkinville}
+- {name: Yanceyville}
+- {name: Youngsville}
+- {name: Zebulon}
+- {name: Zionville}
+- {name: Zirconia}

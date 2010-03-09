@@ -1,21 +1,5 @@
-- cities:
-  - {name: Kamsar}
-  code: '03'
-  name: Boke
-- cities:
-  - {name: Camayenne}
-  - {name: Conakry}
-  code: '04'
-  name: Conakry
-- cities:
-  - {name: T}
-  code: '07'
-  name: Dinguiraye
-- cities:
-  - {name: Lab}
-  code: '34'
-  name: Labe
-- cities:
-  - {name: Lola}
-  code: '36'
-  name: Lola
+- {code: '03', name: Boke}
+- {code: '04', name: Conakry}
+- {code: '07', name: Dinguiraye}
+- {code: '34', name: Labe}
+- {code: '36', name: Lola}

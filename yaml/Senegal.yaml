@@ -1,55 +1,10 @@
-- cities:
-  - {name: Matam}
-  code: '15'
-  name: ''
-- cities:
-  - {name: Saint-louis}
-  code: '14'
-  name: ''
-- cities:
-  - {name: Louga}
-  code: '13'
-  name: ''
-- cities:
-  - {name: Bargny}
-  - {name: Camb}
-  - {name: Dakar}
-  - {name: Gu}
-  - {name: Hann}
-  - {name: Ouakam}
-  - {name: Rufisque}
-  code: '01'
-  name: Dakar
-- cities:
-  - {name: Diourbel}
-  - {name: Touba}
-  code: '03'
-  name: Diourbel
-- cities:
-  - {name: Kaolack}
-  - {name: Koungueul}
-  code: '10'
-  name: Kaolack
-- cities:
-  - {name: Kolda}
-  - {name: M}
-  - {name: Touba}
-  code: '11'
-  name: Kolda
-- cities:
-  - {name: Dial}
-  code: '04'
-  name: Saint-Louis
-- cities:
-  - {name: Joal}
-  - {name: Massar}
-  - {name: Mbour}
-  - {name: Nianing}
-  - {name: Somone}
-  - {name: Thi}
-  code: '07'
-  name: Thies
-- cities:
-  - {name: Ziguinchor}
-  code: '12'
-  name: Ziguinchor
+- {code: '15', name: ''}
+- {code: '14', name: ''}
+- {code: '13', name: ''}
+- {code: '01', name: Dakar}
+- {code: '03', name: Diourbel}
+- {code: '10', name: Kaolack}
+- {code: '11', name: Kolda}
+- {code: '04', name: Saint-Louis}
+- {code: '07', name: Thies}
+- {code: '12', name: Ziguinchor}

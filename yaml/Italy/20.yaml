@@ -1,0 +1,810 @@
+- {name: Abano}
+- {name: Abano Terme}
+- {name: Acquabona}
+- {name: Adria}
+- {name: Affi}
+- {name: Agnolo}
+- {name: Agordo}
+- {name: Agugliaro}
+- {name: Albaredo D'adige}
+- {name: Albettone}
+- {name: Albignasego}
+- {name: Albina}
+- {name: Aldegheri}
+- {name: Alla}
+- {name: Alleghe}
+- {name: Altavilla Vicentina}
+- {name: Alvera}
+- {name: Anguillara}
+- {name: Annone Veneto}
+- {name: Anterivo}
+- {name: Anzano}
+- {name: Araba}
+- {name: Arabba}
+- {name: Arcade}
+- {name: Arcole}
+- {name: Arcugnano}
+- {name: Ariano Nel Polesine}
+- {name: Arqua Petrarca}
+- {name: Arre}
+- {name: Arsego}
+- {name: Arsiero}
+- {name: Arzergrande}
+- {name: Arzignano}
+- {name: Asiago}
+- {name: Asolo}
+- {name: Auronzo}
+- {name: Auronzo Di Cadore}
+- {name: Avio}
+- {name: Badia Calavena}
+- {name: Badia Polesine}
+- {name: Badoere}
+- {name: Bagnoli Di Sopra}
+- {name: Bagnolo San Vito}
+- {name: Baito}
+- {name: Baone}
+- {name: Barbarano Vicentino}
+- {name: Barbariga}
+- {name: Bardolino}
+- {name: Barriera}
+- {name: Baruchella}
+- {name: Bassano Del Grappa}
+- {name: Battaglia Terme}
+- {name: Battiferro}
+- {name: Bavaria}
+- {name: Belfiore}
+- {name: Bellombra}
+- {name: Belluno}
+- {name: Bergantino}
+- {name: Berra}
+- {name: Berta}
+- {name: Bevilacqua}
+- {name: Biadene}
+- {name: Biancade}
+- {name: Bibione}
+- {name: Bindella}
+- {name: Boaria}
+- {name: Bolzano Vicentino}
+- {name: Bonaldo}
+- {name: Bonazza}
+- {name: Bonelli}
+- {name: Bonferraro}
+- {name: Bonisiolo}
+- {name: Borca Di Cadore}
+- {name: Borgo Roma}
+- {name: Borgo Valsugana}
+- {name: Borgoricco}
+- {name: Borso Del Grappa}
+- {name: Borsoi}
+- {name: Bosaro}
+- {name: Bosco Chiesanuova}
+- {name: Bottrighe}
+- {name: Bovo}
+- {name: Bovolenta}
+- {name: Bovolone}
+- {name: Breda Di Piave}
+- {name: Breganze}
+- {name: Breguzzo}
+- {name: Brendola}
+- {name: Brentonico}
+- {name: Bressanvido}
+- {name: Bribano}
+- {name: Brugine}
+- {name: Bulla}
+- {name: Buosi}
+- {name: Burano}
+- {name: Busche}
+- {name: Busco}
+- {name: Bussolengo}
+- {name: Busta}
+- {name: Buttapietra}
+- {name: Ca Giustinian}
+- {name: Cadoneghe}
+- {name: Caffaro}
+- {name: Cagnola}
+- {name: Calalzo}
+- {name: Calalzo Di Cadore}
+- {name: Calderano}
+- {name: Caldogno}
+- {name: Caltana}
+- {name: Calto}
+- {name: Caltrano}
+- {name: Calvecchia}
+- {name: Calvene}
+- {name: Camin}
+- {name: Camisano Vicentino}
+- {name: Campagna Lupia}
+- {name: Campagnolo}
+- {name: Campalto}
+- {name: Campanella}
+- {name: Campestrin}
+- {name: Campiglia Dei Berici}
+- {name: Campo Di Pietra}
+- {name: Campo San Martino}
+- {name: Campo San Pietro}
+- {name: Campodarsego}
+- {name: Campodoro}
+- {name: Campolongo}
+- {name: Campolongo Maggiore}
+- {name: Camponogara}
+- {name: Camposampiero}
+- {name: Canazei}
+- {name: Canazei Di Fassa}
+- {name: Candel}
+- {name: Cantarana}
+- {name: Canton}
+- {name: Caorle}
+- {name: Capo Sile}
+- {name: Cappella Maggiore}
+- {name: Cappelletta}
+- {name: Caprino Veronese}
+- {name: Carbonara Di Po}
+- {name: Carbonari}
+- {name: Carbonera}
+- {name: Carcereri}
+- {name: Carezza}
+- {name: Carinato}
+- {name: Carit}
+- {name: Carmignano}
+- {name: Carmignano Di Brenta}
+- {name: Casa Bianca}
+- {name: Casabella}
+- {name: Casal}
+- {name: Casale Di Scodosia}
+- {name: Casale Sul Sile}
+- {name: Casaleone}
+- {name: Casalserugo}
+- {name: Casan}
+- {name: Casi}
+- {name: Casotto}
+- {name: Castagnaro}
+- {name: Castelcucco}
+- {name: Castelfranco Veneto}
+- {name: Castelgomberto}
+- {name: Castelguglielmo}
+- {name: Castellavazzo}
+- {name: Castello Di Godego}
+- {name: Castello Lavazzo}
+- {name: Castello Tesino}
+- {name: Castellucchio}
+- {name: Castelmassa}
+- {name: Castion}
+- {name: Cavaion Veronese}
+- {name: Cavalese}
+- {name: Cavalier}
+- {name: Cavarzere}
+- {name: Cavazzana}
+- {name: Ceggia}
+- {name: Celledizzo}
+- {name: Cencenighe}
+- {name: Ceneselli}
+- {name: Centrale}
+- {name: Centro}
+- {name: Cerea}
+- {name: Ceregnano}
+- {name: Ceresara}
+- {name: Cesiomaggiore}
+- {name: Cessalto}
+- {name: Cesta}
+- {name: Chiampo}
+- {name: Chiarano}
+- {name: Chiavicone}
+- {name: Chioggia}
+- {name: Chiuppano}
+- {name: Cibiana Di Cadore}
+- {name: Cimadolmo}
+- {name: Cimego}
+- {name: Cinte Tesino}
+- {name: Cinto Caomaggiore}
+- {name: Cinto Euganeo}
+- {name: Cittadella}
+- {name: Civ}
+- {name: Codevigo}
+- {name: Codogn}
+- {name: Cogollo Del Cengio}
+- {name: Cogolo}
+- {name: Cojana}
+- {name: Col}
+- {name: Colle Umberto}
+- {name: Cologna Veneta}
+- {name: Colombera}
+- {name: Cona}
+- {name: Concordia Sagittaria}
+- {name: Condino}
+- {name: Conegliano}
+- {name: Conselve}
+- {name: Contarina}
+- {name: Copparo}
+- {name: Corbanese}
+- {name: Cordignano}
+- {name: Cornedo}
+- {name: Cornedo Vicentino}
+- {name: Cornuda}
+- {name: Cortellazzo}
+- {name: Corvara In Badia}
+- {name: Costabissara}
+- {name: Costermano}
+- {name: Covolo}
+- {name: Crea}
+- {name: Creazzo}
+- {name: Crespano Del Grappa}
+- {name: Croceron}
+- {name: Crosara}
+- {name: Crosare}
+- {name: Curtarolo}
+- {name: Cusinati}
+- {name: Darzo}
+- {name: Dese}
+- {name: Deserto}
+- {name: Dolc}
+- {name: Dolo}
+- {name: Domegge}
+- {name: Domegge Di Cadore}
+- {name: Domegliara}
+- {name: Donada}
+- {name: Dont}
+- {name: Donzella}
+- {name: Dorigo}
+- {name: Dossobuono}
+- {name: Dosson}
+- {name: Dueville}
+- {name: Eraclea}
+- {name: Erb}
+- {name: Este}
+- {name: Falcade}
+- {name: Falz}
+- {name: Fara Vicentino}
+- {name: Farra}
+- {name: Farra Di Soligo}
+- {name: Favaro Veneto}
+- {name: Feder}
+- {name: Feltre}
+- {name: Fiera Di Primiero}
+- {name: Fiesso D'artico}
+- {name: Fiumicello}
+- {name: Follina}
+- {name: Fontaniva}
+- {name: Fontigo}
+- {name: Fonzaso}
+- {name: Forni}
+- {name: Forno Di Zoldo}
+- {name: Forti}
+- {name: Fossalta Di Piave}
+- {name: Fossalta Di Portogruaro}
+- {name: Franca}
+- {name: Francenigo}
+- {name: Francesco}
+- {name: Fratta Polesine}
+- {name: Fregona}
+- {name: Fumane}
+- {name: Fusina}
+- {name: Gaiarine}
+- {name: Gaino}
+- {name: Galliera Veneta}
+- {name: Gallio}
+- {name: Galzignano}
+- {name: Garda}
+- {name: Gardone Riviera}
+- {name: Gargnano}
+- {name: Garibaldi}
+- {name: Gavaz}
+- {name: Gavello}
+- {name: Gazoldo}
+- {name: Gazzo Veronese}
+- {name: Ghisa}
+- {name: Giara}
+- {name: Giavera}
+- {name: Giavera Del Montello}
+- {name: Giudecca}
+- {name: Glurns}
+- {name: Godega}
+- {name: Goito}
+- {name: Gorgo Al Monticano}
+- {name: Governolo}
+- {name: Gr}
+- {name: Grantorto}
+- {name: Grazie}
+- {name: Grezzana}
+- {name: Grigno}
+- {name: Grisignano Di Zocco}
+- {name: Gruaro}
+- {name: Guarda Veneta}
+- {name: Guia}
+- {name: Guidizzolo}
+- {name: Iesolo}
+- {name: Ignago}
+- {name: Il Bosco}
+- {name: Il Capitello}
+- {name: Il Corso}
+- {name: Il Piano}
+- {name: Illasi}
+- {name: Isola Della Scala}
+- {name: Isola Vicentina}
+- {name: Istrana}
+- {name: Jesolo}
+- {name: La Campagnola}
+- {name: La Muda}
+- {name: La Posta Vecchia}
+- {name: La Salute}
+- {name: La Valle Agordina}
+- {name: Laghi}
+- {name: Lame}
+- {name: Lamon}
+- {name: Lancenigo}
+- {name: Lanzoni}
+- {name: Lastra}
+- {name: Lazise}
+- {name: Legnago}
+- {name: Legnaro}
+- {name: Lendinara}
+- {name: Lentiai}
+- {name: Lev}
+- {name: Limana}
+- {name: Limena}
+- {name: Limone}
+- {name: Limone Sul Garda}
+- {name: Lissaro}
+- {name: Livinallongo Del Col Di Lana}
+- {name: Loncon}
+- {name: Longa}
+- {name: Longare}
+- {name: Longarone}
+- {name: Lonigo}
+- {name: Loreggia}
+- {name: Lorenzago}
+- {name: Lorenzago Di Cadore}
+- {name: Lorenzi}
+- {name: Loreo}
+- {name: Loria}
+- {name: Lozzo Atestino}
+- {name: Lozzo Di Cadore}
+- {name: Luca}
+- {name: Lugagnano}
+- {name: Lupatoto}
+- {name: Lusia}
+- {name: Maderno}
+- {name: Magnacavallo}
+- {name: Magnadola}
+- {name: Magona}
+- {name: Malcesine}
+- {name: Malcontenta}
+- {name: Malles Venosta}
+- {name: Malo}
+- {name: Malpaga}
+- {name: Mals}
+- {name: Mama}
+- {name: Mansu}
+- {name: Mantova}
+- {name: Mantua}
+- {name: Marano Di Valpolicella}
+- {name: Marano Vicentino}
+- {name: Marcaria}
+- {name: Marche}
+- {name: Marcon}
+- {name: Marengo}
+- {name: Mareno Di Piave}
+- {name: Mares}
+- {name: Marghera}
+- {name: Marin}
+- {name: Marini}
+- {name: Marostica}
+- {name: Martellago}
+- {name: Maser}
+- {name: Maserada Sul Piave}
+- {name: Maso}
+- {name: Mazzin}
+- {name: Mazzocco}
+- {name: Meano}
+- {name: Meduna Di Livenza}
+- {name: Mel}
+- {name: Melara}
+- {name: Meolo}
+- {name: Merlara}
+- {name: Mestre}
+- {name: Mestrino}
+- {name: Mezzavia}
+- {name: Miane}
+- {name: Minerbe}
+- {name: Mira}
+- {name: Mirabella}
+- {name: Mirano}
+- {name: Modolo}
+- {name: Moena}
+- {name: Mogliano Veneto}
+- {name: Molina}
+- {name: Molina Di Ledro}
+- {name: Monastier Di Treviso}
+- {name: Mondini}
+- {name: Monselice}
+- {name: Montagnana}
+- {name: Montanara}
+- {name: Monte Di Malo}
+- {name: Montebello Vicentino}
+- {name: Montebelluna}
+- {name: Montecchia}
+- {name: Montecchio Maggiore}
+- {name: Montechiaro}
+- {name: Montegaldella}
+- {name: Montegrotto Terme}
+- {name: Montemezzo}
+- {name: Monteviale}
+- {name: Monticello Conte Otto}
+- {name: Montorio Veronese}
+- {name: Montorso}
+- {name: Montorso Vicentino}
+- {name: Monzambano}
+- {name: Morgano}
+- {name: Moriago}
+- {name: Moriago Della Battaglia}
+- {name: Mosnigo}
+- {name: Motta Di Livenza}
+- {name: Mozzecane}
+- {name: Mugnai}
+- {name: Murano}
+- {name: Mure}
+- {name: Muse}
+- {name: Musile}
+- {name: Musile Di Piave}
+- {name: Nanto}
+- {name: Negrar}
+- {name: Negrisia}
+- {name: Nervesa}
+- {name: Niccolo}
+- {name: Noale}
+- {name: Nogar}
+- {name: Nogara}
+- {name: Nogarole Rocca}
+- {name: Nove}
+- {name: Noventa}
+- {name: Noventa Di Piave}
+- {name: Noventa Vicentina}
+- {name: Oderzo}
+- {name: Onara}
+- {name: Oppeano}
+- {name: Orgiano}
+- {name: Oriago}
+- {name: Ormelle}
+- {name: Orsago}
+- {name: Ortisei}
+- {name: Ospedaletto Euganeo}
+- {name: Ospitale Di Cadore}
+- {name: Ospitaletto}
+- {name: Ostiglia}
+- {name: Padova}
+- {name: Padua}
+- {name: Paese}
+- {name: Palazzetto}
+- {name: Palazzi}
+- {name: Pantani}
+- {name: Paolino}
+- {name: Passarella}
+- {name: Pastrengo}
+- {name: Patavium}
+- {name: Pedavena}
+- {name: Pederiva}
+- {name: Pederobba}
+- {name: Peio}
+- {name: Pellegrina}
+- {name: Pellestrina}
+- {name: Pelos}
+- {name: Peri}
+- {name: Pernumia}
+- {name: Peron}
+- {name: Pescantina}
+- {name: Peschiera Del Garda}
+- {name: Peseggia}
+- {name: Pettorazza}
+- {name: Pezzo}
+- {name: Pezzoli}
+- {name: Pi}
+- {name: Pian}
+- {name: Pianezze}
+- {name: Pianiga}
+- {name: Pianzano}
+- {name: Piatta}
+- {name: Piavon}
+- {name: Piazza Mercato}
+- {name: Piazzetta}
+- {name: Piazzola}
+- {name: Piazzola Sul Brenta}
+- {name: Pietra}
+- {name: Pieve Di Cadore}
+- {name: Pieve Di Soligo}
+- {name: Pieve Tesino}
+- {name: Pincara}
+- {name: Piove Di Sacco}
+- {name: Piovene Rocchette}
+- {name: Placa}
+- {name: Placca}
+- {name: Poggio Rusco}
+- {name: Poiana}
+- {name: Poiana Maggiore}
+- {name: Polesella}
+- {name: Poletto}
+- {name: Ponso}
+- {name: Ponte Di Barbarano}
+- {name: Ponte Di Legno}
+- {name: Ponte Di Piave}
+- {name: Ponte Nelle Alpi}
+- {name: Ponte San Nicol}
+- {name: Pontelongo}
+- {name: Ponton}
+- {name: Porto Levante}
+- {name: Porto Marghera}
+- {name: Porto Tolle}
+- {name: Porto Viro}
+- {name: Portobuffol}
+- {name: Portogruaro}
+- {name: Portovecchio}
+- {name: Posina}
+- {name: Possagno}
+- {name: Povegliano}
+- {name: Povegliano Veronese}
+- {name: Pozzale}
+- {name: Pozzobon}
+- {name: Pozzolengo}
+- {name: Pozzoleone}
+- {name: Pozzonovo}
+- {name: Pramaggiore}
+- {name: Preara}
+- {name: Predazzo}
+- {name: Preganziol}
+- {name: Pressana}
+- {name: Prova}
+- {name: Puos}
+- {name: Quantin}
+- {name: Quarto D'altino}
+- {name: Quattro Fontane}
+- {name: Quero}
+- {name: Quinto Di Treviso}
+- {name: Quinto Vicentino}
+- {name: Quistello}
+- {name: R}
+- {name: Raldon}
+- {name: Ramera}
+- {name: Ramon}
+- {name: Rampazzo}
+- {name: Reane}
+- {name: Recoaro Terme}
+- {name: Redena}
+- {name: Refavaie}
+- {name: Refrontolo}
+- {name: Rena}
+- {name: Resana}
+- {name: Revere}
+- {name: Revine Lago}
+- {name: Rialto}
+- {name: Riese}
+- {name: Riva}
+- {name: Rivale}
+- {name: Rivoltella}
+- {name: Roana}
+- {name: Rodigo}
+- {name: Roggia}
+- {name: Rolle}
+- {name: Ronc}
+- {name: Roncade}
+- {name: Roncadelle}
+- {name: Roncegno}
+- {name: Roncoferraro}
+- {name: Roncone}
+- {name: Rosolina}
+- {name: Rossi}
+- {name: Rossignago}
+- {name: Roverbella}
+- {name: Rovigo}
+- {name: Rovolon}
+- {name: Rubano}
+- {name: S}
+- {name: Sacca}
+- {name: Saccolongo}
+- {name: Salara}
+- {name: Salce}
+- {name: Salcedo}
+- {name: Salgareda}
+- {name: Salizzole}
+- {name: Salute}
+- {name: Salzano}
+- {name: San Basilio}
+- {name: San Benedetto Po}
+- {name: San Biagio Di Callalta}
+- {name: San Bonifacio}
+- {name: San Bortolo}
+- {name: San Briccio}
+- {name: San Daniele}
+- {name: San Don}
+- {name: San Fior}
+- {name: San Giorgio In Bosco}
+- {name: San Giovanni Lupatoto}
+- {name: San Gottardo}
+- {name: San Maria}
+- {name: San Martino Buon Albergo}
+- {name: San Martino Di Lupari}
+- {name: San Martino Di Venezze}
+- {name: San Michele}
+- {name: San Michele Al Tagliamento}
+- {name: San Pietro In G}
+- {name: San Pietro Viminario}
+- {name: San Polo Di Piave}
+- {name: San Stino Di Livenza}
+- {name: San Vendemiano}
+- {name: San Vigilio}
+- {name: San Vito Di Leguzzano}
+- {name: San Zeno}
+- {name: San Zenone}
+- {name: San Zenone Degli Ezzelini}
+- {name: Sandon}
+- {name: Sandrigo}
+- {name: Sanguinetto}
+- {name: Santa Giustina Bellunese}
+- {name: Santa Giustina In Colle}
+- {name: Santa Lucia Di Piave}
+- {name: Santa Maria Di Sala}
+- {name: Santo Stino}
+- {name: Santo Stino Di Livenza}
+- {name: Santorso}
+- {name: Sarcedo}
+- {name: Sarmede}
+- {name: Sarmeola}
+- {name: Scandolara}
+- {name: Schiavi}
+- {name: Schiavon}
+- {name: Schio}
+- {name: School}
+- {name: Scorz}
+- {name: Sedico}
+- {name: Sega}
+- {name: Segat}
+- {name: Selva Del Montello}
+- {name: Selvazzano Dentro}
+- {name: Seren Del Grappa}
+- {name: Sermide}
+- {name: Signoressa}
+- {name: Silea}
+- {name: Sirmione}
+- {name: Siror}
+- {name: Soave}
+- {name: Soccher}
+- {name: Solagna}
+- {name: Solda}
+- {name: Solesino}
+- {name: Solferino}
+- {name: Soligo}
+- {name: Sommacampagna}
+- {name: Sommavilla}
+- {name: Sona}
+- {name: Sospirolo}
+- {name: Sossai}
+- {name: Sossano}
+- {name: Sotto}
+- {name: Soverzene}
+- {name: Spiazzo}
+- {name: Spin}
+- {name: Spinea}
+- {name: Spresiano}
+- {name: Stanghella}
+- {name: Stelvio}
+- {name: Storo}
+- {name: Stra}
+- {name: Stradone}
+- {name: Susegana}
+- {name: Sustinente}
+- {name: Taglio}
+- {name: Taglio Di Po}
+- {name: Taibon}
+- {name: Tarzo}
+- {name: Teglio Veneto}
+- {name: Telve}
+- {name: Tempio}
+- {name: Tencarola}
+- {name: Teolo}
+- {name: Terrossa}
+- {name: Tesero}
+- {name: Tessera}
+- {name: Tezze}
+- {name: Tezze Sul Brenta}
+- {name: Thiene}
+- {name: Tognana}
+- {name: Tolotti}
+- {name: Tombolino}
+- {name: Tombolo}
+- {name: Tonale}
+- {name: Tonezza}
+- {name: Torcello}
+- {name: Tornova}
+- {name: Torre Di Mosto}
+- {name: Torrebelvicino}
+- {name: Torreglia}
+- {name: Torri Del Benaco}
+- {name: Torri Di Quartesolo}
+- {name: Toscolano Maderno}
+- {name: Transacqua}
+- {name: Tre Ponti}
+- {name: Trebaseleghe}
+- {name: Trecenta}
+- {name: Tregnago}
+- {name: Treponti}
+- {name: Treporti}
+- {name: Trevenzuolo}
+- {name: Treviso}
+- {name: Tribano}
+- {name: Trich}
+- {name: Trichiana}
+- {name: Trissino}
+- {name: Valdagno}
+- {name: Valdobbiadene}
+- {name: Valeggio Sul Mincio}
+- {name: Vall}
+- {name: Vallarsa}
+- {name: Valle Di Cadore}
+- {name: Vallese}
+- {name: Vallesella}
+- {name: Valletta}
+- {name: Valli Del Pasubio}
+- {name: Vallonga}
+- {name: Valmareno}
+- {name: Valstagna}
+- {name: Vanzo}
+- {name: Vascon}
+- {name: Vazzola}
+- {name: Vedelago}
+- {name: Veggiano}
+- {name: Venas}
+- {name: Venetia}
+- {name: Veneto}
+- {name: Venezia}
+- {name: Venice}
+- {name: Verona}
+- {name: Veronella}
+- {name: Vestenanova}
+- {name: Vicenza}
+- {name: Vidor}
+- {name: Vigasio}
+- {name: Vignole}
+- {name: Vigo Di Cadore}
+- {name: Vigo Di Fassa}
+- {name: Vigodarzere}
+- {name: Vigonza}
+- {name: Villa Bartolomea}
+- {name: Villa Del Conte}
+- {name: Villa Estense}
+- {name: Villabruna}
+- {name: Villadose}
+- {name: Villafontana}
+- {name: Villafranca Di Verona}
+- {name: Villaga}
+- {name: Villaganzerla}
+- {name: Villaggio}
+- {name: Villamarzana}
+- {name: Villanova Del Ghebbo}
+- {name: Villaverla}
+- {name: Villorba}
+- {name: Vinigo}
+- {name: Virgilio}
+- {name: Visnadello}
+- {name: Vittorio}
+- {name: Vittorio Veneto}
+- {name: Vodo}
+- {name: Vodo Cadore}
+- {name: Volargne}
+- {name: Volla}
+- {name: Volpago}
+- {name: Volpago Del Montello}
+- {name: Volta Mantovana}
+- {name: Voltago}
+- {name: Wolkenstein}
+- {name: Zago}
+- {name: Zampi}
+- {name: Zan}
+- {name: Zanetti}
+- {name: Zanon}
+- {name: Zelarino}
+- {name: Zelo}
+- {name: Zenson Di Piave}
+- {name: Zerman}
+- {name: Zermeghedo}
+- {name: Zero Branco}
+- {name: Zevio}
+- {name: Ziano Di Fiemme}
+- {name: Zoppe}
+- {name: Zovencedo}

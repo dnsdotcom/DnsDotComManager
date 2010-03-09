@@ -1,4 +1,1 @@
-- cities:
-  - {name: Ouagadougou}
-  code: '53'
-  name: Kadiogo
+- {code: '53', name: Kadiogo}

@@ -1,0 +1,782 @@
+- {name: ''}
+- {name: Abilly}
+- {name: Ablis}
+- {name: Abondant}
+- {name: Aigurande}
+- {name: Aillant}
+- {name: Aize}
+- {name: Allonville}
+- {name: Allouis}
+- {name: Ambillou}
+- {name: Amboise}
+- {name: Amilly}
+- {name: Andeville}
+- {name: Anet}
+- {name: Angerville}
+- {name: Angervilliers}
+- {name: Arcole}
+- {name: Ardenay}
+- {name: Ardentes}
+- {name: Ardon}
+- {name: Argent}
+- {name: Argent-sur-sauldre}
+- {name: Argenton-sur-creuse}
+- {name: Argeville}
+- {name: Argy}
+- {name: Armenonville}
+- {name: Arnouville}
+- {name: Arpheuilles}
+- {name: Arrabloy}
+- {name: Arrou}
+- {name: Artannes}
+- {name: Artannes-sur-indre}
+- {name: Artenay}
+- {name: Arthon}
+- {name: Arville}
+- {name: Ascoux}
+- {name: Asni}
+- {name: Ath}
+- {name: Aubigny-sur-n}
+- {name: Aulnay-la-rivi}
+- {name: Auneau}
+- {name: Auteuil}
+- {name: Auteuil-le-roi}
+- {name: Authon-du-perche}
+- {name: Autouillet}
+- {name: Autruy-sur-juine}
+- {name: Autry-le-ch}
+- {name: Auvers}
+- {name: Auxy}
+- {name: Auzouer-en-touraine}
+- {name: Avaray}
+- {name: Avoine}
+- {name: Az}
+- {name: Azay-sur-cher}
+- {name: B}
+- {name: Baigneaux}
+- {name: Baillot}
+- {name: Ballan}
+- {name: Ballan-mir}
+- {name: Barjouville}
+- {name: Basses Vall}
+- {name: Batilly}
+- {name: Baugy}
+- {name: Baule}
+- {name: Bazainville}
+- {name: Bazoches-les-gallerandes}
+- {name: Bazoches-sur-le-betz}
+- {name: Beauch}
+- {name: Beaugency}
+- {name: Beaulieu-sur-loire}
+- {name: Beaumont-en-v}
+- {name: Beaumont-la-ronce}
+- {name: Beaumont-les-autels}
+- {name: Beaune-la-rolande}
+- {name: Beauvois}
+- {name: Berch}
+- {name: Berry}
+- {name: Bertin}
+- {name: Betz}
+- {name: Betz-le-ch}
+- {name: Beynes}
+- {name: Bierville}
+- {name: Bignon}
+- {name: Bl}
+- {name: Blainville}
+- {name: Bleury}
+- {name: Blois}
+- {name: Boigny}
+- {name: Boigny-sur Bionne}
+- {name: Boinvilliers}
+- {name: Bois-le-roi}
+- {name: Boiscommun}
+- {name: Boismorand}
+- {name: Boisseaux}
+- {name: Boissy}
+- {name: Boissy-sous-saint-yon}
+- {name: Boisville}
+- {name: Boitier}
+- {name: Bonchamp}
+- {name: Bonnelles}
+- {name: Bonneuil}
+- {name: Bordebure}
+- {name: Bouilly}
+- {name: Boulay}
+- {name: Boulay-les-barres}
+- {name: Boullay-les-troux}
+- {name: Bourges}
+- {name: Bourgueil}
+- {name: Bouteille}
+- {name: Boutervilliers}
+- {name: Boutigny}
+- {name: Bouzonville}
+- {name: Bouzy}
+- {name: Bouzy-la-for}
+- {name: Boynes}
+- {name: Br}
+- {name: Bracieux}
+- {name: Braye}
+- {name: Brezolles}
+- {name: Briare}
+- {name: Briis-sous-forges}
+- {name: Brinay}
+- {name: Brou}
+- {name: Bruy}
+- {name: Bullion}
+- {name: Bures-sur-yvette}
+- {name: Buxeuil}
+- {name: Buxi}
+- {name: Buzan}
+- {name: C}
+- {name: Canada}
+- {name: Cand}
+- {name: Candes-saint-martin}
+- {name: Cangey}
+- {name: Cernay-la-ville}
+- {name: Cernoy-en-berry}
+- {name: Ch}
+- {name: Chabanne}
+- {name: Chabris}
+- {name: Chailly}
+- {name: Chaingy}
+- {name: Chambord}
+- {name: Chambray}
+- {name: Chambray-l}
+- {name: Champhol}
+- {name: Champmotteux}
+- {name: Chan}
+- {name: Chanceaux}
+- {name: Chanceaux-sur-choisille}
+- {name: Chang}
+- {name: Chant}
+- {name: Chaon}
+- {name: Chappe}
+- {name: Charenton}
+- {name: Charg}
+- {name: Charmont}
+- {name: Chartres}
+- {name: Chassant}
+- {name: Chassy}
+- {name: Chauffours}
+- {name: Chaumont-sur-loire}
+- {name: Chaumont-sur-tharonne}
+- {name: Chaussy}
+- {name: Chavenay}
+- {name: Chemill}
+- {name: Chennevi}
+- {name: Chenonceaux}
+- {name: Chesnay}
+- {name: Chevannes}
+- {name: Cheverny}
+- {name: Chevilly}
+- {name: Chevreuse}
+- {name: Chilleurs}
+- {name: Chilleurs-aux-bois}
+- {name: Chinon}
+- {name: Chiron}
+- {name: Chitenay}
+- {name: Chouzy-sur-cisse}
+- {name: Chuelles}
+- {name: Cinq-mars-la-pile}
+- {name: Civry}
+- {name: Cl}
+- {name: Clairefontaine}
+- {name: Cloyes}
+- {name: Cloyes-sur-le-loir}
+- {name: Cocherel}
+- {name: Cochet}
+- {name: Coigni}
+- {name: Cologne}
+- {name: Concressault}
+- {name: Concriers}
+- {name: Contres}
+- {name: Corbeilles}
+- {name: Corbeilles-en-g}
+- {name: Corbreuse}
+- {name: Cormenon}
+- {name: Cormeray}
+- {name: Cornereau}
+- {name: Couargues}
+- {name: Coudray}
+- {name: Coulanges}
+- {name: Coullons}
+- {name: Coulombs}
+- {name: Coupigny}
+- {name: Cour-cheverny}
+- {name: Courbouzon}
+- {name: Courcy}
+- {name: Courgent}
+- {name: Courmemin}
+- {name: Courville}
+- {name: Cr}
+- {name: Crespi}
+- {name: Croisilles}
+- {name: D}
+- {name: Dadonville}
+- {name: Dammarie}
+- {name: Dammarie-en-puisaye}
+- {name: Dammartin}
+- {name: Dampierre-en-burly}
+- {name: Dancy}
+- {name: Dannemarie}
+- {name: Darvoy}
+- {name: Denonville}
+- {name: Dhuizon}
+- {name: Digny}
+- {name: Diors}
+- {name: Dolus-le-sec}
+- {name: Donnery}
+- {name: Dordives}
+- {name: Dossainville}
+- {name: Douchy}
+- {name: Dourdan}
+- {name: Dreux}
+- {name: Drou}
+- {name: Dun-sur-auron}
+- {name: Ermenonville}
+- {name: Escrennes}
+- {name: Essars}
+- {name: Esvres}
+- {name: F}
+- {name: Fains}
+- {name: Faverolles}
+- {name: Favi}
+- {name: Fay-aux-loges}
+- {name: Fein}
+- {name: Feings}
+- {name: Ferri}
+- {name: Feucherolles}
+- {name: Feux}
+- {name: Fleury-les-aubrais}
+- {name: Flexanville}
+- {name: Flins}
+- {name: Fondettes}
+- {name: Fontaine-la-rivi}
+- {name: Fontaine-raoul}
+- {name: Fontenay-l}
+- {name: Forges-les-bains}
+- {name: Fosse}
+- {name: Foucherolles}
+- {name: Fougerolles}
+- {name: Fresnay}
+- {name: Fresne}
+- {name: Fum}
+- {name: G}
+- {name: Gallardon}
+- {name: Galluis}
+- {name: Gambais}
+- {name: Garanci}
+- {name: Gellainville}
+- {name: Genest}
+- {name: Germigny}
+- {name: Gi}
+- {name: Gien}
+- {name: Gif-sur-yvette}
+- {name: Gilles}
+- {name: Giroux}
+- {name: Givry}
+- {name: Glatigny}
+- {name: Gondreville}
+- {name: Gouillons}
+- {name: Grand Luc}
+- {name: Grandchamp}
+- {name: Grandvilliers}
+- {name: Grange}
+- {name: Griselles}
+- {name: Gron}
+- {name: Gu}
+- {name: Guerville}
+- {name: Gy}
+- {name: Gy-les-nonains}
+- {name: Hanches}
+- {name: Hauterive}
+- {name: Herbault}
+- {name: Herbeville}
+- {name: Hermeray}
+- {name: Homme}
+- {name: Hommes}
+- {name: Houdan}
+- {name: Huisseau}
+- {name: Huisseau-sur-cosson}
+- {name: Huisseau-sur-mauves}
+- {name: Humbligny}
+- {name: Illiers}
+- {name: Ingr}
+- {name: Isdes}
+- {name: Issoudun}
+- {name: Janville}
+- {name: Jargeau}
+- {name: Jarry}
+- {name: Jou}
+- {name: Jouars-pontchartrain}
+- {name: Jouet}
+- {name: Jouy}
+- {name: Jumeaux}
+- {name: L}
+- {name: La Baraudi}
+- {name: La Bourse}
+- {name: La Carte}
+- {name: La Celle-gu}
+- {name: La Ch}
+- {name: La Chapelle Du Puits}
+- {name: La Chapelle-mont-martin}
+- {name: La Cogeli}
+- {name: La Cour}
+- {name: La Fert}
+- {name: La Forge}
+- {name: La Grande Motte}
+- {name: La Grande-gaudre}
+- {name: La Guerche}
+- {name: La Haye}
+- {name: La Lande}
+- {name: La Loge}
+- {name: La Loupe}
+- {name: La Martini}
+- {name: La Membrolle}
+- {name: La Mini}
+- {name: La Moli}
+- {name: La Neuville}
+- {name: La Perche}
+- {name: La Pointe}
+- {name: La Poste}
+- {name: La Puisaye}
+- {name: La Queue}
+- {name: La Riche}
+- {name: La Roich}
+- {name: La Selle}
+- {name: La Tuilerie}
+- {name: La Vallette}
+- {name: La Varenne}
+- {name: La Vernelle}
+- {name: La Verri}
+- {name: Ladon}
+- {name: Lailly}
+- {name: Lailly-en-val}
+- {name: Lamotte-beuvron}
+- {name: Lanc}
+- {name: Lande}
+- {name: Langeais}
+- {name: Langeron}
+- {name: Langey}
+- {name: Langon}
+- {name: Lar}
+- {name: Lassay}
+- {name: Le Bignon}
+- {name: Le Blanc}
+- {name: Le Boulay}
+- {name: Le Ch}
+- {name: Le Chautay}
+- {name: Le Clos}
+- {name: Le Coudray}
+- {name: Le Froid}
+- {name: Le Grand}
+- {name: Le Grand-chambonais}
+- {name: Le Haut}
+- {name: Le Haut Ray}
+- {name: Le Li}
+- {name: Le Louroux}
+- {name: Le M}
+- {name: Le Mesnil}
+- {name: Le Moulin Neuf}
+- {name: Le Moutier}
+- {name: Le P}
+- {name: Le Parc}
+- {name: Le Perray}
+- {name: Le Poin}
+- {name: Le Point Du Jour}
+- {name: Le Subdray}
+- {name: Le Village}
+- {name: Les Aix}
+- {name: Les Aubrais}
+- {name: Les Bouleaux}
+- {name: Les Bucherons}
+- {name: Les Ch}
+- {name: Les Clayes}
+- {name: Les Clayes-sous-bois}
+- {name: Les Essarts}
+- {name: Les Gen}
+- {name: Les Mesnuls}
+- {name: Les Michons}
+- {name: Les Mineaux}
+- {name: Les Moli}
+- {name: Les P}
+- {name: Les Pavillons}
+- {name: Les Places}
+- {name: Les Ressuintes}
+- {name: Levroux}
+- {name: Li}
+- {name: Ligr}
+- {name: Limours}
+- {name: Ling}
+- {name: Lion}
+- {name: Lisle}
+- {name: Lizeray}
+- {name: Lizy}
+- {name: Loch}
+- {name: Loches}
+- {name: Loges}
+- {name: Long}
+- {name: Longchamp}
+- {name: Longnes}
+- {name: Loreux}
+- {name: Louestault}
+- {name: Loury}
+- {name: Louville-la-chenard}
+- {name: Lu}
+- {name: Luant}
+- {name: Luc}
+- {name: Luceau}
+- {name: Lucioux}
+- {name: Ludon}
+- {name: Luigny}
+- {name: Luisant}
+- {name: Lumeau}
+- {name: Luray}
+- {name: Luynes}
+- {name: Lye}
+- {name: M}
+- {name: Magny}
+- {name: Maintenon}
+- {name: Mainvilliers}
+- {name: Maisons}
+- {name: Malesherbes}
+- {name: Malicorne}
+- {name: Maray}
+- {name: March}
+- {name: Marchefroy}
+- {name: Marchezais}
+- {name: Marcilly-en-gault}
+- {name: Marcq}
+- {name: Mardi}
+- {name: Mareau-aux-pr}
+- {name: Mareuil-sur-cher}
+- {name: Marsainvilliers}
+- {name: Marseilles}
+- {name: Martizay}
+- {name: Massay}
+- {name: Mauchamps}
+- {name: Maule}
+- {name: Maulette}
+- {name: Maurepas}
+- {name: Maves}
+- {name: Meauc}
+- {name: Mehun}
+- {name: Mehun-sur-y}
+- {name: Menars}
+- {name: Mennetou}
+- {name: Mer}
+- {name: Mers}
+- {name: Meslay}
+- {name: Meslay-le-grenet}
+- {name: Messas}
+- {name: Meunet-sur-vatan}
+- {name: Meung}
+- {name: Meung-sur-loire}
+- {name: Meusnes}
+- {name: Mignerette}
+- {name: Migni}
+- {name: Millan}
+- {name: Millemont}
+- {name: Milly}
+- {name: Mitterand}
+- {name: Mond}
+- {name: Mondonville}
+- {name: Monnaie}
+- {name: Mont-pr}
+- {name: Montargis}
+- {name: Montbazon}
+- {name: Montbouy}
+- {name: Montchauvet}
+- {name: Montereau}
+- {name: Montfort-l'amaury}
+- {name: Monthou}
+- {name: Monthou-sur-cher}
+- {name: Montierchaume}
+- {name: Montlandon}
+- {name: Montlouis-sur-loire}
+- {name: Montoir}
+- {name: Montoire}
+- {name: Montrichard}
+- {name: Montrieux}
+- {name: Montrieux-en-sologne}
+- {name: Montville}
+- {name: Morancez}
+- {name: Morand}
+- {name: Morigny}
+- {name: Morigny-champigny}
+- {name: Mormant}
+- {name: Mosnes}
+- {name: Mousseau}
+- {name: Mousseaux}
+- {name: Mulcent}
+- {name: N}
+- {name: Nan}
+- {name: Nancray-sur-rimarde}
+- {name: Nantilly}
+- {name: Nargis}
+- {name: Nazelles}
+- {name: Neauphle-le-ch}
+- {name: Neauphlette}
+- {name: Neuil}
+- {name: Neuill}
+- {name: Neung-sur-beuvron}
+- {name: Neuville-aux-bois}
+- {name: Neuvy}
+- {name: Neuvy-en-dunois}
+- {name: Neuvy-en-sullias}
+- {name: Nibelle}
+- {name: Nogent}
+- {name: Nogent-le-roi}
+- {name: Nogent-le-rotrou}
+- {name: Nogent-sur-vernisson}
+- {name: Nouan}
+- {name: Nouzilly}
+- {name: Noyant}
+- {name: Noyant-de-touraine}
+- {name: Noyers-sur-cher}
+- {name: Ois}
+- {name: Oisly}
+- {name: Olivet}
+- {name: Ollainville}
+- {name: Onzain}
+- {name: Orbigny}
+- {name: Org}
+- {name: Orgerus}
+- {name: Orl}
+- {name: Orme}
+- {name: Ormes}
+- {name: Ormoy}
+- {name: Orsay}
+- {name: Orval}
+- {name: Orvilliers}
+- {name: Osmery}
+- {name: Osmoy}
+- {name: Oucques}
+- {name: Oulins}
+- {name: Ouzouer}
+- {name: Ouzouer-le-march}
+- {name: Ouzouer-sur-loire}
+- {name: Oysonville}
+- {name: Ozoir}
+- {name: P}
+- {name: Panneci}
+- {name: Pannes}
+- {name: Par}
+- {name: Paray}
+- {name: Parnac}
+- {name: Patay}
+- {name: Paucourt}
+- {name: Paulmy}
+- {name: Pellegrue}
+- {name: Pellevoisin}
+- {name: Pernay}
+- {name: Perrusson}
+- {name: Pierrefitte-sur-sauldre}
+- {name: Pierres}
+- {name: Pithiviers}
+- {name: Plaisir}
+- {name: Planches}
+- {name: Plateau}
+- {name: Poigny-la-for}
+- {name: Pontault}
+- {name: Pontchartrain}
+- {name: Pontlevoy}
+- {name: Ports}
+- {name: Poulaines}
+- {name: Pouligny-notre-dame}
+- {name: Pouligny-saint-pierre}
+- {name: Pr}
+- {name: Prasville}
+- {name: Preuilly-sur-claise}
+- {name: Prin}
+- {name: Prunay}
+- {name: Pruniers}
+- {name: Puiseaux}
+- {name: Pussay}
+- {name: Quincy}
+- {name: Raymond}
+- {name: Rebr}
+- {name: Reignac-sur-indre}
+- {name: Reugny}
+- {name: Reuilly}
+- {name: Rians}
+- {name: Richarville}
+- {name: Richelieu}
+- {name: Richeville}
+- {name: Rilly-sur-vienne}
+- {name: Rivarennes}
+- {name: Rivi}
+- {name: Rivoli}
+- {name: Rochecorbon}
+- {name: Rochefort-en-yvelines}
+- {name: Roinville}
+- {name: Romainvilliers}
+- {name: Romilly}
+- {name: Romorantin}
+- {name: Rosi}
+- {name: Rouge}
+- {name: Rouillon}
+- {name: Rouvray}
+- {name: Rouvres}
+- {name: S}
+- {name: Sach}
+- {name: Saclas}
+- {name: Sailly}
+- {name: Saint Aignan}
+- {name: Saint Amand}
+- {name: Saint Christophe}
+- {name: Saint-aignan}
+- {name: Saint-arnoult}
+- {name: Saint-avertin}
+- {name: Saint-ay}
+- {name: Saint-beno}
+- {name: Saint-branchs}
+- {name: Saint-brisson}
+- {name: Saint-christophe-en-bazelle}
+- {name: Saint-claude-de-diray}
+- {name: Saint-cyr-en-val}
+- {name: Saint-cyr-sur-loire}
+- {name: Saint-denis-en-val}
+- {name: Saint-doulchard}
+- {name: Saint-fiacre}
+- {name: Saint-florent-sur-cher}
+- {name: Saint-gaultier}
+- {name: Saint-genou}
+- {name: Saint-germain-du-puy}
+- {name: Saint-gondon}
+- {name: Saint-jean-de-braye}
+- {name: Saint-jean-de-la-ruelle}
+- {name: Saint-l}
+- {name: Saint-lactencin}
+- {name: Saint-loup-des-chaumes}
+- {name: Saint-lubin-des-joncherets}
+- {name: Saint-ly}
+- {name: Saint-martin-d'abbat}
+- {name: Saint-martin-des-champs}
+- {name: Saint-maur}
+- {name: Saint-maurice-montcouronne}
+- {name: Saint-maurice-sur-aveyron}
+- {name: Saint-michel-de-volangis}
+- {name: Saint-p}
+- {name: Saint-paterne}
+- {name: Saint-paterne-racan}
+- {name: Saint-patrice}
+- {name: Saint-pierre-des-corps}
+- {name: Saint-prest}
+- {name: Saint-pryv}
+- {name: Saint-r}
+- {name: Saint-romain-sur-cher}
+- {name: Saint-vi}
+- {name: Sainte-maure}
+- {name: Salbris}
+- {name: Salle}
+- {name: Sancerre}
+- {name: Sancoins}
+- {name: Sandillon}
+- {name: Santenay}
+- {name: Saran}
+- {name: Sarr}
+- {name: Sarzay}
+- {name: Saulx}
+- {name: Saulx-marchais}
+- {name: Saussay}
+- {name: Sausset}
+- {name: Savign}
+- {name: Savigny-en-septaine}
+- {name: Savonni}
+- {name: Seichebri}
+- {name: Selles}
+- {name: Semblan}
+- {name: Senlisse}
+- {name: Senonches}
+- {name: Septeuil}
+- {name: Sigloy}
+- {name: Soignolles}
+- {name: Soings}
+- {name: Solterre}
+- {name: Somme}
+- {name: Sonchamp}
+- {name: Sorel-moussel}
+- {name: Sorigny}
+- {name: Sort}
+- {name: Souesmes}
+- {name: Soug}
+- {name: Sougy}
+- {name: Sours}
+- {name: Sublaines}
+- {name: Subligny}
+- {name: Sully}
+- {name: Sully-sur-loire}
+- {name: Sury-pr}
+- {name: Talcy}
+- {name: Tauxigny}
+- {name: Tavers}
+- {name: Teillay}
+- {name: Tendron}
+- {name: Tendu}
+- {name: Terminiers}
+- {name: Terray}
+- {name: Th}
+- {name: Theillay}
+- {name: Thenay}
+- {name: Thilouze}
+- {name: Thimory}
+- {name: Thiverval-grignon}
+- {name: Tigy}
+- {name: Tivernon}
+- {name: Tour}
+- {name: Tourailles}
+- {name: Touraine}
+- {name: Tours}
+- {name: Toury}
+- {name: Tra}
+- {name: Trappes}
+- {name: Trouy}
+- {name: Truyes}
+- {name: V}
+- {name: Vacheresses}
+- {name: Vall}
+- {name: Vannes-sur-cosson}
+- {name: Vasselay}
+- {name: Vatan}
+- {name: Vaugrigneuse}
+- {name: Vauzelles}
+- {name: Veign}
+- {name: Venant}
+- {name: Vend}
+- {name: Vennecy}
+- {name: Vernet}
+- {name: Vernou-sur-brenne}
+- {name: Verri}
+- {name: Vicq-sur-nahon}
+- {name: Vienne-en-val}
+- {name: Vierzon}
+- {name: Vignoux-sur-barangeon}
+- {name: Vigny}
+- {name: Vilaine}
+- {name: Villaines}
+- {name: Villandry}
+- {name: Villards}
+- {name: Villebarou}
+- {name: Villebon}
+- {name: Villebourg}
+- {name: Villechauve}
+- {name: Villed}
+- {name: Villeherviers}
+- {name: Villemandeur}
+- {name: Villemeux}
+- {name: Villemeux-sur-eure}
+- {name: Villereau}
+- {name: Villeron}
+- {name: Villiers-le-b}
+- {name: Villiers-saint-fr}
+- {name: Vineuil}
+- {name: Vitry}
+- {name: Vitry-aux-loges}
+- {name: Voves}
+- {name: Y}
+- {name: Yermenonville}
+- {name: Yerville}
+- {name: Ymeray}
+- {name: Ymonville}
+- {name: Yvette}

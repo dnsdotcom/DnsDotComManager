@@ -1,0 +1,454 @@
+- {name: Acton}
+- {name: Agincourt}
+- {name: Ajax}
+- {name: Alexandria}
+- {name: Alfred}
+- {name: Allenford}
+- {name: Alliston}
+- {name: Almonte}
+- {name: Amherstburg}
+- {name: Ancaster}
+- {name: Angus}
+- {name: Apsley}
+- {name: Arnprior}
+- {name: Arthur}
+- {name: Atikokan}
+- {name: Attawapiskat}
+- {name: Aurora}
+- {name: Aylmer}
+- {name: Ayr}
+- {name: Ayton}
+- {name: Baden}
+- {name: Bala}
+- {name: Bancroft}
+- {name: Barrie}
+- {name: Barrys Bay}
+- {name: Bath}
+- {name: Bayfield}
+- {name: Beachburg}
+- {name: Beamsville}
+- {name: Bearskin Lake}
+- {name: Beaverton}
+- {name: Belle River}
+- {name: Belleville}
+- {name: Belmont}
+- {name: Bethany}
+- {name: Blenheim}
+- {name: Blind River}
+- {name: Bobcaygeon}
+- {name: Bolton}
+- {name: Borden}
+- {name: Bowmanville}
+- {name: Bracebridge}
+- {name: Bradford}
+- {name: Brampton}
+- {name: Brantford}
+- {name: Brighton}
+- {name: Britt}
+- {name: Brockville}
+- {name: Buckhorn}
+- {name: Burks Falls}
+- {name: Burlington}
+- {name: Burnaby}
+- {name: Calabogie}
+- {name: Caledon}
+- {name: Caledon East}
+- {name: Caledonia}
+- {name: Calgary}
+- {name: Cambridge}
+- {name: Campbellford}
+- {name: Cannington}
+- {name: Capreol}
+- {name: Cardinal}
+- {name: Cargill}
+- {name: Carleton Place}
+- {name: Carp}
+- {name: Casselman}
+- {name: Centralia}
+- {name: Chalk River}
+- {name: Chapleau}
+- {name: Charlton}
+- {name: Chatham}
+- {name: Chatsworth}
+- {name: Chelmsford}
+- {name: Chesley}
+- {name: Chesterville}
+- {name: Chomedey}
+- {name: Churchill}
+- {name: Clarkson}
+- {name: Clinton}
+- {name: Cobalt}
+- {name: Cobden}
+- {name: Cobourg}
+- {name: Cochrane}
+- {name: Colborne}
+- {name: Coldwater}
+- {name: Collingwood}
+- {name: Comber}
+- {name: Concord}
+- {name: Copper Cliff}
+- {name: Cornwall}
+- {name: Cottam}
+- {name: Courtice}
+- {name: Courtright}
+- {name: Creemore}
+- {name: Crystal Beach}
+- {name: Cumberland}
+- {name: Deep River}
+- {name: Deer Lake}
+- {name: Delhi}
+- {name: Desbarats}
+- {name: Deseronto}
+- {name: Don Mills}
+- {name: Downsview}
+- {name: Dresden}
+- {name: Dryden}
+- {name: Dundalk}
+- {name: Dundas}
+- {name: Dunnville}
+- {name: Dunsford}
+- {name: Durham}
+- {name: Edmonton}
+- {name: Eganville}
+- {name: Elgin}
+- {name: Elliot Lake}
+- {name: Elmira}
+- {name: Elmvale}
+- {name: Elora}
+- {name: Emerald}
+- {name: Emo}
+- {name: Englehart}
+- {name: Erieau}
+- {name: Erin}
+- {name: Espanola}
+- {name: Essex}
+- {name: Etobicoke}
+- {name: Evansville}
+- {name: Exeter}
+- {name: Fenelon Falls}
+- {name: Fergus}
+- {name: Flesherton}
+- {name: Foleyet}
+- {name: Fonthill}
+- {name: Forest}
+- {name: Fort Albany}
+- {name: Fort Erie}
+- {name: Fort Frances}
+- {name: Fort Severn}
+- {name: Foymount}
+- {name: Frankford}
+- {name: Galt}
+- {name: Gananoque}
+- {name: Garden River}
+- {name: Garson}
+- {name: Georgetown}
+- {name: Geraldton}
+- {name: Glencoe}
+- {name: Gloucester}
+- {name: Goderich}
+- {name: Gogama}
+- {name: Gore Bay}
+- {name: Grand Bend}
+- {name: Grand Valley}
+- {name: Gravenhurst}
+- {name: Greely}
+- {name: Grenville}
+- {name: Grimsby}
+- {name: Guelph}
+- {name: Hagersville}
+- {name: Haileybury}
+- {name: Haley Station}
+- {name: Haliburton}
+- {name: Halifax}
+- {name: Hamilton}
+- {name: Hanmer}
+- {name: Hanover}
+- {name: Harriston}
+- {name: Harrow}
+- {name: Hastings}
+- {name: Havelock}
+- {name: Hawkesbury}
+- {name: Hawkestone}
+- {name: Hearst}
+- {name: Hensall}
+- {name: Heron Bay}
+- {name: Hilton Beach}
+- {name: Holland}
+- {name: Hope}
+- {name: Hornepayne}
+- {name: Hull}
+- {name: Huntsville}
+- {name: Ignace}
+- {name: Ingersoll}
+- {name: Ingleside}
+- {name: Inglewood}
+- {name: Innisfil}
+- {name: Iroquois}
+- {name: Iroquois Falls}
+- {name: Kagawong}
+- {name: Kakabeka Falls}
+- {name: Kanata}
+- {name: Kapuskasing}
+- {name: Kashabowie}
+- {name: Keene}
+- {name: Keewatin}
+- {name: Kemptville}
+- {name: Kenora}
+- {name: Keswick}
+- {name: Kincardine}
+- {name: King City}
+- {name: Kingston}
+- {name: Kingsville}
+- {name: Kirkland Lake}
+- {name: Kitchener}
+- {name: L'original}
+- {name: L'orignal}
+- {name: Lac Seul}
+- {name: Lachine}
+- {name: Lakefield}
+- {name: Lancaster}
+- {name: Lansdowne}
+- {name: Larder Lake}
+- {name: Lasalle}
+- {name: Latchford}
+- {name: Laval}
+- {name: Leamington}
+- {name: Lefroy}
+- {name: Levack}
+- {name: Limoges}
+- {name: Lindsay}
+- {name: Lions Head}
+- {name: Listowel}
+- {name: Little Current}
+- {name: Lively}
+- {name: London}
+- {name: Long Sault}
+- {name: Longlac}
+- {name: Lucan}
+- {name: Lucknow}
+- {name: Lunenburg}
+- {name: Mactier}
+- {name: Madoc}
+- {name: Madsen}
+- {name: Maidstone}
+- {name: Maitland}
+- {name: Malton}
+- {name: Manitouwadge}
+- {name: Manitowaning}
+- {name: Manotick}
+- {name: Maple}
+- {name: Marathon}
+- {name: Markdale}
+- {name: Markham}
+- {name: Markstay}
+- {name: Massey}
+- {name: Matheson}
+- {name: Mattawa}
+- {name: Mattice}
+- {name: Maxville}
+- {name: Maynooth}
+- {name: Mcgregor}
+- {name: Meaford}
+- {name: Merrickville}
+- {name: Michipicoten}
+- {name: Midhurst}
+- {name: Midland}
+- {name: Mildmay}
+- {name: Millbrook}
+- {name: Millhaven}
+- {name: Milton}
+- {name: Milverton}
+- {name: Minden}
+- {name: Mississauga}
+- {name: Mitchell}
+- {name: Montreal}
+- {name: Moonbeam}
+- {name: Mooretown}
+- {name: Moose Factory}
+- {name: Moosonee}
+- {name: Morrisburg}
+- {name: Mount Forest}
+- {name: Mount Hope}
+- {name: Nakina}
+- {name: Napanee}
+- {name: Naughton}
+- {name: Nepean}
+- {name: New Hamburg}
+- {name: New Liskeard}
+- {name: Newburgh}
+- {name: Newcastle}
+- {name: Newmarket}
+- {name: Niagara}
+- {name: Niagara Falls}
+- {name: Niagara-on-the-lake}
+- {name: Nipigon}
+- {name: Nobel}
+- {name: Noelville}
+- {name: North Bay}
+- {name: Norwich}
+- {name: Norwood}
+- {name: Oakville}
+- {name: Omemee}
+- {name: Orangeville}
+- {name: Orillia}
+- {name: Orleans}
+- {name: Oshawa}
+- {name: Ottawa}
+- {name: Otter Lake}
+- {name: Owen Sound}
+- {name: Paisley}
+- {name: Pakenham}
+- {name: Palmerston}
+- {name: Parham}
+- {name: Paris}
+- {name: Parkhill}
+- {name: Parry Sound}
+- {name: Pass Lake}
+- {name: Pefferlaw}
+- {name: Pembroke}
+- {name: Penetanguishene}
+- {name: Perth}
+- {name: Petawawa}
+- {name: Peterborough}
+- {name: Petrolia}
+- {name: Pickering}
+- {name: Picton}
+- {name: Pikangikum}
+- {name: Point Claire}
+- {name: Point Edward}
+- {name: Pontypool}
+- {name: Poplar Hill}
+- {name: Port Colborne}
+- {name: Port Credit}
+- {name: Port Dover}
+- {name: Port Elgin}
+- {name: Port Hope}
+- {name: Port Mcnicoll}
+- {name: Port Perry}
+- {name: Port Stanley}
+- {name: Powassan}
+- {name: Prescott}
+- {name: Preston}
+- {name: Princeton}
+- {name: Quebec}
+- {name: Red Lake}
+- {name: Red Rock}
+- {name: Renfrew}
+- {name: Rexdale}
+- {name: Richmond}
+- {name: Richmond Hill}
+- {name: Ridgetown}
+- {name: Roblin}
+- {name: Rockland}
+- {name: Rodney}
+- {name: Rossport}
+- {name: Russell}
+- {name: Saint Catharines}
+- {name: Saint Catherines}
+- {name: Saint Marys}
+- {name: Saint Thomas}
+- {name: Saint-charles}
+- {name: Sandy Lake}
+- {name: Sarnia}
+- {name: Saskatoon}
+- {name: Sault Sainte Marie}
+- {name: Scarborough}
+- {name: Scarborough Township}
+- {name: Schreiber}
+- {name: Schumacher}
+- {name: Scotia}
+- {name: Seaforth}
+- {name: Severn Bridge}
+- {name: Sharbot Lake}
+- {name: Shelburne}
+- {name: Sherwood Park}
+- {name: Sidney}
+- {name: Simcoe}
+- {name: Sioux Lookout}
+- {name: Skead}
+- {name: Smiths Falls}
+- {name: Smithville}
+- {name: Smooth Rock Falls}
+- {name: Sombra}
+- {name: South Easthope}
+- {name: South Porcupine}
+- {name: South River}
+- {name: Southampton}
+- {name: Spanish}
+- {name: Sparta}
+- {name: Stayner}
+- {name: Stirling}
+- {name: Stittsville}
+- {name: Stoney Creek}
+- {name: Stouffville}
+- {name: Stratford}
+- {name: Strathroy}
+- {name: Streetsville}
+- {name: Sturgeon Falls}
+- {name: Sudbury}
+- {name: Sundridge}
+- {name: Sutton}
+- {name: Swastika}
+- {name: Sydenham}
+- {name: Tavistock}
+- {name: Tecumseh}
+- {name: Teeswater}
+- {name: Tehkummah}
+- {name: Terrace Bay}
+- {name: Thamesville}
+- {name: Thedford}
+- {name: Thessalon}
+- {name: Thornbury}
+- {name: Thornhill}
+- {name: Thorold}
+- {name: Thunder Bay}
+- {name: Tichborne}
+- {name: Tilbury}
+- {name: Tillsonburg}
+- {name: Tilsonburg}
+- {name: Timmins}
+- {name: Tiverton}
+- {name: Tobermory}
+- {name: Toronto}
+- {name: Torrance}
+- {name: Tottenham}
+- {name: Trenton}
+- {name: Tweed}
+- {name: Uxbridge}
+- {name: Vancouver}
+- {name: Vankleek Hill}
+- {name: Verner}
+- {name: Victoria Harbour}
+- {name: Walkerton}
+- {name: Wallaceburg}
+- {name: Wasaga Beach}
+- {name: Washago}
+- {name: Waterdown}
+- {name: Waterford}
+- {name: Waterloo}
+- {name: Watford}
+- {name: Wawa}
+- {name: Welland}
+- {name: Wellington}
+- {name: West Lorne}
+- {name: Weston}
+- {name: Westport}
+- {name: Wheatley}
+- {name: Whitby}
+- {name: Whitchurch-stouffville}
+- {name: White River}
+- {name: Whitefish}
+- {name: Whitney}
+- {name: Wiarton}
+- {name: Wilberforce}
+- {name: Willowdale}
+- {name: Winchester}
+- {name: Windsor}
+- {name: Wingham}
+- {name: Winnipeg}
+- {name: Woodbridge}
+- {name: Woodstock}
+- {name: Wyebridge}
+- {name: Wyoming}
+- {name: Yarker}
+- {name: York}

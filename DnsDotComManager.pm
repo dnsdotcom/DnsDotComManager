@@ -110,19 +110,21 @@ sub dns_query{
 
 sub api2_listCountries{
     $YAML::Syck::ImplicitTyping = 1;
-    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/locations.yaml');
-    #print $yaml;
+    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
     my @data = Load($yaml);
     
-    #print "$data[0][0]->{regions}[0]";
+    return $data[0];
+}
+
+sub api2_listRegions{
+    my %OPTS = @_;
+    my country = $OPTS{'country'}
     
-    #foreach my $country(@data){
-    #    print "pop";   
-    #}
+    $YAML::Syck::ImplicitTyping = 1;
+    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
+    my @data = Load($yaml);
     
     return $data[0];
-    
-    #return $data[0][0]->{regions}
 }
 
 sub api2_changeAuthToken{

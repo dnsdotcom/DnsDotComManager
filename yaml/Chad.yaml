@@ -1,12 +1,3 @@
-- cities:
-  - {name: Djam}
-  code: '05'
-  name: Guera
-- cities:
-  - {name: Moundou}
-  code: 08
-  name: Logone Occidental
-- cities:
-  - {name: Ab}
-  code: '12'
-  name: Ouaddai
+- {code: '05', name: Guera}
+- {code: 08, name: Logone Occidental}
+- {code: '12', name: Ouaddai}

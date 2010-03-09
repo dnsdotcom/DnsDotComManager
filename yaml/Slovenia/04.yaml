@@ -1,0 +1,189 @@
+- {name: Ajdovscina}
+- {name: Ankaran}
+- {name: Begunje}
+- {name: Begunje Pri Cerknici}
+- {name: Bertoki}
+- {name: Blagovica}
+- {name: Bled}
+- {name: Bohinjska Bistrica}
+- {name: Borovnica}
+- {name: Bovec}
+- {name: Branik}
+- {name: Brdo}
+- {name: Breginj}
+- {name: Brezovica Pri Ljubljani}
+- {name: Brnik}
+- {name: Bukovica}
+- {name: Cepovan}
+- {name: Cerklje Na Gorenjskem}
+- {name: Cerknica}
+- {name: Cerkno}
+- {name: Cesnjice}
+- {name: Crni Kal}
+- {name: Crni Vrh}
+- {name: Crnice}
+- {name: Crnomelj}
+- {name: Dekani}
+- {name: Deskle}
+- {name: Divaca}
+- {name: Dobravlje}
+- {name: Dobrovo}
+- {name: Dol Pri Ljubljani}
+- {name: Dole Pri Litiji}
+- {name: Dolenjske Toplice}
+- {name: Dolnja Kosana}
+- {name: Domzale}
+- {name: Dornberk}
+- {name: Draga}
+- {name: Dragatus}
+- {name: Dragomelj}
+- {name: Dragomer}
+- {name: Dutovlje}
+- {name: Dvor}
+- {name: Fara}
+- {name: Gabrovka}
+- {name: Godovic}
+- {name: Golnik}
+- {name: Gorica}
+- {name: Gorice}
+- {name: Gornji Grad}
+- {name: Gornji Kot}
+- {name: Gracisce}
+- {name: Gradac}
+- {name: Grosuplje}
+- {name: Hinje}
+- {name: Horjul}
+- {name: Hrusevje}
+- {name: Hrusica}
+- {name: Idrija}
+- {name: Ig}
+- {name: Ilirska Bistrica}
+- {name: Ivancna Gorica}
+- {name: Izlake}
+- {name: Izola}
+- {name: Jelsane}
+- {name: Jesenice}
+- {name: Kamnik}
+- {name: Kanal}
+- {name: Knezak}
+- {name: Kobarid}
+- {name: Kocevje}
+- {name: Komen}
+- {name: Koper}
+- {name: Kovor}
+- {name: Kozina}
+- {name: Kranj}
+- {name: Kranjska Gora}
+- {name: Kropa}
+- {name: Krtina}
+- {name: Lesce}
+- {name: Litija}
+- {name: Ljubljana}
+- {name: Ljubno Ob Savinji}
+- {name: Logatec}
+- {name: Luce}
+- {name: Lucija}
+- {name: Lukovica}
+- {name: Marezige}
+- {name: Materija}
+- {name: Medvode}
+- {name: Menges}
+- {name: Metlika}
+- {name: Miren}
+- {name: Mirna}
+- {name: Mirna Pec}
+- {name: Mojstrana}
+- {name: Mokronog}
+- {name: Moravce}
+- {name: Mosnje}
+- {name: Most Na Soci}
+- {name: Moste}
+- {name: Naklo}
+- {name: Nova Gorica}
+- {name: Novo Mesto}
+- {name: Obrov}
+- {name: Piran}
+- {name: Pivka}
+- {name: Planina Pri Rakeku}
+- {name: Pobegi}
+- {name: Podbrdo}
+- {name: Podnanos}
+- {name: Podnart}
+- {name: Polhov Gradec}
+- {name: Poljane}
+- {name: Portoroz}
+- {name: Postojna}
+- {name: Potok}
+- {name: Preddvor}
+- {name: Preserje}
+- {name: Prestranek}
+- {name: Prvacina}
+- {name: Radomlje}
+- {name: Radovljica}
+- {name: Rakek}
+- {name: Ravne}
+- {name: Rence}
+- {name: Ribnica}
+- {name: Rovte}
+- {name: Rozna Dolina}
+- {name: Rudnik}
+- {name: Sava}
+- {name: Secovlje}
+- {name: Semedela}
+- {name: Semic}
+- {name: Sempas}
+- {name: Sempeter}
+- {name: Sencur}
+- {name: Senozece}
+- {name: Sentvid Pri Sticni}
+- {name: Sentviska Gora}
+- {name: Sezana}
+- {name: Skofije}
+- {name: Skofja Loka}
+- {name: Skofljica}
+- {name: Slap Ob Idrijci}
+- {name: Smarje Pri Kopru}
+- {name: Smarje-sap}
+- {name: Smartno Ob Dreti}
+- {name: Smartno Pri Litiji}
+- {name: Smartno V Tuhinju}
+- {name: Smlednik}
+- {name: Sodrazica}
+- {name: Solkan}
+- {name: Stahovica}
+- {name: Stanjel}
+- {name: Stara Cerkev}
+- {name: Stari Trg Ob Kolpi}
+- {name: Stari Trg Pri Lozu}
+- {name: Straza}
+- {name: Tolmin}
+- {name: Toplice}
+- {name: Trata}
+- {name: Trebnje}
+- {name: Trnovo}
+- {name: Trojane}
+- {name: Trzic}
+- {name: Trzin}
+- {name: Valdoltra}
+- {name: Velika Loka}
+- {name: Velike Brusnice}
+- {name: Velike Lasce}
+- {name: Veliki Gaber}
+- {name: Verd}
+- {name: Vinje}
+- {name: Vipava}
+- {name: Vir}
+- {name: Visnja Gora}
+- {name: Vnanje Gorice}
+- {name: Vodice}
+- {name: Vremski Britof}
+- {name: Vrhnika}
+- {name: Zabnica}
+- {name: Zagorje}
+- {name: Zagorje Ob Savi}
+- {name: Zelezniki}
+- {name: Zgornja Besnica}
+- {name: Zgornje Gorje}
+- {name: Ziri}
+- {name: Zirovnica}
+- {name: Zuzemberk}

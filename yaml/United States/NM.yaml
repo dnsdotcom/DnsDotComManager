@@ -1,0 +1,211 @@
+- {name: Abiquiu}
+- {name: Alamogordo}
+- {name: Albuquerque}
+- {name: Algodones}
+- {name: Alto}
+- {name: Angel Fire}
+- {name: Anthony}
+- {name: Anton Chico}
+- {name: Arenas Valley}
+- {name: Arroyo Hondo}
+- {name: Arroyo Seco}
+- {name: Artesia}
+- {name: Aztec}
+- {name: Bard}
+- {name: Bayard}
+- {name: Belen}
+- {name: Bent}
+- {name: Bernalillo}
+- {name: Blanco}
+- {name: Bloomfield}
+- {name: Bluewater}
+- {name: Bosque}
+- {name: Bosque Farms}
+- {name: Brimhall}
+- {name: Buena Vista}
+- {name: Canjilon}
+- {name: Cannon Afb}
+- {name: Capitan}
+- {name: Carlsbad}
+- {name: Carrizozo}
+- {name: Casa Blanca}
+- {name: Cedar Crest}
+- {name: Cerrillos}
+- {name: Chama}
+- {name: Chamberino}
+- {name: Chaparral}
+- {name: Cimarron}
+- {name: Cloudcroft}
+- {name: Clovis}
+- {name: Cochiti Lake}
+- {name: Cochiti Pueblo}
+- {name: Corrales}
+- {name: Coyote}
+- {name: Crownpoint}
+- {name: Cuba}
+- {name: Cubero}
+- {name: Cuervo}
+- {name: Deming}
+- {name: Derry}
+- {name: Des Moines}
+- {name: Dexter}
+- {name: Dixon}
+- {name: Dora}
+- {name: Dulce}
+- {name: Edgewood}
+- {name: El Prado}
+- {name: El Rito}
+- {name: Elephant Butte}
+- {name: Encino}
+- {name: Espanola}
+- {name: Estancia}
+- {name: Eunice}
+- {name: Fairacres}
+- {name: Farmington}
+- {name: Flora Vista}
+- {name: Floyd}
+- {name: Fort Stanton}
+- {name: Fort Sumner}
+- {name: Fort Wingate}
+- {name: Fruitland}
+- {name: Gallina}
+- {name: Gallup}
+- {name: Gladstone}
+- {name: Glenwood}
+- {name: Glorieta}
+- {name: Grants}
+- {name: Guadalupita}
+- {name: Hagerman}
+- {name: Hatch}
+- {name: Hernandez}
+- {name: Hobbs}
+- {name: Holloman Air Force Base}
+- {name: Hondo}
+- {name: House}
+- {name: Hurley}
+- {name: Isleta}
+- {name: Jal}
+- {name: Jamestown}
+- {name: Jarales}
+- {name: Jemez Pueblo}
+- {name: Jemez Springs}
+- {name: Kirtland}
+- {name: Kirtland Afb}
+- {name: La Jara}
+- {name: La Joya}
+- {name: La Loma}
+- {name: La Luz}
+- {name: Laguna}
+- {name: Lamy}
+- {name: Las Cruces}
+- {name: Las Vegas}
+- {name: Lemitar}
+- {name: Lindrith}
+- {name: Loco Hills}
+- {name: Logan}
+- {name: Lordsburg}
+- {name: Los Alamos}
+- {name: Los Lunas}
+- {name: Los Ojos}
+- {name: Loving}
+- {name: Lovington}
+- {name: Magdalena}
+- {name: Maljamar}
+- {name: Maxwell}
+- {name: Mayhill}
+- {name: Medanales}
+- {name: Melrose}
+- {name: Mentmore}
+- {name: Mescalero}
+- {name: Mesilla}
+- {name: Mesilla Park}
+- {name: Milan}
+- {name: Mills}
+- {name: Milnesand}
+- {name: Mimbres}
+- {name: Montezuma}
+- {name: Mora}
+- {name: Moriarty}
+- {name: Mountainair}
+- {name: Navajo}
+- {name: Navajo Dam}
+- {name: New Laguna}
+- {name: Newkirk}
+- {name: Ojo Caliente}
+- {name: Organ}
+- {name: Orogrande}
+- {name: Paguate}
+- {name: Pecos}
+- {name: Pena Blanca}
+- {name: Peralta}
+- {name: Pinehill}
+- {name: Placitas}
+- {name: Ponderosa}
+- {name: Portales}
+- {name: Prewitt}
+- {name: Pueblo Of Acoma}
+- {name: Quemado}
+- {name: Questa}
+- {name: Radium Springs}
+- {name: Ramah}
+- {name: Ranchos De Taos}
+- {name: Raton}
+- {name: Red River}
+- {name: Rehoboth}
+- {name: Reserve}
+- {name: Ribera}
+- {name: Rio Rancho}
+- {name: Rociada}
+- {name: Rodeo}
+- {name: Roswell}
+- {name: Rowe}
+- {name: Roy}
+- {name: Ruidoso}
+- {name: Ruidoso Downs}
+- {name: Salem}
+- {name: San Antonio}
+- {name: San Fidel}
+- {name: San Jose}
+- {name: San Juan Pueblo}
+- {name: San Miguel}
+- {name: San Ysidro}
+- {name: Sandia Park}
+- {name: Sanostee}
+- {name: Santa Cruz}
+- {name: Santa Fe}
+- {name: Santa Rosa}
+- {name: Santa Teresa}
+- {name: Santo Domingo Pueblo}
+- {name: Sheep Springs}
+- {name: Shiprock}
+- {name: Silver City}
+- {name: Socorro}
+- {name: Springer}
+- {name: Stanley}
+- {name: Sunland Park}
+- {name: Sunspot}
+- {name: Taos}
+- {name: Taos Ski Valley}
+- {name: Tatum}
+- {name: Texico}
+- {name: Thoreau}
+- {name: Tierra Amarilla}
+- {name: Tijeras}
+- {name: Timberon}
+- {name: Trampas}
+- {name: Truth Or Consequences}
+- {name: Tucumcari}
+- {name: Tularosa}
+- {name: Tyrone}
+- {name: Vanderwagen}
+- {name: Vaughn}
+- {name: Veguita}
+- {name: Velarde}
+- {name: Villanueva}
+- {name: Waterflow}
+- {name: Weed}
+- {name: White Sands Missile Range}
+- {name: Whites City}
+- {name: Winston}
+- {name: Yatahey}
+- {name: Zuni}

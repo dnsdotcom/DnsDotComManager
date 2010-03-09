@@ -1,0 +1,309 @@
+- {name: Aberdeen}
+- {name: Ackerman}
+- {name: Algoma}
+- {name: Amory}
+- {name: Artesia}
+- {name: Ashland}
+- {name: Baldwyn}
+- {name: Bassfield}
+- {name: Batesville}
+- {name: Bay Saint Louis}
+- {name: Bay Springs}
+- {name: Beaumont}
+- {name: Belden}
+- {name: Belmont}
+- {name: Belzoni}
+- {name: Benoit}
+- {name: Benton}
+- {name: Bentonia}
+- {name: Beulah}
+- {name: Biloxi}
+- {name: Blue Mountain}
+- {name: Blue Springs}
+- {name: Bogue Chitto}
+- {name: Bolton}
+- {name: Booneville}
+- {name: Boyle}
+- {name: Brandon}
+- {name: Braxton}
+- {name: Brookhaven}
+- {name: Brooklyn}
+- {name: Brooksville}
+- {name: Bruce}
+- {name: Buckatunna}
+- {name: Bude}
+- {name: Burnsville}
+- {name: Byhalia}
+- {name: Byram}
+- {name: Caledonia}
+- {name: Calhoun City}
+- {name: Camden}
+- {name: Canton}
+- {name: Carriere}
+- {name: Carrollton}
+- {name: Carson}
+- {name: Carthage}
+- {name: Cedarbluff}
+- {name: Centreville}
+- {name: Charleston}
+- {name: Chatawa}
+- {name: Clarksdale}
+- {name: Cleveland}
+- {name: Clinton}
+- {name: Coffeeville}
+- {name: Coldwater}
+- {name: Collins}
+- {name: Collinsville}
+- {name: Columbia}
+- {name: Columbus}
+- {name: Como}
+- {name: Conehatta}
+- {name: Corinth}
+- {name: Courtland}
+- {name: Crawford}
+- {name: Crosby}
+- {name: Crystal Springs}
+- {name: D Lo}
+- {name: De Kalb}
+- {name: Decatur}
+- {name: Dennis}
+- {name: Derma}
+- {name: Diamondhead}
+- {name: Diberville}
+- {name: Drew}
+- {name: Duck Hill}
+- {name: Durant}
+- {name: Ecru}
+- {name: Edwards}
+- {name: Ellisville}
+- {name: Enid}
+- {name: Enterprise}
+- {name: Ethel}
+- {name: Etta}
+- {name: Eupora}
+- {name: Falkner}
+- {name: Fayette}
+- {name: Fernwood}
+- {name: Flora}
+- {name: Florence}
+- {name: Flowood}
+- {name: Forest}
+- {name: Foxworth}
+- {name: French Camp}
+- {name: Fulton}
+- {name: Gautier}
+- {name: Georgetown}
+- {name: Glendora}
+- {name: Gloster}
+- {name: Goodman}
+- {name: Greenville}
+- {name: Greenwood}
+- {name: Greenwood Springs}
+- {name: Grenada}
+- {name: Gulfport}
+- {name: Guntown}
+- {name: Hamilton}
+- {name: Harperville}
+- {name: Hattiesburg}
+- {name: Hazlehurst}
+- {name: Heidelberg}
+- {name: Hermanville}
+- {name: Hernando}
+- {name: Hickory}
+- {name: Hickory Flat}
+- {name: Hillsboro}
+- {name: Holcomb}
+- {name: Hollandale}
+- {name: Holly Bluff}
+- {name: Holly Springs}
+- {name: Horn Lake}
+- {name: Houlka}
+- {name: Houston}
+- {name: Indianola}
+- {name: Isola}
+- {name: Itta Bena}
+- {name: Iuka}
+- {name: Jackson}
+- {name: Jayess}
+- {name: Kilmichael}
+- {name: Kiln}
+- {name: Kosciusko}
+- {name: Lake}
+- {name: Lake Cormorant}
+- {name: Lamar}
+- {name: Lambert}
+- {name: Laurel}
+- {name: Lawrence}
+- {name: Leakesville}
+- {name: Leland}
+- {name: Lena}
+- {name: Lexington}
+- {name: Liberty}
+- {name: Little Rock}
+- {name: Long Beach}
+- {name: Lorman}
+- {name: Louin}
+- {name: Louise}
+- {name: Louisville}
+- {name: Lucedale}
+- {name: Ludlow}
+- {name: Lumberton}
+- {name: Lyon}
+- {name: Maben}
+- {name: Macon}
+- {name: Madden}
+- {name: Madison}
+- {name: Magee}
+- {name: Magnolia}
+- {name: Mantachie}
+- {name: Marietta}
+- {name: Marks}
+- {name: Mathiston}
+- {name: Mc Call Creek}
+- {name: Mc Carley}
+- {name: Mc Cool}
+- {name: Mc Henry}
+- {name: Mc Lain}
+- {name: Mccomb}
+- {name: Meadville}
+- {name: Mendenhall}
+- {name: Meridian}
+- {name: Merigold}
+- {name: Minter City}
+- {name: Mississippi State}
+- {name: Mize}
+- {name: Monticello}
+- {name: Montpelier}
+- {name: Mooreville}
+- {name: Moorhead}
+- {name: Morgan City}
+- {name: Morton}
+- {name: Moselle}
+- {name: Moss}
+- {name: Moss Point}
+- {name: Mound Bayou}
+- {name: Mount Olive}
+- {name: Myrtle}
+- {name: Natchez}
+- {name: Nesbit}
+- {name: Nettleton}
+- {name: New Albany}
+- {name: Newhebron}
+- {name: Newton}
+- {name: Nicholson}
+- {name: North Carrollton}
+- {name: Noxapater}
+- {name: Oak Vale}
+- {name: Oakland}
+- {name: Ocean Springs}
+- {name: Okolona}
+- {name: Olive Branch}
+- {name: Osyka}
+- {name: Ovett}
+- {name: Oxford}
+- {name: Paris}
+- {name: Pascagoula}
+- {name: Pass Christian}
+- {name: Pattison}
+- {name: Paulding}
+- {name: Pearl}
+- {name: Pearlington}
+- {name: Pelahatchie}
+- {name: Perkinston}
+- {name: Petal}
+- {name: Philadelphia}
+- {name: Philipp}
+- {name: Picayune}
+- {name: Pickens}
+- {name: Piney Woods}
+- {name: Pinola}
+- {name: Plantersville}
+- {name: Pocahontas}
+- {name: Pontotoc}
+- {name: Pope}
+- {name: Poplarville}
+- {name: Port Gibson}
+- {name: Prairie}
+- {name: Prentiss}
+- {name: Puckett}
+- {name: Pulaski}
+- {name: Purvis}
+- {name: Quitman}
+- {name: Raleigh}
+- {name: Randolph}
+- {name: Raymond}
+- {name: Red Banks}
+- {name: Redwood}
+- {name: Richland}
+- {name: Richton}
+- {name: Ridgeland}
+- {name: Rienzi}
+- {name: Ripley}
+- {name: Robinsonville}
+- {name: Rolling Fork}
+- {name: Rosedale}
+- {name: Roxie}
+- {name: Ruleville}
+- {name: Saltillo}
+- {name: Sandy Hook}
+- {name: Sardis}
+- {name: Saucier}
+- {name: Scott}
+- {name: Seminary}
+- {name: Senatobia}
+- {name: Shannon}
+- {name: Shaw}
+- {name: Shelby}
+- {name: Sherman}
+- {name: Shuqualak}
+- {name: Silver Creek}
+- {name: Sledge}
+- {name: Smithville}
+- {name: Sontag}
+- {name: Soso}
+- {name: Southaven}
+- {name: Star}
+- {name: Starkville}
+- {name: State Line}
+- {name: Steens}
+- {name: Stennis Space Center}
+- {name: Stewart}
+- {name: Stonewall}
+- {name: Stringer}
+- {name: Summit}
+- {name: Sumner}
+- {name: Sumrall}
+- {name: Sunflower}
+- {name: Taylor}
+- {name: Taylorsville}
+- {name: Tchula}
+- {name: Terry}
+- {name: Thaxton}
+- {name: Tishomingo}
+- {name: Toomsuba}
+- {name: Tougaloo}
+- {name: Tunica}
+- {name: Tupelo}
+- {name: Tutwiler}
+- {name: Tylertown}
+- {name: Union}
+- {name: University}
+- {name: Vaiden}
+- {name: Vancleave}
+- {name: Vaughan}
+- {name: Verona}
+- {name: Vicksburg}
+- {name: Walls}
+- {name: Walnut}
+- {name: Walnut Grove}
+- {name: Water Valley}
+- {name: Waveland}
+- {name: Waynesboro}
+- {name: Webb}
+- {name: Weir}
+- {name: Wesson}
+- {name: West}
+- {name: West Point}
+- {name: Wiggins}
+- {name: Winona}
+- {name: Yazoo City}

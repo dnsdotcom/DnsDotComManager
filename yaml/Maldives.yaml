@@ -1,8 +1,2 @@
-- cities:
-  - {name: Male}
-  code: '40'
-  name: ''
-- cities:
-  - {name: Hithadhoo}
-  code: '01'
-  name: Seenu
+- {code: '40', name: ''}
+- {code: '01', name: Seenu}

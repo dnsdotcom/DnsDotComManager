@@ -1,270 +1,31 @@
-- cities:
-  - {name: Aizkraukle}
-  - {name: Daudzeva}
-  - {name: Koknese}
-  - {name: Kurzeme}
-  - {name: Mucenieki}
-  - {name: Nereta}
-  - {name: Plavinas}
-  - {name: Salas}
-  code: '01'
-  name: Aizkraukles
-- cities:
-  - {name: Aluksne}
-  - {name: Struzani}
-  code: '02'
-  name: Aluksnes
-- cities:
-  - {name: Baldones}
-  - {name: Balvi}
-  - {name: Upites}
-  - {name: Vilaka}
-  code: '03'
-  name: Balvu
-- cities:
-  - {name: Bauska}
-  - {name: Code}
-  - {name: Eleja}
-  - {name: Iecava}
-  - {name: Jaunjelgava}
-  - {name: Rosme}
-  code: '04'
-  name: Bauskas
-- cities:
-  - {name: Celi}
-  - {name: Cesis}
-  - {name: Ieriki}
-  - {name: Jaunpiebalga}
-  - {name: Liepa}
-  - {name: Ridzene}
-  - {name: Valde}
-  - {name: Vecpiebalga}
-  - {name: Zarins}
-  code: '05'
-  name: C
-- cities:
-  - {name: Daugavpils}
-  code: '06'
-  name: Daugavpils
-- cities:
-  - {name: Bikernieki}
-  - {name: Ernestines}
-  - {name: Jauna}
-  - {name: Latgale}
-  - {name: Lociki}
-  - {name: Piedrujas}
-  - {name: Zemgale}
-  code: '07'
-  name: Daugavpils
-- cities:
-  - {name: Auce}
-  - {name: Auru}
-  - {name: Dobele}
-  - {name: Gaujas}
-  - {name: Nakotne}
-  code: 08
-  name: Dobeles
-- cities:
-  - {name: Gulbene}
-  - {name: Jaungulbene}
-  - {name: Reveli}
-  - {name: Staki}
-  code: 09
-  name: Gulbenes
-- cities:
-  - {name: Jekabpils}
-  - {name: Krustpils}
-  - {name: Rubene}
-  - {name: Yekabpils}
-  - {name: Zasa}
-  code: '10'
-  name: J
-- cities:
-  - {name: Elgava}
-  - {name: Jelgava}
-  code: '12'
-  name: Jelgavas
-- cities:
-  - {name: Kraslava}
-  - {name: Skaistas}
-  - {name: Zakusalas}
-  code: '14'
-  name: Kr
-- cities:
-  - {name: Base}
-  - {name: Kuldiga}
-  - {name: Kuldigas}
-  - {name: Pilsetas}
-  - {name: Roni}
-  - {name: Skepeli}
-  - {name: Turlava}
-  code: '15'
-  name: Kuldigas
-- cities:
-  - {name: Aizpute}
-  - {name: Cenkones}
-  - {name: Dunalka}
-  - {name: Malkalne}
-  - {name: Nida}
-  - {name: Pavilosta}
-  - {name: Ploce}
-  - {name: Priekule}
-  code: '17'
-  name: Liep
-- cities:
-  - {name: Grobina}
-  - {name: Liepaja}
-  code: '16'
-  name: Liep
-- cities:
-  - {name: Juglas}
-  - {name: Limbazi}
-  - {name: Salacgriva}
-  - {name: Skultes}
-  - {name: Vilkene}
-  code: '18'
-  name: Limbazu
-- cities:
-  - {name: Deglava}
-  - {name: Karsava}
-  - {name: Ludza}
-  - {name: Zilupe}
-  code: '19'
-  name: Ludzas
-- cities:
-  - {name: Barkava}
-  - {name: Cesvaine}
-  - {name: Dzelzava}
-  - {name: Ergli}
-  - {name: Lubana}
-  - {name: Madona}
-  - {name: Sauleskalns}
-  - {name: Varaklani}
-  code: '20'
-  name: Madonas
-- cities:
-  - {name: Ikskile}
-  - {name: Jumprava}
-  - {name: Kegums}
-  - {name: Keipene}
-  - {name: Lielvarde}
-  - {name: Madliena}
-  - {name: Ogre}
-  code: '21'
-  name: Ogres
-- cities:
-  - {name: Livani}
-  - {name: Preili}
-  - {name: Silava}
-  code: '22'
-  name: Preilu
-- cities:
-  - {name: Rezekne}
-  code: '23'
-  name: R
-- cities:
-  - {name: Cekule}
-  - {name: Ciskadi}
-  - {name: Vilani}
-  code: '24'
-  name: R
-- cities:
-  - {name: Annas}
-  - {name: Babite}
-  - {name: Bullu}
-  - {name: Bullugals}
-  - {name: Jurmala}
-  - {name: Lielupe}
-  - {name: Pinki}
-  - {name: Riga}
-  - {name: Vecmilgravis}
-  code: '25'
-  name: Riga
-- cities:
-  - {name: Adazi}
-  - {name: Baldone}
-  - {name: Balozi}
-  - {name: Baltezers}
-  - {name: Carnikava}
-  - {name: Jaunolaine}
-  - {name: Katlakalns}
-  - {name: Kekava}
-  - {name: Malpils}
-  - {name: Marupe}
-  - {name: Olaine}
-  - {name: Ragana}
-  - {name: Salaspils}
-  - {name: Saulkrasti}
-  - {name: Sidgunda}
-  - {name: Sigulda}
-  - {name: Upmalas}
-  - {name: Vangazi}
-  code: '26'
-  name: Rigas
-- cities:
-  - {name: Broceni}
-  - {name: Druva}
-  - {name: Marijas}
-  - {name: Ozoli}
-  - {name: Remte}
-  - {name: Saldus}
-  code: '27'
-  name: Saldus
-- cities:
-  - {name: Jaunpagasts}
-  - {name: Kalnini}
-  - {name: Mersrags}
-  - {name: Purvciems}
-  - {name: Sabile}
-  - {name: Stende}
-  - {name: Talsi}
-  - {name: Valdemarpils}
-  code: '28'
-  name: Talsu
-- cities:
-  - {name: Centrs}
-  - {name: Kalnciems}
-  - {name: Kandava}
-  - {name: Ragaciems}
-  - {name: Tukums}
-  - {name: Vaivari}
-  - {name: Vieniba}
-  - {name: Ziemeli}
-  code: '29'
-  name: Tukuma
-- cities:
-  - {name: Bilska}
-  - {name: Meri}
-  - {name: Smiltene}
-  - {name: Vale}
-  - {name: Valka}
-  code: '30'
-  name: Valkas
-- cities:
-  - {name: Gailis}
-  - {name: Kauguri}
-  - {name: Koceni}
-  - {name: Naukseni}
-  - {name: Rujiena}
-  - {name: Vaidavas}
-  - {name: Valmiera}
-  - {name: Valmieras}
-  - {name: Vilpulka}
-  - {name: Zvaigzne}
-  code: '31'
-  name: Valmieras
-- cities:
-  - {name: Jurkalne}
-  - {name: Jurkalnes}
-  - {name: Mezi}
-  - {name: Modes}
-  - {name: Piltene}
-  - {name: Silakrogs}
-  - {name: Smilshu}
-  - {name: Usmas}
-  code: '33'
-  name: Ventspils
-- cities:
-  - {name: Ventspils}
-  code: '32'
-  name: Ventspils
+- {code: '01', name: Aizkraukles}
+- {code: '02', name: Aluksnes}
+- {code: '03', name: Balvu}
+- {code: '04', name: Bauskas}
+- {code: '05', name: C}
+- {code: '06', name: Daugavpils}
+- {code: '07', name: Daugavpils}
+- {code: 08, name: Dobeles}
+- {code: 09, name: Gulbenes}
+- {code: '10', name: J}
+- {code: '12', name: Jelgavas}
+- {code: '14', name: Kr}
+- {code: '15', name: Kuldigas}
+- {code: '17', name: Liep}
+- {code: '16', name: Liep}
+- {code: '18', name: Limbazu}
+- {code: '19', name: Ludzas}
+- {code: '20', name: Madonas}
+- {code: '21', name: Ogres}
+- {code: '22', name: Preilu}
+- {code: '23', name: R}
+- {code: '24', name: R}
+- {code: '25', name: Riga}
+- {code: '26', name: Rigas}
+- {code: '27', name: Saldus}
+- {code: '28', name: Talsu}
+- {code: '29', name: Tukuma}
+- {code: '30', name: Valkas}
+- {code: '31', name: Valmieras}
+- {code: '33', name: Ventspils}
+- {code: '32', name: Ventspils}

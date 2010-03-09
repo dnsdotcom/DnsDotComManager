@@ -1,0 +1,222 @@
+- {name: Acworth}
+- {name: Alstead}
+- {name: Alton}
+- {name: Alton Bay}
+- {name: Amherst}
+- {name: Andover}
+- {name: Antrim}
+- {name: Ashland}
+- {name: Atkinson}
+- {name: Auburn}
+- {name: Barnstead}
+- {name: Barrington}
+- {name: Bartlett}
+- {name: Bedford}
+- {name: Belmont}
+- {name: Bennington}
+- {name: Berlin}
+- {name: Bethlehem}
+- {name: Bow}
+- {name: Bradford}
+- {name: Bretton Woods}
+- {name: Bristol}
+- {name: Brookline}
+- {name: Campton}
+- {name: Canaan}
+- {name: Candia}
+- {name: Canterbury}
+- {name: Center Barnstead}
+- {name: Center Conway}
+- {name: Center Harbor}
+- {name: Center Ossipee}
+- {name: Center Tuftonboro}
+- {name: Charlestown}
+- {name: Chester}
+- {name: Chesterfield}
+- {name: Chichester}
+- {name: Claremont}
+- {name: Colebrook}
+- {name: Concord}
+- {name: Contoocook}
+- {name: Conway}
+- {name: Cornish}
+- {name: Danville}
+- {name: Deerfield}
+- {name: Derry}
+- {name: Dover}
+- {name: Dublin}
+- {name: Dunbarton}
+- {name: Durham}
+- {name: East Candia}
+- {name: East Derry}
+- {name: East Hampstead}
+- {name: East Kingston}
+- {name: East Wakefield}
+- {name: Eaton Center}
+- {name: Enfield}
+- {name: Epping}
+- {name: Epsom}
+- {name: Etna}
+- {name: Exeter}
+- {name: Farmington}
+- {name: Fitzwilliam}
+- {name: Francestown}
+- {name: Franconia}
+- {name: Franklin}
+- {name: Freedom}
+- {name: Fremont}
+- {name: Georges Mills}
+- {name: Gilford}
+- {name: Gilmanton}
+- {name: Gilmanton Iron Works}
+- {name: Gilsum}
+- {name: Goffstown}
+- {name: Gorham}
+- {name: Goshen}
+- {name: Grafton}
+- {name: Grantham}
+- {name: Greenfield}
+- {name: Greenland}
+- {name: Greenville}
+- {name: Groveton}
+- {name: Hampstead}
+- {name: Hampton}
+- {name: Hampton Falls}
+- {name: Hancock}
+- {name: Hanover}
+- {name: Harrisville}
+- {name: Haverhill}
+- {name: Hebron}
+- {name: Henniker}
+- {name: Hill}
+- {name: Hillsborough}
+- {name: Hinsdale}
+- {name: Holderness}
+- {name: Hollis}
+- {name: Hooksett}
+- {name: Hudson}
+- {name: Intervale}
+- {name: Jackson}
+- {name: Jaffrey}
+- {name: Jefferson}
+- {name: Kearsarge}
+- {name: Keene}
+- {name: Kingston}
+- {name: Laconia}
+- {name: Lancaster}
+- {name: Lebanon}
+- {name: Lempster}
+- {name: Lincoln}
+- {name: Lisbon}
+- {name: Litchfield}
+- {name: Littleton}
+- {name: Londonderry}
+- {name: Loudon}
+- {name: Lyme}
+- {name: Lyme Center}
+- {name: Lyndeborough}
+- {name: Madbury}
+- {name: Madison}
+- {name: Manchester}
+- {name: Marlborough}
+- {name: Marlow}
+- {name: Melvin Village}
+- {name: Meredith}
+- {name: Meriden}
+- {name: Merrimack}
+- {name: Milan}
+- {name: Milford}
+- {name: Milton Mills}
+- {name: Mirror Lake}
+- {name: Monroe}
+- {name: Mont Vernon}
+- {name: Moultonborough}
+- {name: Nashua}
+- {name: Nelson}
+- {name: New Boston}
+- {name: New Castle}
+- {name: New Durham}
+- {name: New Hampton}
+- {name: New Ipswich}
+- {name: New London}
+- {name: Newbury}
+- {name: Newfields}
+- {name: Newmarket}
+- {name: Newport}
+- {name: Newton}
+- {name: Newton Junction}
+- {name: North Conway}
+- {name: North Hampton}
+- {name: North Haverhill}
+- {name: North Salem}
+- {name: North Sandwich}
+- {name: North Stratford}
+- {name: North Sutton}
+- {name: North Walpole}
+- {name: Northwood}
+- {name: Nottingham}
+- {name: Orford}
+- {name: Ossipee}
+- {name: Pelham}
+- {name: Peterborough}
+- {name: Piermont}
+- {name: Pittsfield}
+- {name: Plainfield}
+- {name: Plaistow}
+- {name: Plymouth}
+- {name: Portsmouth}
+- {name: Raymond}
+- {name: Rindge}
+- {name: Rochester}
+- {name: Rollinsford}
+- {name: Rye}
+- {name: Rye Beach}
+- {name: Salem}
+- {name: Salisbury}
+- {name: Sanbornton}
+- {name: Sanbornville}
+- {name: Sandown}
+- {name: Seabrook}
+- {name: Silver Lake}
+- {name: Somersworth}
+- {name: South Acworth}
+- {name: South Newbury}
+- {name: South Sutton}
+- {name: South Tamworth}
+- {name: Spofford}
+- {name: Springfield}
+- {name: Stinson Lake}
+- {name: Stoddard}
+- {name: Strafford}
+- {name: Stratham}
+- {name: Sugar Hill}
+- {name: Sullivan}
+- {name: Sunapee}
+- {name: Suncook}
+- {name: Swanzey}
+- {name: Tamworth}
+- {name: Temple}
+- {name: Tilton}
+- {name: Troy}
+- {name: Union}
+- {name: Walpole}
+- {name: Warner}
+- {name: Washington}
+- {name: Waterville Valley}
+- {name: Weare}
+- {name: West Chesterfield}
+- {name: West Lebanon}
+- {name: West Nottingham}
+- {name: West Ossipee}
+- {name: West Stewartstown}
+- {name: West Swanzey}
+- {name: Westmoreland}
+- {name: Whitefield}
+- {name: Wilmot}
+- {name: Wilton}
+- {name: Winchester}
+- {name: Windham}
+- {name: Winnisquam}
+- {name: Wolfeboro}
+- {name: Wolfeboro Falls}
+- {name: Woodsville}

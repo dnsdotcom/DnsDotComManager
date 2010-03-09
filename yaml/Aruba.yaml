@@ -1,6 +1,1 @@
-- cities:
-  - {name: Noord}
-  - {name: Oranjestad}
-  - {name: Sero Blanco}
-  code: '00'
-  name: ''
+- {code: '00', name: ''}

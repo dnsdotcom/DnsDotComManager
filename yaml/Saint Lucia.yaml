@@ -1,4 +1,1 @@
-- cities:
-  - {name: Castries}
-  code: '03'
-  name: Castries
+- {code: '03', name: Castries}

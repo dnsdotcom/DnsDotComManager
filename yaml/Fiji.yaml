@@ -1,10 +1,2 @@
-- cities:
-  - {name: Suva}
-  code: '01'
-  name: Central
-- cities:
-  - {name: Lautoka}
-  - {name: Nadi}
-  - {name: Tavua}
-  code: '05'
-  name: Western
+- {code: '01', name: Central}
+- {code: '05', name: Western}

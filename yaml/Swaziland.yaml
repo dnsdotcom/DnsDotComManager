@@ -1,18 +1,3 @@
-- cities:
-  - {name: Lobamba}
-  - {name: Malkerns}
-  - {name: Mbabane}
-  - {name: Mhlume}
-  code: '01'
-  name: Hhohho
-- cities:
-  - {name: Kwaluseni}
-  - {name: Manzini}
-  - {name: Matsapa}
-  - {name: Matsapha}
-  code: '03'
-  name: Manzini
-- cities:
-  - {name: Nhlangano}
-  code: '04'
-  name: Shiselweni
+- {code: '01', name: Hhohho}
+- {code: '03', name: Manzini}
+- {code: '04', name: Shiselweni}

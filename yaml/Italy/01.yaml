@@ -1,0 +1,310 @@
+- {name: Aielli}
+- {name: Aiello}
+- {name: Alanno}
+- {name: Albe}
+- {name: Altavilla}
+- {name: Altino}
+- {name: Alvi}
+- {name: Alzano}
+- {name: Amatrice}
+- {name: Andreoli}
+- {name: Antrodoco}
+- {name: Anversa}
+- {name: Appignano}
+- {name: Aquila}
+- {name: Aragno}
+- {name: Archi}
+- {name: Arielli}
+- {name: Arischia}
+- {name: Atessa}
+- {name: Atri}
+- {name: Avezzano}
+- {name: Badessa}
+- {name: Badia}
+- {name: Bagno}
+- {name: Barano}
+- {name: Barete}
+- {name: Basciano}
+- {name: Battaglia}
+- {name: Bazzano}
+- {name: Bellante}
+- {name: Belmonte In Sabina}
+- {name: Bisenti}
+- {name: Bolognano}
+- {name: Bomba}
+- {name: Bonomo}
+- {name: Borbona}
+- {name: Borgo Velino}
+- {name: Borgonuovo}
+- {name: Borgorose}
+- {name: Bozza}
+- {name: Brozzi}
+- {name: Brusciano}
+- {name: Bucchianico}
+- {name: Buda}
+- {name: Bussi Sul Tirino}
+- {name: Calvario}
+- {name: Camarda}
+- {name: Camerata Nuova}
+- {name: Campana}
+- {name: Campli}
+- {name: Canistro}
+- {name: Canosa Sannita}
+- {name: Canzano}
+- {name: Capistrello}
+- {name: Capitignano}
+- {name: Caporali}
+- {name: Caporciano}
+- {name: Cappadocia}
+- {name: Cappelle}
+- {name: Capriglia}
+- {name: Carsoli}
+- {name: Casacanditella}
+- {name: Casalbordino}
+- {name: Casavecchia}
+- {name: Case Nuove}
+- {name: Casentino}
+- {name: Casoli}
+- {name: Cassetta}
+- {name: Castagneto}
+- {name: Castelferrato}
+- {name: Castelfrentano}
+- {name: Castellalto}
+- {name: Castelli}
+- {name: Castelluccio}
+- {name: Castelnuovo}
+- {name: Castilenti}
+- {name: Catignano}
+- {name: Cavallari}
+- {name: Celano}
+- {name: Cellino}
+- {name: Cellino Attanasio}
+- {name: Cepagatti}
+- {name: Cerchio}
+- {name: Cerratina}
+- {name: Chiavelli}
+- {name: Chieti}
+- {name: Cipressi}
+- {name: Cipresso}
+- {name: Cittaducale}
+- {name: Cittareale}
+- {name: Civita}
+- {name: Civitella Paganico}
+- {name: Civitella Roveto}
+- {name: Cola}
+- {name: Collalto}
+- {name: Collarmele}
+- {name: Collecorvino}
+- {name: Colledara}
+- {name: Colledimacine}
+- {name: Collegentilesco}
+- {name: Collicelli}
+- {name: Collimento}
+- {name: Comino}
+- {name: Conca}
+- {name: Concerviano}
+- {name: Coppito}
+- {name: Corfinio}
+- {name: Corno}
+- {name: Corona}
+- {name: Coronella}
+- {name: Corvara}
+- {name: Cotti}
+- {name: Crecchio}
+- {name: De Nardis}
+- {name: Di Santo}
+- {name: Doma}
+- {name: Domo}
+- {name: Elce}
+- {name: Elice}
+- {name: Faieta}
+- {name: Fara Filiorum Petri}
+- {name: Fara San Martino}
+- {name: Figino}
+- {name: Fiume}
+- {name: Floriano}
+- {name: Fontecchio}
+- {name: Forme}
+- {name: Fornaca}
+- {name: Forno}
+- {name: Fossa}
+- {name: Fossacesia}
+- {name: Francavilla Al Mare}
+- {name: Frisa}
+- {name: Gabiano}
+- {name: Gagliano}
+- {name: Gamberale}
+- {name: Gesso}
+- {name: Ginepri}
+- {name: Giulianova}
+- {name: Grotti}
+- {name: Guardiagrele}
+- {name: Il Colle}
+- {name: Introdacqua}
+- {name: Isola}
+- {name: Isola Del Gran Sasso}
+- {name: Istonio}
+- {name: L'aquila}
+- {name: La Terra}
+- {name: Lanciano}
+- {name: Le Grotte}
+- {name: Le Rose}
+- {name: Le Torri}
+- {name: Le Ville}
+- {name: Luco Dei Marsi}
+- {name: Macchia}
+- {name: Madonna Del Carmine}
+- {name: Magliano}
+- {name: Mancini}
+- {name: Manoppello}
+- {name: Marana}
+- {name: Marignano}
+- {name: Martelli}
+- {name: Mascioni}
+- {name: Miano}
+- {name: Micigliano}
+- {name: Miglianico}
+- {name: Montefino}
+- {name: Monteodorisio}
+- {name: Montereale}
+- {name: Montesilvano}
+- {name: Montone}
+- {name: Montorio Al Vomano}
+- {name: Moscufo}
+- {name: Mozza}
+- {name: Mozzagrogna}
+- {name: Nardi}
+- {name: Nerito}
+- {name: Nespolo}
+- {name: Nocciano}
+- {name: Nocella}
+- {name: Notaresco}
+- {name: Oliveto}
+- {name: Orsogna}
+- {name: Ortona}
+- {name: Ovindoli}
+- {name: Pace}
+- {name: Pacentro}
+- {name: Paganico}
+- {name: Paganoni}
+- {name: Pagliare}
+- {name: Pagliaroli}
+- {name: Pago}
+- {name: Palena}
+- {name: Palombaro}
+- {name: Palombo}
+- {name: Pantaneto}
+- {name: Penne}
+- {name: Pescara}
+- {name: Pescina}
+- {name: Pescocostanzo}
+- {name: Pescorocchiano}
+- {name: Pianella}
+- {name: Piano Grande}
+- {name: Pianola}
+- {name: Picciano}
+- {name: Pineta}
+- {name: Pineto}
+- {name: Pizzoli}
+- {name: Poggio Picenze}
+- {name: Popoli}
+- {name: Porcareccia}
+- {name: Pozza}
+- {name: Pozzaglia Sabino}
+- {name: Pratola}
+- {name: Pratola Peligna}
+- {name: Raiano}
+- {name: Rapino}
+- {name: Ricetto}
+- {name: Rigatti}
+- {name: Ripa}
+- {name: Ripa Teatina}
+- {name: Rocca Di Mezzo}
+- {name: Rocca Sinibalda}
+- {name: Roccacasale}
+- {name: Roccamontepiano}
+- {name: Roiano}
+- {name: Romagnoli}
+- {name: Roseto Degli Abruzzi}
+- {name: Rovere}
+- {name: Sala}
+- {name: Saletta}
+- {name: San Benedetto}
+- {name: San Felice}
+- {name: San Giacomo}
+- {name: San Giorgio}
+- {name: San Giovanni}
+- {name: San Gregorio}
+- {name: San Leonardo}
+- {name: San Lorenzo}
+- {name: San Martino}
+- {name: San Mauro}
+- {name: San Nicandro}
+- {name: San Pietro}
+- {name: San Pio}
+- {name: San Sebastiano}
+- {name: San Tommaso}
+- {name: San Vito}
+- {name: San Vito Chietino}
+- {name: Santa Barbara}
+- {name: Santa Giusta}
+- {name: Santa Lucia}
+- {name: Santa Maria}
+- {name: Santa Maria Imbaro}
+- {name: Santa Rufina}
+- {name: Santi}
+- {name: Sassa}
+- {name: Savelli}
+- {name: Sbarra}
+- {name: Scafa}
+- {name: Scanzano}
+- {name: Scatozza}
+- {name: Scerni}
+- {name: Sciara}
+- {name: Scorrano}
+- {name: Scurcola Marsicana}
+- {name: Servillo}
+- {name: Sigillo}
+- {name: Silvi}
+- {name: Sorbo}
+- {name: Sorrenti}
+- {name: Spoltore}
+- {name: Sulmona}
+- {name: Tagliacozzo}
+- {name: Tempera}
+- {name: Teora}
+- {name: Teramo}
+- {name: Termine}
+- {name: Tocco}
+- {name: Tocco Casauria}
+- {name: Tocco Da Casauria}
+- {name: Tollo}
+- {name: Torano}
+- {name: Torre}
+- {name: Torrevecchia Teatina}
+- {name: Torricella}
+- {name: Torricella In Sabina}
+- {name: Torricella Sicura}
+- {name: Tortoreto}
+- {name: Trasacco}
+- {name: Treglio}
+- {name: Trignano}
+- {name: Turrivalignani}
+- {name: Vacri}
+- {name: Valle}
+- {name: Vallicella}
+- {name: Varano}
+- {name: Vasto}
+- {name: Vazia}
+- {name: Vezzano}
+- {name: Vicoli}
+- {name: Vigliano}
+- {name: Villa}
+- {name: Villa Grande}
+- {name: Villa Romana}
+- {name: Villalago}
+- {name: Villamagna}
+- {name: Villanova}
+- {name: Ville}
+- {name: Villetta}
+- {name: Vittorito}

@@ -1,25 +1,6 @@
-- cities:
-  - {name: Freeport}
-  code: '25'
-  name: Freeport
-- cities:
-  - {name: Palmetto Point}
-  code: '27'
-  name: Governor's Harbour
-- cities:
-  - {name: Green Turtle Cay}
-  code: '28'
-  name: Green Turtle Cay
-- cities:
-  - {name: Dunmore Town}
-  - {name: Spanish Wells}
-  code: '22'
-  name: Harbour Island
-- cities:
-  - {name: Marsh Harbour}
-  code: '31'
-  name: Marsh Harbour
-- cities:
-  - {name: Nassau}
-  code: '23'
-  name: New Providence
+- {code: '25', name: Freeport}
+- {code: '27', name: Governor's Harbour}
+- {code: '28', name: Green Turtle Cay}
+- {code: '22', name: Harbour Island}
+- {code: '31', name: Marsh Harbour}
+- {code: '23', name: New Providence}

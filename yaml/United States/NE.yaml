@@ -1,0 +1,337 @@
+- {name: Adams}
+- {name: Ainsworth}
+- {name: Albion}
+- {name: Alda}
+- {name: Alexandria}
+- {name: Allen}
+- {name: Alliance}
+- {name: Alma}
+- {name: Amelia}
+- {name: Ames}
+- {name: Amherst}
+- {name: Angora}
+- {name: Ansley}
+- {name: Arapahoe}
+- {name: Arlington}
+- {name: Arnold}
+- {name: Arthur}
+- {name: Ashland}
+- {name: Ashton}
+- {name: Atkinson}
+- {name: Auburn}
+- {name: Aurora}
+- {name: Axtell}
+- {name: Ayr}
+- {name: Bancroft}
+- {name: Barneston}
+- {name: Bartlett}
+- {name: Bartley}
+- {name: Bassett}
+- {name: Battle Creek}
+- {name: Bayard}
+- {name: Beatrice}
+- {name: Beaver Crossing}
+- {name: Bee}
+- {name: Bellevue}
+- {name: Belvidere}
+- {name: Benedict}
+- {name: Benkelman}
+- {name: Bennet}
+- {name: Bennington}
+- {name: Bertrand}
+- {name: Bladen}
+- {name: Blair}
+- {name: Bloomfield}
+- {name: Blue Hill}
+- {name: Blue Springs}
+- {name: Boys Town}
+- {name: Brady}
+- {name: Brainard}
+- {name: Bridgeport}
+- {name: Brock}
+- {name: Broken Bow}
+- {name: Brule}
+- {name: Brunswick}
+- {name: Burwell}
+- {name: Butte}
+- {name: Cairo}
+- {name: Cambridge}
+- {name: Campbell}
+- {name: Carleton}
+- {name: Central City}
+- {name: Ceresco}
+- {name: Chadron}
+- {name: Chambers}
+- {name: Chappell}
+- {name: Clarks}
+- {name: Clarkson}
+- {name: Clay Center}
+- {name: Clearwater}
+- {name: Coleridge}
+- {name: Colon}
+- {name: Columbus}
+- {name: Comstock}
+- {name: Cortland}
+- {name: Cozad}
+- {name: Crab Orchard}
+- {name: Craig}
+- {name: Crawford}
+- {name: Creighton}
+- {name: Creston}
+- {name: Crete}
+- {name: Crofton}
+- {name: Culbertson}
+- {name: Curtis}
+- {name: Dakota City}
+- {name: Dalton}
+- {name: Danbury}
+- {name: Dannebrog}
+- {name: Davenport}
+- {name: Davey}
+- {name: David City}
+- {name: Decatur}
+- {name: Diller}
+- {name: Dix}
+- {name: Dixon}
+- {name: Doniphan}
+- {name: Dorchester}
+- {name: Douglas}
+- {name: Dunbar}
+- {name: Duncan}
+- {name: Eagle}
+- {name: Elgin}
+- {name: Elkhorn}
+- {name: Elm Creek}
+- {name: Elmwood}
+- {name: Elsie}
+- {name: Elwood}
+- {name: Emerson}
+- {name: Endicott}
+- {name: Eustis}
+- {name: Ewing}
+- {name: Exeter}
+- {name: Fairbury}
+- {name: Fairfield}
+- {name: Fairmont}
+- {name: Falls City}
+- {name: Farnam}
+- {name: Filley}
+- {name: Firth}
+- {name: Fort Calhoun}
+- {name: Franklin}
+- {name: Fremont}
+- {name: Friend}
+- {name: Fullerton}
+- {name: Geneva}
+- {name: Genoa}
+- {name: Gering}
+- {name: Gibbon}
+- {name: Giltner}
+- {name: Glenvil}
+- {name: Gordon}
+- {name: Gothenburg}
+- {name: Grand Island}
+- {name: Grant}
+- {name: Greeley}
+- {name: Greenwood}
+- {name: Gresham}
+- {name: Gretna}
+- {name: Guide Rock}
+- {name: Gurley}
+- {name: Haigler}
+- {name: Hallam}
+- {name: Hampton}
+- {name: Harrisburg}
+- {name: Harrison}
+- {name: Hartington}
+- {name: Harvard}
+- {name: Hastings}
+- {name: Hay Springs}
+- {name: Hebron}
+- {name: Hemingford}
+- {name: Henderson}
+- {name: Hershey}
+- {name: Hickman}
+- {name: Hildreth}
+- {name: Holdrege}
+- {name: Holstein}
+- {name: Hooper}
+- {name: Hoskins}
+- {name: Howells}
+- {name: Humboldt}
+- {name: Humphrey}
+- {name: Imperial}
+- {name: Inman}
+- {name: Ithaca}
+- {name: Jackson}
+- {name: Jansen}
+- {name: Kearney}
+- {name: Kenesaw}
+- {name: Kennard}
+- {name: Keystone}
+- {name: Kimball}
+- {name: La Vista}
+- {name: Lakeside}
+- {name: Laurel}
+- {name: Leigh}
+- {name: Lemoyne}
+- {name: Lexington}
+- {name: Lincoln}
+- {name: Lindsay}
+- {name: Linwood}
+- {name: Lisco}
+- {name: Litchfield}
+- {name: Lodgepole}
+- {name: Long Pine}
+- {name: Louisville}
+- {name: Loup City}
+- {name: Lynch}
+- {name: Lyons}
+- {name: Macy}
+- {name: Madison}
+- {name: Malmo}
+- {name: Marquette}
+- {name: Martell}
+- {name: Mason City}
+- {name: Maxwell}
+- {name: Mc Cook}
+- {name: Mccook}
+- {name: Mcgrew}
+- {name: Mead}
+- {name: Meadow Grove}
+- {name: Merna}
+- {name: Milford}
+- {name: Miller}
+- {name: Minatare}
+- {name: Minden}
+- {name: Mitchell}
+- {name: Monroe}
+- {name: Moorefield}
+- {name: Morrill}
+- {name: Morse Bluff}
+- {name: Murdock}
+- {name: Murray}
+- {name: Naponee}
+- {name: Nebraska City}
+- {name: Nehawka}
+- {name: Neligh}
+- {name: Nelson}
+- {name: Newman Grove}
+- {name: Nickerson}
+- {name: Niobrara}
+- {name: Norfolk}
+- {name: North Bend}
+- {name: North Loup}
+- {name: North Platte}
+- {name: Oakland}
+- {name: Oconto}
+- {name: Odell}
+- {name: Odessa}
+- {name: Offutt A F B}
+- {name: Ogallala}
+- {name: Ohiowa}
+- {name: Omaha}
+- {name: Oneill}
+- {name: Ong}
+- {name: Orchard}
+- {name: Ord}
+- {name: Orleans}
+- {name: Oshkosh}
+- {name: Osmond}
+- {name: Overton}
+- {name: Oxford}
+- {name: Papillion}
+- {name: Pawnee City}
+- {name: Paxton}
+- {name: Pender}
+- {name: Peru}
+- {name: Petersburg}
+- {name: Pierce}
+- {name: Pilger}
+- {name: Plainview}
+- {name: Platte Center}
+- {name: Plattsmouth}
+- {name: Pleasant Dale}
+- {name: Plymouth}
+- {name: Ponca}
+- {name: Potter}
+- {name: Prague}
+- {name: Randolph}
+- {name: Ravenna}
+- {name: Raymond}
+- {name: Red Cloud}
+- {name: Royal}
+- {name: Rulo}
+- {name: Rushville}
+- {name: Saint Edward}
+- {name: Saint Helena}
+- {name: Saint Libory}
+- {name: Saint Paul}
+- {name: Sargent}
+- {name: Schuyler}
+- {name: Scotia}
+- {name: Scottsbluff}
+- {name: Scribner}
+- {name: Seward}
+- {name: Shelton}
+- {name: Shickley}
+- {name: Shubert}
+- {name: Sidney}
+- {name: Silver Creek}
+- {name: Snyder}
+- {name: South Sioux City}
+- {name: Spencer}
+- {name: Springfield}
+- {name: Springview}
+- {name: Stamford}
+- {name: Stanton}
+- {name: Staplehurst}
+- {name: Stapleton}
+- {name: Sterling}
+- {name: Stromsburg}
+- {name: Stuart}
+- {name: Sumner}
+- {name: Superior}
+- {name: Sutherland}
+- {name: Sutton}
+- {name: Syracuse}
+- {name: Taylor}
+- {name: Tecumseh}
+- {name: Tekamah}
+- {name: Tilden}
+- {name: Tobias}
+- {name: Tryon}
+- {name: Union}
+- {name: Utica}
+- {name: Valentine}
+- {name: Valley}
+- {name: Valparaiso}
+- {name: Verdon}
+- {name: Virginia}
+- {name: Waco}
+- {name: Wahoo}
+- {name: Wakefield}
+- {name: Wallace}
+- {name: Walthill}
+- {name: Waterbury}
+- {name: Waterloo}
+- {name: Wauneta}
+- {name: Wausa}
+- {name: Waverly}
+- {name: Wayne}
+- {name: Weeping Water}
+- {name: Wellfleet}
+- {name: West Point}
+- {name: Wilber}
+- {name: Wilcox}
+- {name: Winnebago}
+- {name: Winnetoon}
+- {name: Winside}
+- {name: Winslow}
+- {name: Wisner}
+- {name: Wolbach}
+- {name: Wood Lake}
+- {name: Wood River}
+- {name: Wymore}
+- {name: York}
+- {name: Yutan}

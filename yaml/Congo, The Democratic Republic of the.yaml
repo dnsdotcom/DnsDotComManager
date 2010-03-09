@@ -1,17 +1,4 @@
-- cities:
-  - {name: Lubumbashi}
-  - {name: Mwanza}
-  code: '05'
-  name: Katanga
-- cities:
-  - {name: Kinshasa}
-  code: '06'
-  name: Kinshasa
-- cities:
-  - {name: Mobile}
-  code: '10'
-  name: Maniema
-- cities:
-  - {name: Goma}
-  code: '11'
-  name: Nord-Kivu
+- {code: '05', name: Katanga}
+- {code: '06', name: Kinshasa}
+- {code: '10', name: Maniema}
+- {code: '11', name: Nord-Kivu}

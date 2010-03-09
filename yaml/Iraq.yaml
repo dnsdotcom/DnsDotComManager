@@ -1,75 +1,14 @@
-- cities:
-  - {name: Diwaniyah}
-  - {name: Sulaymaniyah}
-  code: '01'
-  name: Al Anbar
-- cities:
-  - {name: Basra}
-  - {name: Umm Qasr}
-  code: '02'
-  name: Al Basrah
-- cities:
-  - {name: Mansur}
-  - {name: Samawa}
-  code: '03'
-  name: Al Muthanna
-- cities:
-  - {name: An Najaf}
-  - {name: Najaf}
-  code: '17'
-  name: An Najaf
-- cities:
-  - {name: Arbil}
-  - {name: Erbil}
-  - {name: Irbil}
-  - {name: Khalid}
-  - {name: Sara}
-  code: '11'
-  name: Arbil
-- cities:
-  - {name: Basrah}
-  - {name: Dukan}
-  - {name: Koya}
-  - {name: Ranya}
-  - {name: Sulaimania}
-  code: '05'
-  name: As Sulaymaniyah
-- cities:
-  - {name: Aran}
-  - {name: Kirkuk}
-  - {name: Riyadh}
-  code: '13'
-  name: At Ta'mim
-- cities:
-  - {name: Bagdad}
-  - {name: Baghdad}
-  - {name: Salim}
-  code: '07'
-  name: Baghdad
-- cities:
-  - {name: Duhok}
-  - {name: Zakho}
-  code: 08
-  name: Dahuk
-- cities:
-  - {name: Sidra}
-  - {name: Thamir}
-  code: 09
-  name: Dhi Qar
-- cities:
-  - {name: Dohuk}
-  code: '10'
-  name: Diyala
-- cities:
-  - {name: Kerbala}
-  code: '12'
-  name: Karbala'
-- cities:
-  - {name: Gayara}
-  - {name: Mosul}
-  code: '15'
-  name: Ninawa
-- cities:
-  - {name: Al Kut}
-  code: '16'
-  name: Wasit
+- {code: '01', name: Al Anbar}
+- {code: '02', name: Al Basrah}
+- {code: '03', name: Al Muthanna}
+- {code: '17', name: An Najaf}
+- {code: '11', name: Arbil}
+- {code: '05', name: As Sulaymaniyah}
+- {code: '13', name: At Ta'mim}
+- {code: '07', name: Baghdad}
+- {code: 08, name: Dahuk}
+- {code: 09, name: Dhi Qar}
+- {code: '10', name: Diyala}
+- {code: '12', name: Karbala'}
+- {code: '15', name: Ninawa}
+- {code: '16', name: Wasit}

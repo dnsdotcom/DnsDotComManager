@@ -1,0 +1,421 @@
+- {name: Acilia}
+- {name: Acquapendente}
+- {name: Acuto}
+- {name: Affile}
+- {name: Agosta}
+- {name: Alatri}
+- {name: Albano}
+- {name: Albano Laziale}
+- {name: Alfedena}
+- {name: Allumiere}
+- {name: Altieri}
+- {name: Alviano}
+- {name: Alvito}
+- {name: Amaseno}
+- {name: Ambrogio}
+- {name: Anagni}
+- {name: Anguillara Sabazia}
+- {name: Annunziata}
+- {name: Anzio}
+- {name: Aprilia}
+- {name: Aquino}
+- {name: Arce}
+- {name: Ardea}
+- {name: Ariccia}
+- {name: Arlena Di Castro}
+- {name: Arnara}
+- {name: Arpino}
+- {name: Arsoli}
+- {name: Artena}
+- {name: Atina}
+- {name: Attigliano}
+- {name: Aurelia}
+- {name: Ausonia}
+- {name: Badino}
+- {name: Bagni}
+- {name: Bagnolo}
+- {name: Bagnoregio}
+- {name: Bainsizza}
+- {name: Balsorano}
+- {name: Barbarano Romano}
+- {name: Barrea}
+- {name: Bassano In Teverina}
+- {name: Bassano Romano}
+- {name: Blera}
+- {name: Boccea}
+- {name: Bolsena}
+- {name: Borghetto}
+- {name: Borgo Podgora}
+- {name: Borgo Sabotino}
+- {name: Botto}
+- {name: Bracciano}
+- {name: C}
+- {name: Caianello}
+- {name: Cairo}
+- {name: Campagnano Di Roma}
+- {name: Campagnola}
+- {name: Campo Marzio}
+- {name: Campoleone}
+- {name: Campoli Appennino}
+- {name: Canale Monterano}
+- {name: Canino}
+- {name: Canneto}
+- {name: Canonica}
+- {name: Capannelle}
+- {name: Capena}
+- {name: Capodimonte}
+- {name: Capranica}
+- {name: Capranica Prenestina}
+- {name: Caprarola}
+- {name: Caprile}
+- {name: Carano}
+- {name: Carinola}
+- {name: Carpineto Romano}
+- {name: Casaccia}
+- {name: Casalattico}
+- {name: Casali}
+- {name: Casalvieri}
+- {name: Casanova}
+- {name: Casape}
+- {name: Casaprota}
+- {name: Casette}
+- {name: Casi}
+- {name: Casone}
+- {name: Cassino}
+- {name: Castel Di Leva}
+- {name: Castel Di Sangro}
+- {name: Castel Gandolfo}
+- {name: Castel Madama}
+- {name: Castel Romano}
+- {name: Castel San Pietro}
+- {name: Castel Viscardo}
+- {name: Castel Volturno}
+- {name: Castelforte}
+- {name: Castelliri}
+- {name: Castelnuovo Di Farfa}
+- {name: Castelnuovo Di Porto}
+- {name: Castro Dei Volsci}
+- {name: Castrocielo}
+- {name: Cave}
+- {name: Ceccano}
+- {name: Cecchina}
+- {name: Celleno}
+- {name: Cellere}
+- {name: Cellole}
+- {name: Centocelle}
+- {name: Ceprano}
+- {name: Cerasuolo}
+- {name: Ceri}
+- {name: Cerro}
+- {name: Cervara Di Roma}
+- {name: Cervaro}
+- {name: Cerveteri}
+- {name: Cesano}
+- {name: Cese}
+- {name: Chia}
+- {name: Ciampino}
+- {name: Ciciliano}
+- {name: Cinecitt}
+- {name: Cisterna}
+- {name: Civita Castellana}
+- {name: Civitavecchia}
+- {name: Civitella Alfedena}
+- {name: Civitella San Paolo}
+- {name: Colleferro}
+- {name: Collelungo}
+- {name: Collepardo}
+- {name: Colli}
+- {name: Colonna}
+- {name: Commenda}
+- {name: Corbara}
+- {name: Corchiano}
+- {name: Cori}
+- {name: Corigliano}
+- {name: Cupa}
+- {name: Cura}
+- {name: Eremo}
+- {name: Esperia}
+- {name: Fabrica Di Roma}
+- {name: Faleria}
+- {name: Fara In Sabina}
+- {name: Farfa}
+- {name: Farnese}
+- {name: Ferentino}
+- {name: Fiano Romano}
+- {name: Filacciano}
+- {name: Filettino}
+- {name: Fiuggi}
+- {name: Fiumicino}
+- {name: Foglia}
+- {name: Fogliano}
+- {name: Fondi}
+- {name: Fontana Liri}
+- {name: Fontanelle}
+- {name: Fontechiari}
+- {name: Fontegreca}
+- {name: Forano}
+- {name: Forcella}
+- {name: Foresta}
+- {name: Formello}
+- {name: Formia}
+- {name: Fornelli}
+- {name: Frantoio}
+- {name: Frascati}
+- {name: Frattocchie}
+- {name: Frosinone}
+- {name: Gaeta}
+- {name: Gallese}
+- {name: Gallicano Nel Lazio}
+- {name: Gallinaro}
+- {name: Gallo}
+- {name: Galloro}
+- {name: Galluccio}
+- {name: Gavignano}
+- {name: Genazzano}
+- {name: Genzano}
+- {name: Genzano Di Roma}
+- {name: Giannetti}
+- {name: Ginestra}
+- {name: Giove}
+- {name: Giuliano Di Roma}
+- {name: Giusti}
+- {name: Gorga}
+- {name: Grottaferrata}
+- {name: Grotte Di Castro}
+- {name: Guarcino}
+- {name: Guidonia}
+- {name: Hermada}
+- {name: Isola Del Liri}
+- {name: Itri}
+- {name: La Quercia}
+- {name: La Rocca}
+- {name: La Villa}
+- {name: Labico}
+- {name: Ladispoli}
+- {name: Lanuvio}
+- {name: Lariano}
+- {name: Latina}
+- {name: Lauro}
+- {name: Lenola}
+- {name: Licenza}
+- {name: Lido Di Ostia}
+- {name: Lunghezza}
+- {name: Maenza}
+- {name: Magliana}
+- {name: Magnano}
+- {name: Malagrotta}
+- {name: Manziana}
+- {name: Marano}
+- {name: Marcellina}
+- {name: Marcigliana}
+- {name: Marino}
+- {name: Marta}
+- {name: Marzano}
+- {name: Meana}
+- {name: Melfa}
+- {name: Mentana}
+- {name: Mesa}
+- {name: Mignano}
+- {name: Mignano Monte Lungo}
+- {name: Minturno}
+- {name: Mompeo}
+- {name: Mondragone}
+- {name: Montalto Di Castro}
+- {name: Montaquila}
+- {name: Monte Flavio}
+- {name: Monte Maggiore}
+- {name: Monte Porzio}
+- {name: Monte Porzio Catone}
+- {name: Monte Romano}
+- {name: Monte Sacro}
+- {name: Monte San Giovanni Campano}
+- {name: Montecelio}
+- {name: Montefiascone}
+- {name: Montelanico}
+- {name: Monteleone Sabino}
+- {name: Montello}
+- {name: Monteroduni}
+- {name: Monterosi}
+- {name: Monterotondo}
+- {name: Monticchio}
+- {name: Monticelli}
+- {name: Montorio Romano}
+- {name: Morlupo}
+- {name: Morolo}
+- {name: Mugnano}
+- {name: Nazzano}
+- {name: Nemi}
+- {name: Nepi}
+- {name: Nettuno}
+- {name: Nomentano}
+- {name: Norma}
+- {name: Olevano}
+- {name: Olevano Romano}
+- {name: Olgiata}
+- {name: Omero}
+- {name: Onano}
+- {name: Oricola}
+- {name: Oriolo}
+- {name: Oriolo Romano}
+- {name: Orte}
+- {name: Orvieto}
+- {name: Ostia}
+- {name: Ostia Antica}
+- {name: Ostia Lido}
+- {name: Ottavia}
+- {name: Palestrina}
+- {name: Paliano}
+- {name: Palo}
+- {name: Palombara Sabina}
+- {name: Palombi}
+- {name: Pantano}
+- {name: Passo Corese}
+- {name: Pastena}
+- {name: Patrica}
+- {name: Pavona}
+- {name: Penna In Teverina}
+- {name: Pescasseroli}
+- {name: Piccilli}
+- {name: Picinisco}
+- {name: Pico}
+- {name: Piedimonte}
+- {name: Piedimonte Massicano}
+- {name: Piedimonte San Germano}
+- {name: Pignataro Interamna}
+- {name: Piperno}
+- {name: Pisciarelli}
+- {name: Pisoniano}
+- {name: Podgora}
+- {name: Pofi}
+- {name: Poggio Mirteto}
+- {name: Poggio Nativo}
+- {name: Poli}
+- {name: Pomezia}
+- {name: Ponte}
+- {name: Ponte Galeria}
+- {name: Ponte Rotto}
+- {name: Pontecorvo}
+- {name: Ponticelli}
+- {name: Pontinia}
+- {name: Porano}
+- {name: Portella}
+- {name: Porto}
+- {name: Porto Salvo}
+- {name: Posta}
+- {name: Pozzilli}
+- {name: Presenzano}
+- {name: Prima Porta}
+- {name: Priverno}
+- {name: Proceno}
+- {name: Prossedi}
+- {name: Qu}
+- {name: Ranucci}
+- {name: Riano}
+- {name: Rignano Flaminio}
+- {name: Riofreddo}
+- {name: Rocca Di Papa}
+- {name: Rocca Massima}
+- {name: Rocca Priora}
+- {name: Roccagiovine}
+- {name: Roccamonfina}
+- {name: Roccaraso}
+- {name: Roccasecca}
+- {name: Rocchetta}
+- {name: Roiate}
+- {name: Rome}
+- {name: Ronciglione}
+- {name: Roselli}
+- {name: Rota}
+- {name: Roviano}
+- {name: Rubra}
+- {name: Sabaudia}
+- {name: Sacrofano}
+- {name: Saline}
+- {name: San Angelo}
+- {name: San Carlo}
+- {name: San Cesareo}
+- {name: San Clemente}
+- {name: San Donato}
+- {name: San Elia Fiumerapido}
+- {name: San Felice Circeo}
+- {name: San Gennaro}
+- {name: San Giorgio A Liri}
+- {name: San Giuseppe}
+- {name: San Lorenzo Nuovo}
+- {name: San Luigi}
+- {name: San Marco}
+- {name: San Paolo}
+- {name: San Pietro Infine}
+- {name: San Quirico}
+- {name: San Valentino}
+- {name: Santa Croce}
+- {name: Santa Marinella}
+- {name: Santa Marta}
+- {name: Santa Palomba}
+- {name: Santa Severa}
+- {name: Sasso}
+- {name: Scaglia}
+- {name: Segni}
+- {name: Sermoneta}
+- {name: Sessa Aurunca}
+- {name: Sesto Campano}
+- {name: Settebagni}
+- {name: Settecamini}
+- {name: Settefrati}
+- {name: Sezze}
+- {name: Sgurgola}
+- {name: Sonnino}
+- {name: Sora}
+- {name: Sorbello}
+- {name: Soriano Nel Cimino}
+- {name: Sperlonga}
+- {name: Spigno Saturnia}
+- {name: Stazzano}
+- {name: Stimigliano}
+- {name: Strangolagalli}
+- {name: Subiaco}
+- {name: Supino}
+- {name: Sutri}
+- {name: Tarquinia}
+- {name: Teano}
+- {name: Tecchiena}
+- {name: Terracina}
+- {name: Tivoli}
+- {name: Tobia}
+- {name: Tor Sapienza}
+- {name: Torre Gaia}
+- {name: Torrenova}
+- {name: Torrita}
+- {name: Torrita Tiberina}
+- {name: Trastevere}
+- {name: Trevi Nel Lazio}
+- {name: Trevignano}
+- {name: Trevignano Romano}
+- {name: Trivio}
+- {name: Tufo}
+- {name: Tuscania}
+- {name: Vallebona}
+- {name: Vallemaio}
+- {name: Vallepietra}
+- {name: Vallerano}
+- {name: Vallerotonda}
+- {name: Valloni}
+- {name: Valmontone}
+- {name: Vasanello}
+- {name: Veiano}
+- {name: Vejano}
+- {name: Velletri}
+- {name: Venafro}
+- {name: Vendicio}
+- {name: Ventotene}
+- {name: Veroli}
+- {name: Vetralla}
+- {name: Vico Nel Lazio}
+- {name: Vicovaro}
+- {name: Vignanello}
+- {name: Villa Santa Lucia}
+- {name: Villafranca}
+- {name: Villetta Barrea}
+- {name: Viterbo}
+- {name: Vitorchiano}
+- {name: Zagarolo}

@@ -1,0 +1,298 @@
+- {name: Agate}
+- {name: Akron}
+- {name: Alamosa}
+- {name: Allenspark}
+- {name: Alma}
+- {name: Almont}
+- {name: Antonito}
+- {name: Arapahoe}
+- {name: Arriba}
+- {name: Arvada}
+- {name: Aspen}
+- {name: Ault}
+- {name: Aurora}
+- {name: Austin}
+- {name: Avon}
+- {name: Bailey}
+- {name: Basalt}
+- {name: Battlement Mesa}
+- {name: Bayfield}
+- {name: Bellvue}
+- {name: Bennett}
+- {name: Berthoud}
+- {name: Bethune}
+- {name: Beulah}
+- {name: Black Hawk}
+- {name: Blanca}
+- {name: Bond}
+- {name: Boulder}
+- {name: Breckenridge}
+- {name: Briggsdale}
+- {name: Brighton}
+- {name: Broomfield}
+- {name: Brush}
+- {name: Buena Vista}
+- {name: Buffalo Creek}
+- {name: Burlington}
+- {name: Byers}
+- {name: Cahone}
+- {name: Calhan}
+- {name: Campo}
+- {name: Canon City}
+- {name: Carbondale}
+- {name: Carr}
+- {name: Cascade}
+- {name: Castle Rock}
+- {name: Cedaredge}
+- {name: Center}
+- {name: Central City}
+- {name: Cheraw}
+- {name: Cheyenne Wells}
+- {name: Cimarron}
+- {name: Clark}
+- {name: Clifton}
+- {name: Coal Creek}
+- {name: Collbran}
+- {name: Colorado Springs}
+- {name: Commerce City}
+- {name: Como}
+- {name: Conifer}
+- {name: Cortez}
+- {name: Cotopaxi}
+- {name: Cpu Louis Guzzo Ent}
+- {name: Craig}
+- {name: Crawford}
+- {name: Creede}
+- {name: Crested Butte}
+- {name: Crestone}
+- {name: Cripple Creek}
+- {name: Dacono}
+- {name: De Beque}
+- {name: Deer Trail}
+- {name: Del Norte}
+- {name: Delta}
+- {name: Denver}
+- {name: Dillon}
+- {name: Dinosaur}
+- {name: Divide}
+- {name: Dolores}
+- {name: Dove Creek}
+- {name: Drake}
+- {name: Dumont}
+- {name: Dupont}
+- {name: Durango}
+- {name: Eads}
+- {name: Eagle}
+- {name: Eastlake}
+- {name: Eaton}
+- {name: Eckert}
+- {name: Edwards}
+- {name: Elbert}
+- {name: Eldorado Springs}
+- {name: Elizabeth}
+- {name: Englewood}
+- {name: Erie}
+- {name: Estes Park}
+- {name: Evans}
+- {name: Evergreen}
+- {name: Fairplay}
+- {name: Firestone}
+- {name: Flagler}
+- {name: Fleming}
+- {name: Florence}
+- {name: Florissant}
+- {name: Fort Collins}
+- {name: Fort Garland}
+- {name: Fort Lupton}
+- {name: Fort Morgan}
+- {name: Fountain}
+- {name: Fowler}
+- {name: Franktown}
+- {name: Fraser}
+- {name: Frederick}
+- {name: Frisco}
+- {name: Fruita}
+- {name: Gateway}
+- {name: Genoa}
+- {name: Georgetown}
+- {name: Gilcrest}
+- {name: Glen Haven}
+- {name: Glenwood Springs}
+- {name: Golden}
+- {name: Granby}
+- {name: Grand Junction}
+- {name: Grand Lake}
+- {name: Granite}
+- {name: Greeley}
+- {name: Green Mountain Falls}
+- {name: Grover}
+- {name: Gunnison}
+- {name: Gypsum}
+- {name: Hartsel}
+- {name: Hasty}
+- {name: Haxtun}
+- {name: Hayden}
+- {name: Henderson}
+- {name: Hereford}
+- {name: Hesperus}
+- {name: Hillrose}
+- {name: Holly}
+- {name: Holyoke}
+- {name: Hooper}
+- {name: Hot Sulphur Springs}
+- {name: Hotchkiss}
+- {name: Howard}
+- {name: Hudson}
+- {name: Hugo}
+- {name: Idaho Springs}
+- {name: Idledale}
+- {name: Ignacio}
+- {name: Iliff}
+- {name: Indian Hills}
+- {name: Jamestown}
+- {name: Jefferson}
+- {name: Joes}
+- {name: Johnstown}
+- {name: Julesburg}
+- {name: Keenesburg}
+- {name: Kersey}
+- {name: Kiowa}
+- {name: Kirk}
+- {name: Kremmling}
+- {name: La Jara}
+- {name: La Junta}
+- {name: La Salle}
+- {name: La Veta}
+- {name: Lafayette}
+- {name: Lake City}
+- {name: Lamar}
+- {name: Laporte}
+- {name: Larkspur}
+- {name: Las Animas}
+- {name: Leadville}
+- {name: Lewis}
+- {name: Limon}
+- {name: Littleton}
+- {name: Livermore}
+- {name: Loma}
+- {name: Longmont}
+- {name: Louisville}
+- {name: Louviers}
+- {name: Loveland}
+- {name: Lucerne}
+- {name: Lyons}
+- {name: Manassa}
+- {name: Mancos}
+- {name: Manitou Springs}
+- {name: Marvel}
+- {name: Masonville}
+- {name: Matheson}
+- {name: Mc Clave}
+- {name: Mead}
+- {name: Meeker}
+- {name: Merino}
+- {name: Mesa}
+- {name: Mesa Verde National Park}
+- {name: Milliken}
+- {name: Minturn}
+- {name: Moffat}
+- {name: Monte Vista}
+- {name: Montrose}
+- {name: Monument}
+- {name: Morrison}
+- {name: Mosca}
+- {name: Nathrop}
+- {name: Naturita}
+- {name: Nederland}
+- {name: New Castle}
+- {name: Niwot}
+- {name: Norwood}
+- {name: Nucla}
+- {name: Nunn}
+- {name: Oak Creek}
+- {name: Olathe}
+- {name: Ordway}
+- {name: Otis}
+- {name: Ouray}
+- {name: Ovid}
+- {name: Pagosa Springs}
+- {name: Palisade}
+- {name: Palmer Lake}
+- {name: Paonia}
+- {name: Parachute}
+- {name: Parker}
+- {name: Peetz}
+- {name: Penrose}
+- {name: Peyton}
+- {name: Phippsburg}
+- {name: Pine Grove}
+- {name: Pinecliffe}
+- {name: Placerville}
+- {name: Platteville}
+- {name: Pritchett}
+- {name: Pueblo}
+- {name: Ramah}
+- {name: Rangely}
+- {name: Red Cliff}
+- {name: Rico}
+- {name: Ridgway}
+- {name: Rifle}
+- {name: Rocky Ford}
+- {name: Roggen}
+- {name: Rollinsville}
+- {name: Rye}
+- {name: Saguache}
+- {name: Salida}
+- {name: San Luis}
+- {name: Sanford}
+- {name: Sedalia}
+- {name: Shawnee}
+- {name: Sheridan Lake}
+- {name: Silt}
+- {name: Silver Plume}
+- {name: Silverthorne}
+- {name: Silverton}
+- {name: Simla}
+- {name: Snowmass}
+- {name: Snowmass Village}
+- {name: Somerset}
+- {name: Springfield}
+- {name: Steamboat Springs}
+- {name: Sterling}
+- {name: Stoneham}
+- {name: Strasburg}
+- {name: Stratton}
+- {name: Swink}
+- {name: Tabernash}
+- {name: Telluride}
+- {name: Timnath}
+- {name: Towaoc}
+- {name: Trinidad}
+- {name: U S A F Academy}
+- {name: Vail}
+- {name: Victor}
+- {name: Villa Grove}
+- {name: Walden}
+- {name: Walsenburg}
+- {name: Walsh}
+- {name: Ward}
+- {name: Watkins}
+- {name: Weldona}
+- {name: Wellington}
+- {name: Westcliffe}
+- {name: Westminster}
+- {name: Weston}
+- {name: Wetmore}
+- {name: Wheat Ridge}
+- {name: Wiggins}
+- {name: Wiley}
+- {name: Windsor}
+- {name: Winter Park}
+- {name: Wolcott}
+- {name: Woodland Park}
+- {name: Woodrow}
+- {name: Woody Creek}
+- {name: Wray}
+- {name: Yampa}
+- {name: Yellow Jacket}
+- {name: Yuma}

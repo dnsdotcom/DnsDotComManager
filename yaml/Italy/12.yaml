@@ -1,0 +1,473 @@
+- {name: Abbazia}
+- {name: Agli}
+- {name: Airasca}
+- {name: Alba}
+- {name: Alessandria}
+- {name: Alfiano Natta}
+- {name: Almese}
+- {name: Alpignano}
+- {name: Alzate}
+- {name: Andezeno}
+- {name: Andorno Micca}
+- {name: Argentera}
+- {name: Argentiera}
+- {name: Asti}
+- {name: Avigliana}
+- {name: Azeglio}
+- {name: Bagnolo Piemonte}
+- {name: Balangero}
+- {name: Baldichieri}
+- {name: Baldissero Torinese}
+- {name: Balma}
+- {name: Balme}
+- {name: Baraggia}
+- {name: Barbania}
+- {name: Bardonecchia}
+- {name: Barge}
+- {name: Bassignana}
+- {name: Beinasco}
+- {name: Beinette}
+- {name: Bellinzago}
+- {name: Bellinzago Novarese}
+- {name: Bene Vagienna}
+- {name: Benna}
+- {name: Bernate Ticino}
+- {name: Biandrate}
+- {name: Bianz}
+- {name: Biella}
+- {name: Boffalora}
+- {name: Boffalora Ticino}
+- {name: Bollengo}
+- {name: Borgaro Torinese}
+- {name: Borgo San Dalmazzo}
+- {name: Borgo San Martino}
+- {name: Borgofranco}
+- {name: Borgone Susa}
+- {name: Borgosesia}
+- {name: Borriana}
+- {name: Bosco Marengo}
+- {name: Bosconero}
+- {name: Boves}
+- {name: Bra}
+- {name: Brandizzo}
+- {name: Breme}
+- {name: Bricherasio}
+- {name: Brossasco}
+- {name: Bruino}
+- {name: Bruno}
+- {name: Brusnengo}
+- {name: Buriasco}
+- {name: Burolo}
+- {name: Busano}
+- {name: Busca}
+- {name: Buscate}
+- {name: Bussoleno}
+- {name: Buttigliera Alta}
+- {name: Calamandrana}
+- {name: Caltignaga}
+- {name: Caluso}
+- {name: Cambiano}
+- {name: Camburzano}
+- {name: Cameri}
+- {name: Canale}
+- {name: Candelo}
+- {name: Candia Canavese}
+- {name: Candia Lomellina}
+- {name: Candiolo}
+- {name: Canelli}
+- {name: Canove}
+- {name: Caprie}
+- {name: Caraglio}
+- {name: Carema}
+- {name: Carignano}
+- {name: Carisio}
+- {name: Carmagnola}
+- {name: Carpignano}
+- {name: Carpignano Sesia}
+- {name: Carr}
+- {name: Carrone}
+- {name: Casale Monferrato}
+- {name: Casalgrasso}
+- {name: Casalvolone}
+- {name: Caselette}
+- {name: Caselle Torinese}
+- {name: Casorzo}
+- {name: Cassine}
+- {name: Cassolnovo}
+- {name: Castagnito}
+- {name: Castagnole}
+- {name: Castano}
+- {name: Castano Primo}
+- {name: Casteldelfino}
+- {name: Castellamonte}
+- {name: Castellani}
+- {name: Castellazzo Bormida}
+- {name: Castellengo}
+- {name: Castello Di Annone}
+- {name: Castelnovetto}
+- {name: Castelnuova}
+- {name: Castelnuovo Bormida}
+- {name: Castelnuovo Don Bosco}
+- {name: Castelrosso}
+- {name: Cavagli}
+- {name: Cavallermaggiore}
+- {name: Cavallirio}
+- {name: Cavallo}
+- {name: Cavour}
+- {name: Centallo}
+- {name: Cerano}
+- {name: Ceres}
+- {name: Ceriolo}
+- {name: Cerrione}
+- {name: Cervere}
+- {name: Cesana}
+- {name: Cesana Torinese}
+- {name: Cherasco}
+- {name: Chialamberto}
+- {name: Chianale}
+- {name: Chiara}
+- {name: Chiavazza}
+- {name: Chieri}
+- {name: Chiusa Di Pesio}
+- {name: Chivasso}
+- {name: Cilavegna}
+- {name: Ciri}
+- {name: Claviere}
+- {name: Cocconato}
+- {name: Coggiola}
+- {name: Colcavagno}
+- {name: Collegno}
+- {name: Colombari}
+- {name: Condove}
+- {name: Confienza}
+- {name: Coni}
+- {name: Corio}
+- {name: Cortandone}
+- {name: Cortiglione}
+- {name: Cossato}
+- {name: Costigliole}
+- {name: Costigliole D'asti}
+- {name: Cozzo}
+- {name: Crescentino}
+- {name: Cressa}
+- {name: Crevacuore}
+- {name: Crosa}
+- {name: Crova}
+- {name: Cuceglio}
+- {name: Cuggiono}
+- {name: Cumiana}
+- {name: Cuneo}
+- {name: Cunico}
+- {name: Cuorgn}
+- {name: Demonte}
+- {name: Desana}
+- {name: Di Mezzo}
+- {name: Dogliani}
+- {name: Dronero}
+- {name: Druento}
+- {name: Dusino}
+- {name: Elva}
+- {name: Envie}
+- {name: Exilles}
+- {name: Fabiano}
+- {name: Fara}
+- {name: Fara Novarese}
+- {name: Favaro}
+- {name: Favria}
+- {name: Felizzano}
+- {name: Ferrero}
+- {name: Foglizzo}
+- {name: Fontane}
+- {name: Fontaneto}
+- {name: Fontaneto D'agogna}
+- {name: Fontanile}
+- {name: Foresto}
+- {name: Formigliana}
+- {name: Forno Canavese}
+- {name: Fossano}
+- {name: Frassinello}
+- {name: Frassineto Po}
+- {name: Frassino}
+- {name: Front}
+- {name: Frugarolo}
+- {name: Fubine}
+- {name: Gaglianico}
+- {name: Galliate}
+- {name: Gassino Torinese}
+- {name: Genola}
+- {name: Gerbolina}
+- {name: Ghemme}
+- {name: Ghigo}
+- {name: Ghislarengo}
+- {name: Giaveno}
+- {name: Giraudo}
+- {name: Graglia}
+- {name: Gravellona}
+- {name: Grazzano}
+- {name: Grazzano Badoglio}
+- {name: Greggio}
+- {name: Grignasco}
+- {name: Grugliasco}
+- {name: Ingria}
+- {name: Inveruno}
+- {name: Ivrea}
+- {name: La Loggia}
+- {name: La Miniera}
+- {name: La Morra}
+- {name: Lamporo}
+- {name: Langosco}
+- {name: Lanzo Torinese}
+- {name: Laval}
+- {name: Lein}
+- {name: Lemie}
+- {name: Lenta}
+- {name: Leri}
+- {name: Lessolo}
+- {name: Lessona}
+- {name: Levaldigi}
+- {name: Levata}
+- {name: Leyni}
+- {name: Limone Piemonte}
+- {name: Lingotto}
+- {name: Livorno Ferraris}
+- {name: Locana}
+- {name: Lombardore}
+- {name: Lonate Pozzolo}
+- {name: Luserna}
+- {name: Luserna San Giovanni}
+- {name: Magliano Alpi}
+- {name: Magnago}
+- {name: Mango}
+- {name: Manta}
+- {name: Marano Ticino}
+- {name: Marene}
+- {name: Margarita}
+- {name: Massello}
+- {name: Masserano}
+- {name: Mathi}
+- {name: Mati}
+- {name: Mazz}
+- {name: Mede}
+- {name: Melle}
+- {name: Mercenasco}
+- {name: Mezzomerico}
+- {name: Mirabello Monferrato}
+- {name: Mirafiori}
+- {name: Miroglio}
+- {name: Molaretto}
+- {name: Momo}
+- {name: Moncalieri}
+- {name: Moncalvo}
+- {name: Monchiero}
+- {name: Mondov}
+- {name: Monferrato}
+- {name: Monforte}
+- {name: Mongrando}
+- {name: Montalto Dora}
+- {name: Montanaro}
+- {name: Monteu Da Po}
+- {name: Montiglio}
+- {name: Morano}
+- {name: Moretta}
+- {name: Moschini}
+- {name: Mottalciata}
+- {name: Neive}
+- {name: Netro}
+- {name: Nichelino}
+- {name: Nizza Monferrato}
+- {name: Nole}
+- {name: Nole Canavese}
+- {name: None}
+- {name: Novalesa}
+- {name: Novara}
+- {name: Novello}
+- {name: Occhieppo Inferiore}
+- {name: Occhieppo Superiore}
+- {name: Occimiano}
+- {name: Oglianico}
+- {name: Oleggio}
+- {name: Orbassano}
+- {name: Ottiglio}
+- {name: Oulx}
+- {name: Ozegna}
+- {name: Ozzano}
+- {name: Paesana}
+- {name: Palestro}
+- {name: Pancalieri}
+- {name: Parella}
+- {name: Parona}
+- {name: Pavone Canavese}
+- {name: Pecetto}
+- {name: Pernate}
+- {name: Perosa Argentina}
+- {name: Perucca}
+- {name: Pessinetto}
+- {name: Pessione}
+- {name: Peveragno}
+- {name: Pezzana}
+- {name: Pianezza}
+- {name: Piasco}
+- {name: Piedicavallo}
+- {name: Pieve Del Cairo}
+- {name: Pinerolo}
+- {name: Piobesi Torinese}
+- {name: Piossasco}
+- {name: Plan}
+- {name: Poirino}
+- {name: Pollone}
+- {name: Pombia}
+- {name: Pont Canavese}
+- {name: Pragelato}
+- {name: Prarolo}
+- {name: Prato Sesia}
+- {name: Pray}
+- {name: Quargnento}
+- {name: Quattordio}
+- {name: Quincinetto}
+- {name: Quinto}
+- {name: Racconigi}
+- {name: Reano}
+- {name: Regina Margherita}
+- {name: Revello}
+- {name: Revigliasco}
+- {name: Rima}
+- {name: Rivalba}
+- {name: Rivalta Di Torino}
+- {name: Rivalta Scrivia}
+- {name: Rivara}
+- {name: Rivarolo Canavese}
+- {name: Rive}
+- {name: Rivera}
+- {name: Rivoira}
+- {name: Rivoli}
+- {name: Roasio}
+- {name: Robassomero}
+- {name: Robbio}
+- {name: Robilante}
+- {name: Roccaforte Mondov}
+- {name: Roccavione}
+- {name: Romagnano Sesia}
+- {name: Romano}
+- {name: Romano Canavese}
+- {name: Romentino}
+- {name: Rondissone}
+- {name: Rore}
+- {name: Roreto}
+- {name: Rossana}
+- {name: Rovasenda}
+- {name: Rubiana}
+- {name: Salassa}
+- {name: Sale}
+- {name: Salmour}
+- {name: Saluggia}
+- {name: Salussola}
+- {name: Saluzzo}
+- {name: Sambuco}
+- {name: Samp}
+- {name: San Benigno Canavese}
+- {name: San Germano}
+- {name: San Gillio}
+- {name: San Giorgio Canavese}
+- {name: San Giorio}
+- {name: San Giuliano Vecchio}
+- {name: San Giusto Canavese}
+- {name: San Mauro Torinese}
+- {name: San Pietro Mosezzo}
+- {name: Sandigliano}
+- {name: Sanfr}
+- {name: Sangano}
+- {name: Santhi}
+- {name: Santo Stefano Belbo}
+- {name: Saretto}
+- {name: Savigliano}
+- {name: Scalenghe}
+- {name: Scarmagno}
+- {name: Scarnafigi}
+- {name: Serralunga Di Crea}
+- {name: Serravalle Sesia}
+- {name: Sestri}
+- {name: Sestriere}
+- {name: Settimo}
+- {name: Settimo Torinese}
+- {name: Settimo Vittone}
+- {name: Sizzano}
+- {name: Solero}
+- {name: Sommariva Bosco}
+- {name: Sommariva Del Bosco}
+- {name: Spagna}
+- {name: Sparone}
+- {name: Spinetta}
+- {name: Spinetta Marengo}
+- {name: Strambinello}
+- {name: Strambino}
+- {name: Strona}
+- {name: Stroppiana}
+- {name: Stupinigi}
+- {name: Stura}
+- {name: Suardi}
+- {name: Suno}
+- {name: Superga}
+- {name: Susa}
+- {name: Taurasia}
+- {name: Tavagnasco}
+- {name: Terruggia}
+- {name: Ticineto}
+- {name: Tina}
+- {name: Tollegno}
+- {name: Torino}
+- {name: Tornavento}
+- {name: Torrazzo}
+- {name: Torre Pellice}
+- {name: Torrione}
+- {name: Tortona}
+- {name: Trana}
+- {name: Trecate}
+- {name: Tricerro}
+- {name: Trino}
+- {name: Trivero}
+- {name: Trofarello}
+- {name: Tronzano}
+- {name: Tronzano Vercellese}
+- {name: Turbigo}
+- {name: Turin}
+- {name: Valenza}
+- {name: Valfenera}
+- {name: Valle Lomellina}
+- {name: Valle Mosso}
+- {name: Vallo}
+- {name: Valperga}
+- {name: Vanchiglia}
+- {name: Vanzaghello}
+- {name: Venaria}
+- {name: Venaria Reale}
+- {name: Venaus}
+- {name: Vercelli}
+- {name: Verolengo}
+- {name: Verrone}
+- {name: Verzuolo}
+- {name: Vespolate}
+- {name: Vico Canavese}
+- {name: Vicolungo}
+- {name: Vigliano Biellese}
+- {name: Vignolo}
+- {name: Vigone}
+- {name: Villabella}
+- {name: Villafalletto}
+- {name: Villafranca Piemonte}
+- {name: Villanova D'asti}
+- {name: Villanova Mondov}
+- {name: Villanova Monferrato}
+- {name: Villar}
+- {name: Villar Focchiardo}
+- {name: Villar Perosa}
+- {name: Villarboit}
+- {name: Villareggia}
+- {name: Villastellone}
+- {name: Villata}
+- {name: Villate}
+- {name: Vinadio}
+- {name: Virle Piemonte}
+- {name: Vizzola Ticino}
+- {name: Volpiano}
+- {name: Volvera}
+- {name: Zeme}

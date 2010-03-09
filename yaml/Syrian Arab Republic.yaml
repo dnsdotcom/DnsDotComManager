@@ -1,39 +1,9 @@
-- cities:
-  - {name: Latakia}
-  - {name: Lattakia}
-  code: '02'
-  name: Al Ladhiqiyah
-- cities:
-  - {name: Dama}
-  code: '05'
-  name: As Suwayda'
-- cities:
-  - {name: Naw}
-  code: '06'
-  name: Dar
-- cities:
-  - {name: Damascus}
-  code: '13'
-  name: Dimashq
-- cities:
-  - {name: Aleppo}
-  code: 09
-  name: Halab
-- cities:
-  - {name: Homs}
-  code: '11'
-  name: Hims
-- cities:
-  - {name: Idlib}
-  code: '12'
-  name: Idlib
-- cities:
-  - {name: Al Masna`}
-  - {name: Yabrud}
-  - {name: Zabadani}
-  code: 08
-  name: Rif Dimashq
-- cities:
-  - {name: Tartus}
-  code: '14'
-  name: Tartus
+- {code: '02', name: Al Ladhiqiyah}
+- {code: '05', name: As Suwayda'}
+- {code: '06', name: Dar}
+- {code: '13', name: Dimashq}
+- {code: 09, name: Halab}
+- {code: '11', name: Hims}
+- {code: '12', name: Idlib}
+- {code: 08, name: Rif Dimashq}
+- {code: '14', name: Tartus}

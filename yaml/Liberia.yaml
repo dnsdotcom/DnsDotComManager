@@ -1,9 +1,2 @@
-- cities:
-  - {name: Grand Bassa}
-  code: '11'
-  name: Grand Bassa
-- cities:
-  - {name: Monrovia}
-  - {name: Paynesville}
-  code: '14'
-  name: Montserrado
+- {code: '11', name: Grand Bassa}
+- {code: '14', name: Montserrado}

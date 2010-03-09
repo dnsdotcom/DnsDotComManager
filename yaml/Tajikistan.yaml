@@ -1,17 +1,2 @@
-- cities:
-  - {name: Dangara}
-  - {name: Dushanbe}
-  - {name: Dusti}
-  - {name: Gissar}
-  - {name: Rogun}
-  - {name: Romit}
-  - {name: Yavan}
-  code: '02'
-  name: Khatlon
-- cities:
-  - {name: Kanibadam}
-  - {name: Khujand}
-  - {name: Regar}
-  - {name: Shahrinav}
-  code: '03'
-  name: Sughd
+- {code: '02', name: Khatlon}
+- {code: '03', name: Sughd}

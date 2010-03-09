@@ -1,8 +1,2 @@
-- cities:
-  - {name: Pya}
-  code: 09
-  name: Lama-Kara
-- cities:
-  - {name: Lom}
-  code: '18'
-  name: Tsevie
+- {code: 09, name: Lama-Kara}
+- {code: '18', name: Tsevie}

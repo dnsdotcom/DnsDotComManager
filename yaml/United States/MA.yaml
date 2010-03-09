@@ -1,0 +1,470 @@
+- {name: Abington}
+- {name: Accord}
+- {name: Acton}
+- {name: Acushnet}
+- {name: Adams}
+- {name: Agawam}
+- {name: Allston}
+- {name: Amesbury}
+- {name: Amherst}
+- {name: Andover}
+- {name: Arlington}
+- {name: Arlington Heights}
+- {name: Ashburnham}
+- {name: Ashby}
+- {name: Ashfield}
+- {name: Ashland}
+- {name: Ashley Falls}
+- {name: Assonet}
+- {name: Athol}
+- {name: Attleboro}
+- {name: Attleboro Falls}
+- {name: Auburn}
+- {name: Auburndale}
+- {name: Avon}
+- {name: Ayer}
+- {name: Babson Park}
+- {name: Baldwinville}
+- {name: Barnstable}
+- {name: Barre}
+- {name: Becket}
+- {name: Bedford}
+- {name: Belchertown}
+- {name: Bellingham}
+- {name: Belmont}
+- {name: Berkley}
+- {name: Berlin}
+- {name: Bernardston}
+- {name: Beverly}
+- {name: Billerica}
+- {name: Blackstone}
+- {name: Blandford}
+- {name: Bolton}
+- {name: Bondsville}
+- {name: Boston}
+- {name: Boxborough}
+- {name: Boxford}
+- {name: Boylston}
+- {name: Braintree}
+- {name: Brant Rock}
+- {name: Brewster}
+- {name: Bridgewater}
+- {name: Brighton}
+- {name: Brimfield}
+- {name: Brockton}
+- {name: Brookline}
+- {name: Brookline Village}
+- {name: Bryantville}
+- {name: Buckland}
+- {name: Burlington}
+- {name: Buzzards Bay}
+- {name: Byfield}
+- {name: Cambridge}
+- {name: Canton}
+- {name: Carlisle}
+- {name: Carver}
+- {name: Cataumet}
+- {name: Centerville}
+- {name: Charlestown}
+- {name: Charlton}
+- {name: Charlton City}
+- {name: Chartley}
+- {name: Chatham}
+- {name: Chelmsford}
+- {name: Chelsea}
+- {name: Cherry Valley}
+- {name: Cheshire}
+- {name: Chester}
+- {name: Chesterfield}
+- {name: Chestnut Hill}
+- {name: Chicopee}
+- {name: Chilmark}
+- {name: Clinton}
+- {name: Cohasset}
+- {name: Colrain}
+- {name: Concord}
+- {name: Conway}
+- {name: Cotuit}
+- {name: Cummaquid}
+- {name: Cummington}
+- {name: Dalton}
+- {name: Danvers}
+- {name: Dedham}
+- {name: Deerfield}
+- {name: Dennis}
+- {name: Dennis Port}
+- {name: Devens}
+- {name: Dighton}
+- {name: Douglas}
+- {name: Dover}
+- {name: Dracut}
+- {name: Dudley}
+- {name: Dunstable}
+- {name: Duxbury}
+- {name: East Bridgewater}
+- {name: East Brookfield}
+- {name: East Falmouth}
+- {name: East Freetown}
+- {name: East Longmeadow}
+- {name: East Mansfield}
+- {name: East Orleans}
+- {name: East Otis}
+- {name: East Sandwich}
+- {name: East Taunton}
+- {name: East Templeton}
+- {name: East Walpole}
+- {name: East Wareham}
+- {name: East Weymouth}
+- {name: Eastham}
+- {name: Easthampton}
+- {name: Easton}
+- {name: Edgartown}
+- {name: Elmwood}
+- {name: Erving}
+- {name: Essex}
+- {name: Everett}
+- {name: Fairhaven}
+- {name: Fall River}
+- {name: Falmouth}
+- {name: Fayville}
+- {name: Feeding Hills}
+- {name: Fiskdale}
+- {name: Fitchburg}
+- {name: Florence}
+- {name: Forestdale}
+- {name: Foxboro}
+- {name: Framingham}
+- {name: Franklin}
+- {name: Gardner}
+- {name: Georgetown}
+- {name: Gilbertville}
+- {name: Gill}
+- {name: Gloucester}
+- {name: Goshen}
+- {name: Grafton}
+- {name: Granby}
+- {name: Granville}
+- {name: Great Barrington}
+- {name: Green Harbor}
+- {name: Greenfield}
+- {name: Groton}
+- {name: Groveland}
+- {name: Hadley}
+- {name: Halifax}
+- {name: Hamilton}
+- {name: Hampden}
+- {name: Hanover}
+- {name: Hanscom Afb}
+- {name: Hanson}
+- {name: Hardwick}
+- {name: Harvard}
+- {name: Harwich}
+- {name: Harwich Port}
+- {name: Hatfield}
+- {name: Hathorne}
+- {name: Haverhill}
+- {name: Haydenville}
+- {name: Hingham}
+- {name: Hinsdale}
+- {name: Holbrook}
+- {name: Holden}
+- {name: Holliston}
+- {name: Holyoke}
+- {name: Hopedale}
+- {name: Hopkinton}
+- {name: Housatonic}
+- {name: Hubbardston}
+- {name: Hudson}
+- {name: Hull}
+- {name: Huntington}
+- {name: Hyannis}
+- {name: Hyannis Port}
+- {name: Hyde Park}
+- {name: Indian Orchard}
+- {name: Ipswich}
+- {name: Jamaica Plain}
+- {name: Jefferson}
+- {name: Kingston}
+- {name: Lake Pleasant}
+- {name: Lakeville}
+- {name: Lancaster}
+- {name: Lanesboro}
+- {name: Lawrence}
+- {name: Lee}
+- {name: Leeds}
+- {name: Leicester}
+- {name: Lenox}
+- {name: Lenox Dale}
+- {name: Leominster}
+- {name: Leverett}
+- {name: Lexington}
+- {name: Lincoln}
+- {name: Linwood}
+- {name: Littleton}
+- {name: Longmeadow}
+- {name: Lowell}
+- {name: Ludlow}
+- {name: Lunenburg}
+- {name: Lynn}
+- {name: Lynnfield}
+- {name: Malden}
+- {name: Manchaug}
+- {name: Manchester}
+- {name: Manomet}
+- {name: Mansfield}
+- {name: Marblehead}
+- {name: Marion}
+- {name: Marlborough}
+- {name: Marshfield}
+- {name: Marshfield Hills}
+- {name: Marstons Mills}
+- {name: Mashpee}
+- {name: Mattapan}
+- {name: Mattapoisett}
+- {name: Maynard}
+- {name: Medfield}
+- {name: Medford}
+- {name: Medway}
+- {name: Melrose}
+- {name: Mendon}
+- {name: Merrimac}
+- {name: Methuen}
+- {name: Middleboro}
+- {name: Middleton}
+- {name: Milford}
+- {name: Millbury}
+- {name: Millers Falls}
+- {name: Millis}
+- {name: Millville}
+- {name: Milton}
+- {name: Milton Village}
+- {name: Minot}
+- {name: Monponsett}
+- {name: Monson}
+- {name: Montague}
+- {name: Monterey}
+- {name: Monument Beach}
+- {name: Nahant}
+- {name: Nantucket}
+- {name: Natick}
+- {name: Needham}
+- {name: Needham Heights}
+- {name: New Bedford}
+- {name: New Braintree}
+- {name: New Salem}
+- {name: New Town}
+- {name: Newbury}
+- {name: Newburyport}
+- {name: Newton}
+- {name: Newton Center}
+- {name: Newton Highlands}
+- {name: Newton Lower Falls}
+- {name: Newton Upper Falls}
+- {name: Newtonville}
+- {name: Nonantum}
+- {name: Norfolk}
+- {name: North Adams}
+- {name: North Andover}
+- {name: North Attleboro}
+- {name: North Billerica}
+- {name: North Brookfield}
+- {name: North Chelmsford}
+- {name: North Dartmouth}
+- {name: North Dighton}
+- {name: North Eastham}
+- {name: North Easton}
+- {name: North Egremont}
+- {name: North Falmouth}
+- {name: North Grafton}
+- {name: North Hatfield}
+- {name: North Oxford}
+- {name: North Pembroke}
+- {name: North Reading}
+- {name: North Scituate}
+- {name: North Truro}
+- {name: North Uxbridge}
+- {name: North Weymouth}
+- {name: Northampton}
+- {name: Northborough}
+- {name: Northbridge}
+- {name: Northfield}
+- {name: Norton}
+- {name: Norwell}
+- {name: Norwood}
+- {name: Nutting Lake}
+- {name: Oak Bluffs}
+- {name: Oakham}
+- {name: Ocean Bluff}
+- {name: Onset}
+- {name: Orange}
+- {name: Orleans}
+- {name: Osterville}
+- {name: Otis}
+- {name: Oxford}
+- {name: Palmer}
+- {name: Paxton}
+- {name: Peabody}
+- {name: Pembroke}
+- {name: Pepperell}
+- {name: Petersham}
+- {name: Pinehurst}
+- {name: Pittsfield}
+- {name: Plainfield}
+- {name: Plainville}
+- {name: Plymouth}
+- {name: Plympton}
+- {name: Pocasset}
+- {name: Prides Crossing}
+- {name: Princeton}
+- {name: Provincetown}
+- {name: Quincy}
+- {name: Randolph}
+- {name: Raynham}
+- {name: Raynham Center}
+- {name: Reading}
+- {name: Readville}
+- {name: Rehoboth}
+- {name: Revere}
+- {name: Richmond}
+- {name: Rochdale}
+- {name: Rochester}
+- {name: Rockland}
+- {name: Rockport}
+- {name: Roslindale}
+- {name: Rowe}
+- {name: Rowley}
+- {name: Royalston}
+- {name: Russell}
+- {name: Rutland}
+- {name: Sagamore}
+- {name: Sagamore Beach}
+- {name: Salem}
+- {name: Salisbury}
+- {name: Sandisfield}
+- {name: Sandwich}
+- {name: Saugus}
+- {name: Savoy}
+- {name: Scituate}
+- {name: Seekonk}
+- {name: Sharon}
+- {name: Sheffield}
+- {name: Shelburne Falls}
+- {name: Sherborn}
+- {name: Shirley}
+- {name: Shrewsbury}
+- {name: Shutesbury}
+- {name: Somerset}
+- {name: Somerville}
+- {name: South Chatham}
+- {name: South Dartmouth}
+- {name: South Deerfield}
+- {name: South Dennis}
+- {name: South Easton}
+- {name: South Egremont}
+- {name: South Grafton}
+- {name: South Hadley}
+- {name: South Hamilton}
+- {name: South Harwich}
+- {name: South Lancaster}
+- {name: South Orleans}
+- {name: South Walpole}
+- {name: South Wellfleet}
+- {name: South Weymouth}
+- {name: South Yarmouth}
+- {name: Southampton}
+- {name: Southborough}
+- {name: Southbridge}
+- {name: Southfield}
+- {name: Southwick}
+- {name: Spencer}
+- {name: Springfield}
+- {name: Sterling}
+- {name: Still River}
+- {name: Stockbridge}
+- {name: Stoneham}
+- {name: Stoughton}
+- {name: Stow}
+- {name: Sturbridge}
+- {name: Sudbury}
+- {name: Sunderland}
+- {name: Sutton}
+- {name: Swampscott}
+- {name: Swansea}
+- {name: Taunton}
+- {name: Templeton}
+- {name: Tewksbury}
+- {name: Three Rivers}
+- {name: Topsfield}
+- {name: Townsend}
+- {name: Truro}
+- {name: Turners Falls}
+- {name: Tyngsboro}
+- {name: Tyringham}
+- {name: Upton}
+- {name: Uxbridge}
+- {name: Village Of Nagog Woods}
+- {name: Vineyard Haven}
+- {name: Waban}
+- {name: Wakefield}
+- {name: Walpole}
+- {name: Waltham}
+- {name: Ware}
+- {name: Wareham}
+- {name: Warren}
+- {name: Warwick}
+- {name: Watertown}
+- {name: Waverley}
+- {name: Wayland}
+- {name: Webster}
+- {name: Wellesley}
+- {name: Wellesley Hills}
+- {name: Wellfleet}
+- {name: Wendell}
+- {name: Wenham}
+- {name: West Barnstable}
+- {name: West Boxford}
+- {name: West Boylston}
+- {name: West Bridgewater}
+- {name: West Chatham}
+- {name: West Chop}
+- {name: West Dennis}
+- {name: West Falmouth}
+- {name: West Harwich}
+- {name: West Hatfield}
+- {name: West Medford}
+- {name: West Newbury}
+- {name: West Newton}
+- {name: West Roxbury}
+- {name: West Springfield}
+- {name: West Stockbridge}
+- {name: West Tisbury}
+- {name: West Townsend}
+- {name: West Wareham}
+- {name: West Warren}
+- {name: West Yarmouth}
+- {name: Westborough}
+- {name: Westfield}
+- {name: Westford}
+- {name: Westminster}
+- {name: Weston}
+- {name: Westport}
+- {name: Westwood}
+- {name: Weymouth}
+- {name: Whately}
+- {name: Whitinsville}
+- {name: Whitman}
+- {name: Wilbraham}
+- {name: Williamsburg}
+- {name: Williamstown}
+- {name: Wilmington}
+- {name: Winchendon}
+- {name: Winchester}
+- {name: Windsor}
+- {name: Winthrop}
+- {name: Woburn}
+- {name: Woods Hole}
+- {name: Woodville}
+- {name: Worcester}
+- {name: Worthington}
+- {name: Wrentham}
+- {name: Yarmouth Port}

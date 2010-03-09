@@ -1,4 +1,1 @@
-- cities:
-  - {name: Cotonou}
-  code: '14'
-  name: ''
+- {code: '14', name: ''}

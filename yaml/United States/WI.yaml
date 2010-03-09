@@ -1,0 +1,617 @@
+- {name: Abbotsford}
+- {name: Abrams}
+- {name: Adams}
+- {name: Adell}
+- {name: Afton}
+- {name: Albany}
+- {name: Algoma}
+- {name: Allenton}
+- {name: Alma}
+- {name: Almena}
+- {name: Almond}
+- {name: Altoona}
+- {name: Amery}
+- {name: Amherst}
+- {name: Amherst Junction}
+- {name: Aniwa}
+- {name: Antigo}
+- {name: Appleton}
+- {name: Arcadia}
+- {name: Argonne}
+- {name: Argyle}
+- {name: Arkansaw}
+- {name: Arkdale}
+- {name: Arlington}
+- {name: Armstrong Creek}
+- {name: Arpin}
+- {name: Ashippun}
+- {name: Ashland}
+- {name: Athelstane}
+- {name: Athens}
+- {name: Auburndale}
+- {name: Augusta}
+- {name: Avalon}
+- {name: Avoca}
+- {name: Bagley}
+- {name: Baileys Harbor}
+- {name: Baldwin}
+- {name: Balsam Lake}
+- {name: Bancroft}
+- {name: Bangor}
+- {name: Baraboo}
+- {name: Barneveld}
+- {name: Barron}
+- {name: Barronett}
+- {name: Bay City}
+- {name: Bayfield}
+- {name: Bear Creek}
+- {name: Beaver Dam}
+- {name: Beldenville}
+- {name: Belgium}
+- {name: Belleville}
+- {name: Belmont}
+- {name: Beloit}
+- {name: Benton}
+- {name: Berlin}
+- {name: Big Bend}
+- {name: Big Falls}
+- {name: Birchwood}
+- {name: Birnamwood}
+- {name: Black Creek}
+- {name: Black Earth}
+- {name: Black River Falls}
+- {name: Blair}
+- {name: Blanchardville}
+- {name: Bloomer}
+- {name: Bloomington}
+- {name: Blue Mounds}
+- {name: Blue River}
+- {name: Bonduel}
+- {name: Boscobel}
+- {name: Bowler}
+- {name: Boyceville}
+- {name: Boyd}
+- {name: Brandon}
+- {name: Briggsville}
+- {name: Brill}
+- {name: Brillion}
+- {name: Bristol}
+- {name: Brodhead}
+- {name: Brokaw}
+- {name: Brookfield}
+- {name: Brooklyn}
+- {name: Brownsville}
+- {name: Browntown}
+- {name: Bruce}
+- {name: Brussels}
+- {name: Burlington}
+- {name: Burnett}
+- {name: Butler}
+- {name: Butternut}
+- {name: Cable}
+- {name: Cadott}
+- {name: Caledonia}
+- {name: Cambria}
+- {name: Cambridge}
+- {name: Cameron}
+- {name: Camp Douglas}
+- {name: Camp Lake}
+- {name: Campbellsport}
+- {name: Caroline}
+- {name: Cascade}
+- {name: Casco}
+- {name: Cashton}
+- {name: Cassville}
+- {name: Cazenovia}
+- {name: Cecil}
+- {name: Cedar Grove}
+- {name: Cedarburg}
+- {name: Centuria}
+- {name: Chaseburg}
+- {name: Chetek}
+- {name: Chili}
+- {name: Chilton}
+- {name: Chippewa Falls}
+- {name: Clam Lake}
+- {name: Clayton}
+- {name: Clear Lake}
+- {name: Cleveland}
+- {name: Clinton}
+- {name: Clintonville}
+- {name: Cobb}
+- {name: Cochrane}
+- {name: Colby}
+- {name: Coleman}
+- {name: Colfax}
+- {name: Colgate}
+- {name: Coloma}
+- {name: Columbus}
+- {name: Combined Locks}
+- {name: Comstock}
+- {name: Conover}
+- {name: Coon Valley}
+- {name: Cottage Grove}
+- {name: Couderay}
+- {name: Crandon}
+- {name: Crivitz}
+- {name: Cross Plains}
+- {name: Cuba City}
+- {name: Cudahy}
+- {name: Cumberland}
+- {name: Curtiss}
+- {name: Cushing}
+- {name: Dallas}
+- {name: Dane}
+- {name: Darien}
+- {name: Darlington}
+- {name: De Forest}
+- {name: De Pere}
+- {name: De Soto}
+- {name: Deerfield}
+- {name: Delafield}
+- {name: Delavan}
+- {name: Denmark}
+- {name: Dickeyville}
+- {name: Dodge}
+- {name: Dodgeville}
+- {name: Dorchester}
+- {name: Dousman}
+- {name: Downing}
+- {name: Downsville}
+- {name: Doylestown}
+- {name: Dresser}
+- {name: Drummond}
+- {name: Dunbar}
+- {name: Durand}
+- {name: Eagle}
+- {name: Eagle River}
+- {name: East Ellsworth}
+- {name: East Troy}
+- {name: Eau Claire}
+- {name: Eden}
+- {name: Edgar}
+- {name: Edgerton}
+- {name: Egg Harbor}
+- {name: Elcho}
+- {name: Eldorado}
+- {name: Eleva}
+- {name: Elk Mound}
+- {name: Elkhart Lake}
+- {name: Elkhorn}
+- {name: Ellsworth}
+- {name: Elm Grove}
+- {name: Elmwood}
+- {name: Elroy}
+- {name: Embarrass}
+- {name: Endeavor}
+- {name: Ettrick}
+- {name: Evansville}
+- {name: Exeland}
+- {name: Fairchild}
+- {name: Fairwater}
+- {name: Fall Creek}
+- {name: Fall River}
+- {name: Fennimore}
+- {name: Ferryville}
+- {name: Fifield}
+- {name: Fish Creek}
+- {name: Florence}
+- {name: Fond Du Lac}
+- {name: Fontana}
+- {name: Footville}
+- {name: Forest Junction}
+- {name: Forestville}
+- {name: Fort Atkinson}
+- {name: Fountain City}
+- {name: Fox Lake}
+- {name: Foxboro}
+- {name: Francis Creek}
+- {name: Franklin}
+- {name: Franksville}
+- {name: Frederic}
+- {name: Fredonia}
+- {name: Freedom}
+- {name: Fremont}
+- {name: Friendship}
+- {name: Galesville}
+- {name: Gays Mills}
+- {name: Genesee Depot}
+- {name: Genoa City}
+- {name: Germantown}
+- {name: Gile}
+- {name: Gillett}
+- {name: Gleason}
+- {name: Glen Flora}
+- {name: Glenbeulah}
+- {name: Glenwood City}
+- {name: Glidden}
+- {name: Gordon}
+- {name: Grafton}
+- {name: Grand Marsh}
+- {name: Grand View}
+- {name: Granton}
+- {name: Grantsburg}
+- {name: Green Bay}
+- {name: Green Lake}
+- {name: Green Valley}
+- {name: Greenbush}
+- {name: Greendale}
+- {name: Greenleaf}
+- {name: Greenville}
+- {name: Greenwood}
+- {name: Gresham}
+- {name: Hager City}
+- {name: Hales Corners}
+- {name: Hammond}
+- {name: Hancock}
+- {name: Hannibal}
+- {name: Harshaw}
+- {name: Hartford}
+- {name: Hartland}
+- {name: Hatley}
+- {name: Hawthorne}
+- {name: Hayward}
+- {name: Hazel Green}
+- {name: Hazelhurst}
+- {name: Helenville}
+- {name: Hewitt}
+- {name: Highland}
+- {name: Hilbert}
+- {name: Hillsboro}
+- {name: Hixton}
+- {name: Holcombe}
+- {name: Hollandale}
+- {name: Holmen}
+- {name: Honey Creek}
+- {name: Horicon}
+- {name: Hortonville}
+- {name: Houlton}
+- {name: Hubertus}
+- {name: Hudson}
+- {name: Humbird}
+- {name: Hurley}
+- {name: Hustisford}
+- {name: Independence}
+- {name: Iola}
+- {name: Iron Ridge}
+- {name: Iron River}
+- {name: Ixonia}
+- {name: Jackson}
+- {name: Janesville}
+- {name: Jefferson}
+- {name: Johnson Creek}
+- {name: Juda}
+- {name: Junction City}
+- {name: Juneau}
+- {name: Kansasville}
+- {name: Kaukauna}
+- {name: Kendall}
+- {name: Kenosha}
+- {name: Keshena}
+- {name: Kewaskum}
+- {name: Kewaunee}
+- {name: Kiel}
+- {name: Kimberly}
+- {name: Kingston}
+- {name: Knapp}
+- {name: Kohler}
+- {name: Krakow}
+- {name: La Crosse}
+- {name: La Farge}
+- {name: La Valle}
+- {name: Lac Du Flambeau}
+- {name: Ladysmith}
+- {name: Lake Delton}
+- {name: Lake Geneva}
+- {name: Lake Mills}
+- {name: Lake Nebagamon}
+- {name: Lake Tomahawk}
+- {name: Lakewood}
+- {name: Lancaster}
+- {name: Land O Lakes}
+- {name: Lannon}
+- {name: Larsen}
+- {name: Lebanon}
+- {name: Lena}
+- {name: Lime Ridge}
+- {name: Little Chute}
+- {name: Little Suamico}
+- {name: Lodi}
+- {name: Loganville}
+- {name: Lomira}
+- {name: Lone Rock}
+- {name: Lowell}
+- {name: Loyal}
+- {name: Luck}
+- {name: Luxemburg}
+- {name: Lyndon Station}
+- {name: Lyons}
+- {name: Madison}
+- {name: Malone}
+- {name: Manawa}
+- {name: Manitowish Waters}
+- {name: Manitowoc}
+- {name: Marathon}
+- {name: Marinette}
+- {name: Marion}
+- {name: Markesan}
+- {name: Marshall}
+- {name: Marshfield}
+- {name: Mauston}
+- {name: Mayville}
+- {name: Mazomanie}
+- {name: Mc Farland}
+- {name: Medford}
+- {name: Mellen}
+- {name: Melrose}
+- {name: Menasha}
+- {name: Menomonee Falls}
+- {name: Menomonie}
+- {name: Mequon}
+- {name: Mercer}
+- {name: Merrill}
+- {name: Merrillan}
+- {name: Merrimac}
+- {name: Merton}
+- {name: Middleton}
+- {name: Mikana}
+- {name: Milladore}
+- {name: Milltown}
+- {name: Milton}
+- {name: Milwaukee}
+- {name: Mindoro}
+- {name: Mineral Point}
+- {name: Minocqua}
+- {name: Minong}
+- {name: Mishicot}
+- {name: Mondovi}
+- {name: Monroe}
+- {name: Montello}
+- {name: Montfort}
+- {name: Monticello}
+- {name: Montreal}
+- {name: Mosinee}
+- {name: Mount Calvary}
+- {name: Mount Hope}
+- {name: Mount Horeb}
+- {name: Mountain}
+- {name: Mukwonago}
+- {name: Muscoda}
+- {name: Muskego}
+- {name: Nashotah}
+- {name: Necedah}
+- {name: Neenah}
+- {name: Neillsville}
+- {name: Nekoosa}
+- {name: Nelsonville}
+- {name: Neosho}
+- {name: Neshkoro}
+- {name: New Auburn}
+- {name: New Berlin}
+- {name: New Franken}
+- {name: New Glarus}
+- {name: New Holstein}
+- {name: New Lisbon}
+- {name: New London}
+- {name: New Munster}
+- {name: New Richmond}
+- {name: Newton}
+- {name: Niagara}
+- {name: Nichols}
+- {name: North Freedom}
+- {name: North Lake}
+- {name: North Prairie}
+- {name: Norwalk}
+- {name: Oak Creek}
+- {name: Oakdale}
+- {name: Oakfield}
+- {name: Oconomowoc}
+- {name: Oconto}
+- {name: Oconto Falls}
+- {name: Odanah}
+- {name: Okauchee}
+- {name: Omro}
+- {name: Onalaska}
+- {name: Oneida}
+- {name: Oostburg}
+- {name: Oregon}
+- {name: Orfordville}
+- {name: Osceola}
+- {name: Oshkosh}
+- {name: Osseo}
+- {name: Owen}
+- {name: Oxford}
+- {name: Packwaukee}
+- {name: Palmyra}
+- {name: Pardeeville}
+- {name: Park Falls}
+- {name: Pell Lake}
+- {name: Pembine}
+- {name: Pepin}
+- {name: Peshtigo}
+- {name: Pewaukee}
+- {name: Phelps}
+- {name: Phillips}
+- {name: Pickett}
+- {name: Pigeon Falls}
+- {name: Pittsville}
+- {name: Plain}
+- {name: Plainfield}
+- {name: Platteville}
+- {name: Pleasant Prairie}
+- {name: Plover}
+- {name: Plymouth}
+- {name: Port Edwards}
+- {name: Port Washington}
+- {name: Portage}
+- {name: Porterfield}
+- {name: Potosi}
+- {name: Potter}
+- {name: Pound}
+- {name: Powers Lake}
+- {name: Poy Sippi}
+- {name: Poynette}
+- {name: Prairie Du Chien}
+- {name: Prairie Du Sac}
+- {name: Prairie Farm}
+- {name: Prentice}
+- {name: Prescott}
+- {name: Presque Isle}
+- {name: Princeton}
+- {name: Pulaski}
+- {name: Racine}
+- {name: Randolph}
+- {name: Random Lake}
+- {name: Readstown}
+- {name: Redgranite}
+- {name: Reedsburg}
+- {name: Reedsville}
+- {name: Reeseville}
+- {name: Rhinelander}
+- {name: Rib Lake}
+- {name: Rice Lake}
+- {name: Richfield}
+- {name: Richland Center}
+- {name: Ridgeland}
+- {name: Ringle}
+- {name: Rio}
+- {name: Ripon}
+- {name: River Falls}
+- {name: Roberts}
+- {name: Rochester}
+- {name: Rock Springs}
+- {name: Rockland}
+- {name: Rosendale}
+- {name: Rosholt}
+- {name: Rothschild}
+- {name: Rubicon}
+- {name: Rudolph}
+- {name: Saint Cloud}
+- {name: Saint Croix Falls}
+- {name: Saint Germain}
+- {name: Saint Nazianz}
+- {name: Salem}
+- {name: Sarona}
+- {name: Sauk City}
+- {name: Saukville}
+- {name: Sayner}
+- {name: Scandinavia}
+- {name: Schofield}
+- {name: Seymour}
+- {name: Sharon}
+- {name: Shawano}
+- {name: Sheboygan}
+- {name: Sheboygan Falls}
+- {name: Sheldon}
+- {name: Shell Lake}
+- {name: Sherwood}
+- {name: Shiocton}
+- {name: Shullsburg}
+- {name: Silver Lake}
+- {name: Sinsinawa}
+- {name: Siren}
+- {name: Sister Bay}
+- {name: Slinger}
+- {name: Sobieski}
+- {name: Soldiers Grove}
+- {name: Solon Springs}
+- {name: Somers}
+- {name: Somerset}
+- {name: South Milwaukee}
+- {name: South Range}
+- {name: South Wayne}
+- {name: Sparta}
+- {name: Spencer}
+- {name: Spooner}
+- {name: Spring Green}
+- {name: Spring Valley}
+- {name: Springbrook}
+- {name: Springfield}
+- {name: Stanley}
+- {name: Star Prairie}
+- {name: Stevens Point}
+- {name: Stockholm}
+- {name: Stoddard}
+- {name: Stone Lake}
+- {name: Stoughton}
+- {name: Stratford}
+- {name: Strum}
+- {name: Sturgeon Bay}
+- {name: Sturtevant}
+- {name: Sullivan}
+- {name: Summit Lake}
+- {name: Sun Prairie}
+- {name: Superior}
+- {name: Suring}
+- {name: Sussex}
+- {name: Taylor}
+- {name: Theresa}
+- {name: Thiensville}
+- {name: Thorp}
+- {name: Three Lakes}
+- {name: Tigerton}
+- {name: Tomah}
+- {name: Tomahawk}
+- {name: Tony}
+- {name: Townsend}
+- {name: Trego}
+- {name: Trempealeau}
+- {name: Trevor}
+- {name: Turtle Lake}
+- {name: Twin Lakes}
+- {name: Two Rivers}
+- {name: Union Grove}
+- {name: Unity}
+- {name: Valders}
+- {name: Verona}
+- {name: Vesper}
+- {name: Viola}
+- {name: Viroqua}
+- {name: Wabeno}
+- {name: Waldo}
+- {name: Wales}
+- {name: Walworth}
+- {name: Warrens}
+- {name: Wascott}
+- {name: Washburn}
+- {name: Waterford}
+- {name: Waterloo}
+- {name: Watertown}
+- {name: Waukesha}
+- {name: Waunakee}
+- {name: Waupaca}
+- {name: Waupun}
+- {name: Wausau}
+- {name: Wausaukee}
+- {name: Wautoma}
+- {name: Wauzeka}
+- {name: Webster}
+- {name: West Bend}
+- {name: West Salem}
+- {name: Westboro}
+- {name: Westby}
+- {name: Westfield}
+- {name: Weyauwega}
+- {name: Weyerhaeuser}
+- {name: Wheeler}
+- {name: White Lake}
+- {name: Whitehall}
+- {name: Whitelaw}
+- {name: Whitewater}
+- {name: Wild Rose}
+- {name: Williams Bay}
+- {name: Wilmot}
+- {name: Wilson}
+- {name: Wilton}
+- {name: Windsor}
+- {name: Winneconne}
+- {name: Winter}
+- {name: Wisconsin Dells}
+- {name: Wisconsin Rapids}
+- {name: Wittenberg}
+- {name: Woodman}
+- {name: Woodruff}
+- {name: Woodville}
+- {name: Wrightstown}
+- {name: Wyocena}
+- {name: Zenda}

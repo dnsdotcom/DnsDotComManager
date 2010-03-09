@@ -1,20 +1,5 @@
-- cities:
-  - {name: Benghazi}
-  code: '54'
-  name: Banghazi
-- cities:
-  - {name: D}
-  code: '55'
-  name: Darnah
-- cities:
-  - {name: Misratah}
-  code: '58'
-  name: Misratah
-- cities:
-  - {name: Sebha}
-  code: '34'
-  name: Sabha
-- cities:
-  - {name: Tripoli}
-  code: '61'
-  name: Tarabulus
+- {code: '54', name: Banghazi}
+- {code: '55', name: Darnah}
+- {code: '58', name: Misratah}
+- {code: '34', name: Sabha}
+- {code: '61', name: Tarabulus}

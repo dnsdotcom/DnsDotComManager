@@ -1,5 +1,1 @@
-- cities:
-  - {name: Praia}
-  - {name: Velha}
-  code: '17'
-  name: Sao Domingos
+- {code: '17', name: Sao Domingos}

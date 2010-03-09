@@ -1,0 +1,558 @@
+- {name: Absecon}
+- {name: Adelphia}
+- {name: Allamuchy}
+- {name: Allendale}
+- {name: Allenhurst}
+- {name: Allentown}
+- {name: Allenwood}
+- {name: Alloway}
+- {name: Alpine}
+- {name: Andover}
+- {name: Annandale}
+- {name: Asbury}
+- {name: Asbury Park}
+- {name: Atco}
+- {name: Atlantic City}
+- {name: Atlantic Highlands}
+- {name: Audubon}
+- {name: Augusta}
+- {name: Avalon}
+- {name: Avenel}
+- {name: Avon By The Sea}
+- {name: Baptistown}
+- {name: Barnegat}
+- {name: Barnegat Light}
+- {name: Barrington}
+- {name: Basking Ridge}
+- {name: Bayonne}
+- {name: Bayville}
+- {name: Beach Haven}
+- {name: Beachwood}
+- {name: Bedminster}
+- {name: Belford}
+- {name: Belle Mead}
+- {name: Belleville}
+- {name: Bellmawr}
+- {name: Belmar}
+- {name: Belvidere}
+- {name: Bergenfield}
+- {name: Berkeley Heights}
+- {name: Berlin}
+- {name: Bernardsville}
+- {name: Beverly}
+- {name: Birmingham}
+- {name: Blackwood}
+- {name: Blairstown}
+- {name: Blawenburg}
+- {name: Bloomfield}
+- {name: Bloomingdale}
+- {name: Bloomsbury}
+- {name: Bogota}
+- {name: Boonton}
+- {name: Bordentown}
+- {name: Bound Brook}
+- {name: Bradley Beach}
+- {name: Branchville}
+- {name: Brick}
+- {name: Bridgeport}
+- {name: Bridgeton}
+- {name: Bridgewater}
+- {name: Brielle}
+- {name: Brigantine}
+- {name: Broadway}
+- {name: Brookside}
+- {name: Browns Mills}
+- {name: Budd Lake}
+- {name: Buena}
+- {name: Burlington}
+- {name: Butler}
+- {name: Buttzville}
+- {name: Caldwell}
+- {name: Califon}
+- {name: Camden}
+- {name: Cape May}
+- {name: Cape May Court House}
+- {name: Carlstadt}
+- {name: Carteret}
+- {name: Cedar Brook}
+- {name: Cedar Grove}
+- {name: Cedar Knolls}
+- {name: Cedarville}
+- {name: Chatham}
+- {name: Chatsworth}
+- {name: Cherry Hill}
+- {name: Chester}
+- {name: Clark}
+- {name: Clarksboro}
+- {name: Clarksburg}
+- {name: Clayton}
+- {name: Clementon}
+- {name: Cliffside Park}
+- {name: Cliffwood}
+- {name: Clifton}
+- {name: Clinton}
+- {name: Closter}
+- {name: Collingswood}
+- {name: Cologne}
+- {name: Colonia}
+- {name: Colts Neck}
+- {name: Columbia}
+- {name: Columbus}
+- {name: Cookstown}
+- {name: Cranbury}
+- {name: Cranford}
+- {name: Cream Ridge}
+- {name: Cresskill}
+- {name: Crosswicks}
+- {name: Dayton}
+- {name: Deal}
+- {name: Deepwater}
+- {name: Deerfield Street}
+- {name: Delaware}
+- {name: Demarest}
+- {name: Dennisville}
+- {name: Denville}
+- {name: Dorchester}
+- {name: Dorothy}
+- {name: Dover}
+- {name: Dumont}
+- {name: Dunellen}
+- {name: East Brunswick}
+- {name: East Hanover}
+- {name: East Orange}
+- {name: East Rutherford}
+- {name: Eatontown}
+- {name: Edgewater}
+- {name: Edison}
+- {name: Egg Harbor City}
+- {name: Egg Harbor Township}
+- {name: Elizabeth}
+- {name: Elmer}
+- {name: Elmwood Park}
+- {name: Elwood}
+- {name: Emerson}
+- {name: Englewood}
+- {name: Englewood Cliffs}
+- {name: Englishtown}
+- {name: Essex Fells}
+- {name: Estell Manor}
+- {name: Fair Haven}
+- {name: Fair Lawn}
+- {name: Fairfield}
+- {name: Fairton}
+- {name: Fairview}
+- {name: Fanwood}
+- {name: Far Hills}
+- {name: Farmingdale}
+- {name: Flagtown}
+- {name: Flanders}
+- {name: Flemington}
+- {name: Florence}
+- {name: Florham Park}
+- {name: Fords}
+- {name: Forked River}
+- {name: Fort Lee}
+- {name: Fort Monmouth}
+- {name: Fortescue}
+- {name: Franklin}
+- {name: Franklin Lakes}
+- {name: Franklin Park}
+- {name: Franklinville}
+- {name: Freehold}
+- {name: Frenchtown}
+- {name: Garfield}
+- {name: Garwood}
+- {name: Gibbsboro}
+- {name: Gibbstown}
+- {name: Gillette}
+- {name: Gladstone}
+- {name: Glassboro}
+- {name: Glasser}
+- {name: Glen Gardner}
+- {name: Glen Ridge}
+- {name: Glen Rock}
+- {name: Glendora}
+- {name: Glenwood}
+- {name: Gloucester City}
+- {name: Great Meadows}
+- {name: Green Village}
+- {name: Greendell}
+- {name: Grenloch}
+- {name: Hackensack}
+- {name: Hackettstown}
+- {name: Haddon Heights}
+- {name: Haddonfield}
+- {name: Hainesport}
+- {name: Haledon}
+- {name: Hamburg}
+- {name: Hammonton}
+- {name: Hampton}
+- {name: Hancocks Bridge}
+- {name: Harrington Park}
+- {name: Harrison}
+- {name: Harrisonville}
+- {name: Hasbrouck Heights}
+- {name: Haskell}
+- {name: Haworth}
+- {name: Hawthorne}
+- {name: Hazlet}
+- {name: Heislerville}
+- {name: Helmetta}
+- {name: Hewitt}
+- {name: Hibernia}
+- {name: High Bridge}
+- {name: Highland Lakes}
+- {name: Highland Park}
+- {name: Highlands}
+- {name: Hightstown}
+- {name: Hillsborough}
+- {name: Hillsdale}
+- {name: Hillside}
+- {name: Ho Ho Kus}
+- {name: Hoboken}
+- {name: Holmdel}
+- {name: Hopatcong}
+- {name: Hope}
+- {name: Hopewell}
+- {name: Howell}
+- {name: Imlaystown}
+- {name: Ironia}
+- {name: Irvington}
+- {name: Iselin}
+- {name: Island Heights}
+- {name: Jackson}
+- {name: Jersey City}
+- {name: Jobstown}
+- {name: Johnsonburg}
+- {name: Keansburg}
+- {name: Kearny}
+- {name: Keasbey}
+- {name: Kendall Park}
+- {name: Kenilworth}
+- {name: Kenvil}
+- {name: Keyport}
+- {name: Kingston}
+- {name: Lafayette}
+- {name: Lake Hiawatha}
+- {name: Lake Hopatcong}
+- {name: Lakehurst}
+- {name: Lakewood}
+- {name: Lambertville}
+- {name: Landing}
+- {name: Landisville}
+- {name: Lanoka Harbor}
+- {name: Lavallette}
+- {name: Lawnside}
+- {name: Lebanon}
+- {name: Ledgewood}
+- {name: Leeds Point}
+- {name: Leonardo}
+- {name: Leonia}
+- {name: Liberty Corner}
+- {name: Lincoln Park}
+- {name: Lincroft}
+- {name: Linden}
+- {name: Linwood}
+- {name: Little Falls}
+- {name: Little Ferry}
+- {name: Little Silver}
+- {name: Little York}
+- {name: Livingston}
+- {name: Lodi}
+- {name: Long Branch}
+- {name: Long Valley}
+- {name: Lumberton}
+- {name: Lyndhurst}
+- {name: Lyons}
+- {name: Madison}
+- {name: Magnolia}
+- {name: Mahwah}
+- {name: Malaga}
+- {name: Manahawkin}
+- {name: Manasquan}
+- {name: Manchester Township}
+- {name: Mantua}
+- {name: Manville}
+- {name: Maple Shade}
+- {name: Maplewood}
+- {name: Margate City}
+- {name: Marlboro}
+- {name: Marlton}
+- {name: Marmora}
+- {name: Martinsville}
+- {name: Matawan}
+- {name: Mauricetown}
+- {name: Mays Landing}
+- {name: Maywood}
+- {name: Mc Afee}
+- {name: Medford}
+- {name: Mendham}
+- {name: Merchantville}
+- {name: Metuchen}
+- {name: Mickleton}
+- {name: Middlesex}
+- {name: Middletown}
+- {name: Midland Park}
+- {name: Milford}
+- {name: Millburn}
+- {name: Millington}
+- {name: Milltown}
+- {name: Millville}
+- {name: Milmay}
+- {name: Mine Hill}
+- {name: Minotola}
+- {name: Monmouth Beach}
+- {name: Monmouth Junction}
+- {name: Monroe Township}
+- {name: Monroeville}
+- {name: Montague}
+- {name: Montclair}
+- {name: Montvale}
+- {name: Montville}
+- {name: Moonachie}
+- {name: Moorestown}
+- {name: Morganville}
+- {name: Morris Plains}
+- {name: Morristown}
+- {name: Mount Arlington}
+- {name: Mount Ephraim}
+- {name: Mount Freedom}
+- {name: Mount Holly}
+- {name: Mount Laurel}
+- {name: Mount Royal}
+- {name: Mount Tabor}
+- {name: Mountain Lakes}
+- {name: Mountainside}
+- {name: Mullica Hill}
+- {name: National Park}
+- {name: Navesink}
+- {name: Neptune}
+- {name: Neshanic Station}
+- {name: Netcong}
+- {name: New Brunswick}
+- {name: New Egypt}
+- {name: New Gretna}
+- {name: New Lisbon}
+- {name: New Milford}
+- {name: New Providence}
+- {name: New Vernon}
+- {name: Newark}
+- {name: Newfield}
+- {name: Newfoundland}
+- {name: Newport}
+- {name: Newton}
+- {name: Newtonville}
+- {name: Norma}
+- {name: North Arlington}
+- {name: North Bergen}
+- {name: North Brunswick}
+- {name: Northfield}
+- {name: Northvale}
+- {name: Norwood}
+- {name: Nutley}
+- {name: Oak Ridge}
+- {name: Oakhurst}
+- {name: Oakland}
+- {name: Oaklyn}
+- {name: Ocean City}
+- {name: Ocean Gate}
+- {name: Ocean Grove}
+- {name: Ocean View}
+- {name: Oceanport}
+- {name: Oceanville}
+- {name: Ogdensburg}
+- {name: Old Bridge}
+- {name: Oldwick}
+- {name: Oradell}
+- {name: Orange}
+- {name: Oxford}
+- {name: Palisades Park}
+- {name: Palmyra}
+- {name: Paramus}
+- {name: Park Ridge}
+- {name: Parlin}
+- {name: Parsippany}
+- {name: Passaic}
+- {name: Paterson}
+- {name: Paulsboro}
+- {name: Peapack}
+- {name: Pedricktown}
+- {name: Pemberton}
+- {name: Pennington}
+- {name: Penns Grove}
+- {name: Pennsauken}
+- {name: Pennsville}
+- {name: Pequannock}
+- {name: Perrineville}
+- {name: Perth Amboy}
+- {name: Phillipsburg}
+- {name: Picatinny Arsenal}
+- {name: Pine Beach}
+- {name: Pine Brook}
+- {name: Piscataway}
+- {name: Pitman}
+- {name: Pittstown}
+- {name: Plainfield}
+- {name: Plainsboro}
+- {name: Pleasantville}
+- {name: Pluckemin}
+- {name: Point Pleasant Beach}
+- {name: Pomona}
+- {name: Pompton Lakes}
+- {name: Pompton Plains}
+- {name: Port Monmouth}
+- {name: Port Murray}
+- {name: Port Norris}
+- {name: Port Reading}
+- {name: Port Republic}
+- {name: Pottersville}
+- {name: Princeton}
+- {name: Princeton Junction}
+- {name: Quakertown}
+- {name: Quinton}
+- {name: Rahway}
+- {name: Ramsey}
+- {name: Rancocas}
+- {name: Randolph}
+- {name: Raritan}
+- {name: Readington}
+- {name: Red Bank}
+- {name: Richland}
+- {name: Richwood}
+- {name: Ridgefield}
+- {name: Ridgefield Park}
+- {name: Ridgewood}
+- {name: Ringoes}
+- {name: Ringwood}
+- {name: Rio Grande}
+- {name: River Edge}
+- {name: Riverdale}
+- {name: Riverside}
+- {name: Riverton}
+- {name: Rochelle Park}
+- {name: Rockaway}
+- {name: Rocky Hill}
+- {name: Roebling}
+- {name: Roseland}
+- {name: Roselle}
+- {name: Roselle Park}
+- {name: Rosemont}
+- {name: Rosenhayn}
+- {name: Rumson}
+- {name: Runnemede}
+- {name: Rutherford}
+- {name: Saddle Brook}
+- {name: Saddle River}
+- {name: Salem}
+- {name: Sayreville}
+- {name: Schooleys Mountain}
+- {name: Scotch Plains}
+- {name: Sea Girt}
+- {name: Sea Isle City}
+- {name: Seaside Heights}
+- {name: Seaside Park}
+- {name: Secaucus}
+- {name: Sergeantsville}
+- {name: Sewaren}
+- {name: Sewell}
+- {name: Shiloh}
+- {name: Short Hills}
+- {name: Shrewsbury}
+- {name: Sicklerville}
+- {name: Skillman}
+- {name: Somerdale}
+- {name: Somers Point}
+- {name: Somerset}
+- {name: Somerville}
+- {name: South Amboy}
+- {name: South Bound Brook}
+- {name: South Dennis}
+- {name: South Hackensack}
+- {name: South Orange}
+- {name: South Plainfield}
+- {name: South River}
+- {name: South Seaville}
+- {name: Sparta}
+- {name: Spotswood}
+- {name: Spring Lake}
+- {name: Springfield}
+- {name: Stanhope}
+- {name: Stanton}
+- {name: Stewartsville}
+- {name: Stirling}
+- {name: Stockholm}
+- {name: Stockton}
+- {name: Stone Harbor}
+- {name: Stratford}
+- {name: Succasunna}
+- {name: Summit}
+- {name: Sussex}
+- {name: Swartswood}
+- {name: Swedesboro}
+- {name: Teaneck}
+- {name: Tenafly}
+- {name: Tennent}
+- {name: Teterboro}
+- {name: Thorofare}
+- {name: Three Bridges}
+- {name: Titusville}
+- {name: Toms River}
+- {name: Totowa}
+- {name: Towaco}
+- {name: Township Of Washington}
+- {name: Tranquility}
+- {name: Trenton}
+- {name: Tuckerton}
+- {name: Union}
+- {name: Union City}
+- {name: Vauxhall}
+- {name: Ventnor City}
+- {name: Vernon}
+- {name: Verona}
+- {name: Vienna}
+- {name: Villas}
+- {name: Vincentown}
+- {name: Vineland}
+- {name: Voorhees}
+- {name: Waldwick}
+- {name: Wallington}
+- {name: Wallpack Center}
+- {name: Wanaque}
+- {name: Waretown}
+- {name: Warren}
+- {name: Washington}
+- {name: Watchung}
+- {name: Waterford Works}
+- {name: Wayne}
+- {name: Weehawken}
+- {name: Wenonah}
+- {name: West Berlin}
+- {name: West Creek}
+- {name: West Long Branch}
+- {name: West Milford}
+- {name: West New York}
+- {name: West Orange}
+- {name: Westfield}
+- {name: Westville}
+- {name: Westwood}
+- {name: Wharton}
+- {name: Whippany}
+- {name: Whitehouse}
+- {name: Whitehouse Station}
+- {name: Whitesboro}
+- {name: Wickatunk}
+- {name: Wildwood}
+- {name: Williamstown}
+- {name: Willingboro}
+- {name: Windsor}
+- {name: Winslow}
+- {name: Wood Ridge}
+- {name: Woodbine}
+- {name: Woodbridge}
+- {name: Woodbury}
+- {name: Woodbury Heights}
+- {name: Woodcliff Lake}
+- {name: Woodstown}
+- {name: Wrightstown}
+- {name: Wyckoff}
+- {name: Zarephath}

@@ -1,0 +1,210 @@
+- {name: Acquaro}
+- {name: Acquasparta}
+- {name: Agello}
+- {name: Agliano}
+- {name: Amelia}
+- {name: Angeli}
+- {name: Appennino}
+- {name: Arrone}
+- {name: Assisi}
+- {name: Azzano}
+- {name: Baccano}
+- {name: Badiola}
+- {name: Baiano}
+- {name: Bastia}
+- {name: Belforte}
+- {name: Belvedere}
+- {name: Bettona}
+- {name: Bevagna}
+- {name: Bigioni}
+- {name: Bosco}
+- {name: Bruna}
+- {name: Buggiano}
+- {name: Camerata}
+- {name: Campello}
+- {name: Campi}
+- {name: Canalicchio}
+- {name: Cannara}
+- {name: Cantalice}
+- {name: Cantalupo}
+- {name: Cantalupo In Sabina}
+- {name: Cantone}
+- {name: Capro}
+- {name: Cascia}
+- {name: Casigliano}
+- {name: Casperia}
+- {name: Castagna}
+- {name: Castel Del Piano}
+- {name: Castel Rigone}
+- {name: Castel Ritaldi}
+- {name: Castelfranco}
+- {name: Castelvecchio}
+- {name: Castiglione Del Lago}
+- {name: Castiglioni}
+- {name: Cerchiara}
+- {name: Ceresole}
+- {name: Cerqueto}
+- {name: Civitella}
+- {name: Collazzone}
+- {name: Colle}
+- {name: Collescipoli}
+- {name: Collevecchio}
+- {name: Colognola}
+- {name: Configni}
+- {name: Corciano}
+- {name: Costa}
+- {name: Cottanello}
+- {name: Deruta}
+- {name: Doglio}
+- {name: Fabbri}
+- {name: Ferentillo}
+- {name: Fiano}
+- {name: Finocchieto}
+- {name: Fiore}
+- {name: Foligno}
+- {name: Fontignano}
+- {name: Fosco}
+- {name: Fratta}
+- {name: Fratta Todina}
+- {name: Fratte}
+- {name: Gizzi}
+- {name: Gualdo}
+- {name: Gualdo Cattaneo}
+- {name: Guardea}
+- {name: La Chiusa}
+- {name: Labro}
+- {name: Leonessa}
+- {name: Limiti}
+- {name: Magione}
+- {name: Magliano Sabina}
+- {name: Maiano}
+- {name: Maltignano}
+- {name: Marcellano}
+- {name: Marsciano}
+- {name: Massa Martana}
+- {name: Mazzolini}
+- {name: Menestrello}
+- {name: Mengara}
+- {name: Mercatale}
+- {name: Mercatale Valdarno}
+- {name: Mercatello}
+- {name: Moggio}
+- {name: Montasola}
+- {name: Monte San Vito}
+- {name: Montebuono}
+- {name: Montecastrilli}
+- {name: Montecchio}
+- {name: Montefalco}
+- {name: Montegabbione}
+- {name: Montegiove}
+- {name: Monteleone}
+- {name: Montenero}
+- {name: Montero}
+- {name: Montesanto}
+- {name: Monticello}
+- {name: Montignano}
+- {name: Montoro}
+- {name: Mora}
+- {name: Moriano}
+- {name: Morro}
+- {name: Morro Reatino}
+- {name: Muccia}
+- {name: Narni}
+- {name: Nocera Umbra}
+- {name: Norcia}
+- {name: Ospedaletto}
+- {name: Ospedalicchio}
+- {name: Otricoli}
+- {name: Paciano}
+- {name: Palazzo}
+- {name: Panicale}
+- {name: Pantalla}
+- {name: Papiano}
+- {name: Papigno}
+- {name: Pasciana}
+- {name: Passignano}
+- {name: Pastina}
+- {name: Perugia}
+- {name: Petrignano}
+- {name: Pettino}
+- {name: Piaggia}
+- {name: Pianello}
+- {name: Piccione}
+- {name: Piegaro}
+- {name: Piemonte}
+- {name: Pierantonio}
+- {name: Pila}
+- {name: Piloni}
+- {name: Poggio}
+- {name: Poggio Bustone}
+- {name: Poggio Catino}
+- {name: Poggiolo}
+- {name: Polino}
+- {name: Ponte Rio}
+- {name: Ponte San Giovanni}
+- {name: Ponte Valleceppi}
+- {name: Popola}
+- {name: Pozzo}
+- {name: Prodo}
+- {name: Pucciarelli}
+- {name: Pulcini}
+- {name: Puro}
+- {name: Quadrelli}
+- {name: Quadro}
+- {name: Querce}
+- {name: Quercie}
+- {name: Raggio}
+- {name: Rieti}
+- {name: Rivodutri}
+- {name: Roccantica}
+- {name: Rocchette}
+- {name: Rosciano}
+- {name: Roveto}
+- {name: Rubbiano}
+- {name: Ruscio}
+- {name: San Biagio}
+- {name: San Filippo}
+- {name: San Gemini}
+- {name: San Luca}
+- {name: San Mariano}
+- {name: San Martino In Campo}
+- {name: San Polo}
+- {name: San Savino}
+- {name: San Silvestro}
+- {name: San Sisto}
+- {name: San Vitale}
+- {name: Sanfatucchio}
+- {name: Scoppio}
+- {name: Sefro}
+- {name: Selci}
+- {name: Serravalle}
+- {name: Setri}
+- {name: Solomeo}
+- {name: Soprano}
+- {name: Sorti}
+- {name: Spello}
+- {name: Spina}
+- {name: Spoleto}
+- {name: Sterpeto}
+- {name: Strada}
+- {name: Stroncone}
+- {name: Strozzacapponi}
+- {name: Tarano}
+- {name: Tavernelle}
+- {name: Terni}
+- {name: Tiro A Segno}
+- {name: Todi}
+- {name: Torgiano}
+- {name: Torri In Sabina}
+- {name: Trevi}
+- {name: Tuoro}
+- {name: Tuoro Sul Trasimeno}
+- {name: Umbertide}
+- {name: Vagli}
+- {name: Vaglia}
+- {name: Valfabbrica}
+- {name: Vescovile}
+- {name: Vigne}
+- {name: Villa Cenci}
+- {name: Visciano}
+- {name: Visso}
