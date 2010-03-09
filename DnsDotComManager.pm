@@ -5,14 +5,12 @@ use strict;
 use Data::Dumper;
 use Cpanel::LoadFile      ();
 use Cpanel::FileUtils     ();
+use YAML::Syck;
 
 
 use JSON::PP;
 use URI::Escape;
 use LWP 5.64;
-#use LWP::Protocol::http ();
-
-
 
 my $browser = LWP::UserAgent->new;
 
@@ -108,6 +106,23 @@ sub dns_query{
     my $json = new JSON::PP;
     my $domain_data = $json->decode($response->content);
     return $domain_data;
+}
+
+sub api2_listCountries{
+    $YAML::Syck::ImplicitTyping = 1;
+    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/locations.yaml');
+    #print $yaml;
+    my @data = Load($yaml);
+    
+    #print "$data[0][0]->{regions}[0]";
+    
+    #foreach my $country(@data){
+    #    print "pop";   
+    #}
+    
+    return $data[0];
+    
+    #return $data[0][0]->{regions}
 }
 
 sub api2_changeAuthToken{
@@ -958,6 +973,10 @@ sub api2 {
         },
         'removeTrafficRule' => {
             'func' => 'api2_removeTrafficRule',
+            'engine' => 'hasharray',
+        },
+        'listCountries' => {
+            'func' => 'api2_listCountries',
             'engine' => 'hasharray',
         },
         
