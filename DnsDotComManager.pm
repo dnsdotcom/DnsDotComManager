@@ -13,6 +13,7 @@ use URI::Escape;
 use LWP 5.64;
 
 my $browser = LWP::UserAgent->new;
+$YAML::Syck::ImplicitTyping = 1;
 
 our $VERSION = '0.7';
 
@@ -109,7 +110,6 @@ sub dns_query{
 }
 
 sub api2_listCountries{
-    $YAML::Syck::ImplicitTyping = 1;
     my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
     my @data = Load($yaml);
     
@@ -118,10 +118,20 @@ sub api2_listCountries{
 
 sub api2_listRegions{
     my %OPTS = @_;
-    my country = $OPTS{'country'}
+    my $country = $OPTS{'country'};
+
+    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/$country.yaml");
+    my @data = Load($yaml);
     
-    $YAML::Syck::ImplicitTyping = 1;
-    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
+    return $data[0];
+}
+
+sub api2_listCities{
+    my %OPTS = @_;
+    my $country = $OPTS{'country'};
+    my $region_code = $OPTS{'region_code'};
+
+    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/$country/$region_code.yaml");
     my @data = Load($yaml);
     
     return $data[0];
@@ -979,6 +989,14 @@ sub api2 {
         },
         'listCountries' => {
             'func' => 'api2_listCountries',
+            'engine' => 'hasharray',
+        },
+        'listRegions' => {
+            'func' => 'api2_listRegions',
+            'engine' => 'hasharray',
+        },
+        'listCities' => {
+            'func' => 'api2_listCities',
             'engine' => 'hasharray',
         },
         
