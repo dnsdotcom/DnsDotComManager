@@ -137,7 +137,6 @@
   - {name: Iztacalco}
   - {name: Iztapalapa}
   - {name: Mexico}
-  - {name: Mexico}
   - {name: Milpa Alta}
   - {name: Tlahuac}
   - {name: Tlalpan}
@@ -316,7 +315,6 @@
   - {name: Tototl}
   - {name: Tuxpan}
   - {name: Uni}
-  - {name: Uni}
   - {name: Usmajac}
   - {name: Valle De Ju}
   - {name: Yahualica}
@@ -343,7 +341,6 @@
   - {name: Ciudad Sat}
   - {name: Coacalco}
   - {name: Coatepec Harinas}
-  - {name: Cuautitl}
   - {name: Cuautitl}
   - {name: Ecatepec}
   - {name: Huehuetoca}
@@ -493,7 +490,6 @@
   code: '19'
   name: Nuevo Leon
 - cities:
-  - {name: Asunci}
   - {name: Asunci}
   - {name: Cacahuatepec}
   - {name: Chapingo}

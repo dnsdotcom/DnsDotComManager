@@ -342,7 +342,6 @@
   - {name: Ormenis}
   - {name: Sanmartin}
   - {name: Sf}
-  - {name: Sf}
   - {name: Tusnadu Nou}
   - {name: Zabala}
   code: '15'
@@ -399,7 +398,6 @@
   - {name: Br}
   - {name: Breaza}
   - {name: Brebu}
-  - {name: C}
   - {name: C}
   - {name: Caldarasti}
   - {name: Calugareni}
@@ -476,7 +474,6 @@
   - {name: Motru}
   - {name: Rovinari}
   - {name: Scoarta}
-  - {name: T}
   - {name: T}
   - {name: Ticleni}
   - {name: Vidin}
@@ -635,7 +632,6 @@
   - {name: Petrosani}
   - {name: Puscasu}
   - {name: Stirbei}
-  - {name: T}
   - {name: T}
   - {name: Tantaru}
   - {name: Turceni}
@@ -859,7 +855,6 @@
   - {name: Racovita}
   - {name: Recas}
   - {name: S}
-  - {name: S}
   - {name: Teremia Mare}
   - {name: Timisoara}
   - {name: Tirgoviste}
@@ -891,7 +886,6 @@
   - {name: Manta}
   - {name: Muereasca}
   - {name: R}
-  - {name: R}
   - {name: Runcu}
   - {name: S}
   - {name: Valcea}
@@ -902,7 +896,6 @@
   - {name: Adjud}
   - {name: Alexandru Vlahuta}
   - {name: Analog}
-  - {name: B}
   - {name: B}
   - {name: Balabanesti}
   - {name: Banca}

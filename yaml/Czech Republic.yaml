@@ -6,7 +6,6 @@
   - {name: Boranovice}
   - {name: Bran}
   - {name: Brand}
-  - {name: Brand}
   - {name: Brevnov}
   - {name: Brezineves}
   - {name: Bubenec}
@@ -198,7 +197,6 @@
   - {name: Chvalsiny}
   - {name: Cimelice}
   - {name: Doln}
-  - {name: Doln}
   - {name: Dolni Dvoriste}
   - {name: Dolni Trebonin}
   - {name: Drahotesice}
@@ -250,7 +248,6 @@
   - {name: Strazny}
   - {name: Studen}
   - {name: T}
-  - {name: T}
   - {name: Temel}
   - {name: Trebon}
   - {name: Trhov}
@@ -286,7 +283,6 @@
   - {name: Cerna Hora}
   - {name: Ceska}
   - {name: Damborice}
-  - {name: Doln}
   - {name: Doln}
   - {name: Doubravice Nad Svitavou}
   - {name: Doubravn}
@@ -325,7 +321,6 @@
   - {name: Milotice}
   - {name: Miroslav}
   - {name: Modrice}
-  - {name: Moravsk}
   - {name: Moravsk}
   - {name: Mutenice}
   - {name: Nesovice}
@@ -408,7 +403,6 @@
   - {name: Habartov}
   - {name: Hora}
   - {name: Horn}
-  - {name: Horn}
   - {name: Hradeck}
   - {name: Hradiste}
   - {name: Hruskova}
@@ -440,7 +434,6 @@
   - {name: Mesto}
   - {name: Mokr}
   - {name: Nejdek}
-  - {name: Nov}
   - {name: Nov}
   - {name: Nove Mesto}
   - {name: Novosedly}
@@ -636,8 +629,6 @@
   - {name: Dobr}
   - {name: Dolni Lutyne}
   - {name: Fr}
-  - {name: Fr}
-  - {name: Fr}
   - {name: Frantisek}
   - {name: Frenstat}
   - {name: Frydland}
@@ -648,7 +639,6 @@
   - {name: Havirov}
   - {name: Hlucin}
   - {name: Holasovice}
-  - {name: Horn}
   - {name: Horn}
   - {name: Hrabyne}
   - {name: Hranice}
@@ -718,9 +708,6 @@
   - {name: Trojanovice}
   - {name: Uhlirov}
   - {name: V}
-  - {name: V}
-  - {name: Velk}
-  - {name: Velk}
   - {name: Velk}
   - {name: Vendryne}
   - {name: Verovice}
@@ -755,8 +742,6 @@
   code: '41'
   name: Nymburk
 - cities:
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: B}
   - {name: Babice}
@@ -856,7 +841,6 @@
   - {name: Trsice}
   - {name: Uheln}
   - {name: Unicov}
-  - {name: V}
   - {name: V}
   - {name: Velk}
   - {name: Velka Bystrice}
@@ -1145,7 +1129,6 @@
   - {name: Lodenice}
   - {name: Luzec Nad Vltavou}
   - {name: Lys}
-  - {name: Lys}
   - {name: Male Pritocno}
   - {name: Melnik}
   - {name: Mil}
@@ -1231,7 +1214,6 @@
   - {name: Bab}
   - {name: Borovnice}
   - {name: Broumov}
-  - {name: Doln}
   - {name: Doln}
   - {name: Fort}
   - {name: Horn}
@@ -1455,7 +1437,6 @@
   - {name: Tasov}
   - {name: Topoln}
   - {name: Tupesy}
-  - {name: Uhersk}
   - {name: Uhersk}
   - {name: Uherske Hradiste}
   - {name: V}

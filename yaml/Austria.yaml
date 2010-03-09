@@ -92,9 +92,6 @@
   - {name: Loretto}
   - {name: Lutzmannsburg}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Mannersdorf}
   - {name: Maria Bild}
   - {name: Mariasdorf}
@@ -137,7 +134,6 @@
   - {name: Olbendorf}
   - {name: Ollersdorf}
   - {name: Oslip}
-  - {name: P}
   - {name: P}
   - {name: Pama}
   - {name: Pamhagen}
@@ -229,7 +225,6 @@
   name: Burgenland
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Abriach}
   - {name: Achalm}
   - {name: Afritz}
@@ -293,8 +288,6 @@
   - {name: Eixendorf}
   - {name: Erzberg}
   - {name: F}
-  - {name: F}
-  - {name: F}
   - {name: Faak}
   - {name: Faak Am See}
   - {name: Farrendorf}
@@ -315,10 +308,6 @@
   - {name: Freudenberg}
   - {name: Friesach}
   - {name: Froschendorf}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
   - {name: G}
   - {name: Gablern}
   - {name: Gailberg}
@@ -360,9 +349,6 @@
   - {name: Guttaring}
   - {name: Gwerz}
   - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Haidach}
   - {name: Haidenbach}
   - {name: Haidkirchen}
@@ -388,12 +374,6 @@
   - {name: Jaunstein}
   - {name: Jenig}
   - {name: Jerischach}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kadutschen}
   - {name: Kalsberg}
@@ -478,7 +458,6 @@
   - {name: Ludmannsdorf}
   - {name: Lurnbichl}
   - {name: M}
-  - {name: M}
   - {name: Magdalensberg}
   - {name: Maglern}
   - {name: Mallnitz}
@@ -508,7 +487,6 @@
   - {name: Moschenitzen}
   - {name: Muraunberg}
   - {name: Muschkau}
-  - {name: N}
   - {name: N}
   - {name: Nadling}
   - {name: Naggl}
@@ -542,8 +520,6 @@
   - {name: Ossiachberg}
   - {name: Ostriach}
   - {name: Ottmanach}
-  - {name: P}
-  - {name: P}
   - {name: P}
   - {name: Paildorf}
   - {name: Passering}
@@ -679,8 +655,6 @@
   - {name: Suetschach}
   - {name: Susalitsch}
   - {name: T}
-  - {name: T}
-  - {name: T}
   - {name: Tainach}
   - {name: Tangern}
   - {name: Tanzenberg}
@@ -745,8 +719,6 @@
   - {name: Vordergumitsch}
   - {name: Vorderkrems}
   - {name: Vorderwinkl}
-  - {name: W}
-  - {name: W}
   - {name: W}
   - {name: Wabelsdorf}
   - {name: Waben}
@@ -911,7 +883,6 @@
   - {name: Bullendorf}
   - {name: Chorherrn}
   - {name: D}
-  - {name: D}
   - {name: Dachberg}
   - {name: Dallein}
   - {name: Dambach}
@@ -968,7 +939,6 @@
   - {name: Eichbuechl}
   - {name: Eichgraben}
   - {name: Eigendorf}
-  - {name: Ein}
   - {name: Ein}
   - {name: Eisenbergeramt}
   - {name: Eisengraberamt}
@@ -1034,19 +1004,6 @@
   - {name: Fuchsenbigl}
   - {name: Furthof}
   - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
   - {name: Gaaden}
   - {name: Gablitz}
   - {name: Gadenweith}
@@ -1078,7 +1035,6 @@
   - {name: Gerotten}
   - {name: Gettsdorf}
   - {name: Getzersdorf}
-  - {name: Gf}
   - {name: Gf}
   - {name: Gie}
   - {name: Giessh}
@@ -1120,10 +1076,6 @@
   - {name: Grimmenstein}
   - {name: Grimsing}
   - {name: Gro}
-  - {name: Gro}
-  - {name: Gro}
-  - {name: Gro}
-  - {name: Gro}
   - {name: Groisbach}
   - {name: Grossau}
   - {name: Grossg}
@@ -1155,15 +1107,6 @@
   - {name: Gutenhof}
   - {name: Gutenstein}
   - {name: Guttenbrunn}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Haag}
   - {name: Habruck}
@@ -1272,9 +1215,6 @@
   - {name: Jetzles}
   - {name: Joching}
   - {name: Judenau}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kaindorf}
   - {name: Kainrathschlag}
@@ -1433,12 +1373,6 @@
   - {name: Lunz}
   - {name: Lunz Am See}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Magersdorf}
   - {name: Maierhofen}
   - {name: Maiersdorf}
@@ -1512,8 +1446,6 @@
   - {name: Muggendorf}
   - {name: Murstetten}
   - {name: Muthmannsdorf}
-  - {name: N}
-  - {name: N}
   - {name: N}
   - {name: Nabegg}
   - {name: Naglern}
@@ -1622,9 +1554,6 @@
   - {name: Ottenthal}
   - {name: Otterthal}
   - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: Paasdorf}
   - {name: Pachfurth}
   - {name: Palt}
@@ -1710,9 +1639,6 @@
   - {name: Pyhra}
   - {name: Pysdorf}
   - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Raabs An Der Thaya}
   - {name: Raach Am Hochgebirge}
   - {name: Raasdorf}
@@ -1796,7 +1722,6 @@
   - {name: Ruprechtshofen}
   - {name: Rutzendorf}
   - {name: S}
-  - {name: S}
   - {name: Saass}
   - {name: Sabatenreith}
   - {name: Salaberg}
@@ -1818,10 +1743,6 @@
   - {name: Sattelbach}
   - {name: Saubersdorf}
   - {name: Sautern}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
   - {name: Sch}
   - {name: Schadendorf}
   - {name: Schallaburg}
@@ -1909,7 +1830,6 @@
   - {name: Spital}
   - {name: Spitz}
   - {name: Spratzern}
-  - {name: St}
   - {name: St}
   - {name: Staasdorf}
   - {name: Staatz}
@@ -2033,8 +1953,6 @@
   - {name: Unterwolfsbach}
   - {name: Unterz}
   - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: Velm}
   - {name: Viehdorf}
   - {name: Viehofen}
@@ -2042,12 +1960,6 @@
   - {name: Viessling}
   - {name: Vitis}
   - {name: Voitschlag}
-  - {name: W}
-  - {name: W}
-  - {name: W}
-  - {name: W}
-  - {name: W}
-  - {name: W}
   - {name: W}
   - {name: Waasen}
   - {name: Wachtberg}
@@ -2152,9 +2064,6 @@
   - {name: Ybbssteinbach}
   - {name: Ysper}
   - {name: Ysperdorf}
-  - {name: Z}
-  - {name: Z}
-  - {name: Z}
   - {name: Z}
   - {name: Zabernreith}
   - {name: Zarnsdorf}
@@ -2372,7 +2281,6 @@
   - {name: Froschau}
   - {name: Furkern}
   - {name: G}
-  - {name: G}
   - {name: Gaflenz}
   - {name: Gaisschlag}
   - {name: Gallneukirchen}
@@ -2427,14 +2335,6 @@
   - {name: Gurten}
   - {name: Gusen}
   - {name: Gutau}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Haag Am Hausruck}
   - {name: Hackenbuch}
@@ -2627,10 +2527,6 @@
   - {name: Lungendorf}
   - {name: Lungitz}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Maasch}
   - {name: Magdalenaberg}
   - {name: Magetsham}
@@ -2792,8 +2688,6 @@
   - {name: Ottsdorf}
   - {name: Ottstorf}
   - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: Pabneukirchen}
   - {name: Palmsdorf}
   - {name: Palting}
@@ -2941,9 +2835,6 @@
   - {name: Saxendorf}
   - {name: Saxenegg}
   - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
   - {name: Schafwiesen}
   - {name: Schalchen}
   - {name: Schalchham}
@@ -2958,7 +2849,6 @@
   - {name: Schiedlberg}
   - {name: Schildorn}
   - {name: Schimpelsberg}
-  - {name: Schl}
   - {name: Schl}
   - {name: Schlammersdorf}
   - {name: Schlatt}
@@ -2993,7 +2883,6 @@
   - {name: Spattendorf}
   - {name: Spengenedt}
   - {name: Spital Am Pyhrn}
-  - {name: St}
   - {name: St}
   - {name: Stadl-paura}
   - {name: Standorf}
@@ -3074,7 +2963,6 @@
   - {name: Untergermating}
   - {name: Untergriesbach}
   - {name: Unterh}
-  - {name: Unterh}
   - {name: Unterhillinglah}
   - {name: Unterhirschgraben}
   - {name: Unterirrach}
@@ -3101,7 +2989,6 @@
   - {name: Urfahr}
   - {name: Utzenaich}
   - {name: V}
-  - {name: V}
   - {name: Valentinhaft}
   - {name: Veichter}
   - {name: Veitsdorf}
@@ -3118,8 +3005,6 @@
   - {name: Vorderweissenbach}
   - {name: Vorholz}
   - {name: Vormoos}
-  - {name: W}
-  - {name: W}
   - {name: W}
   - {name: Wackersbach}
   - {name: Wagenhub}
@@ -3223,7 +3108,6 @@
   - {name: Auberg}
   - {name: Aufhausen}
   - {name: B}
-  - {name: B}
   - {name: Bacher}
   - {name: Bachwinkl}
   - {name: Bad Hofgastein}
@@ -3300,7 +3184,6 @@
   - {name: Gollacken}
   - {name: Golling}
   - {name: Gr}
-  - {name: Gr}
   - {name: Grafenhof}
   - {name: Grossarl}
   - {name: Grossgmain}
@@ -3309,8 +3192,6 @@
   - {name: Gschwendt}
   - {name: Gseng}
   - {name: Guggenthal}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hagenau}
   - {name: Haiden}
@@ -3354,10 +3235,6 @@
   - {name: Jadorf}
   - {name: Judendorf}
   - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: Kalham}
   - {name: Kaltenhausen}
   - {name: Kammer}
@@ -3399,8 +3276,6 @@
   - {name: Loipferding}
   - {name: Lukasedt}
   - {name: Lung}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Maishofen}
   - {name: March}
@@ -3445,7 +3320,6 @@
   - {name: Oberweissburg}
   - {name: Oelling}
   - {name: P}
-  - {name: P}
   - {name: Pabing}
   - {name: Passau}
   - {name: Pebering}
@@ -3482,7 +3356,6 @@
   - {name: Sankt Gilgen}
   - {name: Sankt Johann Im Pongau}
   - {name: Sankt Michael Im Lungau}
-  - {name: Sch}
   - {name: Sch}
   - {name: Scharfling}
   - {name: Scharten}
@@ -3595,7 +3468,6 @@
   name: Salzburg
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Abtissendorf}
   - {name: Admont}
   - {name: Adriach}
@@ -3657,7 +3529,6 @@
   - {name: Bruck An Der Mur}
   - {name: Burgfeld}
   - {name: D}
-  - {name: D}
   - {name: Dechantskirchen}
   - {name: Deuchendorf}
   - {name: Deutsch Goritz}
@@ -3709,9 +3580,6 @@
   - {name: Etzendorf}
   - {name: Ewitsch}
   - {name: F}
-  - {name: F}
-  - {name: F}
-  - {name: F}
   - {name: Fading}
   - {name: Falkenburg}
   - {name: Farrach}
@@ -3751,8 +3619,6 @@
   - {name: Frohnleiten}
   - {name: Frojach}
   - {name: Fuchslucken}
-  - {name: G}
-  - {name: G}
   - {name: G}
   - {name: Gaal}
   - {name: Gaalgraben}
@@ -3797,7 +3663,6 @@
   - {name: Gosdorf}
   - {name: Gossendorf}
   - {name: Gr}
-  - {name: Gr}
   - {name: Grabersdorf}
   - {name: Graden}
   - {name: Gradenfeld}
@@ -3827,7 +3692,6 @@
   - {name: Grosspesendorf}
   - {name: Grossreifling}
   - {name: Grosss}
-  - {name: Grosss}
   - {name: Grosssteinbach}
   - {name: Grosssulz}
   - {name: Grosswalz}
@@ -3841,13 +3705,6 @@
   - {name: Gundersdorf}
   - {name: Gusswerk}
   - {name: Gutendorf}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hafendorf}
   - {name: Haideggendorf}
@@ -3907,9 +3764,6 @@
   - {name: Johnsdorf}
   - {name: Judenburg}
   - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: Kaag}
   - {name: Kaibing}
   - {name: Kainach}
@@ -3946,7 +3800,6 @@
   - {name: Kitzeck}
   - {name: Kitzeck Im Sausal}
   - {name: Kl}
-  - {name: Kl}
   - {name: Klachau}
   - {name: Klapping}
   - {name: Klein}
@@ -3955,7 +3808,6 @@
   - {name: Kleinfrannach}
   - {name: Kleingaisfeld}
   - {name: Kleinreith}
-  - {name: Kleins}
   - {name: Kleins}
   - {name: Kleinsemmering}
   - {name: Kleinsteinbach}
@@ -3996,7 +3848,6 @@
   - {name: Kumpitz}
   - {name: Kurzheim}
   - {name: Kurzragnitz}
-  - {name: L}
   - {name: L}
   - {name: Laafeld}
   - {name: Laasen}
@@ -4050,13 +3901,6 @@
   - {name: Ludersdorf}
   - {name: Lugitsch}
   - {name: Lutzmannsdorf}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Madstein}
   - {name: Mahrensdorf}
@@ -4158,11 +4002,6 @@
   - {name: Ortgraben}
   - {name: Otternitz}
   - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: Paal}
   - {name: Pacher}
   - {name: Pachern}
@@ -4226,8 +4065,6 @@
   - {name: Pusterwald}
   - {name: Pyhrn}
   - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Raaba}
   - {name: Raabau}
   - {name: Rabenwald}
@@ -4284,7 +4121,6 @@
   - {name: Rupp}
   - {name: Ruppersdorf}
   - {name: S}
-  - {name: S}
   - {name: Saaz}
   - {name: Sachendorf}
   - {name: Sachsenberg}
@@ -4310,13 +4146,6 @@
   - {name: Sankt Stefan}
   - {name: Sarstein}
   - {name: Sausal}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
   - {name: Sch}
   - {name: Schachen}
   - {name: Schamberg}
@@ -4418,7 +4247,6 @@
   - {name: Traboch}
   - {name: Traf}
   - {name: Trag}
-  - {name: Trag}
   - {name: Trah}
   - {name: Trattner}
   - {name: Trautenburg}
@@ -4482,9 +4310,6 @@
   - {name: Vormarkt}
   - {name: Vorwald}
   - {name: Vorwerk}
-  - {name: W}
-  - {name: W}
-  - {name: W}
   - {name: W}
   - {name: Wagerberg}
   - {name: Wagersbach}
@@ -4606,8 +4431,6 @@
   - {name: Burg}
   - {name: Burgstall}
   - {name: D}
-  - {name: D}
-  - {name: D}
   - {name: Debant}
   - {name: Dollinger}
   - {name: Dorf}
@@ -4650,7 +4473,6 @@
   - {name: Fronhausen}
   - {name: Fulpmes}
   - {name: G}
-  - {name: G}
   - {name: Gagering}
   - {name: Gaicht}
   - {name: Gallzein}
@@ -4682,9 +4504,6 @@
   - {name: Gschwend}
   - {name: Guggenberg}
   - {name: Gundhabing}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Habach}
   - {name: Haberberg}
@@ -4797,11 +4616,6 @@
   - {name: Lindau}
   - {name: Lindsberg}
   - {name: Lumberg}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Madseit}
   - {name: Maierhof}
@@ -4927,7 +4741,6 @@
   - {name: Rotholz}
   - {name: Rum}
   - {name: S}
-  - {name: S}
   - {name: Sagl}
   - {name: Salvenberg}
   - {name: Sankt Anton}
@@ -4943,10 +4756,6 @@
   - {name: Sankt Ulrich}
   - {name: Saulueg}
   - {name: Sautens}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
   - {name: Sch}
   - {name: Scharnitz}
   - {name: Schattseite}
@@ -5108,7 +4917,6 @@
   - {name: Fraxern}
   - {name: Fussach}
   - {name: G}
-  - {name: G}
   - {name: Gaissau}
   - {name: Gampel}
   - {name: Gantschier}
@@ -5117,8 +4925,6 @@
   - {name: Gisingen}
   - {name: Gortipohl}
   - {name: Gurtis}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hagen}
   - {name: Halden}
@@ -5147,7 +4953,6 @@
   - {name: Ludescherberg}
   - {name: Lustenau}
   - {name: M}
-  - {name: M}
   - {name: Marul}
   - {name: Matin}
   - {name: Meiningen}
@@ -5162,7 +4967,6 @@
   - {name: Oberhaus}
   - {name: Oberlangenegg}
   - {name: Partenen}
-  - {name: R}
   - {name: R}
   - {name: Raggal}
   - {name: Rankweil}

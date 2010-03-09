@@ -1,11 +1,8 @@
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: B}
   - {name: B}
   - {name: Baja}
   - {name: Balotasz}
-  - {name: Cs}
   - {name: Cs}
   - {name: Dunapataj}
   - {name: Dunavecse}
@@ -55,7 +52,6 @@
   - {name: Di}
   - {name: Dunaszekcso}
   - {name: Egyh}
-  - {name: Egyh}
   - {name: Felsoszentmarton}
   - {name: Hark}
   - {name: Hidas}
@@ -68,8 +64,6 @@
   - {name: Koz}
   - {name: L}
   - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Magyaregregy}
   - {name: Mecsekn}
   - {name: Mik}
@@ -81,7 +75,6 @@
   - {name: P}
   - {name: Pell}
   - {name: Pog}
-  - {name: S}
   - {name: S}
   - {name: Sellye}
   - {name: Sikl}
@@ -101,9 +94,6 @@
   name: Baranya
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: B}
-  - {name: B}
   - {name: B}
   - {name: Battonya}
   - {name: Cs}
@@ -117,7 +107,6 @@
   - {name: Fazekas}
   - {name: Gyomaendrod}
   - {name: Gyula}
-  - {name: K}
   - {name: K}
   - {name: Kaszaper}
   - {name: Kun}
@@ -141,7 +130,6 @@
   name: Bekes
 - cities:
   - {name: ''}
-  - {name: Aba}
   - {name: Aba}
   - {name: Als}
   - {name: Arn}
@@ -183,8 +171,6 @@
   - {name: Kissik}
   - {name: Kurity}
   - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Martonyi}
   - {name: Mezocsat}
   - {name: Mezokovesd}
@@ -198,17 +184,10 @@
   - {name: Pr}
   - {name: Putnok}
   - {name: R}
-  - {name: R}
   - {name: Ricse}
   - {name: Rudab}
   - {name: Rudolftelep}
   - {name: S}
-  - {name: S}
-  - {name: Saj}
-  - {name: Saj}
-  - {name: Saj}
-  - {name: Saj}
-  - {name: Saj}
   - {name: Saj}
   - {name: Szalonna}
   - {name: Szemere}
@@ -231,7 +210,6 @@
   name: Borsod-Abauj-Zemplen
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Budapest}
   - {name: Csepel}
   - {name: Ferencv}
@@ -243,11 +221,7 @@
   name: Budapest
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Baks}
-  - {name: Csan}
   - {name: Csan}
   - {name: Csanytelek}
   - {name: Csongr}
@@ -269,7 +243,6 @@
   - {name: Nagyr}
   - {name: Pusztam}
   - {name: Pusztaszer}
-  - {name: R}
   - {name: R}
   - {name: S}
   - {name: Szentes}
@@ -304,19 +277,16 @@
   - {name: F}
   - {name: Feh}
   - {name: G}
-  - {name: G}
   - {name: Hantos}
   - {name: Ipartelep}
   - {name: Iszkaszentgy}
   - {name: Iv}
   - {name: Jeno}
   - {name: K}
-  - {name: K}
   - {name: Kisapostag}
   - {name: Kulcs}
   - {name: Lajoskom}
   - {name: Leshegy}
-  - {name: M}
   - {name: M}
   - {name: Martonv}
   - {name: Mecs}
@@ -324,17 +294,14 @@
   - {name: Nagykar}
   - {name: Nagyvenyim}
   - {name: P}
-  - {name: P}
   - {name: Perk}
   - {name: Polg}
   - {name: Pusztaszabolcs}
   - {name: Pusztav}
   - {name: R}
   - {name: S}
-  - {name: S}
   - {name: Sereg}
   - {name: Soponya}
-  - {name: Sz}
   - {name: Sz}
   - {name: Szabadbatty}
   - {name: Szabadegyh}
@@ -350,7 +317,6 @@
   code: '25'
   name: Gyor
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Abda}
   - {name: Bakonyszentl}
@@ -384,12 +350,10 @@
   - {name: Pereszteg}
   - {name: Petohaza}
   - {name: R}
-  - {name: R}
   - {name: Rajka}
   - {name: Sarr}
   - {name: Sopron}
   - {name: Sopronhorp}
-  - {name: T}
   - {name: T}
   - {name: Vitny}
   code: 09
@@ -403,12 +367,6 @@
   - {name: Derecske}
   - {name: Ebes}
   - {name: G}
-  - {name: Hajd}
-  - {name: Hajd}
-  - {name: Hajd}
-  - {name: Hajd}
-  - {name: Hajd}
-  - {name: Hajd}
   - {name: Hajd}
   - {name: Hortob}
   - {name: Hossz}
@@ -450,9 +408,6 @@
   - {name: Erdotelek}
   - {name: F}
   - {name: Gy}
-  - {name: Gy}
-  - {name: Gy}
-  - {name: Gy}
   - {name: Halmajugra}
   - {name: Hatvan}
   - {name: Heves}
@@ -466,7 +421,6 @@
   - {name: Kompolt}
   - {name: Lorinci}
   - {name: M}
-  - {name: M}
   - {name: Mik}
   - {name: Nagyr}
   - {name: Ostoros}
@@ -477,7 +431,6 @@
   - {name: Sz}
   - {name: Tarnalelesz}
   - {name: Tarnaors}
-  - {name: V}
   - {name: V}
   - {name: Visonta}
   - {name: Zagyvasz}
@@ -491,11 +444,6 @@
   - {name: Csorba}
   - {name: F}
   - {name: Hegyeshalom}
-  - {name: J}
-  - {name: J}
-  - {name: J}
-  - {name: J}
-  - {name: J}
   - {name: J}
   - {name: Jaszfelsoszentgyorgy}
   - {name: Karcag}
@@ -511,8 +459,6 @@
   - {name: R}
   - {name: Szolnok}
   - {name: T}
-  - {name: T}
-  - {name: Tiszaf}
   - {name: Tiszaf}
   - {name: Tiszaigar}
   - {name: Tiszaszentimre}
@@ -521,9 +467,7 @@
   name: Jasz-Nagykun-Szolnok
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: B}
-  - {name: Baj}
   - {name: Baj}
   - {name: Bana}
   - {name: Bokod}
@@ -578,7 +522,6 @@
   - {name: Kaz}
   - {name: Matraszolos}
   - {name: N}
-  - {name: N}
   - {name: Nagyl}
   - {name: Nemti}
   - {name: P}
@@ -586,7 +529,6 @@
   - {name: Romh}
   - {name: Salg}
   - {name: Somoskoujfalu}
-  - {name: Sz}
   - {name: Sz}
   - {name: Szendehely}
   - {name: Szir}
@@ -601,10 +543,6 @@
   code: '15'
   name: Pecs
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Abony}
   - {name: Albertirsa}
@@ -623,8 +561,6 @@
   - {name: Csob}
   - {name: Csom}
   - {name: D}
-  - {name: D}
-  - {name: D}
   - {name: Dabas}
   - {name: Di}
   - {name: Dunabogd}
@@ -641,7 +577,6 @@
   - {name: Godollo}
   - {name: Gomba}
   - {name: Gy}
-  - {name: Gy}
   - {name: Gyomro}
   - {name: H}
   - {name: Hal}
@@ -649,7 +584,6 @@
   - {name: Homokpuszta}
   - {name: Iklad}
   - {name: Isaszeg}
-  - {name: K}
   - {name: K}
   - {name: Kakucs}
   - {name: Kartal}
@@ -667,10 +601,6 @@
   - {name: Nagykov}
   - {name: Nagymaros}
   - {name: Nagytarcsa}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: P}
   - {name: Penc}
   - {name: Pilis}
@@ -698,22 +628,12 @@
   - {name: Szod}
   - {name: Szodliget}
   - {name: T}
-  - {name: T}
-  - {name: T}
-  - {name: T}
-  - {name: T}
-  - {name: T}
-  - {name: T}
-  - {name: T}
   - {name: Taksony}
   - {name: Tapioszolos}
   - {name: Telki}
   - {name: Torb}
   - {name: Tura}
   - {name: Ullo}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Vasad}
   - {name: Vecs}
@@ -725,9 +645,7 @@
   name: Pest
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Annav}
-  - {name: B}
   - {name: B}
   - {name: Balatonbogl}
   - {name: Balatonf}
@@ -785,7 +703,6 @@
   name: Somogy
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Ajak}
   - {name: Apagy}
   - {name: Baktal}
@@ -798,7 +715,6 @@
   - {name: Cs}
   - {name: Csaholc}
   - {name: Csenger}
-  - {name: Csenger}
   - {name: Csengersima}
   - {name: Demecser}
   - {name: Dombr}
@@ -810,17 +726,12 @@
   - {name: Gyulah}
   - {name: Ibr}
   - {name: J}
-  - {name: J}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kisar}
   - {name: Kisv}
   - {name: Komoro}
   - {name: Laskod}
   - {name: Levelek}
-  - {name: M}
   - {name: M}
   - {name: Magy}
   - {name: Major}
@@ -831,19 +742,6 @@
   - {name: Nagymezo}
   - {name: Nagyszekeres}
   - {name: Napkor}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
-  - {name: Ny}
   - {name: Ny}
   - {name: Nyirlovo}
   - {name: Oros}
@@ -869,7 +767,6 @@
   - {name: Tiszavasv}
   - {name: Tivadar}
   - {name: V}
-  - {name: V}
   - {name: Vaja}
   - {name: Vizsoly}
   - {name: Z}
@@ -882,7 +779,6 @@
   name: Szeged
 - cities:
   - {name: B}
-  - {name: B}
   - {name: Bogyiszl}
   - {name: Bonyh}
   - {name: Dalmand}
@@ -892,7 +788,6 @@
   - {name: Forr}
   - {name: Gy}
   - {name: Iregszemcse}
-  - {name: K}
   - {name: K}
   - {name: Katalin}
   - {name: Kunhegyes}
@@ -926,7 +821,6 @@
   - {name: Csipkerek}
   - {name: Egerv}
   - {name: Egyh}
-  - {name: Egyh}
   - {name: Felsocsatar}
   - {name: Gencsap}
   - {name: Gersekar}
@@ -940,14 +834,12 @@
   - {name: Isp}
   - {name: J}
   - {name: K}
-  - {name: K}
   - {name: Kemeness}
   - {name: Koszeg}
   - {name: Koszegszerdahely}
   - {name: Magyarlak}
   - {name: Mih}
   - {name: Mikossz}
-  - {name: N}
   - {name: N}
   - {name: Olaszfa}
   - {name: Oriszentpeter}
@@ -956,12 +848,6 @@
   - {name: Pankasz}
   - {name: Pec}
   - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Savaria}
   - {name: Simas}
@@ -977,8 +863,6 @@
   code: '22'
   name: Vas
 - cities:
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Ajka}
   - {name: Als}
@@ -1005,12 +889,10 @@
   - {name: Fuzfogyartelep}
   - {name: Gy}
   - {name: H}
-  - {name: H}
   - {name: Hajm}
   - {name: Halimba}
   - {name: Herend}
   - {name: J}
-  - {name: K}
   - {name: K}
   - {name: Kapolcs}
   - {name: Kerta}
@@ -1027,8 +909,6 @@
   - {name: Nyir}
   - {name: Osi}
   - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: Papkeszi}
   - {name: Peremarton-gy}
   - {name: Petfurdo}
@@ -1038,13 +918,11 @@
   - {name: Szent Mih}
   - {name: Szentkir}
   - {name: T}
-  - {name: T}
   - {name: Tapolca}
   - {name: Tihany}
   - {name: V}
   - {name: Vanyola}
   - {name: Varoslod}
-  - {name: Veszpr}
   - {name: Veszpr}
   - {name: Z}
   - {name: Zirc}
@@ -1052,8 +930,6 @@
   name: Veszprem
 - cities:
   - {name: Als}
-  - {name: Als}
-  - {name: B}
   - {name: B}
   - {name: Bak}
   - {name: Becsehely}
@@ -1084,7 +960,6 @@
   - {name: Pusztamagyar}
   - {name: S}
   - {name: Surd}
-  - {name: T}
   - {name: T}
   - {name: Tesk}
   - {name: Vonyarcvashegy}

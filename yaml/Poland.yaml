@@ -1421,7 +1421,6 @@
   - {name: Serwis}
   - {name: Sieslawice}
   - {name: Sitk}
-  - {name: Sitk}
   - {name: Skalbmierz}
   - {name: Skarbka}
   - {name: Skarzysko}
@@ -1651,7 +1650,6 @@
   - {name: Wolowice}
   - {name: Wrzasowice}
   - {name: Zabierz}
-  - {name: Zabierz}
   - {name: Zag}
   - {name: Zakliczyn}
   - {name: Zegartowice}
@@ -1715,7 +1713,6 @@
   - {name: Posada G}
   - {name: Pulawy}
   - {name: Rogi}
-  - {name: Ryman}
   - {name: Ryman}
   - {name: Rzepedz}
   - {name: Sadkowa}
@@ -1790,7 +1787,6 @@
   - {name: Dabcze}
   - {name: Dlugie Stare}
   - {name: Drobnin}
-  - {name: G}
   - {name: G}
   - {name: Golaszyn}
   - {name: Golejewko}
@@ -2355,7 +2351,6 @@
   - {name: Olszewnica}
   - {name: Olszewo Borki}
   - {name: Orzel}
-  - {name: Ostr}
   - {name: Ostr}
   - {name: Ploniawy}
   - {name: Pok}
@@ -3252,7 +3247,6 @@
   - {name: Lyszkowice}
   - {name: Macierzysz}
   - {name: Mak}
-  - {name: Mak}
   - {name: Miedzyborow}
   - {name: Mlodzieszyn}
   - {name: Mrozy}
@@ -3723,7 +3717,6 @@
   - {name: Bialy Kamien}
   - {name: Bielawa}
   - {name: Bogusz}
-  - {name: Bogusz}
   - {name: Bystrzyca Klodzka}
   - {name: Cierpice}
   - {name: Czarny B}
@@ -3840,7 +3833,6 @@
   - {name: Falenica}
   - {name: Falenty}
   - {name: G}
-  - {name: G}
   - {name: Gaski}
   - {name: Glinianka}
   - {name: Gloskow}
@@ -3921,7 +3913,6 @@
   - {name: Natolin}
   - {name: Nieporet}
   - {name: Nowa Wies}
-  - {name: Nowy Dw}
   - {name: Nowy Dw}
   - {name: Nowy Modlin}
   - {name: Ochota}
@@ -4113,7 +4104,6 @@
   - {name: Domaslaw}
   - {name: Dragow}
   - {name: Fabryczna}
-  - {name: G}
   - {name: G}
   - {name: Gajk}
   - {name: Gebice}
@@ -4309,7 +4299,6 @@
   - {name: Drzewica}
   - {name: Drzonowo}
   - {name: Dygowo}
-  - {name: Dziwn}
   - {name: Dziwn}
   - {name: Dzwirzyno}
   - {name: G}

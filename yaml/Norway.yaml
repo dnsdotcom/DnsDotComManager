@@ -1,7 +1,5 @@
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aarnes}
   - {name: Asak}
   - {name: Ask}
@@ -34,7 +32,6 @@
   - {name: Gardermoen}
   - {name: Gjerdrum}
   - {name: H}
-  - {name: H}
   - {name: Hakadal}
   - {name: Hakedal}
   - {name: Hammerstad}
@@ -57,8 +54,6 @@
   - {name: Kolbotn}
   - {name: Kols}
   - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: Langerud}
   - {name: Langhus}
   - {name: Leirsund}
@@ -78,7 +73,6 @@
   - {name: R}
   - {name: Rud}
   - {name: Ryen}
-  - {name: S}
   - {name: S}
   - {name: Sandum}
   - {name: Sandvik}
@@ -157,10 +151,8 @@
   name: Aust-Agder
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Aamot}
   - {name: Austvoll}
-  - {name: B}
   - {name: B}
   - {name: Bragernes}
   - {name: Buskerud}
@@ -174,7 +166,6 @@
   - {name: Gol}
   - {name: Grefsrud}
   - {name: Gulsvik}
-  - {name: H}
   - {name: H}
   - {name: Hallingby}
   - {name: Hamremoen}
@@ -205,7 +196,6 @@
   - {name: Prestfoss}
   - {name: R}
   - {name: Reistad}
-  - {name: S}
   - {name: S}
   - {name: Skarsg}
   - {name: Skretteberg}
@@ -315,7 +305,6 @@
   - {name: Koppang}
   - {name: Kylstad}
   - {name: L}
-  - {name: L}
   - {name: Lina}
   - {name: Magnor}
   - {name: Midtskogen}
@@ -362,15 +351,6 @@
   name: Hedmark
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aadland}
   - {name: Aakre}
   - {name: Aarland}
@@ -390,13 +370,11 @@
   - {name: Askeland}
   - {name: Austevoll}
   - {name: B}
-  - {name: B}
   - {name: Bakke}
   - {name: Bekkjarvik}
   - {name: Bergen}
   - {name: Bergsvik}
   - {name: Bernes}
-  - {name: Bj}
   - {name: Bj}
   - {name: Bjelland}
   - {name: Blom}
@@ -452,7 +430,6 @@
   - {name: Granvin}
   - {name: Grimo}
   - {name: Grindheim}
-  - {name: H}
   - {name: H}
   - {name: Haavik}
   - {name: Haga}
@@ -533,7 +510,6 @@
   - {name: Leknes}
   - {name: Leps}
   - {name: Ler}
-  - {name: Ler}
   - {name: Lier}
   - {name: Lind}
   - {name: Loddefjord}
@@ -555,13 +531,11 @@
   - {name: Minde}
   - {name: Misje}
   - {name: Mj}
-  - {name: Mj}
   - {name: Mjelstad}
   - {name: Molland}
   - {name: Mongstad}
   - {name: Morvik}
   - {name: Mosterhamn}
-  - {name: N}
   - {name: N}
   - {name: Nat}
   - {name: Nattland}
@@ -595,9 +569,6 @@
   - {name: Rosland}
   - {name: Rubbestadneset}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Sagv}
   - {name: Salhus}
   - {name: Sandven}
@@ -605,7 +576,6 @@
   - {name: Sandvoll}
   - {name: Sedalen}
   - {name: Seim}
-  - {name: Sk}
   - {name: Sk}
   - {name: Skansen}
   - {name: Skare}
@@ -654,7 +624,6 @@
   - {name: Uskedal}
   - {name: Utne}
   - {name: V}
-  - {name: V}
   - {name: Vaage}
   - {name: Vaagen}
   - {name: Vaksdal}
@@ -671,15 +640,6 @@
   code: '07'
   name: Hordaland
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aalesund}
   - {name: Aalmo}
@@ -763,8 +723,6 @@
   - {name: Nordheim}
   - {name: Orvik}
   - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Rakv}
   - {name: Ramstad}
   - {name: Rausand}
@@ -773,7 +731,6 @@
   - {name: Rindal}
   - {name: Roald}
   - {name: Rovde}
-  - {name: S}
   - {name: S}
   - {name: Sandshamn}
   - {name: Settem}
@@ -823,10 +780,6 @@
   name: More og Romsdal
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aarstad}
   - {name: B}
   - {name: Bangsund}
@@ -852,7 +805,6 @@
   - {name: Gansmo}
   - {name: Grong}
   - {name: Gutvik}
-  - {name: H}
   - {name: H}
   - {name: Hammer}
   - {name: Hammeren}
@@ -886,8 +838,6 @@
   - {name: Oppland}
   - {name: Otters}
   - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Romstad}
   - {name: Salsbruket}
   - {name: Salsnes}
@@ -917,15 +867,11 @@
   name: Nord-Trondelag
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Alstahaug}
   - {name: Alsv}
   - {name: Andenes}
   - {name: Ankenesstrand}
   - {name: Arn}
-  - {name: B}
   - {name: B}
   - {name: Ballangen}
   - {name: Ballstad}
@@ -933,7 +879,6 @@
   - {name: Beiarn}
   - {name: Beisfjord}
   - {name: Berg}
-  - {name: Bj}
   - {name: Bj}
   - {name: Bjerka}
   - {name: Bjerkvik}
@@ -963,7 +908,6 @@
   - {name: H}
   - {name: Hald}
   - {name: Han}
-  - {name: Han}
   - {name: Haugvik}
   - {name: Haukenes}
   - {name: Hellevik}
@@ -981,7 +925,6 @@
   - {name: Korgen}
   - {name: Korsvik}
   - {name: L}
-  - {name: L}
   - {name: Laukslet}
   - {name: Leines}
   - {name: Leitet}
@@ -990,7 +933,6 @@
   - {name: Liland}
   - {name: Liljedal}
   - {name: Lovund}
-  - {name: M}
   - {name: M}
   - {name: Marken}
   - {name: Mel}
@@ -1009,9 +951,6 @@
   - {name: Oppeid}
   - {name: Oscarsborg}
   - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Ramnes}
   - {name: Ramsund}
   - {name: Reine}
@@ -1020,11 +959,6 @@
   - {name: Rognan}
   - {name: Rokland}
   - {name: Rystad}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sand}
   - {name: Sandnes}
@@ -1041,15 +975,12 @@
   - {name: Sommernes}
   - {name: Sortland}
   - {name: St}
-  - {name: St}
   - {name: Stamsund}
   - {name: Stavnes}
   - {name: Stokka}
   - {name: Stokmarknes}
   - {name: Storfjord}
   - {name: Storforshei}
-  - {name: Str}
-  - {name: Str}
   - {name: Str}
   - {name: Strand}
   - {name: Straume}
@@ -1073,7 +1004,6 @@
   - {name: Bagn}
   - {name: Bakken}
   - {name: Ballangrud}
-  - {name: Bj}
   - {name: Bj}
   - {name: Brandbu}
   - {name: Bryn}
@@ -1149,7 +1079,6 @@
 - cities:
   - {name: ''}
   - {name: Bygd}
-  - {name: Bygd}
   - {name: Christiania}
   - {name: Ekeberg}
   - {name: Grorud}
@@ -1219,11 +1148,6 @@
   name: Ostfold
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aakrehamn}
   - {name: Aalgaard}
   - {name: Akrehavn}
@@ -1246,7 +1170,6 @@
   - {name: Fr}
   - {name: Gard}
   - {name: H}
-  - {name: H}
   - {name: Haaland}
   - {name: Hageland}
   - {name: Hagland}
@@ -1267,7 +1190,6 @@
   - {name: Hognestad}
   - {name: Hommers}
   - {name: Hovland}
-  - {name: J}
   - {name: J}
   - {name: Judaberg}
   - {name: Klepp}
@@ -1336,10 +1258,6 @@
   name: Rogaland
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aalfoten}
   - {name: Aardal}
   - {name: Atter}
@@ -1372,7 +1290,6 @@
   - {name: Gloppen}
   - {name: Gulen}
   - {name: H}
-  - {name: H}
   - {name: Haugsb}
   - {name: Hermansverk}
   - {name: Hestad}
@@ -1397,7 +1314,6 @@
   - {name: Lerheim}
   - {name: Loen}
   - {name: M}
-  - {name: M}
   - {name: Marifjora}
   - {name: Maurstad}
   - {name: Midtb}
@@ -1415,7 +1331,6 @@
   - {name: Ringereide}
   - {name: Ringstad}
   - {name: Rutledal}
-  - {name: S}
   - {name: S}
   - {name: Sandane}
   - {name: Sande}
@@ -1436,14 +1351,11 @@
   name: Sogn og Fjordane
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Alm}
   - {name: Barman}
   - {name: Bekken}
   - {name: Belle}
   - {name: Berget}
-  - {name: Bj}
   - {name: Bj}
   - {name: Bjerkan}
   - {name: Brekstad}
@@ -1472,7 +1384,6 @@
   - {name: Hegset}
   - {name: Heimdal}
   - {name: Hellandsj}
-  - {name: Hellandsj}
   - {name: Hernes}
   - {name: Hestvik}
   - {name: Hitra}
@@ -1485,7 +1396,6 @@
   - {name: Klepp}
   - {name: Kvaal}
   - {name: Kyrks}
-  - {name: L}
   - {name: L}
   - {name: Lade}
   - {name: Langlo}
@@ -1511,14 +1421,9 @@
   - {name: Opphaug}
   - {name: Orkanger}
   - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Ranheim}
   - {name: Rennebu}
   - {name: Resell}
-  - {name: S}
   - {name: S}
   - {name: Saga}
   - {name: Selbekken}
@@ -1546,9 +1451,7 @@
   name: Sor-Trondelag
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Asdal}
-  - {name: B}
   - {name: B}
   - {name: Bamble}
   - {name: Berge}
@@ -1614,9 +1517,6 @@
   code: '17'
   name: Telemark
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Balsfjord}
   - {name: Bankenes}
@@ -1693,8 +1593,6 @@
   - {name: Rekvik}
   - {name: Rustad}
   - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Samuelsberg}
   - {name: Sand}
   - {name: Sandtorv}
@@ -1730,7 +1628,6 @@
   - {name: Tromsdalen}
   - {name: Tverdal}
   - {name: V}
-  - {name: V}
   - {name: Vaagan}
   - {name: Vang}
   - {name: Vannv}
@@ -1738,10 +1635,6 @@
   code: '18'
   name: Troms
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aaseral}
   - {name: Aasland}
@@ -1759,8 +1652,6 @@
   - {name: Foss}
   - {name: Fr}
   - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Handeland}
   - {name: Helleren}
   - {name: Herad}
@@ -1770,7 +1661,6 @@
   - {name: Kile}
   - {name: Konsmo}
   - {name: Kristiansand}
-  - {name: Kv}
   - {name: Kv}
   - {name: Kvarstein}
   - {name: Kvinesdal}
@@ -1788,8 +1678,6 @@
   - {name: Nodeland}
   - {name: R}
   - {name: Ramsland}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sira}
   - {name: Sirdal}
@@ -1813,8 +1701,6 @@
   code: '19'
   name: Vest-Agder
 - cities:
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aamli}
   - {name: Bark}

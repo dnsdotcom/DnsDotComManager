@@ -102,7 +102,6 @@
   - {name: Gundershoffen}
   - {name: Gunsbach}
   - {name: H}
-  - {name: H}
   - {name: Habsheim}
   - {name: Hagenau}
   - {name: Haguenau}
@@ -385,11 +384,6 @@
   - {name: Ayherre}
   - {name: Azur}
   - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: Bacalan}
   - {name: Baigts-de-b}
   - {name: Banca}
@@ -444,7 +438,6 @@
   - {name: Budos}
   - {name: Burdigala}
   - {name: C}
-  - {name: C}
   - {name: Cabanac-et-villagrains}
   - {name: Cadaujac}
   - {name: Cadillac}
@@ -457,7 +450,6 @@
   - {name: Came}
   - {name: Cameyrac}
   - {name: Camiac-et-saint-denis}
-  - {name: Can}
   - {name: Can}
   - {name: Cantenac}
   - {name: Capbreton}
@@ -534,9 +526,6 @@
   - {name: Francs}
   - {name: Fumel}
   - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
   - {name: Gabarret}
   - {name: Gabaston}
   - {name: Gageac-et-rouillac}
@@ -582,11 +571,6 @@
   - {name: Izon}
   - {name: Jaures}
   - {name: Juran}
-  - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: L}
   - {name: La Can}
   - {name: La Ferri}
@@ -657,12 +641,10 @@
   - {name: Lons}
   - {name: Lormont}
   - {name: Loub}
-  - {name: Loub}
   - {name: Louer}
   - {name: Louhossoa}
   - {name: Ludon-m}
   - {name: Lugon}
-  - {name: M}
   - {name: M}
   - {name: Macau}
   - {name: Macaye}
@@ -775,7 +757,6 @@
   - {name: Rontignon}
   - {name: Rossignol}
   - {name: S}
-  - {name: S}
   - {name: Sabres}
   - {name: Sadirac}
   - {name: Saint Yzan}
@@ -791,7 +772,6 @@
   - {name: Saint-jacques}
   - {name: Saint-jean-de-luz}
   - {name: Saint-loub}
-  - {name: Saint-m}
   - {name: Saint-m}
   - {name: Saint-mariens}
   - {name: Saint-martin-lacaussade}
@@ -852,7 +832,6 @@
   - {name: Tosse}
   - {name: Toulenne}
   - {name: Tr}
-  - {name: Tr}
   - {name: Tranche}
   - {name: Trentels}
   - {name: Tresses}
@@ -862,7 +841,6 @@
   - {name: Urt}
   - {name: Ustaritz}
   - {name: Uzein}
-  - {name: V}
   - {name: V}
   - {name: Vallier}
   - {name: Vanxains}
@@ -880,7 +858,6 @@
   code: '97'
   name: Aquitaine
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Abrest}
   - {name: Ainay-le-ch}
@@ -944,14 +921,10 @@
   - {name: Bro}
   - {name: Bromont-lamothe}
   - {name: C}
-  - {name: C}
   - {name: Caux}
   - {name: Cellule}
   - {name: Cesset}
   - {name: Ceyrat}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chabreloche}
   - {name: Chadeleuf}
@@ -1080,7 +1053,6 @@
   - {name: Lempdes}
   - {name: Lery}
   - {name: 'Les '}
-  - {name: 'Les '}
   - {name: Les Ancizes}
   - {name: Les Baux}
   - {name: Les Beaux}
@@ -1139,8 +1111,6 @@
   - {name: Murat}
   - {name: Murat-le-quaire}
   - {name: N}
-  - {name: N}
-  - {name: N}
   - {name: Naucelles}
   - {name: Neschers}
   - {name: Neyrial}
@@ -1153,7 +1123,6 @@
   - {name: Orcines}
   - {name: Orl}
   - {name: Ours}
-  - {name: P}
   - {name: P}
   - {name: Palladuc}
   - {name: Pallas}
@@ -1251,10 +1220,6 @@
   name: Auvergne
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Ablon}
   - {name: Agneaux}
   - {name: Airel}
@@ -1289,7 +1254,6 @@
   - {name: Bellefontaine}
   - {name: Bellengreville}
   - {name: Berni}
-  - {name: Berni}
   - {name: Berville}
   - {name: Beuvillers}
   - {name: Beuvrigny}
@@ -1302,7 +1266,6 @@
   - {name: Boiss}
   - {name: Boitron}
   - {name: Bonneville-la-louvet}
-  - {name: Bonni}
   - {name: Bonni}
   - {name: Bouc}
   - {name: Bouillon}
@@ -1321,8 +1284,6 @@
   - {name: Brucourt}
   - {name: Bueil}
   - {name: Bur}
-  - {name: C}
-  - {name: C}
   - {name: C}
   - {name: Cabourg}
   - {name: Caen}
@@ -1353,7 +1314,6 @@
   - {name: Colombi}
   - {name: Commes}
   - {name: Cond}
-  - {name: Cond}
   - {name: Conde-sur-ifs}
   - {name: Coquainvilliers}
   - {name: Cordebugle}
@@ -1364,7 +1324,6 @@
   - {name: Courseulles-sur-mer}
   - {name: Courteilles}
   - {name: Coutances}
-  - {name: Cr}
   - {name: Cr}
   - {name: Crouttes}
   - {name: D}
@@ -1410,8 +1369,6 @@
   - {name: Gratot}
   - {name: Graye-sur-mer}
   - {name: Guerquesalles}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hamelin}
   - {name: Heugueville}
@@ -1466,7 +1423,6 @@
   - {name: Louvigny}
   - {name: Luc-sur-mer}
   - {name: M}
-  - {name: M}
   - {name: Macey}
   - {name: Madelaine}
   - {name: Madeleine}
@@ -1513,8 +1469,6 @@
   - {name: Querqueville}
   - {name: Quibou}
   - {name: Quin}
-  - {name: R}
-  - {name: R}
   - {name: R}
   - {name: Raids}
   - {name: Randonnai}
@@ -1585,14 +1539,6 @@
   name: Basse-Normandie
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Ahuy}
   - {name: Aisy}
   - {name: Alise}
@@ -1608,7 +1554,6 @@
   - {name: Armes}
   - {name: Arnay}
   - {name: Arnay-le-duc}
-  - {name: Asni}
   - {name: Asni}
   - {name: Aubigny}
   - {name: Aubigny-l}
@@ -1659,15 +1604,6 @@
   - {name: Cercy}
   - {name: Cercy-la-tour}
   - {name: Cessey-sur-tille}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chablis}
   - {name: Chagny}
@@ -1720,7 +1656,6 @@
   - {name: Courtes}
   - {name: Courtois}
   - {name: Couternon}
-  - {name: Cr}
   - {name: Cr}
   - {name: Creusot}
   - {name: Crissey}
@@ -1829,7 +1764,6 @@
   - {name: Louhans}
   - {name: Luzy}
   - {name: M}
-  - {name: M}
   - {name: Magny-sur-tille}
   - {name: Mailly}
   - {name: Malay}
@@ -1896,7 +1830,6 @@
   - {name: Piffonds}
   - {name: Plessis}
   - {name: Plombi}
-  - {name: Plombi}
   - {name: Pluvault}
   - {name: Poil}
   - {name: Poisson}
@@ -1906,8 +1839,6 @@
   - {name: Pontigny}
   - {name: Pougues}
   - {name: Pouilly-en-auxois}
-  - {name: Pr}
-  - {name: Pr}
   - {name: Pr}
   - {name: Premi}
   - {name: Prenois}
@@ -1954,7 +1885,6 @@
   - {name: Saint-martin-en-bresse}
   - {name: Saint-martin-sur-nohain}
   - {name: Saint-mesmin}
-  - {name: Saint-r}
   - {name: Saint-r}
   - {name: Saint-romain}
   - {name: Saint-s}
@@ -2046,10 +1976,6 @@
   name: Bourgogne
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Acign}
   - {name: Allaire}
   - {name: Amanlis}
@@ -2060,9 +1986,6 @@
   - {name: Arzal}
   - {name: Aucaleuc}
   - {name: Auray}
-  - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: B}
   - {name: Baden}
   - {name: Baguer}
@@ -2102,9 +2025,6 @@
   - {name: Bourgbarr}
   - {name: Bourseul}
   - {name: Br}
-  - {name: Br}
-  - {name: Br}
-  - {name: Br}
   - {name: Brasparts}
   - {name: Brennilis}
   - {name: Brest}
@@ -2124,10 +2044,6 @@
   - {name: Cast}
   - {name: Caudan}
   - {name: Cesson-s}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chanc}
   - {name: Chantepie}
@@ -2152,7 +2068,6 @@
   - {name: Corps-nuds}
   - {name: Cotentin}
   - {name: Courcouronnes}
-  - {name: Cr}
   - {name: Cr}
   - {name: Crach}
   - {name: Daoulas}
@@ -2185,12 +2100,9 @@
   - {name: Gourlizon}
   - {name: Goven}
   - {name: Gr}
-  - {name: Gr}
   - {name: Grand-fougeray}
   - {name: Groix}
   - {name: Gros Ch}
-  - {name: Gu}
-  - {name: Gu}
   - {name: Gu}
   - {name: Guengat}
   - {name: Guer}
@@ -2206,8 +2118,6 @@
   - {name: Guipavas}
   - {name: Guipry}
   - {name: Guiscriff}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hennebont}
   - {name: Henvic}
@@ -2241,7 +2151,6 @@
   - {name: Kerveguen}
   - {name: Kervignac}
   - {name: L}
-  - {name: L}
   - {name: L'hermitage}
   - {name: La Bouillie}
   - {name: La Boussac}
@@ -2254,7 +2163,6 @@
   - {name: La Gilardais}
   - {name: La Giri}
   - {name: La Gree}
-  - {name: La M}
   - {name: La M}
   - {name: La No}
   - {name: La Norville}
@@ -2288,7 +2196,6 @@
   - {name: Lanrivoar}
   - {name: Lanrodec}
   - {name: Lanv}
-  - {name: Lanv}
   - {name: Lanvallay}
   - {name: Lanvollon}
   - {name: Larmor}
@@ -2302,7 +2209,6 @@
   - {name: Le Clo}
   - {name: Le Conquet}
   - {name: Le Coudray-mathuau}
-  - {name: Le Faou}
   - {name: Le Faou}
   - {name: Le Faux}
   - {name: Le Fr}
@@ -2352,7 +2258,6 @@
   - {name: Louvign}
   - {name: Luitr}
   - {name: M}
-  - {name: M}
   - {name: Malansac}
   - {name: Malestroit}
   - {name: Maneroch}
@@ -2372,7 +2277,6 @@
   - {name: Miniac}
   - {name: Miniac-morvan}
   - {name: Missiriac}
-  - {name: Mo}
   - {name: Mo}
   - {name: Mohon}
   - {name: Moign}
@@ -2403,7 +2307,6 @@
   - {name: Nozay}
   - {name: Orphin}
   - {name: P}
-  - {name: P}
   - {name: Pabu}
   - {name: Pac}
   - {name: Paimpol}
@@ -2422,15 +2325,6 @@
   - {name: Pertuis Nanti}
   - {name: Pipriac}
   - {name: Pir}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
-  - {name: Pl}
   - {name: Pl}
   - {name: Plabennec}
   - {name: Plaintel}
@@ -2453,9 +2347,6 @@
   - {name: Plomelin}
   - {name: Plomodiern}
   - {name: Plon}
-  - {name: Plon}
-  - {name: Plon}
-  - {name: Plou}
   - {name: Plou}
   - {name: Plouagat}
   - {name: Plouaret}
@@ -2486,8 +2377,6 @@
   - {name: Ploumilliau}
   - {name: Ploumoguer}
   - {name: Ploun}
-  - {name: Ploun}
-  - {name: Ploun}
   - {name: Plouray}
   - {name: Plouvorn}
   - {name: Plouy}
@@ -2514,10 +2403,6 @@
   - {name: Poullaouen}
   - {name: Princ}
   - {name: Qu}
-  - {name: Qu}
-  - {name: Qu}
-  - {name: Qu}
-  - {name: Qu}
   - {name: Quessoy}
   - {name: Questembert}
   - {name: Quiberon}
@@ -2541,8 +2426,6 @@
   - {name: Rostrenen}
   - {name: Roudouallec}
   - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Saint-agathon}
   - {name: Saint-allouestre}
   - {name: Saint-andr}
@@ -2561,7 +2444,6 @@
   - {name: Saint-jean-la-poterie}
   - {name: Saint-lormel}
   - {name: Saint-lunaire}
-  - {name: Saint-m}
   - {name: Saint-m}
   - {name: Saint-maden}
   - {name: Saint-malo}
@@ -2596,16 +2478,6 @@
   - {name: Tint}
   - {name: Torc}
   - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
   - {name: Treffl}
   - {name: Tremblay}
   - {name: Tress}
@@ -2628,14 +2500,6 @@
   code: A2
   name: Bretagne
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Abilly}
   - {name: Ablis}
@@ -2690,8 +2554,6 @@
   - {name: Avoine}
   - {name: Az}
   - {name: Azay-sur-cher}
-  - {name: B}
-  - {name: B}
   - {name: B}
   - {name: Baigneaux}
   - {name: Baillot}
@@ -2754,8 +2616,6 @@
   - {name: Bouzy-la-for}
   - {name: Boynes}
   - {name: Br}
-  - {name: Br}
-  - {name: Br}
   - {name: Bracieux}
   - {name: Braye}
   - {name: Brezolles}
@@ -2763,8 +2623,6 @@
   - {name: Briis-sous-forges}
   - {name: Brinay}
   - {name: Brou}
-  - {name: Brou}
-  - {name: Bruy}
   - {name: Bruy}
   - {name: Bullion}
   - {name: Bures-sur-yvette}
@@ -2772,28 +2630,12 @@
   - {name: Buxi}
   - {name: Buzan}
   - {name: C}
-  - {name: C}
   - {name: Canada}
   - {name: Cand}
   - {name: Candes-saint-martin}
   - {name: Cangey}
   - {name: Cernay-la-ville}
   - {name: Cernoy-en-berry}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chabanne}
   - {name: Chabris}
@@ -2823,7 +2665,6 @@
   - {name: Chaussy}
   - {name: Chavenay}
   - {name: Chemill}
-  - {name: Chemill}
   - {name: Chennevi}
   - {name: Chenonceaux}
   - {name: Chesnay}
@@ -2840,8 +2681,6 @@
   - {name: Chuelles}
   - {name: Cinq-mars-la-pile}
   - {name: Civry}
-  - {name: Cl}
-  - {name: Cl}
   - {name: Cl}
   - {name: Clairefontaine}
   - {name: Cloyes}
@@ -2971,12 +2810,10 @@
   - {name: Jargeau}
   - {name: Jarry}
   - {name: Jou}
-  - {name: Jou}
   - {name: Jouars-pontchartrain}
   - {name: Jouet}
   - {name: Jouy}
   - {name: Jumeaux}
-  - {name: L}
   - {name: L}
   - {name: La Baraudi}
   - {name: La Bourse}
@@ -2987,7 +2824,6 @@
   - {name: La Chapelle-mont-martin}
   - {name: La Cogeli}
   - {name: La Cour}
-  - {name: La Fert}
   - {name: La Fert}
   - {name: La Forge}
   - {name: La Grande Motte}
@@ -3046,7 +2882,6 @@
   - {name: Le Moulin Neuf}
   - {name: Le Moutier}
   - {name: Le P}
-  - {name: Le P}
   - {name: Le Parc}
   - {name: Le Perray}
   - {name: Le Poin}
@@ -3090,7 +2925,6 @@
   - {name: Loury}
   - {name: Louville-la-chenard}
   - {name: Lu}
-  - {name: Lu}
   - {name: Luant}
   - {name: Luc}
   - {name: Luceau}
@@ -3102,11 +2936,6 @@
   - {name: Luray}
   - {name: Luynes}
   - {name: Lye}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Magny}
   - {name: Maintenon}
@@ -3183,7 +3012,6 @@
   - {name: Mousseaux}
   - {name: Mulcent}
   - {name: N}
-  - {name: N}
   - {name: Nan}
   - {name: Nancray-sur-rimarde}
   - {name: Nantilly}
@@ -3236,7 +3064,6 @@
   - {name: Panneci}
   - {name: Pannes}
   - {name: Par}
-  - {name: Par}
   - {name: Paray}
   - {name: Parnac}
   - {name: Patay}
@@ -3260,8 +3087,6 @@
   - {name: Poulaines}
   - {name: Pouligny-notre-dame}
   - {name: Pouligny-saint-pierre}
-  - {name: Pr}
-  - {name: Pr}
   - {name: Pr}
   - {name: Prasville}
   - {name: Preuilly-sur-claise}
@@ -3461,12 +3286,6 @@
   name: Centre
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Acy-romance}
   - {name: Ambonnay}
   - {name: Angecourt}
@@ -3496,7 +3315,6 @@
   - {name: Boulages}
   - {name: Bouleuse}
   - {name: Bourguignons}
-  - {name: Br}
   - {name: Br}
   - {name: Breuvery-sur-coole}
   - {name: Brienne-le-ch}
@@ -3565,7 +3383,6 @@
   - {name: Landreville}
   - {name: Langres}
   - {name: Laville}
-  - {name: Le Ch}
   - {name: Le Ch}
   - {name: Leffincourt}
   - {name: Lisse-en-champagne}
@@ -3767,9 +3584,6 @@
   name: Corse
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abbans-dessous}
   - {name: Andelarre}
   - {name: Andornay}
@@ -3818,8 +3632,6 @@
   - {name: Burgille}
   - {name: Buvilly}
   - {name: Censeau}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chalezeule}
   - {name: Champagney}
@@ -3873,7 +3685,6 @@
   - {name: Grandvillars}
   - {name: Gray}
   - {name: H}
-  - {name: H}
   - {name: Houtaud}
   - {name: Jussey}
   - {name: L'isle-sur-le-doubs}
@@ -3906,10 +3717,6 @@
   - {name: Lons-le-saunier}
   - {name: Lure}
   - {name: Luxeuil-les-bains}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Ma}
   - {name: Macornay}
@@ -4029,13 +3836,6 @@
   name: Franche-Comte
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Acon}
   - {name: Acquigny}
   - {name: Aincourt}
@@ -4081,8 +3881,6 @@
   - {name: Bourg-achard}
   - {name: Bourgth}
   - {name: Br}
-  - {name: Br}
-  - {name: Br}
   - {name: Brais}
   - {name: Bray-et-l}
   - {name: Breuilpont}
@@ -4109,8 +3907,6 @@
   - {name: Cravent}
   - {name: Criel}
   - {name: Criquebeuf}
-  - {name: D}
-  - {name: D}
   - {name: D}
   - {name: Darn}
   - {name: Dennemont}
@@ -4205,7 +4001,6 @@
   - {name: Louversey}
   - {name: Louviers}
   - {name: Luneray}
-  - {name: M}
   - {name: M}
   - {name: Magnanville}
   - {name: Malaunay}
@@ -4318,15 +4113,6 @@
   name: Haute-Normandie
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: Ach}
   - {name: Ach}
   - {name: Alfortville}
   - {name: Andr}
@@ -4378,7 +4164,6 @@
   - {name: Bourg-la-reine}
   - {name: Bourron-marlotte}
   - {name: Br}
-  - {name: Br}
   - {name: Brou-sur-chantereine}
   - {name: Brunoy}
   - {name: Bry-sur-marne}
@@ -4388,15 +4173,10 @@
   - {name: Cachan}
   - {name: Carnetin}
   - {name: Carri}
-  - {name: Carri}
-  - {name: Carri}
   - {name: Cergy}
   - {name: Cerneux}
   - {name: Cerny}
   - {name: Cesson}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chalmaison}
   - {name: Chambourcy}
@@ -4450,7 +4230,6 @@
   - {name: Courdimanche}
   - {name: Courtry}
   - {name: Coutevroult}
-  - {name: Cr}
   - {name: Cr}
   - {name: Croissy}
   - {name: Croissy-beaubourg}
@@ -4663,7 +4442,6 @@
   - {name: Ozouer-le-repos}
   - {name: Ozouer-le-voulgis}
   - {name: P}
-  - {name: P}
   - {name: Palaiseau}
   - {name: Paley}
   - {name: Pamfou}
@@ -4714,7 +4492,6 @@
   - {name: Saint-cyr-sur-morin}
   - {name: Saint-denis}
   - {name: Saint-germain-en-laye}
-  - {name: Saint-germain-l}
   - {name: Saint-germain-l}
   - {name: Saint-germain-sur-morin}
   - {name: Saint-gratien}
@@ -4772,7 +4549,6 @@
   - {name: Triel-sur-seine}
   - {name: Trilbardou}
   - {name: Trilport}
-  - {name: V}
   - {name: V}
   - {name: Vaires}
   - {name: Vaires-sur-marne}
@@ -4863,7 +4639,6 @@
   - {name: Aubais}
   - {name: Aubord}
   - {name: Azille}
-  - {name: B}
   - {name: B}
   - {name: Bagard}
   - {name: Bages}
@@ -4957,7 +4732,6 @@
   - {name: Font-romeu}
   - {name: Frontignan}
   - {name: G}
-  - {name: G}
   - {name: Gabian}
   - {name: Ganges}
   - {name: Garons}
@@ -4974,7 +4748,6 @@
   - {name: Jacou}
   - {name: Javols}
   - {name: Juvignac}
-  - {name: L}
   - {name: L}
   - {name: La Cabanasse}
   - {name: La Mal}
@@ -5011,9 +4784,6 @@
   - {name: Lunel}
   - {name: Lunel-viel}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Magalas}
   - {name: Mailhac}
   - {name: Malves}
@@ -5044,10 +4814,6 @@
   - {name: Montpellier}
   - {name: Montrodat}
   - {name: Moul}
-  - {name: Moul}
-  - {name: N}
-  - {name: N}
-  - {name: N}
   - {name: N}
   - {name: Narbonne}
   - {name: Nissan}
@@ -5055,7 +4821,6 @@
   - {name: Odeillo}
   - {name: Olonzac}
   - {name: Ouveillan}
-  - {name: P}
   - {name: P}
   - {name: Palairac}
   - {name: Palavas}
@@ -5104,7 +4869,6 @@
   - {name: Saint Paulet}
   - {name: Saint Vincent}
   - {name: Saint-andr}
-  - {name: Saint-andr}
   - {name: Saint-aun}
   - {name: Saint-bauzille-de-la-sylve}
   - {name: Saint-bauzille-de-putois}
@@ -5116,8 +4880,6 @@
   - {name: Saint-dr}
   - {name: Saint-est}
   - {name: Saint-f}
-  - {name: Saint-g}
-  - {name: Saint-g}
   - {name: Saint-g}
   - {name: Saint-geni}
   - {name: Saint-georges-d'orques}
@@ -5191,7 +4953,6 @@
   name: Languedoc-Roussillon
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Affieux}
   - {name: Ahun}
   - {name: Aixe}
@@ -5208,7 +4969,6 @@
   - {name: Auzances}
   - {name: Auzillac}
   - {name: Azerables}
-  - {name: B}
   - {name: B}
   - {name: Bart}
   - {name: Beaulieu}
@@ -5228,9 +4988,6 @@
   - {name: Brive-la-gaillarde}
   - {name: Bugeat}
   - {name: Bussi}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chamberet}
   - {name: Chambon-sur-voueize}
@@ -5313,8 +5070,6 @@
   - {name: Limoges}
   - {name: Lissac-sur-couze}
   - {name: Lubersac}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Magnat}
   - {name: Magnat-l'etrange}
@@ -5410,10 +5165,6 @@
   name: Limousin
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abaucourt}
   - {name: Ailly}
   - {name: Algrange}
@@ -5438,7 +5189,6 @@
   - {name: Augny}
   - {name: Aulnois}
   - {name: Ay-sur-moselle}
-  - {name: B}
   - {name: B}
   - {name: Baccarat}
   - {name: Bambiderstroff}
@@ -5468,7 +5218,6 @@
   - {name: Bousse}
   - {name: Bouvron}
   - {name: Bouxi}
-  - {name: Bouxi}
   - {name: Bouzanville}
   - {name: Brancourt}
   - {name: Briey}
@@ -5482,8 +5231,6 @@
   - {name: Cappel}
   - {name: Carling}
   - {name: Cattenom}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Champigneulles}
   - {name: Champlon}
@@ -5538,8 +5285,6 @@
   - {name: Ferdrupt}
   - {name: Filstroff}
   - {name: Fl}
-  - {name: Fl}
-  - {name: Fl}
   - {name: Flor}
   - {name: Florange}
   - {name: Folkling}
@@ -5548,7 +5293,6 @@
   - {name: Fraize}
   - {name: Fribourg}
   - {name: Frouard}
-  - {name: G}
   - {name: G}
   - {name: Gellenoncourt}
   - {name: Gerb}
@@ -5560,7 +5304,6 @@
   - {name: Granges-sur-vologne}
   - {name: Gros-r}
   - {name: Grosbliederstroff}
-  - {name: Gu}
   - {name: Gu}
   - {name: H}
   - {name: Hag}
@@ -5714,8 +5457,6 @@
   - {name: Pulnoy}
   - {name: Puxieux}
   - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Racrange}
   - {name: Rambervillers}
   - {name: Raon}
@@ -5779,7 +5520,6 @@
   - {name: Talange}
   - {name: Terville}
   - {name: Th}
-  - {name: Th}
   - {name: Thaon-les-vosges}
   - {name: Thicourt}
   - {name: Thionville}
@@ -5791,7 +5531,6 @@
   - {name: Uckange}
   - {name: Urim}
   - {name: Uxegney}
-  - {name: V}
   - {name: V}
   - {name: Vacon}
   - {name: Vadonville}
@@ -5854,7 +5593,6 @@
   - {name: Arbon}
   - {name: Arcambal}
   - {name: Argel}
-  - {name: Argel}
   - {name: Aries}
   - {name: Arnal}
   - {name: Arques}
@@ -5880,9 +5618,6 @@
   - {name: Auzas}
   - {name: Auzeville}
   - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: Bagn}
   - {name: Bagn}
   - {name: Bagnac}
   - {name: Balma}
@@ -5923,7 +5658,6 @@
   - {name: Briatexte}
   - {name: Brugui}
   - {name: Buzet-sur-tarn}
-  - {name: C}
   - {name: C}
   - {name: Cabannes}
   - {name: Cadours}
@@ -6049,8 +5783,6 @@
   - {name: Jacque}
   - {name: Jonqui}
   - {name: Juillan}
-  - {name: L}
-  - {name: L}
   - {name: L}
   - {name: L'union}
   - {name: La Cavalerie}
@@ -6236,7 +5968,6 @@
   - {name: Quint}
   - {name: Quissac}
   - {name: R}
-  - {name: R}
   - {name: Rabastens}
   - {name: Ramonville}
   - {name: Ramonville-saint-agne}
@@ -6255,8 +5986,6 @@
   - {name: Roquettes}
   - {name: Rouairoux}
   - {name: Rouffiac-tolosan}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Saigu}
   - {name: Saint-}
@@ -6338,14 +6067,6 @@
   name: Midi-Pyrenees
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Achicourt}
   - {name: Agni}
   - {name: Aire}
@@ -6391,9 +6112,6 @@
   - {name: Avion}
   - {name: Awoingt}
   - {name: Aymeries}
-  - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: B}
   - {name: Bachant}
   - {name: Bachy}
@@ -6479,7 +6197,6 @@
   - {name: Cousolre}
   - {name: Coutiches}
   - {name: Cr}
-  - {name: Cr}
   - {name: Crochte}
   - {name: Croisette}
   - {name: Croix}
@@ -6512,7 +6229,6 @@
   - {name: Estaires}
   - {name: Eth}
   - {name: F}
-  - {name: F}
   - {name: Famars}
   - {name: Famechon}
   - {name: Fampoux}
@@ -6528,7 +6244,6 @@
   - {name: Fort-mardyck}
   - {name: Fourmies}
   - {name: Fournes}
-  - {name: Fr}
   - {name: Fr}
   - {name: Fresnes-sur-escaut}
   - {name: Fresnoy}
@@ -6550,8 +6265,6 @@
   - {name: Groffliers}
   - {name: Gu}
   - {name: Guesnain}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Haillicourt}
   - {name: Haisnes}
@@ -6641,7 +6354,6 @@
   - {name: Lumbres}
   - {name: Lys-l}
   - {name: M}
-  - {name: M}
   - {name: Maisnil-l}
   - {name: Marais}
   - {name: Marchiennes}
@@ -6717,7 +6429,6 @@
   - {name: Quesnoy-sur-de}
   - {name: Qui}
   - {name: R}
-  - {name: R}
   - {name: Racquinghem}
   - {name: Radinghem}
   - {name: Raillencourt}
@@ -6781,14 +6492,12 @@
   - {name: Templemars}
   - {name: Templeuve}
   - {name: Th}
-  - {name: Th}
   - {name: Thiant}
   - {name: Thumeries}
   - {name: Tilloy}
   - {name: Tortequesne}
   - {name: Tourcoing}
   - {name: Tourmignies}
-  - {name: Tr}
   - {name: Tr}
   - {name: Tressin}
   - {name: Trith}
@@ -6836,11 +6545,6 @@
   name: Nord-Pas-de-Calais
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Ahuill}
   - {name: Aizenay}
   - {name: Allones}
@@ -6857,8 +6561,6 @@
   - {name: Auvers-sous-montfaucon}
   - {name: Averton}
   - {name: Avrill}
-  - {name: B}
-  - {name: B}
   - {name: B}
   - {name: Ball}
   - {name: Ballots}
@@ -6892,19 +6594,12 @@
   - {name: Bournezeau}
   - {name: Bouzill}
   - {name: Br}
-  - {name: Br}
-  - {name: Br}
   - {name: Brains}
   - {name: Brign}
-  - {name: C}
   - {name: C}
   - {name: Campbon}
   - {name: Carbay}
   - {name: Carquefou}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chac}
   - {name: Chailland}
@@ -6978,7 +6673,6 @@
   - {name: Grosbreuil}
   - {name: Grues}
   - {name: Gu}
-  - {name: Gu}
   - {name: Guenrouet}
   - {name: H}
   - {name: Haute-goulaine}
@@ -6986,7 +6680,6 @@
   - {name: Indre}
   - {name: Jallais}
   - {name: Jard}
-  - {name: Jou}
   - {name: Jou}
   - {name: Joue-l'abbe}
   - {name: Juign}
@@ -7080,8 +6773,6 @@
   - {name: Louvern}
   - {name: Lu}
   - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Mach}
   - {name: Machecoul}
   - {name: Maisdon}
@@ -7089,7 +6780,6 @@
   - {name: Mamers}
   - {name: Mar}
   - {name: Mareuil-sur-lay}
-  - {name: Marign}
   - {name: Marign}
   - {name: Marolles-les-braults}
   - {name: Martinet}
@@ -7101,7 +6791,6 @@
   - {name: Mill}
   - {name: Mir}
   - {name: Moisdon-la-rivi}
-  - {name: Monc}
   - {name: Monc}
   - {name: Montaill}
   - {name: Montbert}
@@ -7157,7 +6846,6 @@
   - {name: Rez}
   - {name: Riaill}
   - {name: Ro}
-  - {name: Ro}
   - {name: Roche D'ire}
   - {name: Rochefort-sur-loire}
   - {name: Rocheservi}
@@ -7166,7 +6854,6 @@
   - {name: Rouez}
   - {name: Roussay}
   - {name: Ruaudin}
-  - {name: Sabl}
   - {name: Sabl}
   - {name: Saffr}
   - {name: Saint-barthelemy-d'anjou}
@@ -7220,14 +6907,12 @@
   - {name: Thor}
   - {name: Thorign}
   - {name: Thouar}
-  - {name: Thouar}
   - {name: Thouarc}
   - {name: Tierc}
   - {name: Tiffauges}
   - {name: Tign}
   - {name: Torfou}
   - {name: Touvois}
-  - {name: Tr}
   - {name: Tr}
   - {name: Trans-sur-erdre}
   - {name: Treffieux}
@@ -7258,11 +6943,6 @@
   name: Pays de la Loire
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abancourt}
   - {name: Abbeville}
   - {name: Ableiges}
@@ -7292,7 +6972,6 @@
   - {name: Aux Marais}
   - {name: Aveluy}
   - {name: Avrechy}
-  - {name: B}
   - {name: B}
   - {name: Bacou}
   - {name: Baillet}
@@ -7359,7 +7038,6 @@
   - {name: Butry-sur-oise}
   - {name: Cambronne}
   - {name: Cambronne-l}
-  - {name: Cambronne-l}
   - {name: Camon}
   - {name: Canly}
   - {name: Canny-sur-th}
@@ -7403,7 +7081,6 @@
   - {name: Courmelles}
   - {name: Courtieux}
   - {name: Coye-la-for}
-  - {name: Cr}
   - {name: Cr}
   - {name: Cramaille}
   - {name: Creil}
@@ -7471,9 +7148,6 @@
   - {name: Guise}
   - {name: Guyencourt}
   - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Hallencourt}
   - {name: Hangest-en-santerre}
   - {name: Harbonni}
@@ -7523,8 +7197,6 @@
   - {name: Longueil-sainte-marie}
   - {name: Lucy-le-bocage}
   - {name: Luzarches}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Maffliers}
   - {name: Magny-en-vexin}
@@ -7695,10 +7367,6 @@
   name: Picardie
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abzac}
   - {name: Adriers}
   - {name: Aiffres}
@@ -7715,7 +7383,6 @@
   - {name: Anville}
   - {name: Ardilli}
   - {name: Argenton}
-  - {name: Asni}
   - {name: Asni}
   - {name: Aubeterre}
   - {name: Aulnay}
@@ -7780,12 +7447,6 @@
   - {name: Cenon-sur-vienne}
   - {name: Cercoux}
   - {name: Cerizay}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chabanais}
   - {name: Chabournay}
@@ -7870,7 +7531,6 @@
   - {name: Jonzac}
   - {name: Jouss}
   - {name: Juicq}
-  - {name: L}
   - {name: L}
   - {name: L'absie}
   - {name: L'isle-jourdain}
@@ -7966,7 +7626,6 @@
   - {name: Mazerolles}
   - {name: Mazeuil}
   - {name: Mazi}
-  - {name: Mazi}
   - {name: Melle}
   - {name: Merpins}
   - {name: Meschers}
@@ -8008,7 +7667,6 @@
   - {name: Nuaill}
   - {name: Nuaille-d'aunis}
   - {name: Oradour}
-  - {name: P}
   - {name: P}
   - {name: Paizay-le-chapt}
   - {name: Pamproux}
@@ -8099,7 +7757,6 @@
   - {name: Sireuil}
   - {name: Smarves}
   - {name: Sommi}
-  - {name: Sommi}
   - {name: Soubran}
   - {name: Souch}
   - {name: Soudan}
@@ -8153,7 +7810,6 @@
   name: Poitou-Charentes
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Agay}
   - {name: Aiguilles}
   - {name: Aix-en-provence}
@@ -8176,7 +7832,6 @@
   - {name: Auribeau}
   - {name: Auriol}
   - {name: Avignon}
-  - {name: B}
   - {name: B}
   - {name: Bagnols-en-for}
   - {name: Bandol}
@@ -8208,7 +7863,6 @@
   - {name: Brunet}
   - {name: Cabasse}
   - {name: Cabri}
-  - {name: Cabri}
   - {name: Cadenet}
   - {name: Caderousse}
   - {name: Cadolive}
@@ -8234,10 +7888,6 @@
   - {name: Cavalaire}
   - {name: Cavalaire-sur-mer}
   - {name: Ceyreste}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chanolles}
   - {name: Charleval}
@@ -8273,8 +7923,6 @@
   - {name: Fos-sur-mer}
   - {name: Fr}
   - {name: Fuveau}
-  - {name: G}
-  - {name: G}
   - {name: G}
   - {name: Gap}
   - {name: Gar}
@@ -8383,10 +8031,6 @@
   - {name: Libre}
   - {name: Lorgues}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Magagnosc}
   - {name: Malijai}
   - {name: Mallefougasse}
@@ -8433,7 +8077,6 @@
   - {name: Orange}
   - {name: Orgon}
   - {name: P}
-  - {name: P}
   - {name: Palette}
   - {name: Peille}
   - {name: Pernes-les-fontaines}
@@ -8472,8 +8115,6 @@
   - {name: Roquevaire}
   - {name: Roumoules}
   - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Saint Louis}
   - {name: Saint-auban}
   - {name: Saint-cannat}
@@ -8508,14 +8149,12 @@
   - {name: Sauze}
   - {name: Seillans}
   - {name: Sept}
-  - {name: Sept}
   - {name: Seyne}
   - {name: Signes}
   - {name: Simiane}
   - {name: Simiane-collongue}
   - {name: Sivergues}
   - {name: Six Fours}
-  - {name: Solli}
   - {name: Solli}
   - {name: Sorgues}
   - {name: Sospel}
@@ -8564,21 +8203,6 @@
   name: Provence-Alpes-Cote d'Azur
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abymes}
   - {name: Accons}
   - {name: Agnin}
@@ -8602,8 +8226,6 @@
   - {name: Allevard}
   - {name: Allex}
   - {name: Amancy}
-  - {name: Amb}
-  - {name: Amb}
   - {name: Amb}
   - {name: Amberieux}
   - {name: Ambierle}
@@ -8649,9 +8271,6 @@
   - {name: Ayse}
   - {name: Ayze}
   - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: Bagnols}
   - {name: Baix}
   - {name: Balan}
@@ -8691,7 +8310,6 @@
   - {name: Blye}
   - {name: Blyes}
   - {name: Bo}
-  - {name: Bo}
   - {name: Boisset}
   - {name: Boisset-saint-priest}
   - {name: Bonne}
@@ -8721,7 +8339,6 @@
   - {name: Boyer}
   - {name: Bozel}
   - {name: Br}
-  - {name: Br}
   - {name: Brenthonne}
   - {name: Bressieux}
   - {name: Bressolles}
@@ -8750,16 +8367,6 @@
   - {name: Cessieu}
   - {name: Cessy}
   - {name: Ceyz}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chabeuil}
   - {name: Chagnon}
@@ -8797,7 +8404,6 @@
   - {name: Charancieu}
   - {name: Charantonnay}
   - {name: Charavines}
-  - {name: Charbonni}
   - {name: Charbonni}
   - {name: Charlieu}
   - {name: Charly}
@@ -8844,9 +8450,6 @@
   - {name: Civrieux}
   - {name: Civrieux-d'azergues}
   - {name: Cl}
-  - {name: Cl}
-  - {name: Cl}
-  - {name: Cl}
   - {name: Claix}
   - {name: Claret}
   - {name: Clonas-sur-var}
@@ -8884,7 +8487,6 @@
   - {name: Couzon}
   - {name: Couzon-au-mont-d'or}
   - {name: Cr}
-  - {name: Cr}
   - {name: Cran-g}
   - {name: Cranves-sales}
   - {name: Craponne}
@@ -8904,7 +8506,6 @@
   - {name: Curis}
   - {name: Cuvat}
   - {name: Cuzieu}
-  - {name: D}
   - {name: D}
   - {name: Dagneux}
   - {name: Danc}
@@ -8937,7 +8538,6 @@
   - {name: Duerne}
   - {name: Duingt}
   - {name: Duni}
-  - {name: Duni}
   - {name: Durette}
   - {name: Engins}
   - {name: Entraigues}
@@ -8948,7 +8548,6 @@
   - {name: Eurre}
   - {name: Eybens}
   - {name: Eygluy}
-  - {name: F}
   - {name: F}
   - {name: Faramans}
   - {name: Fareins}
@@ -9001,10 +8600,6 @@
   - {name: Givors}
   - {name: Gleiz}
   - {name: Gorrevod}
-  - {name: Gr}
-  - {name: Gr}
-  - {name: Gr}
-  - {name: Gr}
   - {name: Gr}
   - {name: Grand Bornand}
   - {name: Grandris}
@@ -9128,7 +8723,6 @@
   - {name: Le Blanc}
   - {name: Le Cergne}
   - {name: Le Ch}
-  - {name: Le Ch}
   - {name: Le Chambon}
   - {name: Le Chambon-feugerolles}
   - {name: Le Champ}
@@ -9206,10 +8800,6 @@
   - {name: Lyon}
   - {name: Lyons}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Mably}
   - {name: Maclas}
   - {name: Magland}
@@ -9278,12 +8868,9 @@
   - {name: Moidieu}
   - {name: Moirans}
   - {name: Moli}
-  - {name: Moli}
   - {name: Monestier}
   - {name: Monestier-de-clermont}
   - {name: Monjou}
-  - {name: Mont}
-  - {name: Mont}
   - {name: Mont}
   - {name: Mont-de-lans}
   - {name: Montagne}
@@ -9307,7 +8894,6 @@
   - {name: Montmerle}
   - {name: Montpezat}
   - {name: Montplaisir}
-  - {name: Montr}
   - {name: Montr}
   - {name: Montracol}
   - {name: Montrevel}
@@ -9354,9 +8940,6 @@
   - {name: Oyonnax}
   - {name: Oytier}
   - {name: Ozon}
-  - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: P}
   - {name: Pact}
   - {name: Pajay}
@@ -9405,7 +8988,6 @@
   - {name: Pougny}
   - {name: Pouilly}
   - {name: Pouilly-le-monial}
-  - {name: Pr}
   - {name: Pr}
   - {name: Prades}
   - {name: Pralognan}
@@ -9461,9 +9043,6 @@
   - {name: Rumilly}
   - {name: Ruoms}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Sain-bel}
   - {name: Saint Alban}
   - {name: Saint And}
@@ -9498,11 +9077,6 @@
   - {name: Saint Sulpice}
   - {name: Saint Thomas}
   - {name: Saint Victor}
-  - {name: Saint-}
-  - {name: Saint-}
-  - {name: Saint-}
-  - {name: Saint-}
-  - {name: Saint-}
   - {name: Saint-}
   - {name: Saint-alban}
   - {name: Saint-alban-de-roche}
@@ -9692,8 +9266,6 @@
   - {name: Tournon-sur-rh}
   - {name: Toussieu}
   - {name: Tr}
-  - {name: Tr}
-  - {name: Tr}
   - {name: Tramoyes}
   - {name: Travers}
   - {name: Treffort}
@@ -9707,10 +9279,6 @@
   - {name: Uriage}
   - {name: Urval}
   - {name: Uzer}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Vagnas}
   - {name: Vailly}

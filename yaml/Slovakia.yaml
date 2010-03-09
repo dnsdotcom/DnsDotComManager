@@ -254,7 +254,6 @@
   - {name: Dvory Nad Zitavou}
   - {name: Gbelce}
   - {name: Horn}
-  - {name: Horn}
   - {name: Hrkovce}
   - {name: Hurbanovo}
   - {name: Imel}
@@ -278,7 +277,6 @@
   - {name: N}
   - {name: Nesvady}
   - {name: Nitra}
-  - {name: Nov}
   - {name: Nov}
   - {name: Nova Bana}
   - {name: Pal}
@@ -400,7 +398,6 @@
   - {name: Spisska Stara Ves}
   - {name: Spisske Podhradie}
   - {name: Star}
-  - {name: Star}
   - {name: Stara Lubovna}
   - {name: Stropkov}
   - {name: Studenec}
@@ -442,7 +439,6 @@
   - {name: Dubnica}
   - {name: Dubnica Nad V}
   - {name: Horn}
-  - {name: Horn}
   - {name: Horna Suca}
   - {name: Ilava}
   - {name: Kamenec}
@@ -463,8 +459,6 @@
   - {name: Nitrianske Rudno}
   - {name: Nitrianske Sucany}
   - {name: Nov}
-  - {name: Nov}
-  - {name: Nov}
   - {name: Omsenie}
   - {name: Opatovce}
   - {name: Oslany}
@@ -473,7 +467,6 @@
   - {name: Prusk}
   - {name: Rybany}
   - {name: Skalica}
-  - {name: Star}
   - {name: Star}
   - {name: Stehl}
   - {name: Trencianska Tepla}
@@ -503,12 +496,10 @@
   - {name: Cierny Brod}
   - {name: Dojc}
   - {name: Doln}
-  - {name: Doln}
   - {name: Drahovce}
   - {name: Dvorn}
   - {name: Galanta}
   - {name: Hlohovec}
-  - {name: Horn}
   - {name: Horn}
   - {name: Hrnciarovce}
   - {name: Jablonec}
@@ -560,7 +551,6 @@
   - {name: Divina}
   - {name: Dlh}
   - {name: Doln}
-  - {name: Doln}
   - {name: Domaniza}
   - {name: Drazkovce}
   - {name: Drienov}
@@ -575,7 +565,6 @@
   - {name: Kostany Nad Turcom}
   - {name: Kr}
   - {name: Krpelany}
-  - {name: Kysuck}
   - {name: Kysuck}
   - {name: Lazany}
   - {name: Lazy Pod Makytou}
@@ -594,11 +583,8 @@
   - {name: Novot}
   - {name: Olesna}
   - {name: Oravsk}
-  - {name: Oravsk}
-  - {name: Oravsk}
   - {name: Osada}
   - {name: Oscadnica}
-  - {name: P}
   - {name: P}
   - {name: Podvysok}
   - {name: Povazska Bystrica}
@@ -608,7 +594,6 @@
   - {name: Rabca}
   - {name: Radola}
   - {name: Rajec}
-  - {name: Rajeck}
   - {name: Rajeck}
   - {name: Rakov}
   - {name: Ruzomberok}
@@ -631,7 +616,6 @@
   - {name: Velke Rovne}
   - {name: Vr}
   - {name: Vysny Kubin}
-  - {name: Z}
   - {name: Z}
   - {name: Zborov Nad Bystricou}
   - {name: Ziar}

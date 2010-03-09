@@ -1,6 +1,5 @@
 - cities:
   - {name: Agr}
-  - {name: Agr}
   - {name: Kastr}
   - {name: Men}
   - {name: Mesol}
@@ -10,14 +9,10 @@
   name: Aitolia kai Akarnania
 - cities:
   - {name: A}
-  - {name: A}
   - {name: Grig}
   - {name: K}
-  - {name: K}
-  - {name: Kal}
   - {name: Kal}
   - {name: Ko}
-  - {name: P}
   - {name: P}
   - {name: Paral}
   - {name: Patras}
@@ -37,7 +32,6 @@
   - {name: Megal}
   - {name: Nest}
   - {name: Tr}
-  - {name: Tr}
   code: '41'
   name: Arkadhia
 - cities:
@@ -51,13 +45,11 @@
 - cities:
   - {name: ''}
   - {name: A}
-  - {name: A}
   - {name: Aig}
   - {name: Akharna}
   - {name: An}
   - {name: Aspr}
   - {name: Atene}
-  - {name: Ath}
   - {name: Ath}
   - {name: Athen}
   - {name: Athens}
@@ -68,7 +60,6 @@
   - {name: Filadelfia}
   - {name: Filoth}
   - {name: Gal}
-  - {name: Gal}
   - {name: Glyf}
   - {name: Goudi}
   - {name: Holargos}
@@ -77,37 +68,28 @@
   - {name: Kalam}
   - {name: Kallith}
   - {name: Kerats}
-  - {name: Kerats}
   - {name: Kholarg}
   - {name: Kifisi}
   - {name: Kifissia}
   - {name: Kin}
   - {name: Kips}
   - {name: Korop}
-  - {name: Korop}
   - {name: Lik}
   - {name: Lykovrisi}
-  - {name: M}
   - {name: M}
   - {name: Mago}
   - {name: Mark}
   - {name: Mel}
   - {name: Mil}
   - {name: N}
-  - {name: N}
-  - {name: N}
-  - {name: N}
-  - {name: P}
   - {name: P}
   - {name: Paian}
   - {name: Pall}
-  - {name: Pap}
   - {name: Pap}
   - {name: Pat}
   - {name: Peiraeus}
   - {name: Peirai}
   - {name: Perist}
-  - {name: Pik}
   - {name: Pik}
   - {name: Piraeus}
   - {name: Psichiko}
@@ -116,7 +98,6 @@
   - {name: Salam}
   - {name: Sel}
   - {name: Skaramang}
-  - {name: Sp}
   - {name: Sp}
   - {name: Stam}
   - {name: T}
@@ -127,7 +108,6 @@
   name: Attiki
 - cities:
   - {name: Emporia}
-  - {name: K}
   - {name: K}
   - {name: Kos}
   - {name: Kremast}
@@ -150,8 +130,6 @@
   name: Evritania
 - cities:
   - {name: Alexandro}
-  - {name: Alexandro}
-  - {name: Oresti}
   - {name: Oresti}
   code: '01'
   name: Evros
@@ -194,7 +172,6 @@
   - {name: Lagan}
   - {name: Manol}
   - {name: P}
-  - {name: P}
   - {name: Plat}
   code: '39'
   name: Ilia
@@ -233,7 +210,6 @@
   - {name: Her}
   - {name: Heraklion}
   - {name: Ir}
-  - {name: Ir}
   - {name: Loutr}
   - {name: Min}
   - {name: Pez}
@@ -263,19 +239,15 @@
   name: Kavala
 - cities:
   - {name: Argost}
-  - {name: Argost}
   - {name: Ith}
-  - {name: P}
   - {name: P}
   - {name: Tri}
   code: '27'
   name: Kefallinia
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Corfu}
   - {name: D}
-  - {name: K}
   - {name: K}
   - {name: N}
   - {name: Periv}
@@ -308,8 +280,6 @@
   - {name: Apollonos}
   - {name: Ermo}
   - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: N}
   - {name: O}
   - {name: P}
@@ -335,7 +305,6 @@
   - {name: Derv}
   - {name: Ir}
   - {name: Isthm}
-  - {name: K}
   - {name: K}
   - {name: Ki}
   - {name: Loutr}
@@ -371,7 +340,6 @@
   - {name: Elass}
   - {name: G}
   - {name: L}
-  - {name: L}
   - {name: Siko}
   - {name: T}
   - {name: Vamvako}
@@ -383,7 +351,6 @@
   - {name: Elo}
   - {name: Ier}
   - {name: M}
-  - {name: Ne}
   - {name: Ne}
   - {name: P}
   - {name: Petr}
@@ -400,7 +367,6 @@
   name: Lesvos
 - cities:
   - {name: Al}
-  - {name: Lefk}
   - {name: Lefk}
   code: '26'
   name: Levkas
@@ -453,7 +419,6 @@
   - {name: Alf}
   - {name: An}
   - {name: R}
-  - {name: R}
   code: '44'
   name: Rethimni
 - cities:
@@ -470,7 +435,6 @@
   name: Samos
 - cities:
   - {name: Nigr}
-  - {name: S}
   - {name: S}
   code: '05'
   name: Serrai

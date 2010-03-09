@@ -353,7 +353,6 @@
   - {name: Wilsele}
   - {name: Winksele}
   - {name: Woluw}
-  - {name: Woluw}
   - {name: Wolvertem}
   - {name: Wommersom}
   - {name: Zaventem}
@@ -419,8 +418,6 @@
   - {name: Brye}
   - {name: Burg}
   - {name: Casteau}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Ch}
   - {name: Chapelle}
   - {name: Chapelle-lez-herlaimont}
@@ -611,7 +608,6 @@
   - {name: Geer}
   - {name: Glons}
   - {name: Gr}
-  - {name: Gr}
   - {name: Grivegn}
   - {name: H}
   - {name: Haccourt}
@@ -792,7 +788,6 @@
   code: '05'
   name: Limburg
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Arlon}
   - {name: Athus}

@@ -1,7 +1,6 @@
 - cities:
   - {name: Asarum}
   - {name: Br}
-  - {name: Br}
   - {name: Eringsboda}
   - {name: Gr}
   - {name: Hallabro}
@@ -18,10 +17,8 @@
   - {name: N}
   - {name: Olofstr}
   - {name: R}
-  - {name: R}
   - {name: Ramdala}
   - {name: Ronneby}
-  - {name: S}
   - {name: S}
   - {name: Sturk}
   - {name: Sv}
@@ -32,12 +29,9 @@
   name: Blekinge Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Alsb}
   - {name: Ansta}
   - {name: Avesta}
-  - {name: Bj}
   - {name: Bj}
   - {name: Bjurs}
   - {name: Borl}
@@ -53,7 +47,6 @@
   - {name: Gagnef}
   - {name: Garpenberg}
   - {name: Garphyttan}
-  - {name: Gr}
   - {name: Gr}
   - {name: Grang}
   - {name: Gruvriset}
@@ -89,10 +82,6 @@
   - {name: R}
   - {name: Ryssa}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Siljansn}
   - {name: Sk}
   - {name: Skaraborg}
@@ -119,11 +108,6 @@
   name: Dalarnas Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Alfta}
   - {name: Arbr}
   - {name: Bergby}
@@ -145,13 +129,10 @@
   - {name: Freluga}
   - {name: Furuvik}
   - {name: G}
-  - {name: G}
   - {name: Gefle}
   - {name: Gl}
   - {name: Gnarp}
   - {name: Gysinge}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hamr}
   - {name: Hassela}
@@ -164,17 +145,12 @@
   - {name: Iggesund}
   - {name: Ilsbo}
   - {name: J}
-  - {name: J}
-  - {name: J}
-  - {name: J}
   - {name: Karlsb}
   - {name: Kilafors}
   - {name: Koldemo}
   - {name: Korskrogen}
   - {name: Kungsg}
   - {name: Kyan}
-  - {name: L}
-  - {name: L}
   - {name: L}
   - {name: Lenninge}
   - {name: Lilltj}
@@ -187,7 +163,6 @@
   - {name: M}
   - {name: Mo}
   - {name: N}
-  - {name: N}
   - {name: Njut}
   - {name: Norrala}
   - {name: Norrsundet}
@@ -196,8 +171,6 @@
   - {name: R}
   - {name: Rengsj}
   - {name: Runemo}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sand}
   - {name: Sandarne}
@@ -209,15 +182,8 @@
   - {name: Stocks}
   - {name: Storvik}
   - {name: Str}
-  - {name: Str}
   - {name: Tors}
   - {name: Undersvik}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Valbo}
   - {name: Vallsta}
@@ -246,12 +212,6 @@
   name: Gotlands Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: B}
   - {name: B}
   - {name: Eldsberga}
   - {name: Eskilstorp}
@@ -279,9 +239,7 @@
   - {name: Oskarstr}
   - {name: Ryd}
   - {name: S}
-  - {name: S}
   - {name: Siml}
-  - {name: Sk}
   - {name: Sk}
   - {name: Skogaby}
   - {name: Skummesl}
@@ -295,7 +253,6 @@
   - {name: Ullared}
   - {name: Ulvered}
   - {name: V}
-  - {name: V}
   - {name: Vallberga}
   - {name: Vallda}
   - {name: Varberg}
@@ -305,10 +262,6 @@
   code: '06'
   name: Hallands Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Backe}
   - {name: Birka}
@@ -322,11 +275,9 @@
   - {name: F}
   - {name: Floren}
   - {name: Fr}
-  - {name: Fr}
   - {name: G}
   - {name: Granbo}
   - {name: Gruvan}
-  - {name: H}
   - {name: H}
   - {name: Hack}
   - {name: Hamburg}
@@ -338,7 +289,6 @@
   - {name: Kall}
   - {name: Kilen}
   - {name: Kl}
-  - {name: Kl}
   - {name: Kompaniet}
   - {name: Krok}
   - {name: Krokom}
@@ -346,7 +296,6 @@
   - {name: Lit}
   - {name: Lj}
   - {name: Minne}
-  - {name: N}
   - {name: N}
   - {name: Namn}
   - {name: Offerdal}
@@ -356,13 +305,11 @@
   - {name: Ragunda}
   - {name: Rise}
   - {name: S}
-  - {name: S}
   - {name: Sandb}
   - {name: Sk}
   - {name: Sm}
   - {name: Stampen}
   - {name: Storlien}
-  - {name: Str}
   - {name: Str}
   - {name: Stugun}
   - {name: Sundet}
@@ -380,10 +327,6 @@
   code: '07'
   name: Jamtlands Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Anderstorp}
   - {name: Aneby}
@@ -410,9 +353,6 @@
   - {name: Gr}
   - {name: Granstorp}
   - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Harphult}
   - {name: Hillerstorp}
   - {name: Hj}
@@ -422,7 +362,6 @@
   - {name: Huskvarna}
   - {name: Hylte}
   - {name: Ingatorp}
-  - {name: J}
   - {name: J}
   - {name: K}
   - {name: Karsbo}
@@ -436,11 +375,8 @@
   - {name: Lidhult}
   - {name: Ljungberg}
   - {name: M}
-  - {name: M}
   - {name: Malmb}
   - {name: Mariannelund}
-  - {name: N}
-  - {name: N}
   - {name: N}
   - {name: Norra Ljunga}
   - {name: Norra Svinhult}
@@ -470,18 +406,14 @@
   name: Jonkopings Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Allgunnen}
   - {name: Alsterbro}
   - {name: Bergkvara}
   - {name: Blomsterm}
   - {name: Borgholm}
   - {name: Br}
-  - {name: Br}
   - {name: Edsbruk}
   - {name: Emmaboda}
-  - {name: F}
   - {name: F}
   - {name: Fagerhult}
   - {name: Figeholm}
@@ -494,19 +426,12 @@
   - {name: Holmbo}
   - {name: Hultsfred}
   - {name: J}
-  - {name: J}
   - {name: Jenny}
   - {name: Kalmar}
   - {name: Kristdala}
   - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: Lilla Klobo}
   - {name: Ljungbyholm}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Meta}
   - {name: Norrg}
@@ -521,7 +446,6 @@
   - {name: Runsten}
   - {name: Rydsg}
   - {name: S}
-  - {name: S}
   - {name: Smedby}
   - {name: Tigerstad}
   - {name: Tors}
@@ -529,14 +453,11 @@
   - {name: Tr}
   - {name: Trekanten}
   - {name: V}
-  - {name: V}
   - {name: Vimmerby}
   - {name: Virserum}
   code: 09
   name: Kalmar Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Abbeshult}
   - {name: Agunnaryd}
@@ -556,7 +477,6 @@
   - {name: Gemla}
   - {name: Grimsl}
   - {name: H}
-  - {name: H}
   - {name: Hamneda}
   - {name: Helg}
   - {name: Hovmantorp}
@@ -574,10 +494,8 @@
   - {name: Linneryd}
   - {name: Ljungby}
   - {name: M}
-  - {name: M}
   - {name: Markaryd}
   - {name: Moheda}
-  - {name: N}
   - {name: N}
   - {name: Norrhult}
   - {name: Ottersn}
@@ -597,7 +515,6 @@
   - {name: Ulv}
   - {name: Urshult}
   - {name: V}
-  - {name: V}
   - {name: Valeryd}
   - {name: Valid}
   - {name: Vislanda}
@@ -608,9 +525,6 @@
   code: '13'
   name: Malmohus Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Alla}
   - {name: Als}
@@ -667,15 +581,12 @@
   - {name: Rolfs}
   - {name: Rosvik}
   - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Sangis}
   - {name: Seskar}
   - {name: Siikavaara}
   - {name: Sikfors}
   - {name: Sunderbyn}
   - {name: Svappavaara}
-  - {name: T}
   - {name: T}
   - {name: Tj}
   - {name: Vidsel}
@@ -686,11 +597,6 @@
   code: '14'
   name: Norrbottens Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Asker}
   - {name: Askersund}
@@ -751,13 +657,6 @@
   name: Orebro Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Bona}
   - {name: Borensberg}
   - {name: Boxholm}
@@ -793,7 +692,6 @@
   - {name: S}
   - {name: Sj}
   - {name: Sk}
-  - {name: Sk}
   - {name: Sken}
   - {name: Sturefors}
   - {name: Sv}
@@ -809,20 +707,6 @@
   code: '16'
   name: Ostergotlands Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Abbek}
   - {name: Allerum}
@@ -840,17 +724,11 @@
   - {name: Billesholm}
   - {name: Billinge}
   - {name: Bj}
-  - {name: Bj}
-  - {name: Bj}
-  - {name: Bj}
-  - {name: Bj}
-  - {name: Bj}
   - {name: Bjuv}
   - {name: Blentarp}
   - {name: Bollerup}
   - {name: Borrby}
   - {name: Bosj}
-  - {name: Br}
   - {name: Br}
   - {name: Brantevik}
   - {name: Brean}
@@ -870,7 +748,6 @@
   - {name: Emmaljunga}
   - {name: Erikstorp}
   - {name: Esl}
-  - {name: F}
   - {name: F}
   - {name: Fagerhult}
   - {name: Falsterbo}
@@ -897,14 +774,6 @@
   - {name: Gubbarp}
   - {name: Gullvik}
   - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Haga}
   - {name: Hammar}
   - {name: Hammenh}
@@ -912,16 +781,11 @@
   - {name: Harl}
   - {name: Helsingborg}
   - {name: Hj}
-  - {name: Hj}
   - {name: Hovby}
   - {name: Huar}
   - {name: Hullingar}
   - {name: Hyllinge}
   - {name: Jordholmen}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kabusa}
   - {name: Karstorp}
@@ -939,10 +803,6 @@
   - {name: Kvarnby}
   - {name: Kvidinge}
   - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: Landskrona}
   - {name: Lerberget}
   - {name: Lilla Haberga}
@@ -957,14 +817,11 @@
   - {name: Lunnarp}
   - {name: Lyngby}
   - {name: M}
-  - {name: M}
   - {name: Malm}
   - {name: Marieholm}
   - {name: Mellby}
   - {name: Mj}
   - {name: Munka-ljungby}
-  - {name: N}
-  - {name: N}
   - {name: N}
   - {name: Nordan}
   - {name: Nyhamn}
@@ -975,10 +832,6 @@
   - {name: P}
   - {name: Perstorp}
   - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Raml}
   - {name: Raus}
   - {name: Rebbelberga}
@@ -986,10 +839,6 @@
   - {name: Risekatsl}
   - {name: Rosendal}
   - {name: Rydeb}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sandby}
   - {name: Sankt Ibb}
@@ -1012,7 +861,6 @@
   - {name: Stora Isie}
   - {name: Str}
   - {name: Sval}
-  - {name: Sval}
   - {name: Svedala}
   - {name: Svenstorp}
   - {name: T}
@@ -1030,11 +878,6 @@
   - {name: Tyringe}
   - {name: Ugglarp}
   - {name: Upp}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Valhall}
   - {name: Veber}
@@ -1055,19 +898,11 @@
   name: Skane Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Arn}
   - {name: Ask}
   - {name: Bergbacka}
   - {name: Berlin}
   - {name: Bettna}
-  - {name: Bj}
-  - {name: Bj}
   - {name: Bj}
   - {name: Elma}
   - {name: Enstorp}
@@ -1075,8 +910,6 @@
   - {name: Fiskarbol}
   - {name: Flen}
   - {name: Gnesta}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Horsholm}
   - {name: J}
@@ -1095,13 +928,11 @@
   - {name: Rosenholm}
   - {name: Ruda}
   - {name: S}
-  - {name: S}
   - {name: Sk}
   - {name: Skogstorp}
   - {name: Sparreholm}
   - {name: Stallarholmen}
   - {name: Stigtomta}
-  - {name: Stj}
   - {name: Stj}
   - {name: Str}
   - {name: Studsvik}
@@ -1117,17 +948,6 @@
   code: '18'
   name: Sodermanlands Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Albano}
   - {name: Barkaby}
@@ -1171,12 +991,6 @@
   - {name: Grytn}
   - {name: Gustavsberg}
   - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Hallstavik}
   - {name: Handen}
   - {name: Herr}
@@ -1201,9 +1015,6 @@
   - {name: Ljuster}
   - {name: Lottingelund}
   - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: Musk}
   - {name: N}
   - {name: Nacka}
@@ -1216,22 +1027,15 @@
   - {name: Nykvarn}
   - {name: Nyn}
   - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Rimbo}
   - {name: Rind}
   - {name: Rosersberg}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: Saltsj}
   - {name: Saltsj}
   - {name: Sandhamn}
   - {name: Segeltorp}
   - {name: Sigtuna}
   - {name: Sj}
-  - {name: Sk}
-  - {name: Sk}
   - {name: Sk}
   - {name: Skarpn}
   - {name: Skeppsholmen}
@@ -1253,8 +1057,6 @@
   - {name: Svarts}
   - {name: Svartsj}
   - {name: T}
-  - {name: T}
-  - {name: T}
   - {name: Tr}
   - {name: Traneberg}
   - {name: Tullinge}
@@ -1267,13 +1069,6 @@
   - {name: Upsala}
   - {name: Uttran}
   - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: Vallentuna}
   - {name: Vant}
   - {name: Vaxholm}
@@ -1284,21 +1079,11 @@
   name: Stockholms Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Almunge}
   - {name: Alunda}
   - {name: Ann}
   - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: Berg}
-  - {name: Bj}
   - {name: Bj}
   - {name: Boda}
   - {name: Burunge}
@@ -1317,8 +1102,6 @@
   - {name: Gimo}
   - {name: Gisselbol}
   - {name: Grillby}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Halls}
   - {name: Hargshamn}
@@ -1354,16 +1137,11 @@
   name: Uppsala Lan
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aplungs}
   - {name: Arvika}
   - {name: B}
   - {name: Bergsj}
   - {name: Billerud}
-  - {name: Bj}
   - {name: Bj}
   - {name: Borgvik}
   - {name: Br}
@@ -1417,7 +1195,6 @@
   - {name: Ols}
   - {name: Portila}
   - {name: R}
-  - {name: R}
   - {name: Rans}
   - {name: Rottneros}
   - {name: S}
@@ -1437,27 +1214,13 @@
   - {name: Sunne}
   - {name: Svanskog}
   - {name: T}
-  - {name: T}
   - {name: Torsby}
   - {name: Transtrand}
   - {name: Uddeholm}
   - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   code: '22'
   name: Varmlands Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Avan}
   - {name: Avatr}
@@ -1475,7 +1238,6 @@
   - {name: Botsmark}
   - {name: Br}
   - {name: Bullmark}
-  - {name: Bure}
   - {name: Bure}
   - {name: Burtr}
   - {name: Bygde}
@@ -1498,11 +1260,6 @@
   - {name: Gumboda}
   - {name: Gunnarn}
   - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Hedlunda}
   - {name: Hemavan}
   - {name: Hj}
@@ -1511,7 +1268,6 @@
   - {name: Holmsund}
   - {name: Hornberg}
   - {name: Innertavle}
-  - {name: J}
   - {name: J}
   - {name: K}
   - {name: Kattisavan}
@@ -1522,9 +1278,6 @@
   - {name: Kusmark}
   - {name: Kvarn}
   - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: Lafsj}
   - {name: Lajksj}
   - {name: Latikberg}
@@ -1534,11 +1287,9 @@
   - {name: Mal}
   - {name: Malgovik}
   - {name: N}
-  - {name: N}
   - {name: Nordmaling}
   - {name: Norrbysk}
   - {name: Norrvik}
-  - {name: Norsj}
   - {name: Norsj}
   - {name: Ny}
   - {name: Nyby}
@@ -1546,8 +1297,6 @@
   - {name: Obbola}
   - {name: Ottontr}
   - {name: Plan}
-  - {name: R}
-  - {name: R}
   - {name: R}
   - {name: Renfors}
   - {name: Renholmen}
@@ -1557,7 +1306,6 @@
   - {name: Robertsfors}
   - {name: Rundvik}
   - {name: Rusksele}
-  - {name: S}
   - {name: S}
   - {name: Sandberg}
   - {name: Sike}
@@ -1582,14 +1330,10 @@
   - {name: Tuvan}
   - {name: Tuvtr}
   - {name: Tv}
-  - {name: Tv}
   - {name: Ume}
   - {name: Umgransele}
   - {name: Unfors}
   - {name: Ursviken}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Vargtr}
   - {name: Vibo}
@@ -1601,14 +1345,6 @@
   code: '23'
   name: Vasterbottens Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aln}
   - {name: Arn}
@@ -1625,13 +1361,10 @@
   - {name: Fagervik}
   - {name: Fanbybodarna}
   - {name: Fr}
-  - {name: Fr}
   - {name: G}
   - {name: Gammelg}
   - {name: Genberg}
   - {name: Gr}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Hassel}
   - {name: Hemmanet}
@@ -1649,8 +1382,6 @@
   - {name: Kramfors}
   - {name: Kubikenborg}
   - {name: Kvissleby}
-  - {name: L}
-  - {name: L}
   - {name: L}
   - {name: Ljungaverk}
   - {name: M}
@@ -1670,9 +1401,6 @@
   - {name: Pengsj}
   - {name: Risb}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Salsj}
   - {name: Sand}
   - {name: Sidensj}
@@ -1684,8 +1412,6 @@
   - {name: Sundsvall}
   - {name: Svartsj}
   - {name: T}
-  - {name: T}
-  - {name: T}
   - {name: Tapp}
   - {name: Telge}
   - {name: Timr}
@@ -1693,13 +1419,9 @@
   - {name: Ultr}
   - {name: Utansj}
   - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   code: '24'
   name: Vasternorrlands Lan
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Arboga}
   - {name: Backa}
@@ -1754,7 +1476,6 @@
   - {name: Sund}
   - {name: Surahammar}
   - {name: T}
-  - {name: T}
   - {name: Tall}
   - {name: Tibble}
   - {name: Tillberga}
@@ -1766,23 +1487,6 @@
   code: '25'
   name: Vastmanlands Lan
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Agnesberg}
   - {name: Alafors}
@@ -1802,18 +1506,12 @@
   - {name: Asper}
   - {name: Axvall}
   - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: Backa}
   - {name: Backadalen}
   - {name: Balt}
   - {name: Bengtsfors}
   - {name: Billdal}
   - {name: Billingsfors}
-  - {name: Bj}
-  - {name: Bj}
   - {name: Bj}
   - {name: Bleket}
   - {name: Blidsberg}
@@ -1826,7 +1524,6 @@
   - {name: Borga}
   - {name: Borgstena}
   - {name: Bovallstrand}
-  - {name: Br}
   - {name: Br}
   - {name: Brastad}
   - {name: Bratten}
@@ -1851,7 +1548,6 @@
   - {name: Enebacken}
   - {name: Essunga}
   - {name: F}
-  - {name: F}
   - {name: Fagerhults}
   - {name: Fagersanna}
   - {name: Falk}
@@ -1864,14 +1560,8 @@
   - {name: Forsvik}
   - {name: Fot}
   - {name: Fr}
-  - {name: Fr}
   - {name: Fristad}
   - {name: Fritsla}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
-  - {name: G}
   - {name: G}
   - {name: Galt}
   - {name: Gate}
@@ -1879,29 +1569,11 @@
   - {name: Goeteborg}
   - {name: Gothenburg}
   - {name: Gr}
-  - {name: Gr}
-  - {name: Gr}
-  - {name: Gr}
-  - {name: Gr}
   - {name: Grebbestad}
   - {name: Grims}
   - {name: Gullberg}
   - {name: Gullsp}
   - {name: Gunnilse}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Habo}
   - {name: Hagalund}
@@ -1916,8 +1588,6 @@
   - {name: Hestra}
   - {name: Hind}
   - {name: Hj}
-  - {name: Hj}
-  - {name: Hj}
   - {name: Hjo}
   - {name: Holsljunga}
   - {name: Horred}
@@ -1929,16 +1599,9 @@
   - {name: Hunnebostrand}
   - {name: Hyssna}
   - {name: J}
-  - {name: J}
-  - {name: J}
   - {name: Jakobsbyn}
   - {name: Jonsered}
   - {name: Jung}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kareby}
   - {name: Karlsborg}
@@ -1961,9 +1624,6 @@
   - {name: Kyrkesund}
   - {name: Kyrkog}
   - {name: L}
-  - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: Landvetter}
   - {name: Lane}
   - {name: Lanna}
@@ -1985,10 +1645,6 @@
   - {name: Lundsbrunn}
   - {name: Lyrestad}
   - {name: Lysekil}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Mariestad}
   - {name: Marstrand}
@@ -2021,20 +1677,12 @@
   - {name: Pixbo}
   - {name: Puketorp}
   - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Rabbalshede}
   - {name: Ring}
   - {name: Romelanda}
   - {name: Rudorna}
   - {name: Ryd}
   - {name: Rydboholm}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Salen}
   - {name: Sandared}
@@ -2044,10 +1692,7 @@
   - {name: Seglora}
   - {name: Sexdrega}
   - {name: Sj}
-  - {name: Sj}
   - {name: Sjuntorp}
-  - {name: Sk}
-  - {name: Sk}
   - {name: Sk}
   - {name: Skal}
   - {name: Skara}
@@ -2071,7 +1716,6 @@
   - {name: Stocken}
   - {name: Stora H}
   - {name: Str}
-  - {name: Str}
   - {name: Strand}
   - {name: Styrud}
   - {name: Surte}
@@ -2079,8 +1723,6 @@
   - {name: Svanesund}
   - {name: Svee}
   - {name: Svenljunga}
-  - {name: T}
-  - {name: T}
   - {name: T}
   - {name: Tagene}
   - {name: Tanum}
@@ -2103,13 +1745,6 @@
   - {name: Tv}
   - {name: Uddevalla}
   - {name: Ulricehamn}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Vallvik}
   - {name: Vamben}

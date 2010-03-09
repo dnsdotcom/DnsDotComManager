@@ -54,7 +54,6 @@
   name: Amasya
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Alici}
   - {name: Angora}
   - {name: Ankara}
@@ -177,7 +176,6 @@
   name: Bitlis
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Ata}
   - {name: Bolu}
   - {name: D}
@@ -246,8 +244,6 @@
   name: Denizli
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abdurrahman}
   - {name: Aksoy}
   - {name: Alpata}
@@ -288,7 +284,6 @@
   - {name: Solen}
   - {name: Tarim}
   - {name: Tasit}
-  - {name: Tepe}
   - {name: Tepe}
   - {name: Yaprak}
   - {name: Yolbulan}
@@ -342,8 +337,6 @@
   - {name: Caglayan}
   - {name: Duman}
   - {name: Erzurum}
-  - {name: G}
-  - {name: G}
   - {name: G}
   - {name: Gunesli}
   - {name: Inci}
@@ -473,7 +466,6 @@
   name: Isparta
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Agva}
   - {name: Ayazaga}
   - {name: B}
@@ -595,8 +587,6 @@
   code: '84'
   name: Kars
 - cities:
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Ara}
   - {name: Arti}
@@ -811,7 +801,6 @@
   name: Samsun
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Alan}
   - {name: Altinbasak}
   - {name: Ambarli}
@@ -829,7 +818,6 @@
   - {name: Diktas}
   - {name: Dolunay}
   - {name: Eser}
-  - {name: G}
   - {name: G}
   - {name: Gedik}
   - {name: Giyim}
@@ -896,7 +884,6 @@
   code: '58'
   name: Sivas
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Barbaros}
   - {name: Beyoglu}

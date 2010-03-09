@@ -49,7 +49,6 @@
   - {name: Emmaste}
   - {name: Harju}
   - {name: K}
-  - {name: K}
   code: '02'
   name: Hiiumaa
 - cities:
@@ -201,7 +200,6 @@
   - {name: Haage}
   - {name: Ihaste}
   - {name: K}
-  - {name: K}
   - {name: Kaagvere}
   - {name: Kallaste}
   - {name: Laane}
@@ -209,7 +207,6 @@
   - {name: Luunja}
   - {name: Puhja}
   - {name: Roiu}
-  - {name: T}
   - {name: T}
   - {name: Tartu}
   - {name: Uhti}

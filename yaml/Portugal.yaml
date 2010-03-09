@@ -1,6 +1,5 @@
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Aguada De Cima}
   - {name: Albergaria-a-velha}
   - {name: Alf}
@@ -52,9 +51,6 @@
   - {name: Pardilh}
   - {name: Rio Me}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Salreu}
   - {name: Sangalhos}
   - {name: Sardinha}
@@ -79,7 +75,6 @@
   - {name: Calheta}
   - {name: Cruzeiro}
   - {name: Facho}
-  - {name: Faj}
   - {name: Faj}
   - {name: Horta}
   - {name: Lagoa}
@@ -322,7 +317,6 @@
   - {name: Quarteira}
   - {name: Rocha}
   - {name: S}
-  - {name: S}
   - {name: Sagres}
   - {name: Silves}
   - {name: Tavira}
@@ -478,7 +472,6 @@
   - {name: Oeiras}
   - {name: Orjari}
   - {name: P}
-  - {name: P}
   - {name: Pa}
   - {name: Parede}
   - {name: Pero Pinheiro}
@@ -494,10 +487,8 @@
   - {name: Rinchoa}
   - {name: Rio De Mouro}
   - {name: S}
-  - {name: S}
   - {name: Sacav}
   - {name: Santa Iria De Azoia}
-  - {name: Santo Ant}
   - {name: Santo Ant}
   - {name: Sete Rios}
   - {name: Silveira}
@@ -543,7 +534,6 @@
   code: '16'
   name: Portalegre
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Alfena}
   - {name: Alpendurada}
@@ -593,8 +583,6 @@
   - {name: Infesta}
   - {name: Lavra}
   - {name: Le}
-  - {name: Le}
-  - {name: Le}
   - {name: Lever}
   - {name: Lordelo}
   - {name: Lousada}
@@ -625,9 +613,6 @@
   - {name: Recarei}
   - {name: Regilde}
   - {name: Rio Tinto}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Santa Cruz Do Bispo}
   - {name: Santo Tirso}
@@ -789,7 +774,6 @@
   - {name: Pinh}
   - {name: Portela}
   - {name: Quint}
-  - {name: Quint}
   - {name: S}
   - {name: Sobreira}
   - {name: Trofa}
@@ -844,9 +828,6 @@
   - {name: Prime}
   - {name: Resende}
   - {name: Ribeiro}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Santa Comba D}
   - {name: Santiago}

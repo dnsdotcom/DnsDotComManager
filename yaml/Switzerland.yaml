@@ -9,8 +9,6 @@
   - {name: Augst}
   - {name: Auw}
   - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: Bachenb}
   - {name: Baden}
   - {name: Balsthal}
@@ -31,9 +29,6 @@
   - {name: Buttwil}
   - {name: Buus}
   - {name: D}
-  - {name: D}
-  - {name: D}
-  - {name: D}
   - {name: Dagmersellen}
   - {name: Diegten}
   - {name: Dielsdorf}
@@ -52,7 +47,6 @@
   - {name: Fulenbach}
   - {name: Full}
   - {name: G}
-  - {name: G}
   - {name: Gebenstorf}
   - {name: Gelterkinden}
   - {name: Gettnau}
@@ -64,8 +58,6 @@
   - {name: Gr}
   - {name: Grosswangen}
   - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Habsburg}
   - {name: Hallwil}
   - {name: Hermetschwil}
@@ -74,9 +66,6 @@
   - {name: Holderbank}
   - {name: Huttwil}
   - {name: Jonen}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kaiseraugst}
   - {name: Kaisten}
@@ -93,8 +82,6 @@
   - {name: Leutwil}
   - {name: Lostorf}
   - {name: Lotzwil}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Magden}
   - {name: Maisprach}
@@ -148,8 +135,6 @@
   - {name: Rupperswil}
   - {name: Safenwil}
   - {name: Sch}
-  - {name: Sch}
-  - {name: Sch}
   - {name: Schafisheim}
   - {name: Schenkon}
   - {name: Schinznach}
@@ -182,7 +167,6 @@
   - {name: Villmergen}
   - {name: Villnachern}
   - {name: Vordemwald}
-  - {name: W}
   - {name: W}
   - {name: Waldenburg}
   - {name: Waltenschwil}
@@ -277,8 +261,6 @@
   - {name: Aeschlen}
   - {name: Amsoldingen}
   - {name: B}
-  - {name: B}
-  - {name: B}
   - {name: Beatenberg}
   - {name: Belp}
   - {name: Bern}
@@ -300,7 +282,6 @@
   - {name: Fraubrunnen}
   - {name: Frauenkappelen}
   - {name: Frutigen}
-  - {name: G}
   - {name: G}
   - {name: Gerzensee}
   - {name: Graben}
@@ -337,8 +318,6 @@
   - {name: Linden}
   - {name: Lyss}
   - {name: Lyssach}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Malleray}
   - {name: Marbach}
@@ -460,9 +439,6 @@
   - {name: Carouge}
   - {name: Cern}
   - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
-  - {name: Ch}
   - {name: Chamb}
   - {name: Chancy}
   - {name: Charmilles}
@@ -529,7 +505,6 @@
   - {name: Netstal}
   - {name: Niederurnen}
   - {name: Reichenburg}
-  - {name: Sch}
   - {name: Sch}
   - {name: Schwanden}
   - {name: Uznach}
@@ -899,7 +874,6 @@
   - {name: Islikon}
   - {name: Ittingen}
   - {name: M}
-  - {name: M}
   - {name: Matzingen}
   - {name: Nussbaumen}
   - {name: Oberwangen}
@@ -1098,7 +1072,6 @@
   - {name: Bussigny}
   - {name: Caux}
   - {name: Ch}
-  - {name: Ch}
   - {name: Champvent}
   - {name: Chapelle}
   - {name: Chavannes}
@@ -1204,7 +1177,6 @@
   - {name: Schindellegi}
   - {name: Steinhausen}
   - {name: Unter}
-  - {name: Unter}
   - {name: Walchwil}
   - {name: Wollerau}
   - {name: Zug}
@@ -1215,14 +1187,11 @@
   - {name: Adliswil}
   - {name: Altendorf}
   - {name: B}
-  - {name: B}
   - {name: Bassersdorf}
   - {name: Bauma}
   - {name: Br}
-  - {name: Br}
   - {name: Bubikon}
   - {name: Buch}
-  - {name: D}
   - {name: D}
   - {name: Dietikon}
   - {name: Dietlikon}
@@ -1262,10 +1231,8 @@
   - {name: Langnau}
   - {name: Lindau}
   - {name: M}
-  - {name: M}
   - {name: Maur}
   - {name: Meilen}
-  - {name: N}
   - {name: N}
   - {name: Neftenbach}
   - {name: Oberembrach}
@@ -1277,9 +1244,6 @@
   - {name: Opfikon}
   - {name: Pf}
   - {name: Pfungen}
-  - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: R}
   - {name: Rapperswil}
   - {name: Regensdorf}

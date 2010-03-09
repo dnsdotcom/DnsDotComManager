@@ -1,11 +1,8 @@
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aabyh}
   - {name: Aarhus}
   - {name: Agri}
-  - {name: Alling}
   - {name: Alling}
   - {name: Allingaabro}
   - {name: Anholt}
@@ -40,7 +37,6 @@
   - {name: Grauballe}
   - {name: Grenaa}
   - {name: H}
-  - {name: H}
   - {name: Hadsten}
   - {name: Halling}
   - {name: Hammel}
@@ -56,14 +52,12 @@
   - {name: Knebel}
   - {name: Kolind}
   - {name: L}
-  - {name: L}
   - {name: Laasby}
   - {name: Lang}
   - {name: Langaa}
   - {name: Lemming}
   - {name: Linde}
   - {name: Lystrup}
-  - {name: M}
   - {name: M}
   - {name: Maarslet}
   - {name: Malling}
@@ -81,12 +75,10 @@
   - {name: Ryomg}
   - {name: Ryomgaard}
   - {name: S}
-  - {name: S}
   - {name: Sabro}
   - {name: Sander}
   - {name: Scandia}
   - {name: Silkeborg}
-  - {name: Sk}
   - {name: Sk}
   - {name: Skaade}
   - {name: Skanderborg}
@@ -95,7 +87,6 @@
   - {name: Slet}
   - {name: Solbjerg}
   - {name: Sorring}
-  - {name: Sp}
   - {name: Sp}
   - {name: Spentrup}
   - {name: Stavtrup}
@@ -130,8 +121,6 @@
   name: Bornholm
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aalsgaarde}
   - {name: Aller}
   - {name: Birker}
@@ -146,7 +135,6 @@
   - {name: G}
   - {name: Ganl}
   - {name: Gilleleje}
-  - {name: Gr}
   - {name: Gr}
   - {name: H}
   - {name: Helleb}
@@ -185,8 +173,6 @@
   name: Frederiksborg
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Aarup}
   - {name: Agedrup}
   - {name: Asperup}
@@ -212,7 +198,6 @@
   - {name: Glamsbjerg}
   - {name: Gudbjerg}
   - {name: Gudme}
-  - {name: H}
   - {name: H}
   - {name: Haarby}
   - {name: Haarslev}
@@ -268,8 +253,6 @@
   - {name: Bagsv}
   - {name: Ballerup}
   - {name: Br}
-  - {name: Br}
-  - {name: Br}
   - {name: Charlottenlund}
   - {name: Drag}
   - {name: Fl}
@@ -300,7 +283,6 @@
   - {name: Sm}
   - {name: Store Magleby}
   - {name: T}
-  - {name: T}
   - {name: Taarb}
   - {name: Taastrup}
   - {name: Tr}
@@ -315,10 +297,6 @@
   code: '05'
   name: Kobenhavn
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aaby}
   - {name: Aabybro}
@@ -337,7 +315,6 @@
   - {name: Bl}
   - {name: Blokhus}
   - {name: Br}
-  - {name: Br}
   - {name: Braarup}
   - {name: Brovst}
   - {name: Byrum}
@@ -352,7 +329,6 @@
   - {name: Gistrup}
   - {name: Godthaab}
   - {name: Granly}
-  - {name: H}
   - {name: H}
   - {name: Haderup}
   - {name: Hadsund}
@@ -371,14 +347,11 @@
   - {name: Kongerslev}
   - {name: Krogstrup}
   - {name: L}
-  - {name: L}
   - {name: Lendum}
   - {name: Lundby}
   - {name: Lundgaard}
   - {name: Lyngby}
   - {name: Lyngs}
-  - {name: N}
-  - {name: N}
   - {name: N}
   - {name: Nibe}
   - {name: Nyrup}
@@ -389,11 +362,9 @@
   - {name: Ravnsh}
   - {name: Rebild}
   - {name: S}
-  - {name: S}
   - {name: Salling}
   - {name: Saltum}
   - {name: Sindal}
-  - {name: Sk}
   - {name: Sk}
   - {name: Skaarup}
   - {name: Skagen}
@@ -408,8 +379,6 @@
   - {name: Suldrup}
   - {name: Sulsted}
   - {name: Svenstrup}
-  - {name: T}
-  - {name: T}
   - {name: T}
   - {name: Taars}
   - {name: Taarup}
@@ -430,7 +399,6 @@
   code: '07'
   name: Nordjylland
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Aalling}
   - {name: Aarre}
@@ -472,7 +440,6 @@
   - {name: Omme}
   - {name: Ribe}
   - {name: S}
-  - {name: S}
   - {name: Skovlund}
   - {name: Tistrup}
   - {name: Tj}
@@ -488,7 +455,6 @@
   - {name: Alle}
   - {name: Aulum}
   - {name: Avlum}
-  - {name: B}
   - {name: B}
   - {name: Birk}
   - {name: Bjert}
@@ -526,7 +492,6 @@
   - {name: Rindom}
   - {name: Ringk}
   - {name: S}
-  - {name: S}
   - {name: Sale}
   - {name: Skjern}
   - {name: Snejbjerg}
@@ -561,7 +526,6 @@
   - {name: Greve Strand}
   - {name: Gunds}
   - {name: H}
-  - {name: H}
   - {name: Haarlev}
   - {name: Havdrup}
   - {name: Herf}
@@ -583,8 +547,6 @@
   - {name: Roskilde}
   - {name: Snoldelev}
   - {name: Solr}
-  - {name: Solr}
-  - {name: Str}
   - {name: Str}
   - {name: Svogerslev}
   - {name: Tune}
@@ -595,7 +557,6 @@
   code: '10'
   name: Roskilde
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Aabenraa}
   - {name: Aarslev}
@@ -623,8 +584,6 @@
   - {name: Gram}
   - {name: Guderup}
   - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: Haderslev}
   - {name: Halk}
   - {name: Havneby}
@@ -640,7 +599,6 @@
   - {name: Krus}
   - {name: Krusaa}
   - {name: L}
-  - {name: L}
   - {name: Lakolk}
   - {name: Lund}
   - {name: Lunden}
@@ -653,10 +611,8 @@
   - {name: Nybo}
   - {name: Padborg}
   - {name: R}
-  - {name: R}
   - {name: Rise}
   - {name: Rogstrup}
-  - {name: S}
   - {name: S}
   - {name: Sandager}
   - {name: Sj}
@@ -694,7 +650,6 @@
   - {name: Askeby}
   - {name: Bandholm}
   - {name: Bog}
-  - {name: Bog}
   - {name: Boge}
   - {name: Bukkerup}
   - {name: Eskildstrup}
@@ -726,9 +681,6 @@
   - {name: Maribo}
   - {name: Mern}
   - {name: N}
-  - {name: N}
-  - {name: N}
-  - {name: N}
   - {name: Nakskov}
   - {name: Neder Vindinge}
   - {name: Norre}
@@ -739,10 +691,7 @@
   - {name: Nysted}
   - {name: Pr}
   - {name: R}
-  - {name: R}
-  - {name: R}
   - {name: Rode}
-  - {name: S}
   - {name: S}
   - {name: Saksk}
   - {name: Sk}
@@ -765,8 +714,6 @@
   code: '12'
   name: Storstrom
 - cities:
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aagaard}
   - {name: Almind}
@@ -813,7 +760,6 @@
   - {name: Randb}
   - {name: Rask M}
   - {name: S}
-  - {name: S}
   - {name: Saaby}
   - {name: Snogh}
   - {name: Stouby}
@@ -836,7 +782,6 @@
   - {name: Dianalund}
   - {name: Eskebjerg}
   - {name: F}
-  - {name: F}
   - {name: Faarevejle}
   - {name: Fjenneslev}
   - {name: Forlev}
@@ -845,7 +790,6 @@
   - {name: G}
   - {name: Gislinge}
   - {name: Grevinge}
-  - {name: H}
   - {name: H}
   - {name: Haslev}
   - {name: Holb}
@@ -902,12 +846,9 @@
   - {name: Kjellerup}
   - {name: Krogsgaard}
   - {name: L}
-  - {name: L}
   - {name: Levring}
   - {name: M}
-  - {name: M}
   - {name: Nyk}
-  - {name: R}
   - {name: R}
   - {name: Redsted}
   - {name: Roslev}

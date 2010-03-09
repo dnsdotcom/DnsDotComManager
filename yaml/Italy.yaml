@@ -466,7 +466,6 @@
   - {name: Cicala}
   - {name: Cicchetti}
   - {name: Cir}
-  - {name: Cir}
   - {name: Cirella}
   - {name: Cleto}
   - {name: Colosimi}
@@ -536,7 +535,6 @@
   - {name: Girifalco}
   - {name: Gizzeria}
   - {name: Golino}
-  - {name: Gu}
   - {name: Gu}
   - {name: Guido}
   - {name: Gullo}
@@ -2182,7 +2180,6 @@
   - {name: Rozzol}
   - {name: Ruda}
   - {name: Rupa}
-  - {name: S}
   - {name: S}
   - {name: Sacile}
   - {name: Sagrado}
@@ -4647,7 +4644,6 @@
   - {name: Cerignola}
   - {name: Cisternino}
   - {name: Citt}
-  - {name: Citt}
   - {name: Collepasso}
   - {name: Conversano}
   - {name: Copertino}
@@ -5023,7 +5019,6 @@
   - {name: Quartucciu}
   - {name: Romana}
   - {name: S}
-  - {name: S}
   - {name: Sadali}
   - {name: Samassi}
   - {name: San Gavino Monreale}
@@ -5055,7 +5050,6 @@
   - {name: Seui}
   - {name: Siddi}
   - {name: Sil}
-  - {name: Sil}
   - {name: Siligo}
   - {name: Siliqua}
   - {name: Sindia}
@@ -5086,7 +5080,6 @@
   - {name: Tratalias}
   - {name: Tula}
   - {name: Turri}
-  - {name: Ul}
   - {name: Ul}
   - {name: Uras}
   - {name: Urzulei}
@@ -6467,7 +6460,6 @@
   - {name: Castel}
   - {name: Ceresole Reale}
   - {name: Ch}
-  - {name: Ch}
   - {name: Champoluc}
   - {name: Chanton}
   - {name: Charvensod}
@@ -7117,7 +7109,6 @@
   - {name: San Bortolo}
   - {name: San Briccio}
   - {name: San Daniele}
-  - {name: San Don}
   - {name: San Don}
   - {name: San Fior}
   - {name: San Giorgio In Bosco}

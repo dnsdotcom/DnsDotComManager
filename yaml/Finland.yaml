@@ -1,6 +1,5 @@
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Br}
   - {name: Ecker}
   - {name: Emkarby}
@@ -21,12 +20,9 @@
   - {name: P}
   - {name: Rangsby}
   - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Sanda}
   - {name: Smedsby}
   - {name: Storn}
-  - {name: V}
   - {name: V}
   code: '01'
   name: ''
@@ -91,10 +87,7 @@
   - {name: Kuortti}
   - {name: Kuuslahti}
   - {name: Kyl}
-  - {name: Kyl}
   - {name: Kylm}
-  - {name: L}
-  - {name: L}
   - {name: L}
   - {name: Laakkonen}
   - {name: Lapinlahti}
@@ -125,8 +118,6 @@
   - {name: Otava}
   - {name: Outokumpu}
   - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: Paihola}
   - {name: Pajuj}
   - {name: Palokangas}
@@ -135,7 +126,6 @@
   - {name: Peltosalmi}
   - {name: Penttinen}
   - {name: Pertunmaa}
-  - {name: Pieks}
   - {name: Pieks}
   - {name: Pielavesi}
   - {name: Pietarila}
@@ -157,7 +147,6 @@
   - {name: Rontsa}
   - {name: Runni}
   - {name: S}
-  - {name: S}
   - {name: Salahmi}
   - {name: Salokyl}
   - {name: Saunalahti}
@@ -168,7 +157,6 @@
   - {name: Sorsakoski}
   - {name: Suhmura}
   - {name: Suonenjoki}
-  - {name: Syv}
   - {name: Syv}
   - {name: Taipale}
   - {name: Tarinaharjun}
@@ -241,7 +229,6 @@
   - {name: Lepp}
   - {name: Luiro}
   - {name: M}
-  - {name: M}
   - {name: Maaninka}
   - {name: Maksniemi}
   - {name: Martti}
@@ -278,7 +265,6 @@
   - {name: Torvinen}
   - {name: Unari}
   - {name: Utsjoki}
-  - {name: V}
   - {name: V}
   - {name: Varejoki}
   - {name: Veittikoski}
@@ -328,10 +314,8 @@
   - {name: Ikonen}
   - {name: Ilves}
   - {name: J}
-  - {name: J}
   - {name: Jormua}
   - {name: Jylh}
-  - {name: K}
   - {name: K}
   - {name: Kajaani}
   - {name: Kalajoki}
@@ -393,7 +377,6 @@
   - {name: Lumijoki}
   - {name: Luujoki}
   - {name: M}
-  - {name: M}
   - {name: Manninen}
   - {name: Markku}
   - {name: Martinniemi}
@@ -450,10 +433,6 @@
   - {name: Puolanka}
   - {name: Puskala}
   - {name: Pyh}
-  - {name: Pyh}
-  - {name: Pyh}
-  - {name: Pyh}
-  - {name: R}
   - {name: R}
   - {name: Raahe}
   - {name: Raate}
@@ -471,15 +450,11 @@
   - {name: Ruokonen}
   - {name: Ruukki}
   - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Saarela}
   - {name: Saarikoski}
   - {name: Saarinen}
   - {name: Salmela}
   - {name: Savela}
-  - {name: Sepp}
-  - {name: Sepp}
   - {name: Sepp}
   - {name: Sievi}
   - {name: Siikajoki}
@@ -491,7 +466,6 @@
   - {name: Suolij}
   - {name: Suomussalmi}
   - {name: Sutela}
-  - {name: T}
   - {name: T}
   - {name: Taivalkoski}
   - {name: Takala}
@@ -510,7 +484,6 @@
   - {name: Utaj}
   - {name: Uusitalo}
   - {name: V}
-  - {name: V}
   - {name: Vaala}
   - {name: Vaara}
   - {name: Vainio}
@@ -528,7 +501,6 @@
   code: 08
   name: Oulu
 - cities:
-  - {name: ''}
   - {name: ''}
   - {name: Ahonen}
   - {name: Andby}
@@ -556,9 +528,6 @@
   - {name: Forssa}
   - {name: Grankulla}
   - {name: Gumb}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Haaga}
   - {name: Haarajoki}
@@ -605,10 +574,6 @@
   - {name: Inkeroinen}
   - {name: Inkoo}
   - {name: It}
-  - {name: It}
-  - {name: J}
-  - {name: J}
-  - {name: J}
   - {name: J}
   - {name: Jaakkola}
   - {name: Jaala}
@@ -622,7 +587,6 @@
   - {name: Joutseno}
   - {name: Junttola}
   - {name: Juornaankyl}
-  - {name: K}
   - {name: K}
   - {name: Kaamanniemi}
   - {name: Kaarenkyl}
@@ -706,7 +670,6 @@
   - {name: Lempi}
   - {name: Lepaa}
   - {name: Lepp}
-  - {name: Lepp}
   - {name: Leps}
   - {name: Levanto}
   - {name: Liljendal}
@@ -718,7 +681,6 @@
   - {name: Lukko}
   - {name: Lusi}
   - {name: Luum}
-  - {name: M}
   - {name: M}
   - {name: Maantiekyl}
   - {name: Malm}
@@ -809,7 +771,6 @@
   - {name: Pyh}
   - {name: Pyterlahti}
   - {name: R}
-  - {name: R}
   - {name: Rajam}
   - {name: Rapattila}
   - {name: Rastila}
@@ -826,10 +787,6 @@
   - {name: Ruskeasuo}
   - {name: Rusutj}
   - {name: Ryttyl}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Saares}
   - {name: Saarioinen}
@@ -893,8 +850,6 @@
   - {name: Uusikyl}
   - {name: Uusimaa}
   - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: Vaalimaa}
   - {name: Vakkola}
   - {name: Valkeala}
@@ -925,12 +880,6 @@
   code: '13'
   name: Southern Finland
 - cities:
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: ''}
   - {name: Aijala}
   - {name: Aitoo}
@@ -963,11 +912,6 @@
   - {name: Friisil}
   - {name: Grev}
   - {name: Gustaf}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
-  - {name: H}
   - {name: H}
   - {name: Haapam}
   - {name: Haarla}
@@ -1016,9 +960,6 @@
   - {name: Isokyr}
   - {name: Isom}
   - {name: J}
-  - {name: J}
-  - {name: J}
-  - {name: J}
   - {name: Jaara}
   - {name: Jakobstad}
   - {name: Jalasj}
@@ -1033,12 +974,6 @@
   - {name: Juva}
   - {name: Jysk}
   - {name: Jyv}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
-  - {name: K}
   - {name: K}
   - {name: Kaariainen}
   - {name: Kaarina}
@@ -1148,12 +1083,8 @@
   - {name: Kvevlax}
   - {name: Kylm}
   - {name: Kyr}
-  - {name: Kyr}
   - {name: Kytt}
   - {name: Kyyj}
-  - {name: L}
-  - {name: L}
-  - {name: L}
   - {name: L}
   - {name: Lahtinen}
   - {name: Laihia}
@@ -1178,8 +1109,6 @@
   - {name: Lemp}
   - {name: Lemu}
   - {name: Lepp}
-  - {name: Lepp}
-  - {name: Lepp}
   - {name: Lepplax}
   - {name: Lestij}
   - {name: Levo}
@@ -1198,10 +1127,6 @@
   - {name: Luoma-aho}
   - {name: Luopioinen}
   - {name: Luvia}
-  - {name: M}
-  - {name: M}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Makkonen}
   - {name: Malax}
@@ -1228,8 +1153,6 @@
   - {name: Myllym}
   - {name: Myn}
   - {name: N}
-  - {name: N}
-  - {name: N}
   - {name: Naantali}
   - {name: Naarva}
   - {name: Nagu}
@@ -1249,13 +1172,6 @@
   - {name: Orip}
   - {name: Orivesi}
   - {name: Otsola}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
-  - {name: P}
   - {name: P}
   - {name: Paarskyl}
   - {name: Paattinen}
@@ -1299,11 +1215,7 @@
   - {name: Purmo}
   - {name: Puumala}
   - {name: Pyh}
-  - {name: Pyh}
-  - {name: Pyh}
   - {name: Pylk}
-  - {name: R}
-  - {name: R}
   - {name: R}
   - {name: Rahkola}
   - {name: Raippaluoto}
@@ -1323,10 +1235,6 @@
   - {name: Rusko}
   - {name: Ruutana}
   - {name: Rym}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Saarenp}
   - {name: Saarij}
@@ -1408,11 +1316,6 @@
   - {name: Uusikartano}
   - {name: Uusikaupunki}
   - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: Vaajakoski}
   - {name: Vaasa}
   - {name: Vahto}
@@ -1455,7 +1358,6 @@
   - {name: Vuorenmaa}
   - {name: Vuori}
   - {name: Wasa}
-  - {name: Yl}
   - {name: Yl}
   - {name: Ylih}
   - {name: Yliluoma}

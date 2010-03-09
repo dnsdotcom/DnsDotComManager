@@ -1,7 +1,5 @@
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Abrucena}
   - {name: Adra}
   - {name: Aguadulce}
@@ -11,9 +9,6 @@
   - {name: Albolote}
   - {name: Albox}
   - {name: Albu}
-  - {name: Albu}
-  - {name: Alcal}
-  - {name: Alcal}
   - {name: Alcal}
   - {name: Alcaudete}
   - {name: Alcolea}
@@ -21,7 +16,6 @@
   - {name: Algeciras}
   - {name: Algodonales}
   - {name: Alhama De Granada}
-  - {name: Alhaur}
   - {name: Alhaur}
   - {name: Alhend}
   - {name: Aljaraque}
@@ -48,7 +42,6 @@
   - {name: Atarfe}
   - {name: Ayamonte}
   - {name: Aznalc}
-  - {name: Aznalc}
   - {name: Azucarera}
   - {name: Baena}
   - {name: Bail}
@@ -63,9 +56,6 @@
   - {name: Bormujos}
   - {name: Bornos}
   - {name: Brenes}
-  - {name: C}
-  - {name: C}
-  - {name: C}
   - {name: C}
   - {name: Cabra}
   - {name: Cadiz}
@@ -143,9 +133,6 @@
   - {name: Hidalgo}
   - {name: Hornos}
   - {name: Hu}
-  - {name: Hu}
-  - {name: Hu}
-  - {name: Hu}
   - {name: Huelma}
   - {name: Huelva}
   - {name: Ibros}
@@ -189,8 +176,6 @@
   - {name: Lubr}
   - {name: Lucena}
   - {name: Luque}
-  - {name: M}
-  - {name: M}
   - {name: M}
   - {name: Macael}
   - {name: Mairena}
@@ -272,7 +257,6 @@
   - {name: San Telmo}
   - {name: Sancho}
   - {name: Sanl}
-  - {name: Sanl}
   - {name: Santiponce}
   - {name: Santisteban Del Puerto}
   - {name: Serena}
@@ -294,9 +278,6 @@
   - {name: Turre}
   - {name: Ubrique}
   - {name: Utrera}
-  - {name: V}
-  - {name: V}
-  - {name: V}
   - {name: V}
   - {name: Valdepe}
   - {name: Valderrubio}
@@ -470,7 +451,6 @@
   - {name: Cancienes}
   - {name: Cand}
   - {name: Carre}
-  - {name: Carre}
   - {name: Carrocera}
   - {name: Casares}
   - {name: Castrill}
@@ -603,7 +583,6 @@
   - {name: Frontera}
   - {name: Fuencaliente}
   - {name: G}
-  - {name: G}
   - {name: Garachico}
   - {name: Ginigin}
   - {name: Granadilla De Abona}
@@ -653,7 +632,6 @@
   - {name: Roque}
   - {name: Rosas}
   - {name: San Andr}
-  - {name: San Bartolom}
   - {name: San Bartolom}
   - {name: San Crist}
   - {name: San Isidro}
@@ -787,7 +765,6 @@
   name: Cantabria
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Aguilafuente}
   - {name: Alba De Tormes}
   - {name: Alberca}
@@ -888,8 +865,6 @@
   - {name: Palacios De La Valduerna}
   - {name: Palazuelos De Eresma}
   - {name: Palencia}
-  - {name: Pe}
-  - {name: Pe}
   - {name: Pe}
   - {name: Peque}
   - {name: Perosillo}
@@ -1240,7 +1215,6 @@
   - {name: Llerona}
   - {name: Llinars}
   - {name: Lliss}
-  - {name: Lliss}
   - {name: Llorens}
   - {name: Lloret De Mar}
   - {name: Los L}
@@ -1269,7 +1243,6 @@
   - {name: Montferrer}
   - {name: Montgat}
   - {name: Montmel}
-  - {name: Montorn}
   - {name: Montorn}
   - {name: Montreal}
   - {name: Mora}
@@ -1306,7 +1279,6 @@
   - {name: Porrera}
   - {name: Prades}
   - {name: Pratdip}
-  - {name: Premi}
   - {name: Premi}
   - {name: Puigcerd}
   - {name: Puigpelat}
@@ -1348,7 +1320,6 @@
   - {name: Sant Joan De Les Abadesses}
   - {name: Sant Joan De Vilatorrada}
   - {name: Sant Joan Les Fonts}
-  - {name: Sant Juli}
   - {name: Sant Juli}
   - {name: Sant Just Desvern}
   - {name: Sant Pere De Ribes}
@@ -1502,12 +1473,8 @@
   - {name: Casa Pontet}
   - {name: Casas Silim}
   - {name: Caser}
-  - {name: Caser}
-  - {name: Caser}
-  - {name: Caser}
   - {name: Casinos}
   - {name: Castalla}
-  - {name: Castell}
   - {name: Castell}
   - {name: Castellnovo}
   - {name: Catarroja}
@@ -2082,17 +2049,13 @@
   - {name: Pozuelo De Alarc}
   - {name: Ribatejada}
   - {name: San Agust}
-  - {name: San Agust}
   - {name: San Fernando De Henares}
   - {name: San Lorenzo De El Escorial}
-  - {name: San Mart}
   - {name: San Mart}
   - {name: San Sebasti}
   - {name: Serranillos Del Valle}
   - {name: Sevilla La Nueva}
   - {name: Talamanca De Jarama}
-  - {name: Torrej}
-  - {name: Torrej}
   - {name: Torrej}
   - {name: Torrelaguna}
   - {name: Torrelodones}
@@ -2137,7 +2100,6 @@
   - {name: Calasparra}
   - {name: Caravaca}
   - {name: Cartagena}
-  - {name: Caser}
   - {name: Caser}
   - {name: Ceheg}
   - {name: Ceuti}
@@ -2308,7 +2270,6 @@
   - {name: Erm}
   - {name: Escoriaza}
   - {name: Flores}
-  - {name: G}
   - {name: G}
   - {name: Galarza}
   - {name: Gald}

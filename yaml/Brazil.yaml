@@ -54,7 +54,6 @@
   name: Amazonas
 - cities:
   - {name: ''}
-  - {name: ''}
   - {name: Alagoinhas}
   - {name: Amargosa}
   - {name: Amaz}
@@ -238,7 +237,6 @@
   - {name: Pi}
   - {name: Rio Novo Do Sul}
   - {name: S}
-  - {name: S}
   - {name: Santa Teresa}
   - {name: Serra}
   - {name: Viana}
@@ -258,7 +256,6 @@
   - {name: Ceres}
   - {name: Cristalina}
   - {name: Formosa}
-  - {name: Goi}
   - {name: Goi}
   - {name: Goian}
   - {name: Goiatuba}
@@ -308,8 +305,6 @@
   - {name: P}
   - {name: Pindar}
   - {name: Pinheiro}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Santa Helena}
   - {name: Santa In}
@@ -372,7 +367,6 @@
   - {name: Rio Brilhante}
   - {name: Rio Verde}
   - {name: Rio Verde De Mato Grosso}
-  - {name: S}
   - {name: S}
   - {name: Santa}
   - {name: Santa Tereza}
@@ -463,7 +457,6 @@
   - {name: Ipanema}
   - {name: Ipatinga}
   - {name: Ita}
-  - {name: Ita}
   - {name: Itabira}
   - {name: Itabirito}
   - {name: Itajub}
@@ -478,7 +471,6 @@
   - {name: Jacutinga}
   - {name: Jana}
   - {name: Janu}
-  - {name: Jo}
   - {name: Jo}
   - {name: Juatuba}
   - {name: Juiz De Fora}
@@ -540,13 +532,6 @@
   - {name: Rio Novo}
   - {name: Rio Pomba}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Sabar}
   - {name: Sabin}
   - {name: Sacramento}
@@ -556,7 +541,6 @@
   - {name: Santa Rita Do Sapuca}
   - {name: Santana Do Jacar}
   - {name: Santana Do Para}
-  - {name: Santo Ant}
   - {name: Santo Ant}
   - {name: Santos Dumont}
   - {name: Sapuca}
@@ -573,7 +557,6 @@
   - {name: Tiros}
   - {name: Tombos}
   - {name: Top}
-  - {name: Tr}
   - {name: Tr}
   - {name: Tupaciguara}
   - {name: Ub}
@@ -660,7 +643,6 @@
   - {name: Barbosa Ferraz}
   - {name: Bituruna}
   - {name: C}
-  - {name: C}
   - {name: Camb}
   - {name: Cambar}
   - {name: Cambira}
@@ -745,9 +727,6 @@
   - {name: Rol}
   - {name: Rondon}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Santa F}
   - {name: Santo Ant}
   - {name: Sarandi}
@@ -803,8 +782,6 @@
   - {name: Pombos}
   - {name: Recife}
   - {name: Ribeir}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sair}
   - {name: Salgueiro}
@@ -907,9 +884,6 @@
   - {name: Rio Das Ostras}
   - {name: Rio De Janeiro}
   - {name: Rio Vermelho}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sana}
   - {name: Saquarema}
@@ -1048,13 +1022,6 @@
   - {name: Roque Gonzales}
   - {name: Ros}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Samuel}
   - {name: Sananduva}
   - {name: Santa Clara Do Sul}
@@ -1076,11 +1043,8 @@
   - {name: Tapera}
   - {name: Tapes}
   - {name: Taquara}
-  - {name: Taquara}
   - {name: Taquari}
   - {name: Teut}
-  - {name: Tr}
-  - {name: Tr}
   - {name: Tr}
   - {name: Tramanda}
   - {name: Triunfo}
@@ -1195,11 +1159,6 @@
   - {name: Rio Dos Cedros}
   - {name: Rio Negrinho}
   - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: Santa Cec}
   - {name: Saudades}
   - {name: Schroeder}
@@ -1215,8 +1174,6 @@
   name: Santa Catarina
 - cities:
   - {name: ''}
-  - {name: ''}
-  - {name: ''}
   - {name: Adamantina}
   - {name: Agostinho}
   - {name: Agua}
@@ -1229,8 +1186,6 @@
   - {name: Andradina}
   - {name: Aparecida}
   - {name: Apia}
-  - {name: Ara}
-  - {name: Ara}
   - {name: Ara}
   - {name: Araraquara}
   - {name: Araras}
@@ -1451,7 +1406,6 @@
   - {name: Osvaldo Cruz}
   - {name: Ourinhos}
   - {name: P}
-  - {name: P}
   - {name: Pacaembu}
   - {name: Palmital}
   - {name: Para}
@@ -1481,7 +1435,6 @@
   - {name: Piracaia}
   - {name: Piracicaba}
   - {name: Piraju}
-  - {name: Piraju}
   - {name: Pirap}
   - {name: Pirapora Do Bom Jesus}
   - {name: Pirassununga}
@@ -1507,8 +1460,6 @@
   - {name: Regente Feij}
   - {name: Registro}
   - {name: Ribeir}
-  - {name: Ribeir}
-  - {name: Ribeir}
   - {name: Rio Afonso}
   - {name: Rio Claro}
   - {name: Rio Das Pedras}
@@ -1517,24 +1468,6 @@
   - {name: Roberto}
   - {name: Roseira}
   - {name: Rui Barbosa}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
-  - {name: S}
   - {name: S}
   - {name: Sabino}
   - {name: Saltinho}
@@ -1550,7 +1483,6 @@
   - {name: Santa Cruz Das Palmeiras}
   - {name: Santa Cruz Do Rio Pardo}
   - {name: Santa Ernestina}
-  - {name: Santa F}
   - {name: Santa F}
   - {name: Santa Gertrudes}
   - {name: Santa Isabel}
@@ -1592,7 +1524,6 @@
   - {name: Ubatuba}
   - {name: Uchoa}
   - {name: Urup}
-  - {name: V}
   - {name: V}
   - {name: Valinhos}
   - {name: Valpara}
