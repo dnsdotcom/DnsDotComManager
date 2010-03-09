@@ -1,0 +1,40 @@
+- cities:
+  - {name: Sucre}
+  code: '01'
+  name: Chuquisaca
+- cities:
+  - {name: Cochabamba}
+  code: '02'
+  name: Cochabamba
+- cities:
+  - {name: Riberalta}
+  - {name: Santa Cruz}
+  - {name: Trinidad}
+  code: '03'
+  name: El Beni
+- cities:
+  - {name: La Paz}
+  code: '04'
+  name: La Paz
+- cities:
+  - {name: Oruro}
+  code: '05'
+  name: Oruro
+- cities:
+  - {name: Caracas}
+  - {name: Cruz}
+  - {name: Llallagua}
+  - {name: Potos}
+  code: '07'
+  name: Potosi
+- cities:
+  - {name: Aroma}
+  - {name: Camiri}
+  - {name: Montero}
+  - {name: Santa Cruz De La Sierra}
+  code: 08
+  name: Santa Cruz
+- cities:
+  - {name: Tarija}
+  code: 09
+  name: Tarija

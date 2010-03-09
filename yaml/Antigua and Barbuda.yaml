@@ -1,0 +1,24 @@
+- cities:
+  - {name: Carlisle}
+  - {name: Cassada Gardens}
+  code: '03'
+  name: Saint George
+- cities:
+  - {name: Clare Hall}
+  - {name: Saint John}
+  - {name: Saint John's}
+  - {name: Woods}
+  code: '04'
+  name: Saint John
+- cities:
+  - {name: Old Road}
+  code: '05'
+  name: Saint Mary
+- cities:
+  - {name: All Saints}
+  code: '06'
+  name: Saint Paul
+- cities:
+  - {name: Parham}
+  code: '07'
+  name: Saint Peter

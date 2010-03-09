@@ -1,0 +1,12 @@
+- cities:
+  - {name: Bamako}
+  code: '01'
+  name: Bamako
+- cities:
+  - {name: Kayes}
+  code: '03'
+  name: Kayes
+- cities:
+  - {name: Koutiala}
+  code: '06'
+  name: Sikasso

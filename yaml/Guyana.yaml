@@ -1,0 +1,10 @@
+- cities:
+  - {name: Alberttown}
+  - {name: Georgetown}
+  code: '12'
+  name: Demerara-Mahaica
+- cities:
+  - {name: Linden}
+  - {name: Mackenzie}
+  code: '18'
+  name: Upper Demerara-Berbice

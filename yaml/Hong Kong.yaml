@@ -1,0 +1,146 @@
+- cities:
+  - {name: A Kung Ngam}
+  - {name: A Po Long}
+  - {name: Aberdeen}
+  - {name: Au Pui Wan}
+  - {name: Caroline Hill}
+  - {name: Causeway Bay}
+  - {name: Central District}
+  - {name: Chai Wan}
+  - {name: Chai Wan Kok}
+  - {name: Che Kung Miu}
+  - {name: Cheung Chau}
+  - {name: Cheung Kong}
+  - {name: Cheung Pei Shan}
+  - {name: Cheung Sha Wan}
+  - {name: Chiu-lung-ku-ch'eng}
+  - {name: Choi Hung}
+  - {name: Chuk Un}
+  - {name: Chuk Yuen}
+  - {name: Chun Fa Lok}
+  - {name: Chung Hau}
+  - {name: Chung Mei}
+  - {name: Chung Wai}
+  - {name: Epworth Village}
+  - {name: Fa Sam Hang}
+  - {name: Fa Yuen}
+  - {name: Fanling}
+  - {name: Fo Tan}
+  - {name: Fu Tei}
+  - {name: Fui Sha Wai}
+  - {name: Fuk Lok Tsuen}
+  - {name: Fung Shue Wo}
+  - {name: Ha Keng Hau}
+  - {name: Hang Mei}
+  - {name: Happy Valley}
+  - {name: Ho Man Tin}
+  - {name: Ho Tin}
+  - {name: Hoi Pa}
+  - {name: Hong Lok Tsuen}
+  - {name: Hung Fa Ngan}
+  - {name: Hung Hom}
+  - {name: Hung Shui}
+  - {name: Jardines Lookout}
+  - {name: Kam Tsin}
+  - {name: Kat O}
+  - {name: Kennedy Town}
+  - {name: Kowloon}
+  - {name: Kowloon City}
+  - {name: Kowloon Tong}
+  - {name: Kwai Chung}
+  - {name: Kwun Tong}
+  - {name: Kwun Yam Keng}
+  - {name: Lai Chi Kok}
+  - {name: Lam Tei}
+  - {name: Lam Tin}
+  - {name: Lin Fa Tei}
+  - {name: Liu To}
+  - {name: Lo So Shing}
+  - {name: Ma On Shan}
+  - {name: Ma Tau Wai}
+  - {name: Ma Wan}
+  - {name: Mid Levels}
+  - {name: Mong Kok}
+  - {name: Morrison Hill}
+  - {name: Mui Wo}
+  - {name: New Kowloon}
+  - {name: Ng Tung Chai}
+  - {name: Ngau Chi Wan}
+  - {name: Ngau Tau Kok}
+  - {name: North Point}
+  - {name: Pak Tin}
+  - {name: Peang}
+  - {name: Peng Chau}
+  - {name: Ping Shek}
+  - {name: Ping Yeung}
+  - {name: Pui O}
+  - {name: Quarry Bay}
+  - {name: Repulse Bay}
+  - {name: Sai Kung}
+  - {name: Sai Wan Estate}
+  - {name: Sai Wan Ho}
+  - {name: Sai Ying Poon}
+  - {name: Sai Ying Pun}
+  - {name: Sam Cheung}
+  - {name: San Po Kong}
+  - {name: San Tong}
+  - {name: San Tsuen}
+  - {name: Sha Tau Kok}
+  - {name: Sha Tin}
+  - {name: Sham Shui Po}
+  - {name: Sham Tseng}
+  - {name: Shan Mei}
+  - {name: Shau Kei Wan}
+  - {name: Shek Kip Mei}
+  - {name: Shek Pai Tau}
+  - {name: Shek Pai Wan Resettlement Estate}
+  - {name: Shek Tong Tsui}
+  - {name: Shek Tsai Po}
+  - {name: Shek Wai Kok}
+  - {name: Sheung Shui}
+  - {name: Sheung Wan}
+  - {name: So Kon Po}
+  - {name: Stanley}
+  - {name: Sze Pak}
+  - {name: Tai Hang}
+  - {name: Tai Kok Tsui}
+  - {name: Tai Lin Pai}
+  - {name: Tai O}
+  - {name: Tai Pak}
+  - {name: Tai Po}
+  - {name: Tai Tam}
+  - {name: Tai Tung}
+  - {name: Tai Wai}
+  - {name: Tai Wo}
+  - {name: Tanner Hill Estate}
+  - {name: Tin Shui Wai}
+  - {name: Tiu Keng Leng}
+  - {name: To Kwa Wan}
+  - {name: Tong Fuk}
+  - {name: Tseung Kwan O}
+  - {name: Tsim Sha Tsui}
+  - {name: Tsin Yue Wan}
+  - {name: Tsuen Wan}
+  - {name: Tsz Wan Shan}
+  - {name: Tuen Mun}
+  - {name: Tung Chung}
+  - {name: Tung Hing}
+  - {name: Victoria}
+  - {name: Wah Fu}
+  - {name: Wah Fu Estate}
+  - {name: Wan Chai}
+  - {name: Wan Tau Tong}
+  - {name: Wang Tau Hom}
+  - {name: Wo Yi Hop}
+  - {name: Wong Chuk Hang}
+  - {name: Wong Tai Sin}
+  - {name: Wong Wan}
+  - {name: Yau Ma Tei}
+  - {name: Yau Tam Mei}
+  - {name: Yau Tong}
+  - {name: Yuen Kong}
+  - {name: Yuen Long}
+  - {name: Yuen Long Town}
+  - {name: Yuen Tun Ha}
+  code: '00'
+  name: ''

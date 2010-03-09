@@ -1,0 +1,558 @@
+- cities:
+  - {name: Babakan}
+  - {name: Balaraja}
+  - {name: Bali}
+  - {name: Batavia}
+  - {name: Bekasi}
+  - {name: Bogor}
+  - {name: Brebes}
+  - {name: Cibeureum}
+  - {name: Cikampek}
+  - {name: Cikini}
+  - {name: Cilegon}
+  - {name: Cirebon}
+  - {name: Citra}
+  - {name: Garut}
+  - {name: Glodok}
+  - {name: Indramayu}
+  - {name: Jakarta}
+  - {name: Jatibarang}
+  - {name: Jatiluhur}
+  - {name: Kalideres}
+  - {name: Karawang}
+  - {name: Kebon Jeruk}
+  - {name: Kuningan}
+  - {name: Manggadua}
+  - {name: Matraman}
+  - {name: Menteng}
+  - {name: Pancoran}
+  - {name: Pandeglang}
+  - {name: Pendawa}
+  - {name: Plumbon}
+  - {name: Purwakarta}
+  - {name: Salemba}
+  - {name: Senayan}
+  - {name: Serang}
+  - {name: Slipi}
+  - {name: Subang}
+  - {name: Sukabumi}
+  - {name: Sumber}
+  - {name: Sumedang}
+  - {name: Sunter}
+  - {name: Tanjung Priok}
+  - {name: Tasikmalaya}
+  code: '06'
+  name: ''
+- cities:
+  - {name: Tahuna}
+  code: '23'
+  name: ''
+- cities:
+  - {name: Banten}
+  - {name: Baturaja}
+  - {name: Besar}
+  - {name: Betung}
+  - {name: Cempaka}
+  - {name: Gedung}
+  - {name: Gunung}
+  - {name: Kelapa}
+  - {name: Kotabaru}
+  - {name: Kundur}
+  - {name: Lahat}
+  - {name: Lingga}
+  - {name: Madura}
+  - {name: Manggis}
+  - {name: Merapi}
+  - {name: Mulia}
+  - {name: Palembang}
+  - {name: Pangkalan}
+  - {name: Pangkalpinang}
+  - {name: Pinang}
+  - {name: Prabumulih}
+  - {name: Riau}
+  - {name: Rimba}
+  - {name: Tanjung}
+  - {name: Teluk}
+  code: '25'
+  name: ''
+- cities:
+  - {name: Ambon}
+  - {name: Bakun}
+  - {name: Dong}
+  - {name: Masohi}
+  - {name: Namlea}
+  - {name: Sanana}
+  - {name: Saumlaki}
+  - {name: Ternate}
+  - {name: Tesco}
+  - {name: Timur}
+  - {name: Tobelo}
+  - {name: Tual}
+  code: '16'
+  name: ''
+- cities:
+  - {name: Babo}
+  - {name: Banda}
+  - {name: Banda Aceh}
+  - {name: Bintang}
+  - {name: Bireun}
+  - {name: Calang}
+  - {name: Kuning}
+  - {name: Kutacane}
+  - {name: Lamno}
+  - {name: Langsa}
+  - {name: Lhoknga}
+  - {name: Lhokseumawe}
+  - {name: Meulaboh}
+  - {name: Panca}
+  - {name: Pasir}
+  - {name: Raya}
+  - {name: Sabang}
+  - {name: Sigli}
+  - {name: Sinabang}
+  - {name: Takengon}
+  code: '01'
+  name: Aceh
+- cities:
+  - {name: Bukit}
+  - {name: Denpasar}
+  - {name: Gianyar}
+  - {name: Kuta}
+  - {name: Lembongan}
+  - {name: Marga}
+  - {name: Mengwi}
+  - {name: Negara}
+  - {name: Sanur}
+  - {name: Singaraja}
+  - {name: Tabanan}
+  - {name: Ubud}
+  code: '02'
+  name: Bali
+- cities:
+  - {name: Bengkulu}
+  - {name: Pagar}
+  code: '03'
+  name: Bengkulu
+- cities:
+  - {name: Cengkareng}
+  code: '04'
+  name: Jakarta Raya
+- cities:
+  - {name: Jambi}
+  - {name: Kualatungkal}
+  - {name: Lama}
+  - {name: Simpang}
+  code: '05'
+  name: Jambi
+- cities:
+  - {name: Bandung}
+  - {name: Bangka}
+  - {name: Banjar}
+  - {name: Berkat}
+  - {name: Bintaro}
+  - {name: Cakung}
+  - {name: Cemara}
+  - {name: Cianjur}
+  - {name: Cibinong}
+  - {name: Cibitung}
+  - {name: Cibubur}
+  - {name: Cikarang}
+  - {name: Cikupa}
+  - {name: Cilandak}
+  - {name: Cileungsi}
+  - {name: Cimahi}
+  - {name: Cimanggis}
+  - {name: Ciputat}
+  - {name: Curug}
+  - {name: Depok}
+  - {name: Dewata}
+  - {name: Guna}
+  - {name: Jatake}
+  - {name: Jatipadang}
+  - {name: Jawa}
+  - {name: Kalibata}
+  - {name: Karang Tengah}
+  - {name: Karawaci}
+  - {name: Kebalen}
+  - {name: Kebayoran}
+  - {name: Kemang}
+  - {name: Laksana}
+  - {name: Majalengka}
+  - {name: Meruya}
+  - {name: Mesjid}
+  - {name: Muara}
+  - {name: Nusa}
+  - {name: Pamulang}
+  - {name: Parung}
+  - {name: Paseh}
+  - {name: Pegadungan}
+  - {name: Pelelangan}
+  - {name: Perdana}
+  - {name: Petukangan}
+  - {name: Poris}
+  - {name: Pulogadung}
+  - {name: Rempoa}
+  - {name: Senen}
+  - {name: Serpong}
+  - {name: Srengseng}
+  - {name: Tangerang}
+  - {name: Tidar}
+  - {name: Utama}
+  - {name: Wadasari}
+  - {name: Waringin}
+  code: '30'
+  name: Jawa Barat
+- cities:
+  - {name: Ambarawa}
+  - {name: Bagong}
+  - {name: Banjarnegara}
+  - {name: Banteng}
+  - {name: Batang}
+  - {name: Blora}
+  - {name: Bumiayu}
+  - {name: Candi}
+  - {name: Cilacap}
+  - {name: Colo}
+  - {name: Demak}
+  - {name: Gading}
+  - {name: Gadjah}
+  - {name: Grobogan}
+  - {name: Grogol}
+  - {name: Jati}
+  - {name: Jepara}
+  - {name: Jeruk}
+  - {name: Karang}
+  - {name: Kendal}
+  - {name: Klaten}
+  - {name: Kranggan}
+  - {name: Kroya}
+  - {name: Kudus}
+  - {name: Largo}
+  - {name: Lemahabang}
+  - {name: Magelang}
+  - {name: Magetan}
+  - {name: Mangir}
+  - {name: Mergoyoso}
+  - {name: Muntilan}
+  - {name: Nawangan}
+  - {name: Panjang}
+  - {name: Pati}
+  - {name: Pekalongan}
+  - {name: Pemalang}
+  - {name: Pesantren}
+  - {name: Plasa}
+  - {name: Pondok}
+  - {name: Prambanan}
+  - {name: Pugeran}
+  - {name: Punten}
+  - {name: Pura}
+  - {name: Purbalingga}
+  - {name: Purwokerto}
+  - {name: Rembang}
+  - {name: Salatiga}
+  - {name: Sawit}
+  - {name: Semarang}
+  - {name: Semen}
+  - {name: Singkil}
+  - {name: Slawi}
+  - {name: Sleman}
+  - {name: Solo}
+  - {name: Sragen}
+  - {name: Sumbar}
+  - {name: Surakarta}
+  - {name: Taman}
+  - {name: Tegal}
+  - {name: Temanggung}
+  - {name: Tembalang}
+  - {name: Toso}
+  - {name: Ungaran}
+  - {name: Wonogiri}
+  code: '07'
+  name: Jawa Tengah
+- cities:
+  - {name: Bangun}
+  - {name: Banyuwangi}
+  - {name: Batu}
+  - {name: Blitar}
+  - {name: Bojonegoro}
+  - {name: Cepu}
+  - {name: Dalung}
+  - {name: Gresik}
+  - {name: Jember}
+  - {name: Jombang}
+  - {name: Juanda}
+  - {name: Kebon}
+  - {name: Kediri}
+  - {name: Kemayoran}
+  - {name: Klampis}
+  - {name: Krian}
+  - {name: Lamongan}
+  - {name: Lumajang}
+  - {name: Madiun}
+  - {name: Malang}
+  - {name: Mandala}
+  - {name: Manyar}
+  - {name: Mojoagung}
+  - {name: Mojokerto}
+  - {name: Nganjuk}
+  - {name: Pacitan}
+  - {name: Palang}
+  - {name: Panda}
+  - {name: Pasuruan}
+  - {name: Perak}
+  - {name: Ponorogo}
+  - {name: Probolinggo}
+  - {name: Puri}
+  - {name: Purworejo}
+  - {name: Rungkut}
+  - {name: Sepanjang}
+  - {name: Sidoarjo}
+  - {name: Situbondo}
+  - {name: Sumenep}
+  - {name: Surabaya}
+  - {name: Tuban}
+  - {name: Tulungagung}
+  - {name: Wates}
+  - {name: Wonokoyo}
+  code: 08
+  name: Jawa Timur
+- cities:
+  - {name: Balai}
+  - {name: Baru}
+  - {name: Bengkayang}
+  - {name: Kalimantan}
+  - {name: Ketapang}
+  - {name: Kophiang}
+  - {name: Kuda}
+  - {name: Mapan}
+  - {name: Mempawah}
+  - {name: Pontianak}
+  - {name: Putussibau}
+  - {name: Sanggau}
+  - {name: Siantan}
+  - {name: Singkawang}
+  code: '11'
+  name: Kalimantan Barat
+- cities:
+  - {name: Banjarbaru}
+  - {name: Banjarmasin}
+  - {name: Barabai}
+  - {name: Martapura}
+  - {name: Pelaihari}
+  - {name: Sungai}
+  code: '12'
+  name: Kalimantan Selatan
+- cities:
+  - {name: Agung}
+  - {name: Lampung}
+  - {name: Lubuk}
+  - {name: Marabahan}
+  - {name: Palangkaraya}
+  - {name: Sampit}
+  code: '13'
+  name: Kalimantan Tengah
+- cities:
+  - {name: Balikpapan}
+  - {name: Bentoel}
+  - {name: Bontang}
+  - {name: Samarinda}
+  - {name: Sangasanga}
+  - {name: Senyiur}
+  - {name: Tarakan}
+  - {name: Tenggarong}
+  code: '14'
+  name: Kalimantan Timur
+- cities:
+  - {name: Bandar Lampung}
+  - {name: Metro}
+  - {name: Pringsewu}
+  - {name: Putih}
+  code: '15'
+  name: Lampung
+- cities:
+  - {name: Ampenan}
+  - {name: Bima}
+  - {name: Karangasem}
+  - {name: Lombok}
+  - {name: Mataram}
+  - {name: Mujur}
+  - {name: Singa}
+  - {name: Sumbawa}
+  code: '17'
+  name: Nusa Tenggara Barat
+- cities:
+  - {name: Atambua}
+  - {name: Bajawa}
+  - {name: Ende}
+  - {name: Kalabahi}
+  - {name: Kota}
+  - {name: Kupang}
+  - {name: Larantuka}
+  - {name: Lewoleba}
+  - {name: Maumere}
+  - {name: Merdeka}
+  - {name: Pelita}
+  - {name: Pulo}
+  - {name: Ruteng}
+  - {name: Sikka}
+  - {name: Waikabubak}
+  - {name: Waingapu}
+  code: '18'
+  name: Nusa Tenggara Timur
+- cities:
+  - {name: Amara}
+  - {name: Biak}
+  - {name: Fakfak}
+  - {name: Jayapura}
+  - {name: Kaimana}
+  - {name: Kiat}
+  - {name: Manokwari}
+  - {name: Mega}
+  - {name: Merauke}
+  - {name: Nabire}
+  - {name: Negeri}
+  - {name: Sani}
+  - {name: Sentani}
+  - {name: Serui}
+  - {name: Sorong}
+  - {name: Timika}
+  - {name: Wamena}
+  code: 09
+  name: Papua
+- cities:
+  - {name: Bangkinang}
+  - {name: Bengkalis}
+  - {name: Dumai}
+  - {name: Duri}
+  - {name: Kabil}
+  - {name: Lagoi}
+  - {name: Pakanbaru}
+  - {name: Pekanbaru}
+  - {name: Ranai}
+  - {name: Rengat}
+  - {name: Tanjungpinang}
+  code: '19'
+  name: Riau
+- cities:
+  - {name: Amali}
+  - {name: Anggrek}
+  - {name: Barata}
+  - {name: Barru}
+  - {name: Bone}
+  - {name: Borong}
+  - {name: Harapan}
+  - {name: Lokasi}
+  - {name: Majene}
+  - {name: Makale}
+  - {name: Makasar}
+  - {name: Makassar}
+  - {name: Mamuju}
+  - {name: Melle}
+  - {name: Nusaindah}
+  - {name: Nusantara}
+  - {name: Palopo}
+  - {name: Parepare}
+  - {name: Pinrang}
+  - {name: Polewali}
+  - {name: Rantepao}
+  - {name: Sepakat}
+  - {name: Sinjai}
+  - {name: Soroako}
+  - {name: Takalar}
+  - {name: Tiro}
+  - {name: Watansoppeng}
+  - {name: Wide}
+  code: '20'
+  name: Sulawesi Selatan
+- cities:
+  - {name: Ampana}
+  - {name: Bahagia}
+  - {name: Barat}
+  - {name: Bayang}
+  - {name: Buol}
+  - {name: Kapas}
+  - {name: Lais}
+  - {name: Long}
+  - {name: Luwuk}
+  - {name: Makmur}
+  - {name: Melati}
+  - {name: Palangka}
+  - {name: Palu}
+  - {name: Parigi}
+  - {name: Poso}
+  - {name: Tengah}
+  code: '21'
+  name: Sulawesi Tengah
+- cities:
+  - {name: Baja}
+  - {name: Benua}
+  - {name: Bola}
+  - {name: Buton}
+  - {name: Dana}
+  - {name: Indo}
+  - {name: Indra}
+  - {name: Kendari}
+  - {name: Kolaka}
+  - {name: Labuan}
+  - {name: Lestari}
+  - {name: Mandiri}
+  - {name: Mekarsari}
+  - {name: Nelayan}
+  - {name: Pasar}
+  - {name: Rajawali}
+  - {name: Sawah}
+  - {name: Toko}
+  - {name: Wajo}
+  - {name: Watu}
+  - {name: Wirabuana}
+  code: '22'
+  name: Sulawesi Tenggara
+- cities:
+  - {name: Abadi}
+  - {name: Bitung}
+  - {name: Gorontalo}
+  - {name: Kotamobagu}
+  - {name: Lion}
+  - {name: Manado}
+  - {name: Mulya}
+  - {name: Sejahtera}
+  - {name: Semangat}
+  - {name: Sentral}
+  - {name: Tomohon}
+  code: '31'
+  name: Sulawesi Utara
+- cities:
+  - {name: Bonjol}
+  - {name: Bukittinggi}
+  - {name: Padang}
+  - {name: Payakumbuh}
+  - {name: Rokan}
+  - {name: Rumbai}
+  - {name: Sawahlunto}
+  - {name: Solok}
+  code: '24'
+  name: Sumatera Barat
+- cities:
+  - {name: Binjai}
+  - {name: Kabanjahe}
+  - {name: Kisaran}
+  - {name: Lahewa}
+  - {name: Medan}
+  - {name: Parapat}
+  - {name: Prapat}
+  - {name: Rantauprapat}
+  - {name: Siantar}
+  - {name: Sibolga}
+  - {name: Tanjungpura}
+  - {name: Tapanuli}
+  code: '26'
+  name: Sumatera Utara
+- cities:
+  - {name: Bantul}
+  - {name: Depok}
+  - {name: Imogiri}
+  - {name: Jogjakarta}
+  - {name: Jogyakarta}
+  - {name: Yogyakarta}
+  code: '10'
+  name: Yogyakarta

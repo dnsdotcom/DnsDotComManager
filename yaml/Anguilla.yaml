@@ -1,0 +1,5 @@
+- cities:
+  - {name: George Hill}
+  - {name: The Valley}
+  code: '00'
+  name: ''

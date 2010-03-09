@@ -1,0 +1,77 @@
+- cities:
+  - {name: Ahuachap}
+  - {name: Atiquizaya}
+  code: '01'
+  name: Ahuachapan
+- cities:
+  - {name: Comalapa}
+  code: '03'
+  name: Chalatenango
+- cities:
+  - {name: Cojutepeque}
+  - {name: San Mart}
+  code: '04'
+  name: Cuscatlan
+- cities:
+  - {name: Antiguo Cuscatl}
+  - {name: La Libertad}
+  - {name: Lourdes}
+  - {name: Nueva San Salvador}
+  - {name: Opico}
+  - {name: Quezaltepeque}
+  - {name: San Pablo Tacachico}
+  - {name: Santa Tecla}
+  - {name: Zaragoza}
+  code: '05'
+  name: La Libertad
+- cities:
+  - {name: Olocuilta}
+  - {name: San Juan Talpa}
+  code: '06'
+  name: La Paz
+- cities:
+  - {name: Santa Rosa De Lima}
+  code: '07'
+  name: La Union
+- cities:
+  - {name: El Progreso}
+  code: 08
+  name: Morazan
+- cities:
+  - {name: Chinameca}
+  - {name: Moncagua}
+  code: 09
+  name: San Miguel
+- cities:
+  - {name: Apopa}
+  - {name: Colonia Escal}
+  - {name: Cuscatancingo}
+  - {name: Delgado}
+  - {name: El Paisnal}
+  - {name: Escal}
+  - {name: Ilopango}
+  - {name: Mejicanos}
+  - {name: San Marcos}
+  - {name: San Salvador}
+  - {name: Soyapango}
+  code: '10'
+  name: San Salvador
+- cities:
+  - {name: Chalchuapa}
+  - {name: El Porvenir}
+  - {name: San Miguel}
+  - {name: Santa Ana}
+  - {name: Texistepeque}
+  code: '11'
+  name: Santa Ana
+- cities:
+  - {name: Armenia}
+  - {name: Izalco}
+  - {name: Nahuizalco}
+  - {name: Sonsonate}
+  code: '13'
+  name: Sonsonate
+- cities:
+  - {name: Usulut}
+  code: '14'
+  name: Usulutan

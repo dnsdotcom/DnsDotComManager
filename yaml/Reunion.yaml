@@ -1,0 +1,32 @@
+- cities:
+  - {name: ''}
+  - {name: Chaudron}
+  - {name: Cilaos}
+  - {name: Entre-deux}
+  - {name: La Montagne}
+  - {name: La Plaine Des Cafres}
+  - {name: La Possession}
+  - {name: La Rivi}
+  - {name: La Saline}
+  - {name: Le Guillaume}
+  - {name: Le Port}
+  - {name: Le Tampon}
+  - {name: Les Avirons}
+  - {name: Les Trois-bassins}
+  - {name: Piton}
+  - {name: Plate}
+  - {name: Saint Gilles}
+  - {name: Saint-andr}
+  - {name: Saint-beno}
+  - {name: Saint-denis}
+  - {name: Saint-leu}
+  - {name: Saint-louis}
+  - {name: Saint-paul}
+  - {name: Saint-pierre}
+  - {name: Sainte-clotilde}
+  - {name: Sainte-marie}
+  - {name: Sainte-suzanne}
+  - {name: Salazie}
+  - {name: Saline}
+  code: '00'
+  name: ''

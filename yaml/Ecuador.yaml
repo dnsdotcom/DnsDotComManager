@@ -1,0 +1,91 @@
+- cities:
+  - {name: Compa}
+  - {name: Cuenca}
+  code: '02'
+  name: Azuay
+- cities:
+  - {name: Guaranda}
+  code: '03'
+  name: Bolivar
+- cities:
+  - {name: Azogues}
+  - {name: Azoguez}
+  code: '04'
+  name: Canar
+- cities:
+  - {name: Riobamba}
+  code: '06'
+  name: Chimborazo
+- cities:
+  - {name: Latacunga}
+  code: '07'
+  name: Cotopaxi
+- cities:
+  - {name: Machala}
+  code: 08
+  name: El Oro
+- cities:
+  - {name: Esmeraldas}
+  - {name: Rosa Z}
+  code: 09
+  name: Esmeraldas
+- cities:
+  - {name: Progreso}
+  - {name: Puerto Baquerizo Moreno}
+  code: '01'
+  name: Galapagos
+- cities:
+  - {name: Balao}
+  - {name: El Carmen}
+  - {name: Guayaquil}
+  - {name: Guayas}
+  - {name: La Libertad}
+  - {name: Milagro}
+  - {name: Salinas}
+  - {name: Samborond}
+  code: '10'
+  name: Guayas
+- cities:
+  - {name: Gal}
+  - {name: Ibarra}
+  - {name: Otavalo}
+  code: '11'
+  name: Imbabura
+- cities:
+  - {name: Loja}
+  code: '12'
+  name: Loja
+- cities:
+  - {name: Babahoyo}
+  - {name: Quevedo}
+  - {name: Vinces}
+  code: '13'
+  name: Los Rios
+- cities:
+  - {name: Bah}
+  - {name: Chone}
+  - {name: Manta}
+  - {name: Paj}
+  - {name: Portoviejo}
+  code: '14'
+  name: Manabi
+- cities:
+  - {name: Pichincha}
+  code: '17'
+  name: Pastaza
+- cities:
+  - {name: Amagua}
+  - {name: Cayambe}
+  - {name: Quito}
+  - {name: Sangolqu}
+  - {name: Santo Domingo}
+  code: '18'
+  name: Pichincha
+- cities:
+  - {name: Nueva Loja}
+  code: '22'
+  name: Sucumbios
+- cities:
+  - {name: Ambato}
+  code: '19'
+  name: Tungurahua

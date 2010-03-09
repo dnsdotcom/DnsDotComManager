@@ -1,0 +1,17 @@
+- cities:
+  - {name: Maun}
+  code: '11'
+  name: ''
+- cities:
+  - {name: Orapa}
+  code: '00'
+  name: ''
+- cities:
+  - {name: Francistown}
+  - {name: Selebi}
+  code: 08
+  name: North-East
+- cities:
+  - {name: Gaborone}
+  code: 09
+  name: South-East

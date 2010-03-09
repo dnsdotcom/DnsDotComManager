@@ -1,0 +1,12 @@
+- cities:
+  - {name: Niamey}
+  code: 08
+  name: ''
+- cities:
+  - {name: Maradi}
+  code: '04'
+  name: Maradi
+- cities:
+  - {name: Kaba}
+  code: '07'
+  name: Zinder

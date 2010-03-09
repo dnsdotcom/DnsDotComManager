@@ -1,0 +1,66 @@
+- cities:
+  - {name: Salam}
+  code: '02'
+  name: Al Bahah
+- cities:
+  - {name: L}
+  code: '15'
+  name: Al Hudud ash Shamaliyah
+- cities:
+  - {name: Tabouk}
+  - {name: Tabuk}
+  code: '20'
+  name: Al Jawf
+- cities:
+  - {name: Hamra}
+  - {name: Hasa}
+  - {name: Yanbu Al Sinaiyah}
+  code: '05'
+  name: Al Madinah
+- cities:
+  - {name: Al Jazirah}
+  - {name: Jarir}
+  - {name: Riyad}
+  - {name: Riyadh}
+  - {name: Yamama}
+  - {name: Yamamah}
+  code: '10'
+  name: Ar Riyad
+- cities:
+  - {name: Al Hufuf}
+  - {name: Al Khobar}
+  - {name: Al-jubail}
+  - {name: Dammam}
+  - {name: Damman}
+  - {name: Dhahran}
+  - {name: Hofuf}
+  - {name: Jubail}
+  - {name: Khobar}
+  - {name: Qatif}
+  - {name: Ras Tanura}
+  - {name: Safwah}
+  - {name: Sayhat}
+  - {name: Zahran}
+  code: '06'
+  name: Ash Sharqiyah
+- cities:
+  - {name: Abha}
+  - {name: Jazira}
+  - {name: Jazirah}
+  - {name: Rayyan}
+  code: '17'
+  name: Jizan
+- cities:
+  - {name: Bisha}
+  - {name: Doka}
+  - {name: Game}
+  - {name: Jeddah}
+  - {name: Jiddah}
+  - {name: Khurmah}
+  - {name: Makkah}
+  - {name: Mecca}
+  - {name: Rabigh}
+  - {name: Ruwais}
+  - {name: Taif}
+  code: '14'
+  name: Makkah

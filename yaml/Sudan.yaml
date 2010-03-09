@@ -1,0 +1,8 @@
+- cities:
+  - {name: Malakal}
+  code: '35'
+  name: ''
+- cities:
+  - {name: Khartoum}
+  code: '29'
+  name: Al Khartum

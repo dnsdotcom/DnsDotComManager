@@ -1,0 +1,4 @@
+- cities:
+  - {name: Kingstown}
+  code: '04'
+  name: Saint George

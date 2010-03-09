@@ -1,0 +1,38 @@
+- cities:
+  - {name: Nyeri}
+  - {name: Thika}
+  code: '01'
+  name: Central
+- cities:
+  - {name: Malindi}
+  - {name: Mombasa}
+  code: '02'
+  name: Coast
+- cities:
+  - {name: Athi River}
+  - {name: Machakos}
+  - {name: Meru}
+  code: '03'
+  name: Eastern
+- cities:
+  - {name: Nairobi}
+  code: '05'
+  name: Nairobi Area
+- cities:
+  - {name: Kisii}
+  - {name: Kisumu}
+  - {name: Mbita}
+  code: '07'
+  name: Nyanza
+- cities:
+  - {name: Eldoret}
+  - {name: Kericho}
+  - {name: Nakuru}
+  - {name: Nanyuki}
+  - {name: Narok}
+  code: 08
+  name: Rift Valley
+- cities:
+  - {name: Mumias}
+  code: 09
+  name: Western

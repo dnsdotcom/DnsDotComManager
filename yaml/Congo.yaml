@@ -1,0 +1,12 @@
+- cities:
+  - {name: Brazzaville}
+  code: '12'
+  name: Brazzaville
+- cities:
+  - {name: Pointe-noire}
+  code: '04'
+  name: Kouilou
+- cities:
+  - {name: Pointe Noire}
+  code: '10'
+  name: Sangha

@@ -1,0 +1,34 @@
+- cities:
+  - {name: Andijan}
+  - {name: Andizhan}
+  code: '01'
+  name: Andijon
+- cities:
+  - {name: Salikhodzha}
+  code: '02'
+  name: Bukhoro
+- cities:
+  - {name: Kokand}
+  code: '03'
+  name: Farghona
+- cities:
+  - {name: Navoi}
+  code: '07'
+  name: Nawoiy
+- cities:
+  - {name: Karshi}
+  - {name: Shakhrisabz}
+  code: 08
+  name: Qashqadaryo
+- cities:
+  - {name: Samarkand}
+  code: '10'
+  name: Samarqand
+- cities:
+  - {name: Tashkent}
+  code: '13'
+  name: Toshkent
+- cities:
+  - {name: Soldatskiy}
+  code: '14'
+  name: Toshkent

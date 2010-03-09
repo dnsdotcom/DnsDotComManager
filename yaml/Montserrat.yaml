@@ -1,0 +1,8 @@
+- cities:
+  - {name: Plymouth}
+  code: '01'
+  name: Saint Anthony
+- cities:
+  - {name: Salem}
+  code: '03'
+  name: Saint Peter

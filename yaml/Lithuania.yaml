@@ -1,0 +1,166 @@
+- cities:
+  - {name: Akmene}
+  - {name: Akmenes}
+  - {name: Naujoji Akmene}
+  code: '40'
+  name: ''
+- cities:
+  - {name: Alytaus}
+  - {name: Alytus}
+  - {name: Birstonas}
+  - {name: Druskininkai}
+  - {name: Jieznas}
+  - {name: Skleriai}
+  - {name: Varena}
+  code: '56'
+  name: Alytaus Apskritis
+- cities:
+  - {name: Antakalnio}
+  - {name: Bubiai}
+  - {name: Domeikava}
+  - {name: Ezerelis}
+  - {name: Garliava}
+  - {name: Jonava}
+  - {name: Kaisiadorys}
+  - {name: Kaunas}
+  - {name: Kauno}
+  - {name: Kruonis}
+  - {name: Kulautuva}
+  - {name: Kuras}
+  - {name: Lekeciai}
+  - {name: Pravieniskes}
+  - {name: Prienai}
+  - {name: Rumsiskes}
+  - {name: Vilkija}
+  - {name: Ziezmariai}
+  code: '57'
+  name: Kauno Apskritis
+- cities:
+  - {name: Dovilai}
+  - {name: Gargzdai}
+  - {name: Klaipeda}
+  - {name: Kretinga}
+  - {name: Kretingale}
+  - {name: Kretingos}
+  - {name: Palanga}
+  - {name: Pamarys}
+  - {name: Priekule}
+  - {name: Silute}
+  code: '58'
+  name: Klaipedos Apskritis
+- cities:
+  - {name: Aukstoji}
+  - {name: Kalvarija}
+  - {name: Kalvarijos}
+  - {name: Kazlu Ruda}
+  - {name: Lazdijai}
+  - {name: Marijampole}
+  - {name: Raudondvaris}
+  - {name: Sakiai}
+  - {name: Vilkaviskis}
+  - {name: Ziniu}
+  code: '59'
+  name: Marijampoles Apskritis
+- cities:
+  - {name: Anyksciai}
+  - {name: Birzai}
+  - {name: Birzu}
+  - {name: Dotnuva}
+  - {name: Dukstas}
+  - {name: Giedraiciu}
+  - {name: Josvainiai}
+  - {name: Kavarskas}
+  - {name: Kedainiai}
+  - {name: Kedainiu}
+  - {name: Kupiskio}
+  - {name: Kupiskis}
+  - {name: Medininkai}
+  - {name: Obeliai}
+  - {name: Pagiriu}
+  - {name: Pandelys}
+  - {name: Panevezio}
+  - {name: Panevezys}
+  - {name: Pasvalio}
+  - {name: Pasvalys}
+  - {name: Radviliskio}
+  - {name: Rokiskis}
+  - {name: Ruta}
+  - {name: Sirvintos}
+  - {name: Subacius}
+  - {name: Svencionys}
+  - {name: Ukmerge}
+  - {name: Uzupis}
+  - {name: Vabalninkas}
+  - {name: Velzys}
+  - {name: Vertimai}
+  - {name: Visaginas}
+  - {name: Zarasai}
+  code: '60'
+  name: Panevezio Apskritis
+- cities:
+  - {name: Joniskis}
+  - {name: Kelme}
+  - {name: Kelmes}
+  - {name: Kursenai}
+  - {name: Medininku}
+  - {name: Pakruojis}
+  - {name: Pakumulsiai}
+  - {name: Radviliskis}
+  - {name: Raseiniai}
+  - {name: Rekyva}
+  - {name: Siauliai}
+  - {name: Zagare}
+  code: '61'
+  name: Siauliu Apskritis
+- cities:
+  - {name: Gelgaudiskis}
+  - {name: Jurbarkas}
+  - {name: Jurbarko}
+  - {name: Mastaiciai}
+  - {name: Pagegiai}
+  - {name: Silale}
+  - {name: Stone}
+  - {name: Taurage}
+  - {name: Taurages}
+  - {name: Vingininkai}
+  - {name: Zemaiciu Naumiestis}
+  code: '62'
+  name: Taurages Apskritis
+- cities:
+  - {name: Mazeikiai}
+  - {name: Mazeikiu}
+  - {name: Plunge}
+  - {name: Plunges}
+  - {name: Rietavo}
+  - {name: Skuodas}
+  - {name: Telsiai}
+  - {name: Varniai}
+  code: '63'
+  name: Telsiu Apskritis
+- cities:
+  - {name: Ignalina}
+  - {name: Moletai}
+  - {name: Svencioneliai}
+  - {name: Utena}
+  - {name: Utenos}
+  code: '64'
+  name: Utenos Apskritis
+- cities:
+  - {name: Dieveniskes}
+  - {name: Dubingiai}
+  - {name: Elektrenai}
+  - {name: Grigiskes}
+  - {name: Lentvaris}
+  - {name: Maisiagala}
+  - {name: Pabrade}
+  - {name: Piliakalnis}
+  - {name: Salcininkai}
+  - {name: Salininkai}
+  - {name: Tiltai}
+  - {name: Trakai}
+  - {name: Vievis}
+  - {name: Vilnius}
+  - {name: Voke}
+  - {name: Zujunai}
+  code: '65'
+  name: Vilniaus Apskritis

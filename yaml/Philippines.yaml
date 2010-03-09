@@ -1,0 +1,1363 @@
+- cities:
+  - {name: A Bonifacio}
+  - {name: Atipuluan}
+  - {name: Calapi}
+  - {name: Dulao}
+  - {name: Gomez}
+  - {name: Himaya}
+  - {name: Luna}
+  - {name: Manalad}
+  - {name: Miranda}
+  - {name: Moreno}
+  - {name: Pacita}
+  - {name: Paraiso}
+  - {name: Talubangi}
+  code: '45'
+  name: ''
+- cities:
+  - {name: Agas}
+  - {name: Arab}
+  - {name: Balais}
+  - {name: Mateo}
+  - {name: Toon}
+  - {name: Velasco}
+  - {name: West}
+  code: '01'
+  name: Abra
+- cities:
+  - {name: Aclan}
+  - {name: Magallanes}
+  code: '02'
+  name: Agusan del Norte
+- cities:
+  - {name: Bataan}
+  - {name: Cuevas}
+  - {name: Esperanza}
+  - {name: Gracia}
+  - {name: Johnson}
+  - {name: Libertad}
+  - {name: Loreto}
+  - {name: Martires}
+  - {name: Pagatpatan}
+  - {name: San Luis}
+  code: '03'
+  name: Agusan del Sur
+- cities:
+  - {name: Aquino}
+  - {name: Aranas}
+  - {name: Batan}
+  - {name: Feliciano}
+  - {name: Jimeno}
+  - {name: Kalibo}
+  - {name: Morales}
+  - {name: Rivera}
+  - {name: Rosal}
+  - {name: Usman}
+  code: '04'
+  name: Aklan
+- cities:
+  - {name: Abella}
+  - {name: Bagumbayan}
+  - {name: Banag}
+  - {name: Bonon}
+  - {name: Cale}
+  - {name: Gaba}
+  - {name: Herrera}
+  - {name: Locsin}
+  - {name: Saban}
+  - {name: San Rafael}
+  - {name: Sugcad}
+  code: '05'
+  name: Albay
+- cities:
+  - {name: Angeles}
+  - {name: Mining}
+  code: A1
+  name: Angeles
+- cities:
+  - {name: Aguila}
+  - {name: Esparagoza}
+  - {name: Malaca}
+  - {name: Martinez}
+  - {name: Salazar}
+  - {name: Salde}
+  - {name: Valderrama}
+  - {name: Virginia}
+  code: '06'
+  name: Antique
+- cities:
+  - {name: Marikit}
+  - {name: Mijares}
+  code: G8
+  name: Aurora
+- cities:
+  - {name: Bacolod}
+  code: A2
+  name: Bacolod
+- cities:
+  - {name: Bago}
+  code: A3
+  name: Bago
+- cities:
+  - {name: Baguio}
+  - {name: Tuba}
+  code: A4
+  name: Baguio
+- cities:
+  - {name: Coco}
+  - {name: Isabela}
+  - {name: Mangal}
+  - {name: Visaya}
+  code: '22'
+  name: Basilan
+- cities:
+  - {name: Balanga}
+  - {name: Balut}
+  - {name: Daan}
+  - {name: Limay}
+  - {name: Marilao}
+  - {name: Mariveles}
+  - {name: Orion}
+  - {name: Pilar}
+  - {name: Prado}
+  - {name: San Benito}
+  code: '07'
+  name: Bataan
+- cities:
+  - {name: Basco}
+  code: 08
+  name: Batanes
+- cities:
+  - {name: Ambulong}
+  - {name: Asis}
+  - {name: Balibago}
+  - {name: Banilad}
+  - {name: Bolo}
+  - {name: Calatagan}
+  - {name: Caysasay}
+  - {name: Conde}
+  - {name: Cuenca}
+  - {name: Emmanuel}
+  - {name: Laurel}
+  - {name: Lian}
+  - {name: Lobo}
+  - {name: Malvar}
+  - {name: Palanca}
+  - {name: Pantay}
+  - {name: San Diego}
+  - {name: San Juan}
+  - {name: Santor}
+  - {name: Subic}
+  code: 09
+  name: Batangas
+- cities:
+  - {name: Batangas}
+  code: A7
+  name: Batangas City
+- cities:
+  - {name: Ambuklao}
+  - {name: Bayabas}
+  - {name: Bunagan}
+  - {name: Dalupirip}
+  - {name: La Trinidad}
+  - {name: Nangalisan}
+  - {name: Philippine}
+  code: '10'
+  name: Benguet
+- cities:
+  - {name: Adlawan}
+  - {name: Agustin}
+  - {name: Balao}
+  - {name: Borja}
+  - {name: Faraon}
+  - {name: Garcia}
+  - {name: Sevilla}
+  - {name: Tejero}
+  - {name: Trinidad}
+  - {name: Villafuerte}
+  code: '11'
+  name: Bohol
+- cities:
+  - {name: Cosina}
+  - {name: Malaybalay}
+  - {name: Sampiano}
+  - {name: San Luis}
+  code: '12'
+  name: Bukidnon
+- cities:
+  - {name: Bagong Barrio}
+  - {name: Balagtas}
+  - {name: Baliuag}
+  - {name: Barasoain}
+  - {name: Bocaue}
+  - {name: Calumpit}
+  - {name: Dalandanan}
+  - {name: Diliman}
+  - {name: Frances}
+  - {name: Guiguinto}
+  - {name: Hagonoy}
+  - {name: Maguinao}
+  - {name: Malolos}
+  - {name: Masalipit}
+  - {name: Meycauayan}
+  - {name: Nabung}
+  - {name: Obando}
+  - {name: Pandi}
+  - {name: Pantubig}
+  - {name: Paombong}
+  - {name: Pulilan}
+  - {name: Pulo}
+  - {name: San Jose Del Monte}
+  - {name: San Miguel}
+  - {name: Vizal Santo Ni}
+  code: '13'
+  name: Bulacan
+- cities:
+  - {name: Butuan}
+  code: A8
+  name: Butuan
+- cities:
+  - {name: Cabanatuan}
+  - {name: Miller}
+  code: A9
+  name: Cabanatuan
+- cities:
+  - {name: Cabahug}
+  - {name: Cadiz}
+  code: B1
+  name: Cadiz
+- cities:
+  - {name: Balisi}
+  - {name: Claveria}
+  - {name: Divisoria}
+  - {name: Enrile}
+  - {name: Gonzaga}
+  - {name: Marco}
+  - {name: Mesa}
+  - {name: Pares}
+  - {name: Plaza}
+  - {name: Portugal}
+  - {name: Punta}
+  - {name: Santos}
+  - {name: Tagao}
+  - {name: Tallungan}
+  - {name: Tamura}
+  - {name: Tuguegarao}
+  code: '14'
+  name: Cagayan
+- cities:
+  - {name: Bugo}
+  - {name: Cagayan De Oro}
+  code: B2
+  name: Cagayan de Oro
+- cities:
+  - {name: Caballero}
+  - {name: Calbayog}
+  - {name: Navarro}
+  - {name: Occidental}
+  - {name: Pe}
+  - {name: Rosales}
+  code: B3
+  name: Calbayog
+- cities:
+  - {name: Baesa}
+  - {name: Caloocan}
+  - {name: Flores}
+  - {name: Kaybiga}
+  - {name: Tanza}
+  code: B4
+  name: Caloocan
+- cities:
+  - {name: Cagas}
+  - {name: Daet}
+  - {name: Langga}
+  - {name: Mercedes}
+  code: '15'
+  name: Camarines Norte
+- cities:
+  - {name: Bagadion}
+  - {name: Bato}
+  - {name: Bugna}
+  - {name: Castillo}
+  - {name: Hibaya}
+  - {name: Ibig}
+  - {name: Lourdes}
+  - {name: Miguel}
+  - {name: Ocampo}
+  - {name: Panagan}
+  - {name: Pili}
+  - {name: San Lucas}
+  - {name: Tara}
+  code: '16'
+  name: Camarines Sur
+- cities:
+  - {name: Alga}
+  code: '17'
+  name: Camiguin
+- cities:
+  - {name: Canlaon}
+  code: B5
+  name: Canlaon
+- cities:
+  - {name: Bula}
+  - {name: Candelaria}
+  - {name: Consolacion}
+  - {name: Cristina}
+  - {name: Damayan}
+  - {name: Fernandez}
+  - {name: Ganzon}
+  - {name: Guia}
+  - {name: Milan}
+  - {name: Rivero}
+  - {name: Sigma}
+  - {name: Talon}
+  code: '18'
+  name: Capiz
+- cities:
+  - {name: Virac}
+  code: '19'
+  name: Catanduanes
+- cities:
+  - {name: Alfonso}
+  - {name: Aniban}
+  - {name: Bacoor}
+  - {name: Boni}
+  - {name: Bulihan}
+  - {name: Carmona}
+  - {name: Dasmari}
+  - {name: Imus}
+  - {name: Kanluran}
+  - {name: Kawit}
+  - {name: Lumil}
+  - {name: Manggahan}
+  - {name: Mendez}
+  - {name: Pacheco}
+  - {name: Ramirez}
+  - {name: Santa Rosa}
+  - {name: Silang}
+  - {name: Tabora}
+  code: '20'
+  name: Cavite
+- cities:
+  - {name: Cavite}
+  code: B6
+  name: Cavite City
+- cities:
+  - {name: Alcantara}
+  - {name: Bala}
+  - {name: Bitoon}
+  - {name: Bogo}
+  - {name: Bohol}
+  - {name: Caceres}
+  - {name: Carmen}
+  - {name: Catmon}
+  - {name: Centro}
+  - {name: Cerde}
+  - {name: Clara}
+  - {name: Colon}
+  - {name: Consuelo}
+  - {name: Cubacub}
+  - {name: Cueva}
+  - {name: Fortaleza}
+  - {name: Fuente}
+  - {name: General}
+  - {name: Guadalupe}
+  - {name: Hernandez}
+  - {name: Lepanto}
+  - {name: Louis}
+  - {name: Lugo}
+  - {name: Lupa}
+  - {name: Manatad}
+  - {name: Maravilla}
+  - {name: Media}
+  - {name: Mindanao}
+  - {name: Minglanilla}
+  - {name: Pajo}
+  - {name: Paknaan}
+  - {name: Palawan}
+  - {name: Patag}
+  - {name: Poro}
+  - {name: Saavedra}
+  - {name: Sansan}
+  - {name: Sili}
+  - {name: Talisay}
+  - {name: Tuble}
+  - {name: Union}
+  - {name: Ylaya}
+  - {name: Zaragosa}
+  code: '21'
+  name: Cebu
+- cities:
+  - {name: Cebu}
+  - {name: Laguna}
+  - {name: Lahug}
+  - {name: Mabolo}
+  - {name: Talamban}
+  - {name: Tupas}
+  - {name: Waterfront}
+  code: B7
+  name: Cebu City
+- cities:
+  - {name: Cotabato}
+  code: B8
+  name: Cotabato
+- cities:
+  - {name: Dagupan City}
+  code: B9
+  name: Dagupan
+- cities:
+  - {name: Danao}
+  code: C1
+  name: Danao
+- cities:
+  - {name: Felix}
+  - {name: Florida}
+  - {name: La Filipina}
+  - {name: Olayon}
+  - {name: Pag-asa}
+  - {name: Panabo}
+  - {name: Paradise}
+  - {name: Salvacion}
+  - {name: Saranggani}
+  - {name: Tagum}
+  code: '24'
+  name: Davao
+- cities:
+  - {name: Biao}
+  - {name: Davao}
+  - {name: Lacson}
+  - {name: Ma-a}
+  - {name: Manuel}
+  - {name: Pampanga}
+  - {name: Tugbok}
+  - {name: Ventura}
+  code: C3
+  name: Davao City
+- cities:
+  - {name: Baclayon}
+  - {name: Bulacan}
+  - {name: Central}
+  - {name: Digos}
+  - {name: Jose Abad Santos}
+  - {name: Magsaysay}
+  - {name: Sarangani}
+  - {name: Wines}
+  code: '25'
+  name: Davao del Sur
+- cities:
+  - {name: La Union}
+  - {name: Luzon}
+  - {name: Mayo}
+  - {name: San Ignacio}
+  - {name: Tipdas}
+  code: '26'
+  name: Davao Oriental
+- cities:
+  - {name: Dipolog}
+  code: C4
+  name: Dipolog
+- cities:
+  - {name: Dumaguete}
+  code: C5
+  name: Dumaguete
+- cities:
+  - {name: Ando}
+  - {name: Barbo}
+  - {name: Dolores}
+  - {name: Japay}
+  - {name: Llorente}
+  - {name: Policarpio}
+  - {name: Salanga}
+  - {name: Taft}
+  - {name: Tagalag}
+  - {name: Ungay}
+  code: '23'
+  name: Eastern Samar
+- cities:
+  - {name: Dadiangas}
+  - {name: General Santos}
+  - {name: General Santos City}
+  - {name: Tambler}
+  code: C6
+  name: General Santos
+- cities:
+  - {name: Mariano}
+  code: C7
+  name: Gingoog
+- cities:
+  - {name: Baguinge}
+  - {name: Gate}
+  - {name: Joya}
+  code: '27'
+  name: Ifugao
+- cities:
+  - {name: Iligan}
+  code: C8
+  name: Iligan
+- cities:
+  - {name: Adam}
+  - {name: Batac}
+  - {name: Espiritu}
+  - {name: Gabo}
+  - {name: Lazo}
+  - {name: Manarang}
+  - {name: Marcos}
+  - {name: Monte}
+  - {name: Pacis}
+  - {name: Pinili}
+  - {name: San Nicolas}
+  - {name: Torre}
+  - {name: Veronica}
+  code: '28'
+  name: Ilocos Norte
+- cities:
+  - {name: Ancheta}
+  - {name: Bantay}
+  - {name: Calongbuyan}
+  - {name: Cerna}
+  - {name: Cervantes}
+  - {name: Kiat}
+  - {name: Magno}
+  - {name: Mission}
+  - {name: Montero}
+  - {name: Narvacan}
+  - {name: Orence}
+  - {name: Orense}
+  - {name: Paras}
+  - {name: Rubio}
+  - {name: Santa}
+  - {name: Sinait}
+  - {name: Suyo}
+  - {name: Tamag}
+  - {name: Vigan}
+  code: '29'
+  name: Ilocos Sur
+- cities:
+  - {name: Advincula}
+  - {name: Aganan}
+  - {name: Alipato}
+  - {name: Alman}
+  - {name: Avila}
+  - {name: Bacan}
+  - {name: Bayan}
+  - {name: Bondoc}
+  - {name: California}
+  - {name: Camia}
+  - {name: Concordia}
+  - {name: Damasco}
+  - {name: Dionisio}
+  - {name: Domingo}
+  - {name: Ermita}
+  - {name: Fuentes}
+  - {name: Gines}
+  - {name: Granada}
+  - {name: Jalaud}
+  - {name: Jordan}
+  - {name: Lauigan}
+  - {name: Leon}
+  - {name: Maasin}
+  - {name: Mina}
+  - {name: Molina}
+  - {name: Nino}
+  - {name: Pangilinan}
+  - {name: Passi}
+  - {name: Ravena}
+  - {name: Ravina}
+  - {name: Roma}
+  - {name: San Dionisio}
+  - {name: Sara}
+  - {name: Summit}
+  - {name: Tupaz}
+  code: '30'
+  name: Iloilo
+- cities:
+  - {name: Alegre}
+  - {name: Iloilo}
+  code: C9
+  name: Iloilo City
+- cities:
+  - {name: Iriga}
+  code: D1
+  name: Iriga
+- cities:
+  - {name: Andrade}
+  - {name: Australia}
+  - {name: Ilagan}
+  - {name: Jones}
+  - {name: Magat}
+  - {name: Magdalena}
+  - {name: Mu}
+  - {name: Planan}
+  - {name: Quirino}
+  - {name: Ramon}
+  - {name: Santiago}
+  - {name: Tapay}
+  code: '31'
+  name: Isabela
+- cities:
+  - {name: Abel}
+  - {name: Asset}
+  - {name: Bulalayao}
+  - {name: Flora}
+  - {name: Tabuk}
+  code: '32'
+  name: Kalinga-Apayao
+- cities:
+  - {name: La Carlota}
+  code: D2
+  name: La Carlota
+- cities:
+  - {name: Acao}
+  - {name: Bacnotan}
+  - {name: Barrientos}
+  - {name: Biday}
+  - {name: Bulala}
+  - {name: Carlatan}
+  - {name: Castro}
+  - {name: Francia}
+  - {name: Gana}
+  - {name: Gonzales}
+  - {name: Naguilian}
+  - {name: Ortega}
+  - {name: Pagdalagan Norte}
+  code: '36'
+  name: La Union
+- cities:
+  - {name: Banco}
+  - {name: Bay}
+  - {name: Bin}
+  - {name: Cabuyao}
+  - {name: Calamba}
+  - {name: Calauan}
+  - {name: Camagong}
+  - {name: Canlubang}
+  - {name: College}
+  - {name: Corazon}
+  - {name: Diezmo}
+  - {name: Don Jose}
+  - {name: Forestry}
+  - {name: Kaingin}
+  - {name: Kalayaan}
+  - {name: Los Ba}
+  - {name: Lumban}
+  - {name: Magdalena}
+  - {name: Majada}
+  - {name: Nagcarlan}
+  - {name: Novaliches}
+  - {name: Nueva}
+  - {name: Pagsanjan}
+  - {name: Pakil}
+  - {name: Perlas}
+  - {name: Poblacion}
+  - {name: Pulong}
+  - {name: Sampaguita}
+  - {name: San Andres}
+  - {name: San Buenaventura}
+  - {name: San Gregorio}
+  - {name: San Pedro}
+  - {name: Santa Cruz}
+  - {name: Santa Rosa}
+  - {name: Tagapo}
+  - {name: Victoria}
+  code: '33'
+  name: Laguna
+- cities:
+  - {name: Cagayan}
+  - {name: Kalanganan}
+  - {name: Madaya}
+  - {name: Princesa}
+  - {name: Salvador}
+  code: '34'
+  name: Lanao del Norte
+- cities:
+  - {name: Bicong}
+  - {name: Malalis}
+  - {name: Raya}
+  code: '35'
+  name: Lanao del Sur
+- cities:
+  - {name: Laoag}
+  code: D3
+  name: Laoag
+- cities:
+  - {name: Lapu-lapu}
+  - {name: Pusok}
+  code: D4
+  name: Lapu-Lapu
+- cities:
+  - {name: Balasbas}
+  - {name: Legaspi}
+  - {name: Legazpi}
+  code: D5
+  name: Legaspi
+- cities:
+  - {name: America}
+  - {name: Belen}
+  - {name: Capiz}
+  - {name: Casa}
+  - {name: Cebuana}
+  - {name: Coronado}
+  - {name: Javier}
+  - {name: Kabayan}
+  - {name: La Paz}
+  - {name: Leyte}
+  - {name: Liberty}
+  - {name: Luneta}
+  - {name: Mag-aso}
+  - {name: Manok}
+  - {name: Mercado}
+  - {name: Naval}
+  - {name: Palo}
+  - {name: Pilapil}
+  - {name: Ponce}
+  - {name: Santo}
+  - {name: Tanauan}
+  - {name: Toyo}
+  - {name: Villalon}
+  - {name: Zabala}
+  code: '37'
+  name: Leyte
+- cities:
+  - {name: Lipa}
+  - {name: Malabanan}
+  - {name: Rizal}
+  code: D6
+  name: Lipa
+- cities:
+  - {name: Lucena}
+  code: D7
+  name: Lucena
+- cities:
+  - {name: Bong}
+  - {name: Layog}
+  - {name: Ling}
+  - {name: Mangay}
+  - {name: Mata}
+  - {name: Mate}
+  - {name: Parang}
+  - {name: Pasi}
+  - {name: Sultan Kudarat}
+  code: '56'
+  name: Maguindanao
+- cities:
+  - {name: Mandaue}
+  - {name: Mandawe}
+  code: D8
+  name: Mandaue
+- cities:
+  - {name: Binondo}
+  - {name: Malate}
+  - {name: Manila}
+  - {name: Port Area}
+  - {name: Quiapo}
+  code: D9
+  name: Manila
+- cities:
+  - {name: Marawi}
+  code: E1
+  name: Marawi
+- cities:
+  - {name: Argao}
+  - {name: Lupac}
+  - {name: Silangan}
+  code: '38'
+  name: Marinduque
+- cities:
+  - {name: Balatucan}
+  - {name: Benguet}
+  - {name: Crossing}
+  - {name: Interior}
+  - {name: Laurente}
+  - {name: Mactan}
+  - {name: Malinta}
+  - {name: Masbate}
+  - {name: Rojas}
+  - {name: Roosevelt}
+  - {name: Taberna}
+  code: '39'
+  name: Masbate
+- cities:
+  - {name: Banos}
+  - {name: Harrison}
+  - {name: Libis}
+  - {name: Mason}
+  - {name: San Agustin}
+  - {name: Tangon}
+  code: '40'
+  name: Mindoro Occidental
+- cities:
+  - {name: Chicago}
+  - {name: Evangelista}
+  - {name: Gamboa}
+  - {name: Gloria}
+  - {name: Kalinisan}
+  - {name: Malamig}
+  - {name: Salcedo}
+  code: '41'
+  name: Mindoro Oriental
+- cities:
+  - {name: Bonifacio}
+  - {name: Jimenez}
+  - {name: Misamis}
+  - {name: Pines}
+  - {name: Quijano}
+  - {name: Villaflor}
+  code: '42'
+  name: Misamis Occidental
+- cities:
+  - {name: Andales}
+  - {name: Jasaan}
+  - {name: Mapua}
+  - {name: Medina}
+  - {name: San Martin}
+  - {name: Villanueva}
+  code: '43'
+  name: Misamis Oriental
+- cities:
+  - {name: Villarosa}
+  code: '44'
+  name: Mountain
+- cities:
+  - {name: Carolina}
+  - {name: Naga}
+  code: E2
+  name: Naga
+- cities:
+  - {name: Asia}
+  - {name: Binalbagan}
+  - {name: Bukidnon}
+  - {name: Calampisawan}
+  - {name: Himamaylan}
+  - {name: Ilog}
+  - {name: Kabankalan}
+  - {name: Lilia}
+  - {name: Lopez Jaena}
+  - {name: Makiling}
+  - {name: Maquiling}
+  - {name: Plaridel}
+  - {name: Sagay}
+  - {name: Toboso}
+  - {name: Vito}
+  code: H3
+  name: Negros Occidental
+- cities:
+  - {name: Alum}
+  - {name: Azagra}
+  - {name: Bayawan}
+  - {name: Davin}
+  - {name: Pamplona}
+  - {name: Polo}
+  - {name: Tambo}
+  - {name: Tanjay}
+  - {name: Villegas}
+  - {name: Wood}
+  code: '46'
+  name: Negros Oriental
+- cities:
+  - {name: Bialong}
+  - {name: Kabacan}
+  - {name: Kidapawan}
+  - {name: Lang}
+  - {name: Linao}
+  - {name: Magpet}
+  - {name: Malasila}
+  - {name: Saguing}
+  code: '57'
+  name: North Cotabato
+- cities:
+  - {name: Allen}
+  - {name: Bagong}
+  - {name: Cauayan}
+  - {name: Mckinley}
+  - {name: Paco}
+  - {name: Polangui}
+  - {name: San Roque}
+  - {name: Taylor}
+  - {name: Trujillo}
+  - {name: Villa}
+  - {name: Washington}
+  code: '67'
+  name: Northern Samar
+- cities:
+  - {name: Baloy}
+  - {name: Burgos}
+  - {name: Castellano}
+  - {name: Conversion}
+  - {name: Do}
+  - {name: Estrella}
+  - {name: Gabaldon}
+  - {name: Gapan}
+  - {name: Jaen}
+  - {name: Mabini}
+  - {name: Maligaya}
+  - {name: Mallorca}
+  - {name: Mangga}
+  - {name: Mapalad}
+  - {name: Parilla}
+  - {name: Pinto}
+  - {name: Portal}
+  - {name: Quezon}
+  - {name: Rizal}
+  - {name: San Antonio}
+  - {name: San Francisco}
+  - {name: San Isidro}
+  - {name: San Jose}
+  - {name: Santa Lucia}
+  - {name: Soledad}
+  - {name: Valle}
+  code: '47'
+  name: Nueva Ecija
+- cities:
+  - {name: Bambang}
+  - {name: Panao}
+  - {name: Salinas}
+  - {name: Solano}
+  code: '48'
+  name: Nueva Vizcaya
+- cities:
+  - {name: Olongapo}
+  code: E3
+  name: Olongapo
+- cities:
+  - {name: Ormoc}
+  - {name: Panama}
+  - {name: Valencia}
+  code: E4
+  name: Ormoc
+- cities:
+  - {name: Oroquieta}
+  code: E5
+  name: Oroquieta
+- cities:
+  - {name: Ozamis}
+  - {name: Ozamis City}
+  - {name: Ozamiz}
+  code: E6
+  name: Ozamis
+- cities:
+  - {name: Pagadian}
+  code: E7
+  name: Pagadian
+- cities:
+  - {name: Alcoba}
+  - {name: Banda}
+  - {name: Coral}
+  - {name: Narra}
+  - {name: Osme}
+  - {name: Tabon}
+  code: '49'
+  name: Palawan
+- cities:
+  - {name: Acli}
+  - {name: Anao}
+  - {name: Apalit}
+  - {name: Arenas}
+  - {name: Batasang}
+  - {name: Candating}
+  - {name: Clark}
+  - {name: Cruz}
+  - {name: Del Pilar}
+  - {name: Floridablanca}
+  - {name: Guagua}
+  - {name: Lanang}
+  - {name: Laput}
+  - {name: Lara}
+  - {name: Mabalacat}
+  - {name: Malusac}
+  - {name: Mapaniqui}
+  - {name: Minalin}
+  - {name: Nepomuceno}
+  - {name: Pasig}
+  - {name: Quebiauan}
+  - {name: Remedios}
+  - {name: San Antonio}
+  - {name: San Basilio}
+  - {name: San Fernando}
+  - {name: San Jose}
+  - {name: San Juan}
+  - {name: San Luis}
+  - {name: Santa Maria}
+  - {name: Santo Tomas}
+  - {name: Sasmuan}
+  - {name: Sindalan}
+  - {name: Valdez}
+  - {name: Zapote}
+  code: '50'
+  name: Pampanga
+- cities:
+  - {name: Abalos}
+  - {name: Aguilar}
+  - {name: Alalay}
+  - {name: Amistad}
+  - {name: Austria}
+  - {name: Baluyot}
+  - {name: Bantog}
+  - {name: Bautista}
+  - {name: Beltran}
+  - {name: Binday}
+  - {name: Bogtong}
+  - {name: Botao}
+  - {name: Bugayong}
+  - {name: Carlos}
+  - {name: Dagupan}
+  - {name: David}
+  - {name: Diaz}
+  - {name: Domanpot}
+  - {name: Don Pedro}
+  - {name: Eguia}
+  - {name: Labrador}
+  - {name: Lo}
+  - {name: Lucero}
+  - {name: Manaoag}
+  - {name: Mangaldan}
+  - {name: Maningding}
+  - {name: Natividad}
+  - {name: Olea}
+  - {name: Panganiban}
+  - {name: Paul}
+  - {name: Rabago}
+  - {name: Rosario}
+  - {name: San Carlos}
+  - {name: San Jacinto}
+  - {name: San Miguel}
+  - {name: Sanchez}
+  - {name: Sison}
+  - {name: Tamayo}
+  - {name: Torres}
+  - {name: Tupa}
+  - {name: Urdaneta}
+  code: '51'
+  name: Pangasinan
+- cities:
+  - {name: Dasmari}
+  - {name: Forbes Park}
+  - {name: Malibay}
+  - {name: Pasay}
+  - {name: Pasay City}
+  code: E9
+  name: Pasay
+- cities:
+  - {name: Puerto Princesa}
+  - {name: Puerto Princesa City}
+  code: F1
+  name: Puerto Princesa
+- cities:
+  - {name: Abad}
+  - {name: Addition Hills}
+  - {name: Amoguis}
+  - {name: Aurora}
+  - {name: Bagong Silang}
+  - {name: Calumpang}
+  - {name: Fernando}
+  - {name: Ibas}
+  - {name: Latay}
+  - {name: Marquez}
+  - {name: Mascari}
+  - {name: Monta}
+  - {name: Monticello}
+  - {name: Nieva}
+  - {name: Pagbilao}
+  - {name: Perez}
+  - {name: Pitogo}
+  - {name: Quipot}
+  - {name: Real}
+  - {name: Roman}
+  - {name: Sariaya}
+  - {name: Tagumpay}
+  - {name: Tala}
+  - {name: Tayabas}
+  code: H2
+  name: Quezon
+- cities:
+  - {name: Caloocan}
+  - {name: Capital}
+  - {name: Capitol}
+  - {name: Cubao}
+  - {name: Fort Bonifacio}
+  - {name: Kamuning}
+  - {name: Lagro}
+  - {name: Murphy}
+  - {name: Pasong Tamo}
+  - {name: Pinaglabanan}
+  - {name: Quezon City}
+  code: F2
+  name: Quezon City
+- cities:
+  - {name: Alabang}
+  - {name: Alabang Hills Village}
+  - {name: Almanza}
+  - {name: Angono}
+  - {name: Antipolo}
+  - {name: Baclaran}
+  - {name: Bel-air Four}
+  - {name: Bicutan}
+  - {name: Binangonan}
+  - {name: Bule}
+  - {name: Buting}
+  - {name: Cainta}
+  - {name: Caniogan}
+  - {name: Cardona}
+  - {name: Daraitan}
+  - {name: Geronimo}
+  - {name: Kapasigan}
+  - {name: Las Pi}
+  - {name: Lo}
+  - {name: Makati}
+  - {name: Malanday}
+  - {name: Malaya}
+  - {name: Mandaluyong}
+  - {name: Marikina}
+  - {name: Maybu}
+  - {name: Merville Subdivision}
+  - {name: Montalban}
+  - {name: Morong}
+  - {name: Muntinlupa}
+  - {name: Muntinlupa City}
+  - {name: Navotas}
+  - {name: Palanan}
+  - {name: Para}
+  - {name: Pateros}
+  - {name: Pinagbuhatan}
+  - {name: Pineda}
+  - {name: Putatan}
+  - {name: Rodriguez}
+  - {name: Sampaloc}
+  - {name: San Mateo}
+  - {name: Santolan}
+  - {name: Sucat}
+  - {name: Tagig}
+  - {name: Taguig}
+  - {name: Tanay}
+  - {name: Taytay}
+  - {name: Tejeros}
+  - {name: Teresa}
+  - {name: Tuktukan}
+  - {name: Tuna}
+  - {name: Ugong}
+  - {name: Ugong Norte}
+  - {name: Valenzuela}
+  - {name: Wack Wack}
+  code: '53'
+  name: Rizal
+- cities:
+  - {name: Calatrava}
+  - {name: Calisay}
+  - {name: Cambaya}
+  - {name: Espi}
+  - {name: Looc}
+  - {name: Odiongan}
+  - {name: Romblon}
+  code: '54'
+  name: Romblon
+- cities:
+  - {name: Roxas}
+  code: F3
+  name: Roxas
+- cities:
+  - {name: Gandara}
+  - {name: Quizon}
+  - {name: Santa Rita}
+  - {name: Tizon}
+  - {name: Villareal}
+  code: '55'
+  name: Samar
+- cities:
+  - {name: Lopez}
+  - {name: Rigor}
+  code: F4
+  name: San Carlos
+- cities:
+  - {name: Buenaventura}
+  - {name: San Pablo}
+  code: F7
+  name: San Pablo
+- cities:
+  - {name: Silay}
+  code: F8
+  name: Silay
+- cities:
+  - {name: Maria}
+  code: '69'
+  name: Siquijor
+- cities:
+  - {name: Aguada}
+  - {name: Bunag}
+  - {name: Castilla}
+  - {name: Esteban}
+  code: '58'
+  name: Sorsogon
+- cities:
+  - {name: Baliton}
+  - {name: Cinco}
+  - {name: Ilaya}
+  - {name: Kalibo}
+  - {name: Koronadal}
+  - {name: Kuya}
+  - {name: Liwanag}
+  - {name: Maan}
+  - {name: Manil}
+  - {name: Panay}
+  - {name: Polomolok}
+  - {name: Teresita}
+  - {name: Zulueta}
+  code: '70'
+  name: South Cotabato
+- cities:
+  - {name: Aguinaldo}
+  - {name: Amparo}
+  - {name: Asuncion}
+  - {name: Flordeliz}
+  - {name: Garrido}
+  - {name: Ibarra}
+  - {name: Kamagong}
+  - {name: Mayuga}
+  - {name: Nava}
+  - {name: Omaga}
+  - {name: Zamora}
+  code: '59'
+  name: Southern Leyte
+- cities:
+  - {name: Banaga}
+  - {name: Basak}
+  - {name: Dumaguit}
+  - {name: Ligao}
+  - {name: Malang}
+  - {name: New Lagao}
+  - {name: Tacurong}
+  - {name: Tran}
+  - {name: Villamor}
+  code: '71'
+  name: Sultan Kudarat
+- cities:
+  - {name: Andres}
+  - {name: Bandahala}
+  - {name: Bangkal}
+  - {name: Campo}
+  - {name: Intramuros}
+  - {name: Kalookan}
+  - {name: Licup}
+  - {name: Pang}
+  - {name: Pangasinan}
+  - {name: Punay}
+  code: '60'
+  name: Sulu
+- cities:
+  - {name: Surigao}
+  code: F9
+  name: Surigao
+- cities:
+  - {name: Alegria}
+  - {name: Arellano}
+  - {name: Bacud}
+  - {name: Lakandula}
+  - {name: Socorro}
+  - {name: Victory}
+  - {name: Wilson}
+  code: '61'
+  name: Surigao del Norte
+- cities:
+  - {name: Alba}
+  - {name: Bajao}
+  - {name: Barcelona}
+  - {name: Cortes}
+  - {name: Lanuza}
+  - {name: Loyola}
+  - {name: Lucia}
+  - {name: Madrid}
+  - {name: Maliksi}
+  - {name: Soriano}
+  code: '62'
+  name: Surigao del Sur
+- cities:
+  - {name: Cutting}
+  - {name: Tacloban}
+  code: G1
+  name: Tacloban
+- cities:
+  - {name: Galicia}
+  - {name: Tagaytay}
+  code: G2
+  name: Tagaytay
+- cities:
+  - {name: Tagbilaran}
+  code: G3
+  name: Tagbilaran
+- cities:
+  - {name: Almendras}
+  - {name: Baquero}
+  - {name: Bawa}
+  - {name: Buenlag}
+  - {name: Bueno}
+  - {name: Cafe}
+  - {name: Calapan}
+  - {name: Carbonel}
+  - {name: Cari}
+  - {name: Casil}
+  - {name: Celestino}
+  - {name: Comillas}
+  - {name: Concepcion}
+  - {name: Conception}
+  - {name: Estrada}
+  - {name: Guevara}
+  - {name: Inez}
+  - {name: Layug}
+  - {name: Luisita}
+  - {name: Manaois}
+  - {name: Moncada}
+  - {name: Ramos}
+  - {name: Salle}
+  - {name: San Vicente}
+  - {name: Sembrano}
+  - {name: Tagalog}
+  - {name: Tarlac}
+  - {name: Vargas}
+  - {name: Villar}
+  code: '63'
+  name: Tarlac
+- cities:
+  - {name: Toledo}
+  code: G5
+  name: Toledo
+- cities:
+  - {name: Aparri}
+  - {name: Bucao}
+  - {name: Malabon}
+  - {name: Mindoro}
+  - {name: Princess}
+  - {name: San Lorenzo}
+  - {name: San Marcelino}
+  code: '64'
+  name: Zambales
+- cities:
+  - {name: Ayala}
+  - {name: Zamboanga}
+  code: G7
+  name: Zamboanga
+- cities:
+  - {name: Mutia}
+  - {name: Pinan}
+  code: '65'
+  name: Zamboanga del Norte
+- cities:
+  - {name: Anti}
+  - {name: Bucacao}
+  - {name: Commonwealth}
+  - {name: Dalagan}
+  - {name: Del Monte}
+  - {name: Elisan}
+  - {name: Fama}
+  - {name: Fatima}
+  - {name: Imelda}
+  - {name: Ipil}
+  - {name: Katipunan}
+  - {name: Legarda}
+  - {name: Mabuhay}
+  - {name: Mangahas}
+  - {name: Molave}
+  - {name: Norte}
+  - {name: Pinas}
+  - {name: Sagun}
+  - {name: Sumulong}
+  - {name: Yason}
+  code: '66'
+  name: Zamboanga del Sur

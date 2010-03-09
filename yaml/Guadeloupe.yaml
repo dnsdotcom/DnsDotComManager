@@ -1,0 +1,26 @@
+- cities:
+  - {name: Baie Mahault}
+  - {name: Baie-mahault}
+  - {name: Basse-terre}
+  - {name: Bouillante}
+  - {name: Capesterre-belle-eau}
+  - {name: Gourbeyre}
+  - {name: Goyave}
+  - {name: Jarry}
+  - {name: Lamentin}
+  - {name: Le Gosier}
+  - {name: Le Moule}
+  - {name: Les Abymes}
+  - {name: Marigot}
+  - {name: Morne-}
+  - {name: Petit-bourg}
+  - {name: Petit-canal}
+  - {name: Pointe-}
+  - {name: Pointe-noire}
+  - {name: Saint-claude}
+  - {name: Saint-fran}
+  - {name: Sainte-anne}
+  - {name: Sainte-rose}
+  - {name: Trois-rivi}
+  code: '00'
+  name: ''

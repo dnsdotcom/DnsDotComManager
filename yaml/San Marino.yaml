@@ -1,0 +1,13 @@
+- cities:
+  - {name: Acquaviva}
+  code: '01'
+  name: Acquaviva
+- cities:
+  - {name: Chiesanuova}
+  code: '02'
+  name: Chiesanuova
+- cities:
+  - {name: Falciano}
+  - {name: Serravalle}
+  code: 09
+  name: Serravalle

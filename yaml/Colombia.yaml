@@ -1,0 +1,235 @@
+- cities:
+  - {name: Boyac}
+  - {name: Chinavita}
+  - {name: Chiquinquir}
+  - {name: Duitama}
+  - {name: Garagoa}
+  - {name: Sogamoso}
+  - {name: Sutamarch}
+  - {name: Tunja}
+  - {name: Zetaquira}
+  code: '06'
+  name: ''
+- cities:
+  - {name: Atl}
+  - {name: Ci}
+  - {name: El Banco}
+  - {name: El Pi}
+  - {name: Estrella}
+  - {name: Fundaci}
+  - {name: Santa Marta}
+  code: '18'
+  name: ''
+- cities:
+  - {name: Filadelfia}
+  - {name: La Dorada}
+  - {name: Manizales}
+  - {name: Marquetalia}
+  - {name: Risaralda}
+  - {name: Uni}
+  - {name: Villamar}
+  code: '07'
+  name: ''
+- cities:
+  - {name: Cartagena}
+  - {name: La Costa}
+  code: '05'
+  name: ''
+- cities:
+  - {name: Antioquia}
+  - {name: Apartad}
+  - {name: Bello}
+  - {name: Carepa}
+  - {name: Caucasia}
+  - {name: El Poblado}
+  - {name: Envigado}
+  - {name: G}
+  - {name: Guarne}
+  - {name: Itag}
+  - {name: La Estrella}
+  - {name: Medell}
+  - {name: Poblado}
+  - {name: Rionegro}
+  - {name: Sabaneta}
+  - {name: Santa B}
+  - {name: Segovia}
+  - {name: Urrao}
+  code: '02'
+  name: Antioquia
+- cities:
+  - {name: Barranquilla}
+  - {name: Caja}
+  - {name: Soledad}
+  code: '04'
+  name: Atlantico
+- cities:
+  - {name: Florencia}
+  code: 08
+  name: Caqueta
+- cities:
+  - {name: Aguazul}
+  - {name: Santa Martha}
+  - {name: Yopal}
+  code: '32'
+  name: Casanare
+- cities:
+  - {name: Bol}
+  - {name: Huila}
+  - {name: Miranda}
+  - {name: Popay}
+  - {name: Puerto Tejada}
+  - {name: Santander De Quilichao}
+  code: 09
+  name: Cauca
+- cities:
+  - {name: Valledupar}
+  code: '10'
+  name: Cesar
+- cities:
+  - {name: Canalete}
+  - {name: Ceret}
+  - {name: Chin}
+  - {name: Lorica}
+  - {name: Monter}
+  - {name: Popay}
+  code: '12'
+  name: Cordoba
+- cities:
+  - {name: Anolaima}
+  - {name: Bavaria}
+  - {name: Bogot}
+  - {name: Cajic}
+  - {name: Ch}
+  - {name: Chipaque}
+  - {name: Cota}
+  - {name: Cundinamarca}
+  - {name: Dosquebradas}
+  - {name: F}
+  - {name: Facatativ}
+  - {name: Funza}
+  - {name: Fusagasuga}
+  - {name: Gachal}
+  - {name: Gachet}
+  - {name: Girardot}
+  - {name: Guasca}
+  - {name: Jerusal}
+  - {name: La Calera}
+  - {name: La Mesa}
+  - {name: Mosquera}
+  - {name: Nari}
+  - {name: Pacho}
+  - {name: Soacha}
+  - {name: Tenjo}
+  - {name: Tocancip}
+  - {name: Ubat}
+  - {name: Une}
+  - {name: Valle}
+  - {name: Villeta}
+  - {name: Zipaquir}
+  code: '33'
+  name: Cundinamarca
+- cities:
+  - {name: Calle}
+  - {name: La Plata}
+  - {name: Neiva}
+  - {name: Pitalito}
+  code: '16'
+  name: Huila
+- cities:
+  - {name: R}
+  code: '17'
+  name: La Guajira
+- cities:
+  - {name: El Dorado}
+  - {name: Villavicencio}
+  code: '19'
+  name: Meta
+- cities:
+  - {name: Alcantarilla}
+  - {name: Ipiales}
+  - {name: Pasto}
+  code: '20'
+  name: Narino
+- cities:
+  - {name: C}
+  - {name: C}
+  - {name: Los Patios}
+  - {name: Miami}
+  - {name: Pamplona}
+  - {name: Villa Del Rosario}
+  code: '21'
+  name: Norte de Santander
+- cities:
+  - {name: San Francisco}
+  code: '22'
+  name: Putumayo
+- cities:
+  - {name: Armenia}
+  - {name: Circasia}
+  - {name: Filandia}
+  - {name: Quimbaya}
+  code: '23'
+  name: Quindio
+- cities:
+  - {name: Columbia}
+  - {name: Dos Quebradas}
+  - {name: La Virginia}
+  - {name: Pereira}
+  - {name: Santa Rosa De Cabal}
+  code: '24'
+  name: Risaralda
+- cities:
+  - {name: San Andr}
+  code: '25'
+  name: San Andres y Providencia
+- cities:
+  - {name: Barrancabermeja}
+  - {name: Bucaramanga}
+  - {name: Centro}
+  - {name: Floridablanca}
+  - {name: Gir}
+  - {name: Piedecuesta}
+  - {name: San Gil}
+  - {name: Socorro}
+  code: '26'
+  name: Santander
+- cities:
+  - {name: Puerta}
+  - {name: Santander}
+  - {name: Sincelejo}
+  code: '27'
+  name: Sucre
+- cities:
+  - {name: Alvarado}
+  - {name: Espinal}
+  - {name: Honda}
+  - {name: Ibagu}
+  - {name: Piedras}
+  - {name: Roncesvalles}
+  - {name: Rovira}
+  code: '28'
+  name: Tolima
+- cities:
+  - {name: Alcal}
+  - {name: Andaluc}
+  - {name: Buenaventura}
+  - {name: Buga}
+  - {name: Caicedonia}
+  - {name: Cali}
+  - {name: Candelaria}
+  - {name: Cartago}
+  - {name: Dari}
+  - {name: El Cerrito}
+  - {name: Florida}
+  - {name: Guacar}
+  - {name: Jamund}
+  - {name: La Victoria}
+  - {name: Palmira}
+  - {name: Pradera}
+  - {name: Restrepo}
+  - {name: Trujillo}
+  - {name: Tulu}
+  - {name: Yumbo}
+  - {name: Zarzal}
+  code: '29'
+  name: Valle del Cauca

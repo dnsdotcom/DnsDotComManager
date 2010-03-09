@@ -1,0 +1,113 @@
+- cities:
+  - {name: Brcko}
+  code: BD
+  name: ''
+- cities:
+  - {name: Banja}
+  - {name: Banovici}
+  - {name: Bihac}
+  - {name: Bistrik}
+  - {name: Bosna}
+  - {name: Breza}
+  - {name: Bugojno}
+  - {name: Butmir}
+  - {name: Capljina}
+  - {name: Careva Cuprija}
+  - {name: Carsija}
+  - {name: Cengic}
+  - {name: Citluk}
+  - {name: Core}
+  - {name: Crnici}
+  - {name: Donja Mahala}
+  - {name: Donja Orahovica}
+  - {name: Fojnica}
+  - {name: Gabela}
+  - {name: Gorazde}
+  - {name: Gracanica}
+  - {name: Gradacac}
+  - {name: Gromiljak}
+  - {name: Grude}
+  - {name: Hadzici}
+  - {name: Ilidza}
+  - {name: Ilijas}
+  - {name: Jajce}
+  - {name: Kakanj}
+  - {name: Kiseljak}
+  - {name: Kladanj}
+  - {name: Kolonija}
+  - {name: Konjic}
+  - {name: Kosevo}
+  - {name: Krusik}
+  - {name: Listica}
+  - {name: Livnica}
+  - {name: Livno}
+  - {name: Ljubuski}
+  - {name: Luka}
+  - {name: Lukavac}
+  - {name: Lukavica}
+  - {name: Malesici}
+  - {name: Medjugorje}
+  - {name: Mostar}
+  - {name: Music}
+  - {name: Nedjarici}
+  - {name: Novi Travnik}
+  - {name: Orasje}
+  - {name: Police}
+  - {name: Polje}
+  - {name: Posusje}
+  - {name: Rajlovac}
+  - {name: Ramici}
+  - {name: Sanski Most}
+  - {name: Sarajevo}
+  - {name: Semizovac}
+  - {name: Siroki Brijeg}
+  - {name: Sladna}
+  - {name: Slatina}
+  - {name: Srebrenik}
+  - {name: Tesanj}
+  - {name: Topic}
+  - {name: Travnik}
+  - {name: Tuzla}
+  - {name: Udurlije}
+  - {name: Vares}
+  - {name: Velika Kladusa}
+  - {name: Visoko}
+  - {name: Vitez}
+  - {name: Vitina}
+  - {name: Vogosca}
+  - {name: Zavidovici}
+  - {name: Zenica}
+  - {name: Zepce}
+  - {name: Zivinice}
+  code: '01'
+  name: Federation of Bosnia and Herzegovina
+- cities:
+  - {name: Banja Luka}
+  - {name: Bijeljina}
+  - {name: Bosanska Gradiska}
+  - {name: Derventa}
+  - {name: Doboj}
+  - {name: Foca}
+  - {name: Gradiska}
+  - {name: Kablovska}
+  - {name: Kotor}
+  - {name: Laktasi}
+  - {name: Malta}
+  - {name: Milici}
+  - {name: Modrica}
+  - {name: Nevesinje}
+  - {name: Novi}
+  - {name: Obala}
+  - {name: Pale}
+  - {name: Prijedor}
+  - {name: Prnjavor}
+  - {name: Srbinje}
+  - {name: Srebrenica}
+  - {name: Srpska}
+  - {name: Stanari}
+  - {name: Teslic}
+  - {name: Trebinje}
+  - {name: Vlasenica}
+  - {name: Zvornik}
+  code: '02'
+  name: Republika Srpska

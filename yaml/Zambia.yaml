@@ -1,0 +1,24 @@
+- cities:
+  - {name: Kitwe}
+  - {name: Mufulira}
+  - {name: Ndola}
+  code: '02'
+  name: Central
+- cities:
+  - {name: Kalomo}
+  - {name: Livingstone}
+  code: '04'
+  name: Luapula
+- cities:
+  - {name: Lusaka}
+  code: 09
+  name: Lusaka
+- cities:
+  - {name: Kabwe}
+  code: '05'
+  name: Northern
+- cities:
+  - {name: Lumwana}
+  - {name: Mwanza}
+  code: '01'
+  name: Western

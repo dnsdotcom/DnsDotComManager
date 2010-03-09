@@ -1,0 +1,13 @@
+- cities:
+  - {name: Blantyre}
+  - {name: Limbe}
+  code: '24'
+  name: Blantyre
+- cities:
+  - {name: Lilongwe}
+  code: '11'
+  name: Lilongwe
+- cities:
+  - {name: Zomba}
+  code: '23'
+  name: Zomba

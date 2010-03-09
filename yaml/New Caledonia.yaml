@@ -1,0 +1,6 @@
+- cities:
+  - {name: Bourail}
+  - {name: Mont-dore}
+  - {name: Noum}
+  code: '00'
+  name: ''

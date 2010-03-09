@@ -1,0 +1,61 @@
+- cities:
+  - {name: Alga}
+  - {name: Aravan}
+  - {name: Isfana}
+  - {name: Kadamjay}
+  - {name: Uzgen}
+  code: '05'
+  name: ''
+- cities:
+  - {name: Batken}
+  code: 09
+  name: Batken
+- cities:
+  - {name: Bishkek}
+  - {name: Kant}
+  - {name: Lebedinovka}
+  - {name: Novopavlovka}
+  - {name: Shopokov}
+  - {name: Sokuluk}
+  - {name: Vostok}
+  code: '01'
+  name: Bishkek
+- cities:
+  - {name: Chuy}
+  - {name: Ivanovka}
+  - {name: Kainda}
+  - {name: Kara-balta}
+  - {name: Kemin}
+  - {name: Orlovka}
+  - {name: Petrovka}
+  - {name: Tokmak}
+  - {name: Tokmok}
+  code: '02'
+  name: Chuy
+- cities:
+  - {name: Chald}
+  - {name: Jalal-abad}
+  - {name: Naryn}
+  code: '03'
+  name: Jalal-Abad
+- cities:
+  - {name: At-bashi}
+  - {name: Baetov}
+  - {name: Dostuk}
+  - {name: Kara-suu}
+  - {name: Kazarman}
+  code: '04'
+  name: Naryn
+- cities:
+  - {name: Talas}
+  code: '06'
+  name: Talas
+- cities:
+  - {name: Balykchy}
+  - {name: Bosteri}
+  - {name: Chok-tal}
+  - {name: Cholpon-ata}
+  - {name: Karakol}
+  - {name: Pokrovka}
+  code: '07'
+  name: Ysyk-Kol

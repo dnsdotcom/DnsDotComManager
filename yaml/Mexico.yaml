@@ -1,0 +1,855 @@
+- cities:
+  - {name: Aguascalientes}
+  - {name: Calvillo}
+  - {name: Cos}
+  - {name: Pabell}
+  - {name: Rinc}
+  - {name: San Jos}
+  - {name: Tres Valles}
+  code: '01'
+  name: Aguascalientes
+- cities:
+  - {name: Distrito Federal}
+  - {name: Ensenada}
+  - {name: La Joya}
+  - {name: Mexicali}
+  - {name: Rosarito}
+  - {name: San Luis}
+  - {name: Tecate}
+  - {name: Tijuana}
+  code: '02'
+  name: Baja California
+- cities:
+  - {name: Cabo San Lucas}
+  - {name: Constituci}
+  - {name: La Paz}
+  - {name: La Ribera}
+  - {name: Navojoa}
+  - {name: San Jos}
+  - {name: Santa Rosal}
+  - {name: Valle}
+  code: '03'
+  name: Baja California Sur
+- cities:
+  - {name: Calkin}
+  - {name: Campeche}
+  - {name: Carmen}
+  - {name: Esc}
+  - {name: Hecelchak}
+  - {name: Reforma}
+  code: '04'
+  name: Campeche
+- cities:
+  - {name: Altamirano}
+  - {name: Arriaga}
+  - {name: Azteca}
+  - {name: Baja}
+  - {name: Baja California}
+  - {name: Catazaj}
+  - {name: Chiapas}
+  - {name: Chicomuselo}
+  - {name: Comitan}
+  - {name: Copainal}
+  - {name: Escuintla}
+  - {name: Esmeralda}
+  - {name: Guadalupe}
+  - {name: Gutierrez}
+  - {name: Huehuet}
+  - {name: Huixtla}
+  - {name: Jaltenango}
+  - {name: Las Margaritas}
+  - {name: Las Rosas}
+  - {name: Motozintla}
+  - {name: New York}
+  - {name: Ocosingo}
+  - {name: Oxchuc}
+  - {name: Palenque}
+  - {name: Pijijiapan}
+  - {name: San Crist}
+  - {name: Simojovel}
+  - {name: Tapachula}
+  - {name: Teopisca}
+  - {name: Tuxtla Chico}
+  - {name: Tuxtla Guti}
+  - {name: Tzimol}
+  - {name: Urbina}
+  - {name: Venustiano Carranza}
+  - {name: Zinacant}
+  code: '05'
+  name: Chiapas
+- cities:
+  - {name: Camargo}
+  - {name: Casas Grandes}
+  - {name: Chihuahua}
+  - {name: Creel}
+  - {name: Cuauht}
+  - {name: Delicias}
+  - {name: Hidalgo Del Parral}
+  - {name: Meoqui}
+  - {name: Nuevo Casas Grandes}
+  - {name: Parral}
+  - {name: Polanco}
+  - {name: San Buenaventura}
+  - {name: San Pedro De Las Colonias}
+  - {name: Santa B}
+  code: '06'
+  name: Chihuahua
+- cities:
+  - {name: Acu}
+  - {name: Cabos}
+  - {name: Escobedo}
+  - {name: Esperanzas}
+  - {name: Frontera}
+  - {name: La Partida}
+  - {name: Los Garza}
+  - {name: Matamoros}
+  - {name: Minas De Barroter}
+  - {name: Monclova}
+  - {name: Montevideo}
+  - {name: Nadadores}
+  - {name: Nueva Rosita}
+  - {name: Palau}
+  - {name: Piedras Negras}
+  - {name: Portales}
+  - {name: Ramos Arizpe}
+  - {name: Sabinas}
+  - {name: Saltillo}
+  - {name: San Buenaventura}
+  - {name: San Pedro}
+  - {name: Torre}
+  - {name: Valles}
+  - {name: Yucat}
+  - {name: Zaragoza}
+  code: '07'
+  name: Coahuila de Zaragoza
+- cities:
+  - {name: Colima}
+  - {name: El Colomo}
+  - {name: Manzanillo}
+  - {name: Tecom}
+  - {name: Villa De Alvarez}
+  code: 08
+  name: Colima
+- cities:
+  - {name: Azcapotzalco}
+  - {name: Ciudad Universitaria}
+  - {name: Constituci}
+  - {name: Iztacalco}
+  - {name: Iztapalapa}
+  - {name: Mexico}
+  - {name: Mexico}
+  - {name: Milpa Alta}
+  - {name: Tlahuac}
+  - {name: Tlalpan}
+  - {name: Xochimilco}
+  code: 09
+  name: Distrito Federal
+- cities:
+  - {name: Canatl}
+  - {name: Durango}
+  - {name: G}
+  - {name: Jardines}
+  - {name: Lerdo}
+  - {name: Nuevo Ideal}
+  - {name: Papasquiaro}
+  - {name: Santa Mar}
+  - {name: Urrea}
+  code: '10'
+  name: Durango
+- cities:
+  - {name: Abasolo}
+  - {name: Ac}
+  - {name: Andocut}
+  - {name: Apaseo El Alto}
+  - {name: Apaseo El Grande}
+  - {name: Bernardo}
+  - {name: Catarina}
+  - {name: Celaya}
+  - {name: Comonfort}
+  - {name: Cortazar}
+  - {name: Dolores Hidalgo}
+  - {name: Granjas}
+  - {name: Guanajuato}
+  - {name: Huan}
+  - {name: Irapuato}
+  - {name: Jaral Del Progreso}
+  - {name: Juventino Rosas}
+  - {name: La Moncada}
+  - {name: Le}
+  - {name: Maravat}
+  - {name: Morole}
+  - {name: Ocampo}
+  - {name: Pedregal}
+  - {name: Salamanca}
+  - {name: Salvatierra}
+  - {name: 'San '}
+  - {name: San Crist}
+  - {name: San Felipe}
+  - {name: San Francisco Del Rinc}
+  - {name: San Miguel De Allende}
+  - {name: Santa Ana Pacueco}
+  - {name: Silao}
+  - {name: Totolapan}
+  - {name: Uriangato}
+  - {name: Valle De Santiago}
+  - {name: Victoria}
+  - {name: Villagr}
+  - {name: Yuriria}
+  code: '11'
+  name: Guanajuato
+- cities:
+  - {name: Acapulco}
+  - {name: Atoyac}
+  - {name: Boca De Mitla}
+  - {name: Chilapa}
+  - {name: Chilpancingo}
+  - {name: Coyuca}
+  - {name: Huitzuco}
+  - {name: Iguala}
+  - {name: Marquelia}
+  - {name: Olinal}
+  - {name: Petatl}
+  - {name: San Jer}
+  - {name: San Luis De La Paz}
+  - {name: San Marcos}
+  - {name: Taxco}
+  - {name: Tetipac}
+  - {name: Tianquizolco}
+  - {name: Tixtla}
+  - {name: Tlapehuala}
+  - {name: Xaltianguis}
+  - {name: Zihuatanejo}
+  - {name: Zitlala}
+  code: '12'
+  name: Guerrero
+- cities:
+  - {name: Actopan}
+  - {name: Ajacuba}
+  - {name: Apan}
+  - {name: Atitalaquia}
+  - {name: Chapulhuac}
+  - {name: Huejutla}
+  - {name: Huichapan}
+  - {name: Ixmiquilpan}
+  - {name: Mixquiahuala}
+  - {name: Orizatl}
+  - {name: Pachuca}
+  - {name: Progreso}
+  - {name: Sahag}
+  - {name: Tasquillo}
+  - {name: Tecozautla}
+  - {name: Tepeji}
+  - {name: Tetepango}
+  - {name: Tizayuca}
+  - {name: Tlahuelilpan}
+  - {name: Tlanchinol}
+  - {name: Tlaxcoapan}
+  - {name: Tlaxiaca}
+  - {name: Tolcayuca}
+  - {name: Tula De Allende}
+  - {name: Tulancingo}
+  - {name: Zapotl}
+  - {name: Zimap}
+  code: '13'
+  name: Hidalgo
+- cities:
+  - {name: Acatic}
+  - {name: Ahualulco}
+  - {name: Ajijic}
+  - {name: Amacuzac}
+  - {name: Ameca}
+  - {name: Antonio Escobedo}
+  - {name: Arandas}
+  - {name: Atotonilco El Alto}
+  - {name: Autl}
+  - {name: Ayutla}
+  - {name: Bellavista}
+  - {name: Cajititl}
+  - {name: Chapala}
+  - {name: Cihuatl}
+  - {name: Ciudad Guzm}
+  - {name: Cocula}
+  - {name: Colotl}
+  - {name: Concepci}
+  - {name: Degollado}
+  - {name: El Arenal}
+  - {name: El Lim}
+  - {name: El Salto}
+  - {name: Encarnacion}
+  - {name: Etzatl}
+  - {name: G}
+  - {name: Gracia}
+  - {name: Guadalajara}
+  - {name: Ixtlahuac}
+  - {name: Jocotepec}
+  - {name: La Barca}
+  - {name: La Vega}
+  - {name: Lagos De Moreno}
+  - {name: Magdalena}
+  - {name: Mascota}
+  - {name: Mexticac}
+  - {name: Ocotl}
+  - {name: Ojuelos De Jalisco}
+  - {name: Poncitl}
+  - {name: Puente Grande}
+  - {name: Puerto Vallarta}
+  - {name: San Agust}
+  - {name: San Andr}
+  - {name: San Jos}
+  - {name: San Juan De Los Lagos}
+  - {name: San Mart}
+  - {name: San Miguel El Alto}
+  - {name: Sayula}
+  - {name: Tala}
+  - {name: Tamazula}
+  - {name: Tapalpa}
+  - {name: Tecalitl}
+  - {name: Tecolotl}
+  - {name: Teocaltiche}
+  - {name: Tepatitlan}
+  - {name: Tequila}
+  - {name: Teuchitl}
+  - {name: Tlajomulco}
+  - {name: Tlaquepaque}
+  - {name: Tonal}
+  - {name: Tonaya}
+  - {name: Tototl}
+  - {name: Tuxpan}
+  - {name: Uni}
+  - {name: Uni}
+  - {name: Usmajac}
+  - {name: Valle De Ju}
+  - {name: Yahualica}
+  - {name: Zacoalco}
+  - {name: Zapopan}
+  - {name: Zapote}
+  - {name: Zapotiltic}
+  - {name: Zapotlanejo}
+  code: '14'
+  name: Jalisco
+- cities:
+  - {name: Amecameca}
+  - {name: Apaxco}
+  - {name: Atizap}
+  - {name: Atlacomulco}
+  - {name: Balderas}
+  - {name: Capulhuac}
+  - {name: Chalco}
+  - {name: Chapultepec}
+  - {name: Chicoloapan}
+  - {name: Chiconcuac}
+  - {name: Chimalhuac}
+  - {name: Chimalpa}
+  - {name: Ciudad Sat}
+  - {name: Coacalco}
+  - {name: Coatepec Harinas}
+  - {name: Cuautitl}
+  - {name: Cuautitl}
+  - {name: Ecatepec}
+  - {name: Huehuetoca}
+  - {name: Huixquilucan}
+  - {name: Ixtapaluca}
+  - {name: Jaltenco}
+  - {name: Jocotitl}
+  - {name: Juarez}
+  - {name: L}
+  - {name: Lerma}
+  - {name: Los Reyes}
+  - {name: Malinalco}
+  - {name: Metepec}
+  - {name: Naucalpan}
+  - {name: Nextlalpan}
+  - {name: Nezahualc}
+  - {name: Nicol}
+  - {name: Ocoyoacac}
+  - {name: Oyamel}
+  - {name: Popo Park}
+  - {name: Salitrillo}
+  - {name: San Sim}
+  - {name: Tecamac}
+  - {name: Tejupilco}
+  - {name: Tenancingo}
+  - {name: Teoloyucan}
+  - {name: Teotihuac}
+  - {name: Tepetlaoxtoc}
+  - {name: Tepexpan}
+  - {name: Tepotzotl}
+  - {name: Tequixquiac}
+  - {name: Texcoco}
+  - {name: Tianguistenco}
+  - {name: Tlalcilalcalpan}
+  - {name: Tlalnepantla}
+  - {name: Toluca}
+  - {name: Tultepec}
+  - {name: Tultitl}
+  - {name: Valle De Bravo}
+  - {name: Villa Guerrero}
+  - {name: Xico}
+  - {name: Zinacantepec}
+  - {name: Zolotepec}
+  - {name: Zumpango}
+  code: '15'
+  name: Mexico
+- cities:
+  - {name: Aguililla}
+  - {name: Angangueo}
+  - {name: Ant}
+  - {name: Apatzingan}
+  - {name: Arteaga}
+  - {name: Buenos Aires}
+  - {name: Chavinda}
+  - {name: Chilchota}
+  - {name: Coalcom}
+  - {name: Cotija}
+  - {name: Ecuandureo}
+  - {name: Hidalgo}
+  - {name: Huetamo}
+  - {name: Jacona}
+  - {name: Jiquilpan}
+  - {name: Jungapeo}
+  - {name: L}
+  - {name: La Mira}
+  - {name: La Piedad}
+  - {name: Lombard}
+  - {name: Morelia}
+  - {name: Olivos}
+  - {name: P}
+  - {name: Pajacuar}
+  - {name: Paracho}
+  - {name: Periban}
+  - {name: Puru}
+  - {name: Sahuayo}
+  - {name: Santa Fe De La Laguna}
+  - {name: Tanc}
+  - {name: Tangancicuaro}
+  - {name: Tanhuato}
+  - {name: Tepalcatepec}
+  - {name: Tinguind}
+  - {name: Uruapan}
+  - {name: Villamar}
+  - {name: Yur}
+  - {name: Zamora}
+  - {name: Zit}
+  code: '16'
+  name: Michoacan de Ocampo
+- cities:
+  - {name: Alpuyeca}
+  - {name: Ayala}
+  - {name: Cuautla}
+  - {name: Cuernavaca}
+  - {name: Emiliano Zapata}
+  - {name: Jiutepec}
+  - {name: Jojutla}
+  - {name: Miacatl}
+  - {name: Oaxtepec}
+  - {name: Puente De Ixtla}
+  - {name: Quebrantadero}
+  - {name: Temixco}
+  - {name: Tepoztl}
+  - {name: Tetecala}
+  - {name: Tetela}
+  - {name: Tlaltizap}
+  - {name: Tlaquiltenango}
+  - {name: Xoxocotla}
+  - {name: Yautepec}
+  - {name: Yecapixtla}
+  - {name: Zacatepec}
+  code: '17'
+  name: Morelos
+- cities:
+  - {name: Acaponeta}
+  - {name: Compostela}
+  - {name: Ixtl}
+  - {name: Las Varas}
+  - {name: Nayarit}
+  - {name: Puente}
+  - {name: Punta De Mita}
+  - {name: Ruiz}
+  - {name: San Blas}
+  - {name: Tecuala}
+  - {name: Tepic}
+  code: '18'
+  name: Nayarit
+- cities:
+  - {name: Allende}
+  - {name: An}
+  - {name: Apodaca}
+  - {name: Cadereyta}
+  - {name: Escobedo}
+  - {name: Garcia}
+  - {name: Garza Garc}
+  - {name: General Escobedo}
+  - {name: Guadalupe}
+  - {name: Hualahuises}
+  - {name: Linares}
+  - {name: Mar}
+  - {name: Mina}
+  - {name: Montemorelos}
+  - {name: Monterrey}
+  - {name: Potosi}
+  - {name: San Nicol}
+  - {name: Santa Catarina}
+  - {name: Santiago}
+  code: '19'
+  name: Nuevo Leon
+- cities:
+  - {name: Asunci}
+  - {name: Asunci}
+  - {name: Cacahuatepec}
+  - {name: Chapingo}
+  - {name: Chiltepec}
+  - {name: Huajuapan}
+  - {name: Huatulco}
+  - {name: Ixtepec}
+  - {name: Jalapa}
+  - {name: Jamiltepec}
+  - {name: Juchitan}
+  - {name: Mat}
+  - {name: Miahuatl}
+  - {name: Nacional}
+  - {name: Oaxaca}
+  - {name: Pinotepa Nacional}
+  - {name: Pochutla}
+  - {name: 'Puerto '}
+  - {name: Puerto Escondido}
+  - {name: Salina Cruz}
+  - {name: San Francisco}
+  - {name: Soyaltepec}
+  - {name: Tamazulapam}
+  - {name: Tehuantepec}
+  - {name: Teotitlan}
+  - {name: Tierra Blanca}
+  - {name: Tlaxiaco}
+  - {name: Tuxtepec}
+  - {name: Villa De Etla}
+  - {name: Xoxocotlan}
+  - {name: Yaitepec}
+  - {name: Yolom}
+  - {name: Zanatepec}
+  code: '20'
+  name: Oaxaca
+- cities:
+  - {name: Acatl}
+  - {name: Acatzingo}
+  - {name: Alfonso}
+  - {name: Amozoc}
+  - {name: Atempan}
+  - {name: Atlixco}
+  - {name: Calpan}
+  - {name: Chautla}
+  - {name: Chignahuapan}
+  - {name: Chilchotla}
+  - {name: Cholula}
+  - {name: Cuautlancingo}
+  - {name: Cuetzalan}
+  - {name: Domingo Arenas}
+  - {name: Esperanza}
+  - {name: Huauchinango}
+  - {name: Huejotzingo}
+  - {name: Iz}
+  - {name: Las Lomas}
+  - {name: Puebla}
+  - {name: Rafael Lara Grajales}
+  - {name: San Andr}
+  - {name: San Sebasti}
+  - {name: Tecamachalco}
+  - {name: Tehuac}
+  - {name: Tenango}
+  - {name: Tenextatiloyan}
+  - {name: Tepeaca}
+  - {name: Tepetlacalco}
+  - {name: Texmelucan}
+  - {name: Teziutl}
+  - {name: Tlachichuca}
+  - {name: Tlanepantla}
+  - {name: Tlatlauquitepec}
+  - {name: Tlaxco}
+  - {name: Tochtepec}
+  - {name: Xiutetelco}
+  - {name: Xochimilco}
+  - {name: Yaon}
+  - {name: Yehualtepec}
+  - {name: Zacatl}
+  code: '21'
+  name: Puebla
+- cities:
+  - {name: Amealco}
+  - {name: Carranza}
+  - {name: Col}
+  - {name: El Pueblito}
+  - {name: Ezequiel Montes}
+  - {name: Pedro Escobedo}
+  - {name: Quer}
+  - {name: San Juan Del R}
+  - {name: San Nicol}
+  - {name: Tequisquiapan}
+  code: '22'
+  name: Queretaro de Arteaga
+- cities:
+  - {name: Akumal}
+  - {name: Canc}
+  - {name: Chetumal}
+  - {name: Cozumel}
+  - {name: Insurgentes}
+  - {name: Isla Mujeres}
+  - {name: Playa Del Carmen}
+  - {name: Puerto Morelos}
+  - {name: Tulum}
+  code: '23'
+  name: Quintana Roo
+- cities:
+  - {name: Axtla}
+  - {name: Cerritos}
+  - {name: Ciudad Valles}
+  - {name: Fern}
+  - {name: Huehuetl}
+  - {name: Huichihuay}
+  - {name: Matehuala}
+  - {name: Poza}
+  - {name: R}
+  - {name: Salinas}
+  - {name: San Ciro De Acosta}
+  - {name: San Luis Potos}
+  - {name: Santa Mar}
+  - {name: Soledad}
+  - {name: Tamazunchale}
+  - {name: Tamu}
+  - {name: Tancanhuitz}
+  - {name: Venado}
+  - {name: Verdes}
+  - {name: Xilitla}
+  code: '24'
+  name: San Luis Potosi
+- cities:
+  - {name: Adolfo Ru}
+  - {name: Badiraguato}
+  - {name: Chihuahuita}
+  - {name: Costa Rica}
+  - {name: Culiac}
+  - {name: El Carrizo}
+  - {name: El Fuerte}
+  - {name: Eldorado}
+  - {name: Gabriel Leyva Solano}
+  - {name: Guam}
+  - {name: Guasave}
+  - {name: Jacobo}
+  - {name: La Cruz}
+  - {name: La Trinidad}
+  - {name: Las Americas}
+  - {name: Lomas}
+  - {name: Los Mochis}
+  - {name: Mazatl}
+  - {name: Mochicahui}
+  - {name: Mocorito}
+  - {name: Navolato}
+  - {name: Sinaloa}
+  - {name: Tamaulipas}
+  - {name: Topolobampo}
+  - {name: Verde}
+  code: '25'
+  name: Sinaloa
+- cities:
+  - {name: ''}
+  - {name: Agua Prieta}
+  - {name: B}
+  - {name: Bah}
+  - {name: Baychicove}
+  - {name: Caborca}
+  - {name: Cananea}
+  - {name: Coyoacan}
+  - {name: Empalme}
+  - {name: Etchojoa}
+  - {name: Gaona}
+  - {name: Guaymas}
+  - {name: Hacienda La Poza}
+  - {name: Hermosillo}
+  - {name: Huatabampo}
+  - {name: Janos}
+  - {name: Kino}
+  - {name: La Coste}
+  - {name: Magdalena De Kino}
+  - {name: Moctezuma}
+  - {name: Nacozari}
+  - {name: Navojoa}
+  - {name: Nogales}
+  - {name: Obregon}
+  - {name: Providencia}
+  - {name: Puerto Pe}
+  - {name: Salazar}
+  - {name: San Luis R}
+  - {name: Santa Ana}
+  - {name: Ures}
+  code: '26'
+  name: Sonora
+- cities:
+  - {name: Aquiles Serd}
+  - {name: C}
+  - {name: Colonia}
+  - {name: Comalcalco}
+  - {name: Cuajimalpa}
+  - {name: Cunduac}
+  - {name: Estado De M}
+  - {name: Huimanguillo}
+  - {name: Jalisco}
+  - {name: Jalpa}
+  - {name: Macultepec}
+  - {name: Macuspana}
+  - {name: Michoac}
+  - {name: Miguel}
+  - {name: Nacajuca}
+  - {name: Para}
+  - {name: Pedro}
+  - {name: Quintana Roo}
+  - {name: Santa Apolonia}
+  - {name: Sonora}
+  - {name: Teapa}
+  - {name: Tenosique}
+  - {name: Villahermosa}
+  code: '27'
+  name: Tabasco
+- cities:
+  - {name: Aldama}
+  - {name: Altamira}
+  - {name: Ciudad Madero}
+  - {name: Ciudad Mante}
+  - {name: Coahuila}
+  - {name: El Mante}
+  - {name: Gonz}
+  - {name: Graciano S}
+  - {name: Guerrero}
+  - {name: Guzm}
+  - {name: Laredo}
+  - {name: Manuel}
+  - {name: Matamoros}
+  - {name: Mier}
+  - {name: Nuevo Laredo}
+  - {name: R}
+  - {name: Reynosa}
+  - {name: San Fernando}
+  - {name: Tampico}
+  - {name: Tula}
+  - {name: Valle Hermoso}
+  - {name: Xicot}
+  code: '28'
+  name: Tamaulipas
+- cities:
+  - {name: Amaxac}
+  - {name: Apetatitl}
+  - {name: Apizaco}
+  - {name: Calpulalpan}
+  - {name: Chiautempan}
+  - {name: Colonia Del Valle}
+  - {name: Contla}
+  - {name: Huamantla}
+  - {name: Ixtacuixtla}
+  - {name: Panotla}
+  - {name: Sat}
+  - {name: Tepetitla}
+  - {name: Terrenate}
+  - {name: Tlaxcala}
+  - {name: Tlaxco}
+  - {name: Tocatl}
+  - {name: Xalostoc}
+  - {name: Xaltocan}
+  - {name: Zacatelco}
+  code: '29'
+  name: Tlaxcala
+- cities:
+  - {name: ''}
+  - {name: Acayucan}
+  - {name: Altotonga}
+  - {name: Alvarado}
+  - {name: Ant}
+  - {name: Banderilla}
+  - {name: Boca Del Monte}
+  - {name: Boca Del R}
+  - {name: C}
+  - {name: Calzada}
+  - {name: Cardel}
+  - {name: Catemaco}
+  - {name: Cazones}
+  - {name: Cerro Azul}
+  - {name: Chicontepec}
+  - {name: Coatepec}
+  - {name: Coatzacoalcos}
+  - {name: Cosamaloapan}
+  - {name: Cosolapa}
+  - {name: Cosoleacaque}
+  - {name: Fort}
+  - {name: Huatusco}
+  - {name: Isla}
+  - {name: Ixhuatlancillo}
+  - {name: Jalacingo}
+  - {name: Las Vigas}
+  - {name: Mart}
+  - {name: Minatitl}
+  - {name: Misantla}
+  - {name: Moralillo}
+  - {name: Nanchital}
+  - {name: Naolinco}
+  - {name: Naranjos}
+  - {name: Omealca}
+  - {name: Orizaba}
+  - {name: P}
+  - {name: Papantla}
+  - {name: Paso Del Macho}
+  - {name: Perote}
+  - {name: Piedras Negras}
+  - {name: Plan De Arroyos}
+  - {name: Plat}
+  - {name: Poza Rica}
+  - {name: Pueblo}
+  - {name: Roma}
+  - {name: Saltabarranca}
+  - {name: San Rafael}
+  - {name: Santiago Tuxtla}
+  - {name: Soconusco}
+  - {name: Tamal}
+  - {name: Tampico}
+  - {name: Tantoyuca}
+  - {name: Tempoal}
+  - {name: Tihuatl}
+  - {name: Tlacotalpan}
+  - {name: Tlapacoyan}
+  - {name: Totolapa}
+  - {name: Tuxpan De Rodr}
+  - {name: Tuxtla}
+  - {name: Ursulo Galv}
+  - {name: Veracruz}
+  - {name: Xalapa}
+  - {name: Zaragoza}
+  - {name: Zontecomatl}
+  code: '30'
+  name: Veracruz-Llave
+- cities:
+  - {name: Hunucm}
+  - {name: M}
+  - {name: Progreso}
+  - {name: Sacalum}
+  - {name: Um}
+  - {name: Valladolid}
+  code: '31'
+  name: Yucatan
+- cities:
+  - {name: Apozol}
+  - {name: Campos}
+  - {name: Dolores}
+  - {name: Fresnillo}
+  - {name: Huanusco}
+  - {name: Jerez}
+  - {name: Loreto}
+  - {name: Madero}
+  - {name: 'Manuel '}
+  - {name: Morelos}
+  - {name: Pabell}
+  - {name: Pozo De Gamboa}
+  - {name: R}
+  - {name: San Miguel}
+  - {name: Santa Fe}
+  - {name: Soledad}
+  - {name: Tabasco}
+  - {name: Tlaltenango}
+  - {name: Victor Rosales}
+  - {name: Zacatecas}
+  code: '32'
+  name: Zacatecas

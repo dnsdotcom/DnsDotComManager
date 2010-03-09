@@ -1,0 +1,2876 @@
+- cities:
+  - {name: Kurilsk}
+  - {name: Morozko}
+  - {name: Okeanskiy}
+  - {name: Yuzhno-kurilsk}
+  code: JA
+  name: ''
+- cities:
+  - {name: Ataki}
+  - {name: Doza}
+  - {name: Gent}
+  - {name: Grozny}
+  - {name: Lipatov}
+  - {name: Nazran}
+  - {name: Pari}
+  - {name: Pervomayskaya}
+  - {name: Zolotarev}
+  - {name: Zony}
+  code: CI
+  name: ''
+- cities:
+  - {name: Bratstvo}
+  - {name: Enem}
+  - {name: Giaginskaya}
+  - {name: Kolganov}
+  - {name: Koshel}
+  - {name: Maykop}
+  - {name: Medovyy}
+  - {name: Melekhov}
+  - {name: Michurina}
+  - {name: Sidorov}
+  - {name: Skvortsova}
+  - {name: Sultanov}
+  code: '01'
+  name: Adygeya, Republic of
+- cities:
+  - {name: Altaisk}
+  - {name: Barnaul}
+  - {name: Bazhova}
+  - {name: Bestuzheva}
+  - {name: Biysk}
+  - {name: Koreneva}
+  - {name: Lopareva}
+  - {name: Nagornyy}
+  - {name: Ogni}
+  - {name: Ozerki}
+  - {name: Razvedka}
+  - {name: Rubtsovsk}
+  - {name: Sibirskiy}
+  - {name: Slavgorod}
+  - {name: Sorokino}
+  - {name: Tishinskiy}
+  - {name: Yuzhnyy}
+  - {name: Zarinsk}
+  code: '04'
+  name: Altaisky krai
+- cities:
+  - {name: Aktay}
+  - {name: Amurskiy}
+  - {name: Belogore}
+  - {name: Belogorsk}
+  - {name: Blagoveshchensk}
+  - {name: Dmitrovka}
+  - {name: Konstantinovka}
+  - {name: Leontyevskiy}
+  - {name: Magdagachi}
+  - {name: Progress}
+  - {name: Shimanovsk}
+  - {name: Sivak}
+  - {name: Skovorodino}
+  - {name: Talakan}
+  - {name: Tolmachev}
+  - {name: Troitskoe}
+  - {name: Tynda}
+  - {name: Ukraina}
+  - {name: Yakutskaya}
+  code: '05'
+  name: Amur
+- cities:
+  - {name: Archangel}
+  - {name: Archangelsk}
+  - {name: Argunovskaya}
+  - {name: Arkhangelsk}
+  - {name: Butyrskaya}
+  - {name: Irta}
+  - {name: Koryazhma}
+  - {name: Kotlas}
+  - {name: Losevskaya}
+  - {name: Pervomayskiy}
+  - {name: Severodvinsk}
+  - {name: Shasta}
+  - {name: Storona}
+  - {name: Strazha}
+  - {name: Tegra}
+  - {name: Varvarskaya}
+  - {name: Yakovlevskiy}
+  - {name: Yartsevskaya}
+  code: '06'
+  name: Arkhangel'sk
+- cities:
+  - {name: Akhtubinsk}
+  - {name: Alga}
+  - {name: Astrakhan}
+  - {name: Babkin}
+  - {name: Delta}
+  - {name: Dushin}
+  - {name: Gromov}
+  - {name: Gromova}
+  - {name: Kononenko}
+  - {name: Konovalov}
+  - {name: Konovalova}
+  - {name: Kotov}
+  - {name: Kurort}
+  - {name: Mashkin}
+  - {name: Nachalo}
+  - {name: Piskunov}
+  - {name: Russk}
+  - {name: Solyanka}
+  - {name: Taran}
+  - {name: Vladimirov}
+  code: '07'
+  name: Astrakhan'
+- cities:
+  - {name: Amir}
+  - {name: Askarovo}
+  - {name: Babich}
+  - {name: Bakalinskiy}
+  - {name: Belebey}
+  - {name: Beloretsk}
+  - {name: Birsk}
+  - {name: Ishimbay}
+  - {name: Kameya}
+  - {name: Kamnya}
+  - {name: Konstantinova}
+  - {name: Krasnaya Gorka}
+  - {name: Kumertau}
+  - {name: Ladon}
+  - {name: Meleuz}
+  - {name: Neftekamsk}
+  - {name: Oktyabrskiy}
+  - {name: Rada}
+  - {name: Ryaz}
+  - {name: Saitova}
+  - {name: Salavat}
+  - {name: Satra}
+  - {name: Ser}
+  - {name: Sharan}
+  - {name: Sibay}
+  - {name: Sterlitamak}
+  - {name: Tuimazy}
+  - {name: Uchaly}
+  - {name: Ufa}
+  - {name: Varshavka}
+  - {name: Vavilovo}
+  - {name: Yanaul}
+  - {name: Zara}
+  code: 08
+  name: Bashkortostan
+- cities:
+  - {name: Bankovskiy}
+  - {name: Belgorod}
+  - {name: Belozerov}
+  - {name: Borisovka}
+  - {name: Davydkin}
+  - {name: Golubtsov}
+  - {name: Ivnya}
+  - {name: Kalitva}
+  - {name: Kazachya}
+  - {name: Kulakov}
+  - {name: Nina}
+  - {name: Prioskolye}
+  - {name: Proletarskiy}
+  - {name: Pskovskaya}
+  - {name: Safonov}
+  - {name: Semeynyy}
+  - {name: Shebekino}
+  - {name: Shramkov}
+  - {name: Stary Oskol}
+  - {name: Staryy Oskol}
+  - {name: Stroitel}
+  - {name: Valuyki}
+  code: 09
+  name: Belgorod
+- cities:
+  - {name: Alen}
+  - {name: Blagovest}
+  - {name: Borschev}
+  - {name: Bryansk}
+  - {name: Bubnov}
+  - {name: Deryugina}
+  - {name: Desnitsa}
+  - {name: Dubrovka}
+  - {name: Klintsy}
+  - {name: Korma}
+  - {name: Korosteleva}
+  - {name: Lozovy}
+  - {name: Makarena}
+  - {name: Mechta}
+  - {name: Opten}
+  - {name: Petrovskogo}
+  - {name: Ratnaya}
+  - {name: Rozonov}
+  - {name: Sevsk}
+  - {name: Star}
+  - {name: Strazh}
+  - {name: Stroganov}
+  - {name: Timoshkin}
+  - {name: Troyan}
+  - {name: Unecha}
+  - {name: Zemlya}
+  - {name: Zhukovka}
+  code: '10'
+  name: Bryansk
+- cities:
+  - {name: Alan}
+  - {name: Altan}
+  - {name: Barykina}
+  - {name: Berezovski}
+  - {name: Boyarskiy}
+  - {name: China}
+  - {name: Kamensk}
+  - {name: Kargina}
+  - {name: Mozhayka}
+  - {name: Nadezhdinskiy}
+  - {name: Narin}
+  - {name: Nizhneangarsk}
+  - {name: Selenga}
+  - {name: Severobaykalsk}
+  - {name: Ugolnaya}
+  - {name: Ulan-ude}
+  - {name: Vesely}
+  code: '11'
+  name: Buryat
+- cities:
+  - {name: Asha}
+  - {name: Bekhtereva}
+  - {name: Bulygin}
+  - {name: Cheliabinsk}
+  - {name: Chelyabinsk}
+  - {name: Chelyabinsk-70}
+  - {name: Gribanov}
+  - {name: Gribanovka}
+  - {name: Karmanov}
+  - {name: Kopeisk}
+  - {name: Kopeysk}
+  - {name: Krasnogorskiy}
+  - {name: Kyshtym}
+  - {name: Leontyev}
+  - {name: Magnitogorsk}
+  - {name: Miass}
+  - {name: Mini}
+  - {name: Osipov}
+  - {name: Plast}
+  - {name: Postnikova}
+  - {name: Roza}
+  - {name: Satka}
+  - {name: Snezhinsk}
+  - {name: Sobolev}
+  - {name: Temir}
+  - {name: Timiryazevskiy}
+  - {name: Troitsk}
+  - {name: Ust-katav}
+  - {name: Varshavskiy}
+  - {name: Yuzhnouralsk}
+  - {name: Zapovednik}
+  - {name: Zlatoust}
+  - {name: Zotova}
+  code: '13'
+  name: Chelyabinsk
+- cities:
+  - {name: Arta}
+  - {name: Borzya}
+  - {name: Chara}
+  - {name: Chita}
+  - {name: Gagarinski}
+  - {name: Kommunalnaya}
+  - {name: Krasnokamensk}
+  - {name: Kuanda}
+  - {name: Moron}
+  - {name: Novaya Chara}
+  - {name: Olovyannaya}
+  - {name: Saman}
+  - {name: Smolenka}
+  - {name: Starik}
+  - {name: Tupik}
+  - {name: Vershino-darasunskiy}
+  code: '14'
+  name: Chita
+- cities:
+  - {name: Anadyr}
+  - {name: Anadyrskiy}
+  - {name: Avan}
+  - {name: Bilibino}
+  - {name: Leningradskiy}
+  - {name: Petushkova}
+  - {name: Shmidta}
+  code: '15'
+  name: Chukot
+- cities:
+  - {name: Cheboksary}
+  - {name: Ekonom}
+  - {name: Inel}
+  - {name: Lipovaya}
+  - {name: Molniya}
+  - {name: Novocheboksarsk}
+  - {name: Samol}
+  - {name: Shumerlya}
+  code: '16'
+  name: Chuvashia
+- cities:
+  - {name: Aral}
+  - {name: Assa}
+  - {name: Derbent}
+  - {name: Dubki}
+  - {name: Geba}
+  - {name: Giba}
+  - {name: Imeni}
+  - {name: Inko}
+  - {name: Ismail}
+  - {name: Kare}
+  - {name: Kina}
+  - {name: Kizlyar}
+  - {name: Makhachkala}
+  - {name: Maran}
+  - {name: Nita}
+  - {name: Samur}
+  - {name: Sanatoriy}
+  - {name: Sulak}
+  - {name: Urma}
+  code: '17'
+  name: Dagestan
+- cities:
+  - {name: Baykit}
+  - {name: Noginskiy}
+  - {name: Tura}
+  - {name: Vanavara}
+  code: '18'
+  name: Evenk
+- cities:
+  - {name: Gorno-altaysk}
+  code: '03'
+  name: Gorno-Altay
+- cities:
+  - {name: Angarsk}
+  - {name: Baikal}
+  - {name: Bayer}
+  - {name: Baykal}
+  - {name: Bratsk}
+  - {name: Burman}
+  - {name: Filipovskiy}
+  - {name: Irkutsk}
+  - {name: Kuda}
+  - {name: Mama}
+  - {name: Maral}
+  - {name: Mariya}
+  - {name: Nikishina}
+  - {name: Nizhneudinsk}
+  - {name: Ovchinnikovskiy}
+  - {name: Palati}
+  - {name: Perfilyeva}
+  - {name: Pushkinskiy}
+  - {name: Sedova}
+  - {name: Shelekhov}
+  - {name: Sludyanka}
+  - {name: Taishet}
+  - {name: Telma}
+  - {name: Ust-ilimsk}
+  - {name: Ust-kut}
+  - {name: Vikhorevka}
+  - {name: Zima}
+  code: '20'
+  name: Irkutsk
+- cities:
+  - {name: Fedyakovo}
+  - {name: Ivanovo}
+  - {name: Izmailovo}
+  - {name: Kineshma}
+  - {name: Komsomolsk}
+  - {name: Nogina}
+  - {name: Novinka}
+  - {name: Novinki}
+  - {name: Novoye}
+  - {name: Osipenko}
+  - {name: Petrovskiy}
+  - {name: Puchezh}
+  - {name: Savino}
+  - {name: Shuya}
+  - {name: Teykovo}
+  - {name: Yakimanka}
+  code: '21'
+  name: Ivanovo
+- cities:
+  - {name: Arik}
+  - {name: Kabardino}
+  - {name: Minskiy}
+  - {name: Nalchik}
+  - {name: Soldatskaya}
+  - {name: Uchebnyy}
+  code: '22'
+  name: Kabardin-Balkar
+- cities:
+  - {name: Baltiysk}
+  - {name: Borskoe}
+  - {name: Brandenburg}
+  - {name: Divnoe}
+  - {name: Gusev}
+  - {name: Kaliningrad}
+  - {name: Krasnogorskoe}
+  - {name: Krasnolesye}
+  - {name: Krasnoznamensk}
+  - {name: Kunts}
+  - {name: Lermontova}
+  - {name: Neman}
+  - {name: Ochakovo}
+  - {name: Olhovatka}
+  - {name: Otradnoe}
+  - {name: Pravdinsk}
+  - {name: Primorskoe}
+  - {name: Sadovo}
+  - {name: Sovetsk}
+  - {name: Svetlyy}
+  - {name: Tushino}
+  - {name: Veseloe}
+  - {name: Yantarnyy}
+  code: '23'
+  name: Kaliningrad
+- cities:
+  - {name: Belozerskaya}
+  - {name: Elista}
+  - {name: Lunev}
+  - {name: Magna}
+  - {name: Medintsev}
+  - {name: Santa}
+  - {name: Sidorenko}
+  - {name: Sosta}
+  - {name: Utta}
+  - {name: Zvezdnyy}
+  code: '24'
+  name: Kalmyk
+- cities:
+  - {name: Akulovo}
+  - {name: Amur}
+  - {name: Balabanovo}
+  - {name: Bardina}
+  - {name: Bolotnaya}
+  - {name: Borets}
+  - {name: Borovsk}
+  - {name: Dary}
+  - {name: Dmitrovskiy}
+  - {name: Dolina}
+  - {name: Golovanov}
+  - {name: Gorlovka}
+  - {name: Kaluga}
+  - {name: Kashino}
+  - {name: Kl}
+  - {name: Klyuch}
+  - {name: Koptevo}
+  - {name: Krasny}
+  - {name: Kudinovo}
+  - {name: Kudrinskaya}
+  - {name: Kurbatova}
+  - {name: Lapina}
+  - {name: Levshina}
+  - {name: Luch}
+  - {name: Lva Tolstogo}
+  - {name: Lyublino}
+  - {name: Maloyaroslavets}
+  - {name: Mamonovskiy}
+  - {name: Marina}
+  - {name: Morozova}
+  - {name: Mosur}
+  - {name: Naumova}
+  - {name: Nikitinskaya}
+  - {name: Obninsk}
+  - {name: Ozero}
+  - {name: Ozersk}
+  - {name: Panov}
+  - {name: Petelino}
+  - {name: Polyanka}
+  - {name: Protasovo}
+  - {name: Puchkovo}
+  - {name: Pushkina}
+  - {name: Riga}
+  - {name: Rosha}
+  - {name: Roshcha}
+  - {name: Rostovskiy}
+  - {name: Rzh}
+  - {name: Sazonova}
+  - {name: Semenovskaya}
+  - {name: Sevastopol}
+  - {name: Sheremetyevo}
+  - {name: Shishkov}
+  - {name: Sosenskiy}
+  - {name: Spas}
+  - {name: Splav}
+  - {name: Stanki}
+  - {name: Svet}
+  - {name: Tolmacheva}
+  - {name: Usovo}
+  - {name: Vysokaya}
+  - {name: Zabelin}
+  - {name: Zhukovo}
+  - {name: Zyuzino}
+  code: '25'
+  name: Kaluga
+- cities:
+  - {name: Dyakonova}
+  - {name: Kluchi}
+  - {name: Petropavlovsk-kamchatskiy}
+  - {name: Preobrazhenskoe}
+  - {name: Yelizovo}
+  code: '26'
+  name: Kamchatka
+- cities:
+  - {name: Arkhyz}
+  - {name: Cherkessk}
+  - {name: Itkol}
+  - {name: Kavkazskiy}
+  - {name: Krasnogorskaya}
+  - {name: Rodnik}
+  - {name: Storozhevaya}
+  - {name: Teply}
+  - {name: Zhako}
+  code: '27'
+  name: Karachay-Cherkess
+- cities:
+  - {name: Alanga}
+  - {name: Chkalovskiy}
+  - {name: Chupa}
+  - {name: Dubova}
+  - {name: H}
+  - {name: Idel}
+  - {name: Kalgan}
+  - {name: Kondopoga}
+  - {name: Meriya}
+  - {name: Mikon}
+  - {name: Molodaya Gvardiya}
+  - {name: Niemi}
+  - {name: Ohta}
+  - {name: Parola}
+  - {name: Petrozavodsk}
+  - {name: Rinda}
+  - {name: Saha}
+  - {name: Segezha}
+  - {name: Sergievo}
+  - {name: Sila}
+  - {name: Sortavala}
+  - {name: Valaam}
+  - {name: Zapadnaya}
+  code: '28'
+  name: Karelia
+- cities:
+  - {name: Anzhero-sudzhensk}
+  - {name: Belovo}
+  - {name: Centralny}
+  - {name: Glavnyy}
+  - {name: Kemerovo}
+  - {name: Leninsk-kuznetskiy}
+  - {name: Mezhdurechensk}
+  - {name: Myski}
+  - {name: Nikitinskiy}
+  - {name: Novokuznetsk}
+  - {name: Orton}
+  - {name: Pioner}
+  - {name: Prokopyevsk}
+  - {name: Promyshlennaya}
+  - {name: Saga}
+  - {name: Sheregesh}
+  - {name: Spassk}
+  - {name: Taiga}
+  - {name: Tayga}
+  - {name: Toropova}
+  code: '29'
+  name: Kemerovo
+- cities:
+  - {name: Akon}
+  - {name: Alekseevka}
+  - {name: Amursk}
+  - {name: Aviagorodok}
+  - {name: Ayan}
+  - {name: Bikin}
+  - {name: Bogorodskaya}
+  - {name: Chegdomyn}
+  - {name: De-kastri}
+  - {name: Delfin}
+  - {name: Elban}
+  - {name: Gera}
+  - {name: Gran}
+  - {name: Irkutskaya}
+  - {name: Kabel}
+  - {name: Karamzina}
+  - {name: Katen}
+  - {name: Khabarovsk}
+  - {name: Khurba}
+  - {name: Komsomolsk-na-amure}
+  - {name: Kruglov}
+  - {name: Lazarev}
+  - {name: Litya}
+  - {name: Nekrasovka}
+  - {name: Okhotsk}
+  - {name: Poni}
+  - {name: Solnechnyy}
+  - {name: Sovetskaya Gavan}
+  - {name: Start}
+  - {name: Tatarstan}
+  - {name: Urgal}
+  - {name: Vanino}
+  - {name: Vasy}
+  - {name: Vyazemskaya}
+  code: '30'
+  name: Khabarovsk
+- cities:
+  - {name: Abakan}
+  - {name: Bait}
+  - {name: Chernogorsk}
+  - {name: Sayanogorsk}
+  - {name: Yuliya}
+  code: '31'
+  name: Khakass
+- cities:
+  - {name: Altay}
+  - {name: Igrim}
+  - {name: Khanty-mansiysk}
+  - {name: Kommunisticheskiy}
+  - {name: Korp}
+  - {name: Lugovoy}
+  - {name: Lyantor}
+  - {name: Megion}
+  - {name: Nefteyugansk}
+  - {name: Nizhnevartovsk}
+  - {name: Novaya}
+  - {name: Nyagan}
+  - {name: Pava}
+  - {name: Salym}
+  - {name: Sklad}
+  - {name: Solka}
+  - {name: Sovetskiy}
+  - {name: Supra}
+  - {name: Surgut}
+  - {name: Uray}
+  - {name: Vershina}
+  - {name: Yugorsk}
+  code: '32'
+  name: Khanty-Mansiy
+- cities:
+  - {name: Baranovo}
+  - {name: Beregovaya}
+  - {name: Bumazhnyy}
+  - {name: Cher}
+  - {name: Chernaya Rechka}
+  - {name: Darovskoy}
+  - {name: Dubrovskiy}
+  - {name: Golovinskaya}
+  - {name: Gorodok}
+  - {name: Gubich}
+  - {name: Guli}
+  - {name: Internatsional}
+  - {name: Karaseva}
+  - {name: Khimik}
+  - {name: Kirov}
+  - {name: Kirovo-chepetsk}
+  - {name: Kirs}
+  - {name: Korovino}
+  - {name: Koshel}
+  - {name: Kosino}
+  - {name: Kotelnich}
+  - {name: Kryukovo}
+  - {name: Kumeny}
+  - {name: Lena}
+  - {name: Lodeyno}
+  - {name: Luza}
+  - {name: Malmyzh}
+  - {name: Medvedkovo}
+  - {name: Metrostroy}
+  - {name: Moskovskaya}
+  - {name: Murashi}
+  - {name: Nolinsk}
+  - {name: Novik}
+  - {name: Oktyabr}
+  - {name: Omutninsk}
+  - {name: Orichi}
+  - {name: Rubtsovo}
+  - {name: Sadovaya}
+  - {name: Sanchursk}
+  - {name: Shina}
+  - {name: Slobodskoy}
+  - {name: Spasskaya}
+  - {name: Svoboda}
+  - {name: Urzhum}
+  - {name: Usad}
+  - {name: Vershiny}
+  - {name: Vyatskiy}
+  - {name: Yaransk}
+  - {name: Zarya}
+  - {name: Zavodskaya}
+  - {name: Zayats}
+  - {name: Zuevka}
+  code: '33'
+  name: Kirov
+- cities:
+  - {name: Akis}
+  - {name: Dzhel}
+  - {name: Golovin}
+  - {name: Ivanchik}
+  - {name: Karavannaya}
+  - {name: Koptyuga}
+  - {name: Kozlovskaya}
+  - {name: Maksim}
+  - {name: Parma}
+  - {name: Pechora}
+  - {name: Pochtovy}
+  - {name: Promyshlennyy}
+  - {name: Respublika}
+  - {name: Severnyy}
+  - {name: Sosnogorsk}
+  - {name: Soveta}
+  - {name: Syktyvkar}
+  - {name: Syktywkar}
+  - {name: Trakt}
+  - {name: Ukhta}
+  - {name: Usinsk}
+  - {name: Vavilon}
+  - {name: Vavilov}
+  - {name: Viktor}
+  - {name: Vorkuta}
+  - {name: Zheleznodorozhnyy}
+  code: '34'
+  name: Komi
+- cities:
+  - {name: Abramova}
+  - {name: Aleksandrova}
+  - {name: Baranova}
+  - {name: Ber}
+  - {name: Borisova}
+  - {name: D}
+  - {name: Danilova}
+  - {name: Davydova}
+  - {name: Fedorova}
+  - {name: Fedotova}
+  - {name: Fokina}
+  - {name: Gorki}
+  - {name: Kalinina}
+  - {name: Kasatkina}
+  - {name: Kisel}
+  - {name: Kiselevo}
+  - {name: Komarova}
+  - {name: Kosa}
+  - {name: Kozlova}
+  - {name: Krasnoyar}
+  - {name: Kudymkar}
+  - {name: Larina}
+  - {name: Maksimova}
+  - {name: Melnikova}
+  - {name: Mironova}
+  - {name: Mitino}
+  - {name: Monastyr}
+  - {name: Naberezhnaya}
+  - {name: Nagornaya}
+  - {name: Nekrasova}
+  - {name: Nikitina}
+  - {name: Odin}
+  - {name: Piter}
+  - {name: Potapova}
+  - {name: Rogozina}
+  - {name: Romanova}
+  - {name: Savina}
+  - {name: Sibir}
+  - {name: Stepanova}
+  - {name: Tarasova}
+  - {name: Titova}
+  - {name: Trifonova}
+  - {name: Voronovo}
+  - {name: Yagodina}
+  - {name: Yakusheva}
+  - {name: Zarubina}
+  - {name: Zhukova}
+  code: '35'
+  name: Komi-Permyak
+- cities:
+  - {name: Dana}
+  - {name: Kooperativ}
+  - {name: Korf}
+  - {name: Rusakov}
+  code: '36'
+  name: Koryak
+- cities:
+  - {name: Darina}
+  - {name: Kalinka}
+  - {name: Kostroma}
+  - {name: Metallist}
+  - {name: Samet}
+  - {name: Viga}
+  - {name: Voch}
+  code: '37'
+  name: Kostroma
+- cities:
+  - {name: Afipskiy}
+  - {name: Alexandrovsk}
+  - {name: Anapa}
+  - {name: Anapskaya}
+  - {name: Armavir}
+  - {name: Armyanskiy}
+  - {name: Azovskaya}
+  - {name: Bakinskaya}
+  - {name: Belikov}
+  - {name: Belorechensk}
+  - {name: Belorusskiy}
+  - {name: Belousov}
+  - {name: Berezhnoy}
+  - {name: Borisenko}
+  - {name: Borodinskaya}
+  - {name: Chernikov}
+  - {name: Chernov}
+  - {name: Chkalova}
+  - {name: Chuykova}
+  - {name: Dneprovskaya}
+  - {name: Dolgopolov}
+  - {name: Ekonomicheskiy}
+  - {name: Engelsa}
+  - {name: Fedorenko}
+  - {name: Fokin}
+  - {name: Frunze}
+  - {name: Gelendzhik}
+  - {name: Gogolya}
+  - {name: Golovko}
+  - {name: Gorkogo}
+  - {name: Grazhdanskaya}
+  - {name: Grazhdanskiy}
+  - {name: Grishkov}
+  - {name: Ilskiy}
+  - {name: Istomin}
+  - {name: Ivanovskaya}
+  - {name: Izmaylov}
+  - {name: Izmaylovskiy}
+  - {name: Kado}
+  - {name: Kaluzhskaya}
+  - {name: Kanevskaya}
+  - {name: Kapustin}
+  - {name: Kars}
+  - {name: Kavkaz}
+  - {name: Kazanskaya}
+  - {name: Khadyzhensk}
+  - {name: Khutorskaya}
+  - {name: Kievskaya}
+  - {name: Kirpichniy}
+  - {name: Kolesnikov}
+  - {name: Kolosov}
+  - {name: Koloss}
+  - {name: Komsomolskaya}
+  - {name: Krasnoarmeyskaya}
+  - {name: Krasnodar}
+  - {name: Kravchenko}
+  - {name: Kropotkin}
+  - {name: Krupskaya}
+  - {name: Krymskaya}
+  - {name: Kuban}
+  - {name: Kubanskaya}
+  - {name: Kurganinsk}
+  - {name: Kurgannaya}
+  - {name: Kuzmin}
+  - {name: Labinsk}
+  - {name: Lenin}
+  - {name: Lenina}
+  - {name: Leningradskaya}
+  - {name: Lesogorskaya}
+  - {name: Levchenko}
+  - {name: Lopatina}
+  - {name: Lotos}
+  - {name: Lukash}
+  - {name: Lukin}
+  - {name: Lunacharskiy}
+  - {name: Lunacharskogo}
+  - {name: Malko}
+  - {name: Marchenko}
+  - {name: Medvedovskaya}
+  - {name: Mikoyan}
+  - {name: Milyutinskiy}
+  - {name: Mira}
+  - {name: Mirny}
+  - {name: Naumenko}
+  - {name: Neftyanaya}
+  - {name: Nekrasov}
+  - {name: Nekrasovskaya}
+  - {name: Nikitin}
+  - {name: Nizhegorodskaya}
+  - {name: Novoivanovskaya}
+  - {name: Novokubansk}
+  - {name: Novopetrovskaya}
+  - {name: Novorossiisk}
+  - {name: Novorossisk}
+  - {name: Novorossiysk}
+  - {name: Novotitarovskaya}
+  - {name: Novoukrainskiy}
+  - {name: Novy}
+  - {name: Oazis}
+  - {name: Ogorodnyy}
+  - {name: Oktyabrskaya}
+  - {name: Ordzhonikidze}
+  - {name: Osenniy}
+  - {name: Otradnaya}
+  - {name: Ovsyannikov}
+  - {name: Parkovyy}
+  - {name: Partizanskiy}
+  - {name: Pavlovskaya}
+  - {name: Pereyaslavskaya}
+  - {name: Petropavlovskaya}
+  - {name: Petrovskaya}
+  - {name: Poltavskaya}
+  - {name: Pomorskiy}
+  - {name: Primorye}
+  - {name: Pyatigorskaya}
+  - {name: Rekord}
+  - {name: Reshetnikov}
+  - {name: Rogacheva}
+  - {name: Rossiyskiy}
+  - {name: Rudakov}
+  - {name: Rudnev}
+  - {name: Ryazanskaya}
+  - {name: Semenyuk}
+  - {name: Severny}
+  - {name: Slavyansk-na-kubani}
+  - {name: Slavyanskaya}
+  - {name: Slavyanskiy}
+  - {name: Smolenskaya}
+  - {name: Sochi}
+  - {name: Sorokin}
+  - {name: Sovetskaya}
+  - {name: Stavropolskaya}
+  - {name: Stepnaya}
+  - {name: Suzdalskaya}
+  - {name: Timashevsk}
+  - {name: Trofimov}
+  - {name: Tuapse}
+  - {name: Tverskaya}
+  - {name: Tverskoy}
+  - {name: Umanskiy}
+  - {name: Ust-labinsk}
+  - {name: Utro}
+  - {name: Vestnik}
+  - {name: Vladimirskaya}
+  - {name: Vnukovskiy}
+  - {name: Voronezhskaya}
+  - {name: Vorontsovskaya}
+  - {name: Vostochny}
+  - {name: Voznesenskaya}
+  - {name: Vper}
+  - {name: Vtoroy}
+  - {name: Yaroslavskaya}
+  - {name: Yeysk}
+  - {name: Yupiter}
+  - {name: Zapadny}
+  - {name: Zhukov}
+  - {name: Zinchenko}
+  - {name: Zorin}
+  - {name: Zubkov}
+  code: '38'
+  name: Krasnodar
+- cities:
+  - {name: Achinsk}
+  - {name: Artemovski}
+  - {name: Batov}
+  - {name: Belorusskaya}
+  - {name: Ber}
+  - {name: Beret}
+  - {name: Boguchany}
+  - {name: Borodino}
+  - {name: Divnogorsk}
+  - {name: Elita}
+  - {name: Kamchatka}
+  - {name: Kansk}
+  - {name: Kodinsk}
+  - {name: Kova}
+  - {name: Krasnoselskaya}
+  - {name: Krasnoyarsk}
+  - {name: Kruglova}
+  - {name: Kulakova}
+  - {name: Lazareva}
+  - {name: Lesosibirsk}
+  - {name: Mana}
+  - {name: Maslennikova}
+  - {name: Medveda}
+  - {name: Medvedeva}
+  - {name: Melnichnaya}
+  - {name: Merkulova}
+  - {name: Minsk}
+  - {name: Minskaya}
+  - {name: Minusinsk}
+  - {name: Narva}
+  - {name: Norilsk}
+  - {name: Parshina}
+  - {name: Pereyaslavka}
+  - {name: Pogranichnaya}
+  - {name: Potanina}
+  - {name: Serebryakova}
+  - {name: Sharypovo}
+  - {name: Shoshina}
+  - {name: Sosnovoborsk}
+  - {name: Sotnikova}
+  - {name: Strelka}
+  - {name: Svetlogorsk}
+  - {name: Tatarskaya}
+  - {name: Tayninskaya}
+  - {name: Tiny}
+  - {name: Tuba}
+  - {name: Tulskaya}
+  - {name: Ural}
+  - {name: Uyar}
+  - {name: Zaliv}
+  - {name: Zaozerka}
+  code: '39'
+  name: Krasnoyarsk
+- cities:
+  - {name: Chistoprudnyy}
+  - {name: Gvardeyskaya}
+  - {name: Koleso}
+  - {name: Kurgan}
+  - {name: Lenskaya}
+  - {name: Maslyanaya}
+  - {name: Mokrushina}
+  - {name: Neftyanikov}
+  - {name: Redut}
+  - {name: Rynki}
+  - {name: Sadovod}
+  - {name: Shadrinsk}
+  - {name: Sirenevyy}
+  code: '40'
+  name: Kurgan
+- cities:
+  - {name: Belaya}
+  - {name: Domra}
+  - {name: Ivanovskoe}
+  - {name: Katerina}
+  - {name: Kauchuk}
+  - {name: Kurchatov}
+  - {name: Kursk}
+  - {name: Lisitsyn}
+  - {name: Nartova}
+  - {name: Organizatsiya}
+  - {name: Pilyugina}
+  - {name: Tsukanov}
+  - {name: Zhadina}
+  - {name: Zheleznogorsk}
+  code: '41'
+  name: Kursk
+- cities:
+  - {name: Aptekarskiy}
+  - {name: Balandina}
+  - {name: Bronnaya}
+  - {name: Cherno}
+  - {name: Derevnya}
+  - {name: Fabrichnaya}
+  - {name: Fominskaya}
+  - {name: Garbolovo}
+  - {name: Gatchina}
+  - {name: Gavan}
+  - {name: Gorbunki}
+  - {name: Gorchakovo}
+  - {name: Ivangorod}
+  - {name: Kingisepp}
+  - {name: Kirishi}
+  - {name: Kommunar}
+  - {name: Koshkina}
+  - {name: Krasina}
+  - {name: Krivko}
+  - {name: Kukol}
+  - {name: Ladoga}
+  - {name: Luga}
+  - {name: Lukinskaya}
+  - {name: M}
+  - {name: Matushkino}
+  - {name: Mega}
+  - {name: Mga}
+  - {name: More}
+  - {name: Myasokombinat}
+  - {name: Neva}
+  - {name: Nikulinskaya}
+  - {name: Oz}
+  - {name: Potok}
+  - {name: Primorsk}
+  - {name: Proba}
+  - {name: Proletarskaya}
+  - {name: Prosveshcheniye}
+  - {name: Prudi}
+  - {name: Pulkovo}
+  - {name: Repina}
+  - {name: Rodina}
+  - {name: Schl}
+  - {name: Senno}
+  - {name: Sertolovo}
+  - {name: Sestra}
+  - {name: Sherbinka}
+  - {name: Sinyavino}
+  - {name: Smolnaya}
+  - {name: Sobol}
+  - {name: Sosnovyy Bor}
+  - {name: Staraya}
+  - {name: Summa}
+  - {name: Tikhvin}
+  - {name: Topol}
+  - {name: Tosno}
+  - {name: Volkhov}
+  - {name: Volna}
+  - {name: Volosovo}
+  - {name: Voronina}
+  - {name: Vorota}
+  - {name: Vsevolozhsk}
+  - {name: Vybor}
+  - {name: Vyborg}
+  code: '42'
+  name: Leningrad
+- cities:
+  - {name: Avrora}
+  - {name: Dacha}
+  - {name: Lebedyan}
+  - {name: Lev Tolstoy}
+  - {name: Lipetsk}
+  - {name: Motor}
+  - {name: Myagkaya}
+  - {name: Pokrovskoe}
+  - {name: Pushkarskaya}
+  - {name: Solidarnost}
+  - {name: Usman}
+  - {name: Valova}
+  - {name: Zarechny}
+  - {name: Zeleny}
+  - {name: Zerno}
+  code: '43'
+  name: Lipetsk
+- cities:
+  - {name: Arman}
+  - {name: Dukat}
+  - {name: Magadan}
+  - {name: Pishchekombinat}
+  - {name: Pochtovaya}
+  - {name: Sportivnyy}
+  - {name: Taganka}
+  - {name: Vodopyanova}
+  - {name: Vozdushnaya}
+  - {name: Yana}
+  code: '44'
+  name: Magadan
+- cities:
+  - {name: Kirin}
+  - {name: Medvedevo}
+  - {name: Tair}
+  - {name: Volzhsk}
+  - {name: Yoshkar-ola}
+  code: '45'
+  name: Mariy-El
+- cities:
+  - {name: Aksel}
+  - {name: Insar}
+  - {name: Izvest}
+  - {name: Komsomolskiy}
+  - {name: Krasnaya Presnya}
+  - {name: Lady}
+  - {name: Lespromkhoz}
+  - {name: Maydan}
+  - {name: Ruzaevka}
+  - {name: Saransk}
+  - {name: Staryy Gorod}
+  - {name: Tatarskaya Pishlya}
+  - {name: Temnikov}
+  code: '46'
+  name: Mordovia
+- cities:
+  - {name: Biryul}
+  - {name: Degunino}
+  - {name: Kapotnya}
+  - {name: Khimki}
+  - {name: Lianozovo}
+  - {name: Mnevniki}
+  - {name: Moscou}
+  - {name: Moscow}
+  - {name: Moskau}
+  - {name: Nagatino}
+  - {name: Strogino}
+  - {name: Tropar}
+  - {name: Veshnyaki}
+  - {name: Vostochnyy}
+  - {name: Zelenograd}
+  - {name: Zyablikovo}
+  code: '48'
+  name: Moscow City
+- cities:
+  - {name: Aprelevka}
+  - {name: Barvikha}
+  - {name: Bolsh}
+  - {name: Bronnitsy}
+  - {name: Bykovo}
+  - {name: Ch}
+  - {name: Chashnikovo}
+  - {name: Chekhov}
+  - {name: Cherkizovo}
+  - {name: Chernogolovka}
+  - {name: Davydovo}
+  - {name: Dedenevo}
+  - {name: Dedovsk}
+  - {name: Demikhovo}
+  - {name: Dmitrov}
+  - {name: Dolgoprudnyy}
+  - {name: Domodedovo}
+  - {name: Dorogomilovo}
+  - {name: Druzhba}
+  - {name: Dubna}
+  - {name: Dzerzhinskiy}
+  - {name: Elektrogorsk}
+  - {name: Elektrostal}
+  - {name: Fili}
+  - {name: Fruktovaya}
+  - {name: Fryazino}
+  - {name: Galushkina}
+  - {name: Golyevo}
+  - {name: Ionova}
+  - {name: Istra}
+  - {name: Kashira}
+  - {name: Klimovsk}
+  - {name: Klin}
+  - {name: Klinskiy}
+  - {name: Klyazma}
+  - {name: Kokoshkino}
+  - {name: Kolchuga}
+  - {name: Kolomna}
+  - {name: Kolyubakino}
+  - {name: Kommunarka}
+  - {name: Konstantinovo}
+  - {name: Kotelniki}
+  - {name: Kraskovo}
+  - {name: Krasnogorsk}
+  - {name: Krasnozavodsk}
+  - {name: Kratovo}
+  - {name: Kubinka}
+  - {name: Kupavna}
+  - {name: Kutuzova}
+  - {name: L}
+  - {name: Larevo}
+  - {name: Lefortovo}
+  - {name: Lobnya}
+  - {name: Lublino}
+  - {name: Lugovaya}
+  - {name: Lytkarino}
+  - {name: Lyubertsy}
+  - {name: Malino}
+  - {name: Manezh}
+  - {name: Marfino}
+  - {name: Marushkino}
+  - {name: Monino}
+  - {name: Moskovskiy}
+  - {name: Mozhaisk}
+  - {name: Mozhaysk}
+  - {name: Mytishchi}
+  - {name: Mytishi}
+  - {name: Nakhabino}
+  - {name: Naro-fominsk}
+  - {name: Nemchinovka}
+  - {name: Noginsk}
+  - {name: Novopodrezkovo}
+  - {name: Odintsovo}
+  - {name: Orekhovo-zuevo}
+  - {name: Ostrovtsy}
+  - {name: Otdykh}
+  - {name: Pavlovskiy Posad}
+  - {name: Peredelkino}
+  - {name: Perlovka}
+  - {name: Podolsk}
+  - {name: Podushkino}
+  - {name: Povarovo}
+  - {name: Protvino}
+  - {name: Pushchino}
+  - {name: Pushkino}
+  - {name: Putilkovo}
+  - {name: Ramenskoe}
+  - {name: Ramenskoye}
+  - {name: Reutov}
+  - {name: Rostokino}
+  - {name: Rusa}
+  - {name: Ruza}
+  - {name: Saltykovka}
+  - {name: Selyatino}
+  - {name: Serpukhov}
+  - {name: Severyanin}
+  - {name: Shatura}
+  - {name: Sinitsy}
+  - {name: Sofrino}
+  - {name: Solnechnogorsk}
+  - {name: Solnechnogorskiy}
+  - {name: Staraya Kupavna}
+  - {name: Stolbovaya}
+  - {name: Stupino}
+  - {name: Sudakova}
+  - {name: Sverdlovskiy}
+  - {name: Sviblovo}
+  - {name: Tagankovo}
+  - {name: Taldom}
+  - {name: Tomilino}
+  - {name: Troitsk}
+  - {name: Tuchkovo}
+  - {name: Turist}
+  - {name: Vasilev}
+  - {name: Vatutinki}
+  - {name: Vidnoye}
+  - {name: Vnukovo}
+  - {name: Volokolamsk}
+  - {name: Volokolamskiy}
+  - {name: Voskresensk}
+  - {name: Vostryakovo}
+  - {name: Vysokovsk}
+  - {name: Zelenogradskiy}
+  - {name: Zheleznodorozhny}
+  - {name: Zhukovskogo}
+  - {name: Zhulebino}
+  - {name: Zvenigorod}
+  code: '47'
+  name: Moskva
+- cities:
+  - {name: Apatity}
+  - {name: Iona}
+  - {name: Kandalaksha}
+  - {name: Kirovsk}
+  - {name: Kola}
+  - {name: Livana}
+  - {name: Molochnyy}
+  - {name: Monchegorsk}
+  - {name: Murmansk}
+  - {name: Nikel}
+  - {name: Olenegorsk}
+  - {name: Rosta}
+  - {name: Severomorsk}
+  - {name: Stroiteley}
+  - {name: Titan}
+  code: '49'
+  name: Murmansk
+- cities:
+  - {name: Kononov}
+  - {name: Severnaya}
+  - {name: Shoina}
+  code: '50'
+  name: Nenets
+- cities:
+  - {name: Anda}
+  - {name: Arzamas}
+  - {name: Balakhna}
+  - {name: Bogorodsk}
+  - {name: Bor}
+  - {name: Burevestnik}
+  - {name: Dzerzhinsk}
+  - {name: Gorbatov}
+  - {name: Gorky}
+  - {name: Gorodets}
+  - {name: Inzhenernyy}
+  - {name: Khabarovskaya}
+  - {name: Kstovo}
+  - {name: Linda}
+  - {name: Lukoyanov}
+  - {name: Navashino}
+  - {name: Nizhni Novgorod}
+  - {name: Nizhniy Novgorod}
+  - {name: Ostankino}
+  - {name: Pavlovo}
+  - {name: Prudy}
+  - {name: Rakita}
+  - {name: Sarov}
+  - {name: Satis}
+  - {name: Sergach}
+  - {name: T}
+  - {name: Uren}
+  - {name: Volodarsk}
+  - {name: Vyksa}
+  - {name: Zavolzhye}
+  code: '51'
+  name: Nizhegorod
+- cities:
+  - {name: Beslan}
+  - {name: Detskiy}
+  - {name: Dzhizi}
+  - {name: Iran}
+  - {name: Iron}
+  - {name: Kosta}
+  - {name: Lars}
+  - {name: Lats}
+  - {name: Moska}
+  - {name: Nart}
+  - {name: Nort}
+  - {name: Orjonikidze}
+  - {name: Vladikavkaz}
+  - {name: Zavodskoi}
+  code: '68'
+  name: North Ossetia
+- cities:
+  - {name: Art}
+  - {name: Bereg}
+  - {name: Bryanskaya}
+  - {name: Burakova}
+  - {name: Chernyshova}
+  - {name: Chudovo}
+  - {name: Dorozhnaya}
+  - {name: Dorozhno}
+  - {name: Georgiy}
+  - {name: Gertsena}
+  - {name: Goncharova}
+  - {name: Kosaya}
+  - {name: Krest}
+  - {name: Krug}
+  - {name: Krupa}
+  - {name: Kudrovo}
+  - {name: Lipetsko}
+  - {name: Loseva}
+  - {name: Medved}
+  - {name: Novo}
+  - {name: Opochno}
+  - {name: Osko}
+  - {name: Parad}
+  - {name: Pererva}
+  - {name: Pirogova}
+  - {name: Podol}
+  - {name: Podolskaya}
+  - {name: Pola}
+  - {name: Polya}
+  - {name: Rechki}
+  - {name: Rekon}
+  - {name: Russkaya}
+  - {name: Sady}
+  - {name: Sofiya}
+  - {name: Staraya Russa}
+  - {name: Tokareva}
+  - {name: Transportnyy}
+  - {name: Trofimova}
+  - {name: Usadba}
+  - {name: Valday}
+  - {name: Vasil}
+  - {name: Velikiy Novgorod}
+  - {name: Vinogradovo}
+  - {name: Vitebskaya}
+  - {name: Vladykino}
+  - {name: Volot}
+  - {name: Vyatka}
+  - {name: Zakaznik}
+  code: '52'
+  name: Novgorod
+- cities:
+  - {name: Amba}
+  - {name: Antonova}
+  - {name: Artamonova}
+  - {name: Balta}
+  - {name: Barskiy}
+  - {name: Barsukova}
+  - {name: Belova}
+  - {name: Berdsk}
+  - {name: Buranova}
+  - {name: Chelyabinskiy}
+  - {name: Chernova}
+  - {name: Chik}
+  - {name: Danilovskiy}
+  - {name: Dorogino}
+  - {name: Dubrava}
+  - {name: Gagarinskiy}
+  - {name: Gornyy}
+  - {name: Granit}
+  - {name: Inder}
+  - {name: Inskaya}
+  - {name: Kadrov}
+  - {name: Kaluzhskiy}
+  - {name: Karasuk}
+  - {name: Karetnyy}
+  - {name: Kazanka}
+  - {name: Kazanskiy}
+  - {name: Krasnoobsk}
+  - {name: Kremlevskiy}
+  - {name: Kupino}
+  - {name: Kuznetsova}
+  - {name: Leningrad}
+  - {name: Maslyanino}
+  - {name: Mokhovaya}
+  - {name: Moshkovo}
+  - {name: Musa}
+  - {name: Musy}
+  - {name: Nagornoye}
+  - {name: Nazarova}
+  - {name: Nizhegorodskiy}
+  - {name: Novopeschanaya}
+  - {name: Novosibirsk}
+  - {name: Petrogradskiy}
+  - {name: Pika}
+  - {name: Plekhanova}
+  - {name: Plotnikova}
+  - {name: Razumovskiy}
+  - {name: Respublikanskiy}
+  - {name: Rozhdestvenka}
+  - {name: Rozhdestvenskiy}
+  - {name: Ryazanskiy}
+  - {name: Saratovskiy}
+  - {name: Saturn}
+  - {name: Sem}
+  - {name: Sever}
+  - {name: Sibirtseva}
+  - {name: Sibiryak}
+  - {name: Skala}
+  - {name: Smirnova}
+  - {name: Smolenskiy}
+  - {name: Sokolova}
+  - {name: Spasskiy}
+  - {name: Spiridonova}
+  - {name: Sputnik}
+  - {name: Sretenskaya}
+  - {name: Stepana Razina}
+  - {name: Sverdlova}
+  - {name: Teterinskiy}
+  - {name: Tolmach}
+  - {name: Valovaya}
+  - {name: Vasyugan}
+  - {name: Voykovskiy}
+  - {name: Voznesenskiy}
+  - {name: Vyatskaya}
+  - {name: Zaoz}
+  code: '53'
+  name: Novosibirsk
+- cities:
+  - {name: Beregovoy}
+  - {name: Forpost}
+  - {name: Gudok}
+  - {name: Isilkul}
+  - {name: Kalachinsk}
+  - {name: Myasnikova}
+  - {name: Ogorodny}
+  - {name: Omsk}
+  - {name: Pavlogradka}
+  - {name: Reneva}
+  - {name: Shukhova}
+  - {name: Tara}
+  code: '54'
+  name: Omsk
+- cities:
+  - {name: Babikova}
+  - {name: Degtyarnyy}
+  - {name: Glazunova}
+  - {name: Gubkino}
+  - {name: Ivan}
+  - {name: Komsomol}
+  - {name: Kreml}
+  - {name: Lgovskiy}
+  - {name: Liniya}
+  - {name: Litva}
+  - {name: Marin}
+  - {name: Mayaki}
+  - {name: Mikhn}
+  - {name: Murav}
+  - {name: Nagornay}
+  - {name: Or}
+  - {name: Shumova}
+  - {name: Step}
+  - {name: Students}
+  - {name: Taldykina}
+  - {name: Yablochkova}
+  - {name: Zhiguli}
+  code: '56'
+  name: Orel
+- cities:
+  - {name: Buzuluk}
+  - {name: Chkalov}
+  - {name: Elektrozavod}
+  - {name: Elektrozavodskoy}
+  - {name: Karaganda}
+  - {name: Konus}
+  - {name: Kostyukovskiy}
+  - {name: Krasnoyarskiy}
+  - {name: Luna}
+  - {name: Mednogorsk}
+  - {name: Miroshkin}
+  - {name: Orenburg}
+  - {name: Orsk}
+  - {name: Pershin}
+  - {name: Petrovski}
+  - {name: Portnov}
+  - {name: Prechistenka}
+  - {name: Prechistenskaya}
+  - {name: Prigorodnyy}
+  - {name: Prostory}
+  - {name: Rybin}
+  - {name: Saraktash}
+  - {name: Sarzhan}
+  - {name: Shabolovka}
+  - {name: Shar}
+  - {name: Sharlyk}
+  - {name: Trekhgorny}
+  - {name: Veselye}
+  code: '55'
+  name: Orenburg
+- cities:
+  - {name: Chasy}
+  - {name: Kera}
+  - {name: Kot}
+  - {name: Kuznetsk}
+  - {name: Mais}
+  - {name: Marat}
+  - {name: Mokshan}
+  - {name: Penza}
+  - {name: Sannikova}
+  - {name: Sura}
+  - {name: Tochka}
+  - {name: Vodoley}
+  code: '57'
+  name: Penza
+- cities:
+  - {name: Aleksandrovsk}
+  - {name: Almas}
+  - {name: Almaz}
+  - {name: Ashap}
+  - {name: Balashova}
+  - {name: Barda}
+  - {name: Berezniki}
+  - {name: Blinova}
+  - {name: Bolshakova}
+  - {name: Chaykovskiy}
+  - {name: Cherdyn}
+  - {name: Chermoz}
+  - {name: Chernushka}
+  - {name: Chusovoy}
+  - {name: Ferma}
+  - {name: Gornozavodsk}
+  - {name: Gremyachinsk}
+  - {name: Gromovoy}
+  - {name: Gubakha}
+  - {name: Kizel}
+  - {name: Kolchug}
+  - {name: Korsakova}
+  - {name: Krasnokamsk}
+  - {name: Krasnovishersk}
+  - {name: Krasoty}
+  - {name: Kueda}
+  - {name: Kungur}
+  - {name: Laki}
+  - {name: Lysva}
+  - {name: Nytva}
+  - {name: Ocher}
+  - {name: Pavlovskiy}
+  - {name: Perm}
+  - {name: Polazna}
+  - {name: Proryv}
+  - {name: Rudak}
+  - {name: Ryabinovaya}
+  - {name: Shnyrova}
+  - {name: Sivkova}
+  - {name: Solikamsk}
+  - {name: Sova}
+  - {name: Soya}
+  - {name: Soyuz}
+  - {name: T}
+  - {name: Triumf}
+  - {name: Uralskiy}
+  - {name: Ut}
+  - {name: Vavilova}
+  - {name: Vels}
+  - {name: Vereshchagino}
+  code: '58'
+  name: Perm'
+- cities:
+  - {name: Alexandrovka}
+  - {name: Ariadna}
+  - {name: Art}
+  - {name: Art}
+  - {name: Astrakhanka}
+  - {name: Avangard}
+  - {name: Ayaks}
+  - {name: Boguslavka}
+  - {name: Bolshoy Kamen}
+  - {name: Chernigovka}
+  - {name: Dalnegorsk}
+  - {name: Dalnerechensk}
+  - {name: Donskaya}
+  - {name: Fridman}
+  - {name: Galenki}
+  - {name: Grodekovo}
+  - {name: Kavalerovo}
+  - {name: Kiev}
+  - {name: Kirovskiy}
+  - {name: Kitay-gorod}
+  - {name: Konda}
+  - {name: Korsakovka}
+  - {name: Lazo}
+  - {name: Lesozavodsk}
+  - {name: Lubyanka}
+  - {name: Luchegorsk}
+  - {name: Nahodka}
+  - {name: Nakhodka}
+  - {name: Nevskaya}
+  - {name: Novgorod}
+  - {name: Novolitovsk}
+  - {name: Novonikolsk}
+  - {name: Novopokrovka}
+  - {name: Olga}
+  - {name: Ovchinnikova}
+  - {name: Partizansk}
+  - {name: Peretino}
+  - {name: Permskaya}
+  - {name: Peschanaya}
+  - {name: Pionerskaya}
+  - {name: Plastun}
+  - {name: Pokrovka}
+  - {name: Popova}
+  - {name: Posyet}
+  - {name: Primorskiy}
+  - {name: Romashka}
+  - {name: Russkiy}
+  - {name: Shmakovka}
+  - {name: Slavyanka}
+  - {name: Snezhnaya}
+  - {name: Stark}
+  - {name: Svetloe}
+  - {name: Temp}
+  - {name: Terney}
+  - {name: Tigrovaya}
+  - {name: Uborka}
+  - {name: Uglekamensk}
+  - {name: Uliss}
+  - {name: Ussuri}
+  - {name: Ussuriysk}
+  - {name: Valentin}
+  - {name: Valentina}
+  - {name: Vityaz}
+  - {name: Vladivostok}
+  - {name: Volchanets}
+  - {name: Vostok}
+  - {name: Vozdvizhenka}
+  - {name: Vrangel}
+  - {name: Vvedenskaya}
+  - {name: Yakovlevka}
+  - {name: Yaroslavskiy}
+  - {name: Zavodskoy}
+  - {name: Zharikovo}
+  - {name: Zolotaya Dolina}
+  - {name: Zv}
+  code: '59'
+  name: Primor'ye
+- cities:
+  - {name: Artemy}
+  - {name: Demyana Bednogo}
+  - {name: Kubok}
+  - {name: Ladygina}
+  - {name: Lebedeva}
+  - {name: Lukovka}
+  - {name: Mashkova}
+  - {name: Ostrov}
+  - {name: Pechory}
+  - {name: Podvorye}
+  - {name: Pskov}
+  - {name: Reshetnikova}
+  - {name: Severa}
+  - {name: Shumilova}
+  - {name: Spitsyna}
+  - {name: Tochki}
+  - {name: Tyurikovo}
+  - {name: Velikie Luki}
+  code: '60'
+  name: Pskov
+- cities:
+  - {name: Abramenko}
+  - {name: Aksay}
+  - {name: Aleynikov}
+  - {name: Alifanov}
+  - {name: Andronov}
+  - {name: Anikin}
+  - {name: Aparinskiy}
+  - {name: Arbuzov}
+  - {name: Art}
+  - {name: Azov}
+  - {name: Balabanov}
+  - {name: Bani}
+  - {name: Baptistov}
+  - {name: Bataysk}
+  - {name: Belaya Kalitva}
+  - {name: Berezka}
+  - {name: Blagoveshenskiy}
+  - {name: Dvoynoy}
+  - {name: Gavrilov}
+  - {name: Getmanov}
+  - {name: Gukova}
+  - {name: Gukovo}
+  - {name: Ilin}
+  - {name: Kagalnik}
+  - {name: Kalinin}
+  - {name: Kirovka}
+  - {name: Klimenko}
+  - {name: Klimovskiy}
+  - {name: Klyuev}
+  - {name: Knyazev}
+  - {name: Kominterna}
+  - {name: Komissarov}
+  - {name: Konstantinovsk}
+  - {name: Kosov}
+  - {name: Kostikov}
+  - {name: Kotova}
+  - {name: Krasnoyarskaya}
+  - {name: Krylov}
+  - {name: Kucherenko}
+  - {name: Kulik}
+  - {name: Kurnosov}
+  - {name: Lagutin}
+  - {name: Latysh}
+  - {name: Leninskaya}
+  - {name: Leonov}
+  - {name: Likhaya}
+  - {name: Lobach}
+  - {name: Luchinskiy}
+  - {name: Lvov}
+  - {name: Martynov}
+  - {name: Melnikov}
+  - {name: Meshkov}
+  - {name: Millerovo}
+  - {name: Minaev}
+  - {name: Mironov}
+  - {name: Mosolov}
+  - {name: Nedvigovka}
+  - {name: Nesvetay}
+  - {name: Nevskiy}
+  - {name: Nizhniy Novgorod}
+  - {name: Novocherkask}
+  - {name: Novocherkassk}
+  - {name: Novocherkasskiy}
+  - {name: Novoshakhtinsk}
+  - {name: Olginskaya}
+  - {name: Orlovskiy}
+  - {name: Paliy}
+  - {name: Parshin}
+  - {name: Peshkovo}
+  - {name: Pichugin}
+  - {name: Pogorelov}
+  - {name: Ponomar}
+  - {name: Proletarsk}
+  - {name: Pukhlyakov}
+  - {name: Rassvet}
+  - {name: Rostov-na-donu}
+  - {name: Ryabov}
+  - {name: Salsk}
+  - {name: Semibalki}
+  - {name: Semikarakorsk}
+  - {name: Serebryanyy}
+  - {name: Sevastopolskiy}
+  - {name: Shakhty}
+  - {name: Shaposhnikova}
+  - {name: Shaumyana}
+  - {name: Shipilov}
+  - {name: Shmat}
+  - {name: Sirotkin}
+  - {name: Skachkov}
+  - {name: Smolin}
+  - {name: Sovet}
+  - {name: Staropetrovskiy}
+  - {name: Stepanov}
+  - {name: Sulin}
+  - {name: Surov}
+  - {name: Svetoch}
+  - {name: Sviridov}
+  - {name: Taganrog}
+  - {name: Tamarovskiy}
+  - {name: Tapilin}
+  - {name: Tarasovskiy}
+  - {name: Tavrida}
+  - {name: Tolstogo}
+  - {name: Torgovyy}
+  - {name: Trifonov}
+  - {name: Tsvetnoy}
+  - {name: Ushakov}
+  - {name: Velikanov}
+  - {name: Velikiy}
+  - {name: Vishnyakov}
+  - {name: Volgodonsk}
+  - {name: Voloshin}
+  - {name: Vyazovskiy}
+  - {name: Yanov}
+  - {name: Zadonskiy}
+  - {name: Zaikin}
+  - {name: Zapadno}
+  - {name: Zernograd}
+  - {name: Zimovniki}
+  - {name: Zverevo}
+  code: '61'
+  name: Rostov
+- cities:
+  - {name: Bolshaya Sadovaya}
+  - {name: Charus}
+  - {name: Cherus}
+  - {name: Galina}
+  - {name: Levin}
+  - {name: Malaya Dmitrovka}
+  - {name: Malaya Lubyanka}
+  - {name: Malikov}
+  - {name: Metallurg}
+  - {name: Mikhaylov}
+  - {name: Novomichurinsk}
+  - {name: Pervo}
+  - {name: Polyany}
+  - {name: Ryazan}
+  - {name: Tsentralnaya}
+  code: '62'
+  name: Ryazan'
+- cities:
+  - {name: Aleksandrovskaya}
+  - {name: Avtovo}
+  - {name: Izhorski}
+  - {name: Kolpino}
+  - {name: Kronshtadt}
+  - {name: Kupchino}
+  - {name: Lomonosov}
+  - {name: Metallostroy}
+  - {name: Pargolovo}
+  - {name: Petrodvorets}
+  - {name: Petrograd}
+  - {name: Pushkin}
+  - {name: Saint Petersburg}
+  - {name: Sankt Petersburg}
+  - {name: Sankt-peterburg}
+  - {name: Zelenogorsk}
+  code: '66'
+  name: Saint Petersburg City
+- cities:
+  - {name: Aldan}
+  - {name: Baykalov}
+  - {name: Chay}
+  - {name: Doma}
+  - {name: Entuziastov}
+  - {name: Grishko}
+  - {name: Kamenskaya}
+  - {name: Karla Marksa}
+  - {name: Khaty}
+  - {name: Khleb}
+  - {name: Kompakt}
+  - {name: Korund}
+  - {name: Koryakin}
+  - {name: Krasnaya}
+  - {name: Maksima}
+  - {name: Molot}
+  - {name: Mustafa}
+  - {name: Nagorny}
+  - {name: Nera}
+  - {name: Nikiforova}
+  - {name: Nikolay}
+  - {name: Otkrytyy}
+  - {name: Otto}
+  - {name: Pavlova}
+  - {name: Petrova}
+  - {name: Rega}
+  - {name: Roman}
+  - {name: Savva}
+  - {name: Setun}
+  - {name: Shestakova}
+  - {name: Taras}
+  - {name: Tiksi}
+  - {name: Uday}
+  - {name: Ust-nera}
+  - {name: Vernyy}
+  - {name: Vitim}
+  - {name: Yakutsk}
+  - {name: Yermolova}
+  code: '63'
+  name: Sakha
+- cities:
+  - {name: Alba}
+  - {name: Aniva}
+  - {name: Aton}
+  - {name: Belokamennaya}
+  - {name: Bras}
+  - {name: Dolinsk}
+  - {name: Forel}
+  - {name: Gastello}
+  - {name: Inso}
+  - {name: Kholmsk}
+  - {name: Kirpichnaya}
+  - {name: Korsakov}
+  - {name: Krasnoy}
+  - {name: Makarov}
+  - {name: Nevelsk}
+  - {name: Nogliki}
+  - {name: Nota}
+  - {name: Okha}
+  - {name: Pilenga}
+  - {name: Poly}
+  - {name: Pravda}
+  - {name: Promyslovaya}
+  - {name: Prostornaya}
+  - {name: Sadovniki}
+  - {name: Sani}
+  - {name: Seishi}
+  - {name: Severo-kurilsk}
+  - {name: Shakhtersk}
+  - {name: Slava}
+  - {name: Smirnykh}
+  - {name: Soni}
+  - {name: Tomari}
+  - {name: Tonnel}
+  - {name: Toyohara}
+  - {name: Trudovaya}
+  - {name: Uglegorsk}
+  - {name: Uspenskoe}
+  - {name: Vulkan}
+  - {name: Yuzhno-sakhalinsk}
+  code: '64'
+  name: Sakhalin
+- cities:
+  - {name: Bogatyr}
+  - {name: Chapaevsk}
+  - {name: Duplin}
+  - {name: Kazakov}
+  - {name: Kinel}
+  - {name: Neftegorsk}
+  - {name: Okean}
+  - {name: Otradny}
+  - {name: Otradnyy}
+  - {name: Podstepki}
+  - {name: Sakharny}
+  - {name: Sakharov}
+  - {name: Spiridonovka}
+  - {name: Syzran}
+  - {name: Togliatti}
+  - {name: Tolyatti}
+  - {name: Tushinskiy}
+  - {name: Vinogradov}
+  - {name: Vodny}
+  - {name: Zhigulevsk}
+  code: '65'
+  name: Samara
+- cities:
+  - {name: Anton}
+  - {name: Atkarsk}
+  - {name: Balakovo}
+  - {name: Balashov}
+  - {name: Bauer}
+  - {name: Bogorodskiy}
+  - {name: Borki}
+  - {name: Bulatov}
+  - {name: Dubovaya}
+  - {name: Engels}
+  - {name: Federativnyy}
+  - {name: Fisher}
+  - {name: Glarus}
+  - {name: Iskra}
+  - {name: Kalininskiy}
+  - {name: Komintern}
+  - {name: Konnyy}
+  - {name: Korovin}
+  - {name: Kozhin}
+  - {name: Krasnaya Zvezda}
+  - {name: Krasnoarmeysk}
+  - {name: Krivoy}
+  - {name: Kultura}
+  - {name: Lada}
+  - {name: Lider}
+  - {name: Marks}
+  - {name: Mayak}
+  - {name: Mechetka}
+  - {name: Moskva}
+  - {name: Mysin}
+  - {name: Nauka}
+  - {name: Neftyanoy}
+  - {name: Nikolskaya}
+  - {name: Novaya Zhizn}
+  - {name: Novyy}
+  - {name: Otrada}
+  - {name: Ovchinnikov}
+  - {name: Oz}
+  - {name: Pervyy}
+  - {name: Petrovka}
+  - {name: Petrovo}
+  - {name: Pobeda}
+  - {name: Pokrovskaya}
+  - {name: Pokrovskiy}
+  - {name: Polyana}
+  - {name: Popovka}
+  - {name: Pos}
+  - {name: Preobrazhenka}
+  - {name: Privet}
+  - {name: Privolzhskiy}
+  - {name: Radost}
+  - {name: Ryazanka}
+  - {name: Sakko}
+  - {name: Saratov}
+  - {name: Savushkin}
+  - {name: Semenovskiy}
+  - {name: Sestry}
+  - {name: Shefer}
+  - {name: Shevchenko}
+  - {name: Skat}
+  - {name: Smorodinka}
+  - {name: Stal}
+  - {name: Tretiy}
+  - {name: Uspenskiy}
+  - {name: Volsk}
+  - {name: Vozrozhdeniye}
+  - {name: Zel}
+  - {name: Zhdanov}
+  - {name: Znamenskiy}
+  - {name: Zolotoy}
+  code: '67'
+  name: Saratov
+- cities:
+  - {name: Anokhina}
+  - {name: Bekasovo}
+  - {name: Belka}
+  - {name: Bibirevo}
+  - {name: Bobrova}
+  - {name: Bogdanov}
+  - {name: Bogdanova}
+  - {name: Butovo}
+  - {name: Chertanovo}
+  - {name: Demidov}
+  - {name: Denisova}
+  - {name: Devino}
+  - {name: Devyataya}
+  - {name: Dmitrovskoye}
+  - {name: Dubinina}
+  - {name: Durova}
+  - {name: Energiya}
+  - {name: Gagarin}
+  - {name: Gorodnya}
+  - {name: Grekovo}
+  - {name: Guta}
+  - {name: Ivanova}
+  - {name: Kalita}
+  - {name: Karacharovo}
+  - {name: Kazakova}
+  - {name: Kazino}
+  - {name: Klimova}
+  - {name: Korol}
+  - {name: Kovaleva}
+  - {name: Kraski}
+  - {name: Krasnoe}
+  - {name: Kurakina}
+  - {name: Leonova}
+  - {name: Lomonosova}
+  - {name: Malkova}
+  - {name: Mariupol}
+  - {name: Merkuriy}
+  - {name: Mishina}
+  - {name: Novikova}
+  - {name: Ogonek}
+  - {name: Oreshki}
+  - {name: Osipova}
+  - {name: Pechatniki}
+  - {name: Pervaya}
+  - {name: Pesochnaya}
+  - {name: Petrovichi}
+  - {name: Podlipki}
+  - {name: Poluyanova}
+  - {name: Potash}
+  - {name: Prudok}
+  - {name: Ramenka}
+  - {name: Rodionova}
+  - {name: Roslavl}
+  - {name: Rossiya}
+  - {name: Rudneva}
+  - {name: Rusanova}
+  - {name: Saburova}
+  - {name: Selo}
+  - {name: Semenova}
+  - {name: Sh}
+  - {name: Shirokaya}
+  - {name: Sivkovo}
+  - {name: Smolensk}
+  - {name: Solnechnaya}
+  - {name: Sukhanova}
+  - {name: Tishina}
+  - {name: Tishkovo}
+  - {name: Ugol}
+  - {name: Ugra}
+  - {name: Uspensk}
+  - {name: Vasilyeva}
+  - {name: Venera}
+  - {name: Vishnyaki}
+  - {name: Volkova}
+  - {name: Volodina}
+  - {name: Vyazma}
+  - {name: Vystavka}
+  - {name: Yakovlev}
+  - {name: Yakovleva}
+  - {name: Yanovo}
+  - {name: Yartsevo}
+  - {name: Yurina}
+  - {name: Yury}
+  - {name: Zaytseva}
+  code: '69'
+  name: Smolensk
+- cities:
+  - {name: Arzgir}
+  - {name: Balka}
+  - {name: Baltiyskiy}
+  - {name: Bogomolov}
+  - {name: Bud}
+  - {name: Georgievsk}
+  - {name: Grankin}
+  - {name: Ipatovo}
+  - {name: Ippolitov}
+  - {name: Ivancha}
+  - {name: Keramik}
+  - {name: Kislovodsk}
+  - {name: Kislovodskaya}
+  - {name: Kista}
+  - {name: Kniga}
+  - {name: Kondratenko}
+  - {name: Korotkov}
+  - {name: Kozhevnikov}
+  - {name: Krivonosov}
+  - {name: Krymskiy}
+  - {name: Kursavka}
+  - {name: Lermontov}
+  - {name: Lermontovskiy}
+  - {name: Limansky}
+  - {name: Mineralnye}
+  - {name: Moskovskoye}
+  - {name: Muratov}
+  - {name: Nadezhda}
+  - {name: Nevinnomyssk}
+  - {name: Novoaleksandrovsk}
+  - {name: Novomirskiy}
+  - {name: Novopavlovsk}
+  - {name: Orlovka}
+  - {name: Pereverzev}
+  - {name: Pyatigorsk}
+  - {name: Rot Front}
+  - {name: Shturm}
+  - {name: Smykov}
+  - {name: Solnechnodolsk}
+  - {name: Stavropol}
+  - {name: Suvorovskaya}
+  - {name: Svetlograd}
+  - {name: Svobody}
+  - {name: Voronov}
+  - {name: Vorovskogo}
+  - {name: Yasnaya Polyana}
+  - {name: Yessentuki}
+  - {name: Zheleznovodsk}
+  - {name: Zimin}
+  - {name: Zolotoy Rodnik}
+  code: '70'
+  name: Stavropol'
+- cities:
+  - {name: Aramil}
+  - {name: Arti}
+  - {name: Asbest}
+  - {name: Aziatskaya}
+  - {name: Batrakova}
+  - {name: Beloyarskiy}
+  - {name: Bogdanovich}
+  - {name: Bogoslovskiy}
+  - {name: Borisovo}
+  - {name: Butka}
+  - {name: Chernoistochinsk}
+  - {name: Chistyy}
+  - {name: Degtyarsk}
+  - {name: Dinas}
+  - {name: Dvornikova}
+  - {name: Grishina}
+  - {name: Irbit}
+  - {name: Istok}
+  - {name: Ivdel}
+  - {name: Izumrud}
+  - {name: Kachkanar}
+  - {name: Kalinovka}
+  - {name: Kamensk-uralskiy}
+  - {name: Kamyshlov}
+  - {name: Karpinsk}
+  - {name: Kedr}
+  - {name: Kedrovoye}
+  - {name: Kirillova}
+  - {name: Kirovgrad}
+  - {name: Kopyrina}
+  - {name: Krasnogvardeyskiy}
+  - {name: Krasnoturinsk}
+  - {name: Krasnoufimsk}
+  - {name: Krasnouralsk}
+  - {name: Kushva}
+  - {name: Lechebnyy}
+  - {name: Lesnoy}
+  - {name: Lobva}
+  - {name: Malysheva}
+  - {name: Maslovo}
+  - {name: Menshikova}
+  - {name: Mikhaylovskiy}
+  - {name: Monetny}
+  - {name: Nadezhdinsk}
+  - {name: Nagibina}
+  - {name: Nevyansk}
+  - {name: Niva}
+  - {name: Nizhniy Tagil}
+  - {name: Nizhnyaya Tura}
+  - {name: Novaya Lyalya}
+  - {name: Novouralsk}
+  - {name: Oktyabrski}
+  - {name: Oz}
+  - {name: Pelym}
+  - {name: Pervouralsk}
+  - {name: Platina}
+  - {name: Polevskoy}
+  - {name: Polyakova}
+  - {name: Posol}
+  - {name: Pyshma}
+  - {name: Pyshminskaya}
+  - {name: Revda}
+  - {name: Rezh}
+  - {name: Samotsvet}
+  - {name: Sarana}
+  - {name: Serov}
+  - {name: Severka}
+  - {name: Severouralsk}
+  - {name: Sharapova}
+  - {name: Smagina}
+  - {name: Sredneuralsk}
+  - {name: Sverdlovsk}
+  - {name: Sysert}
+  - {name: Talitsa}
+  - {name: Tavda}
+  - {name: Tomskaya}
+  - {name: Tomskiy}
+  - {name: Verkhnyaya Pyshma}
+  - {name: Verkhnyaya Salda}
+  - {name: Volchansk}
+  - {name: Yekaterinburg}
+  - {name: Yuva}
+  - {name: Zarechnaya}
+  - {name: Zarechnyy}
+  - {name: Zhuravl}
+  - {name: Zoloto}
+  - {name: Zvezda}
+  code: '71'
+  name: Sverdlovsk
+- cities:
+  - {name: Alfa}
+  - {name: Kirsanov}
+  - {name: Kotovsk}
+  - {name: Lyubov}
+  - {name: Michurinsk}
+  - {name: Moroz}
+  - {name: Polkovaya}
+  - {name: Rosa}
+  - {name: Tambov}
+  - {name: Tsyganok}
+  - {name: Viktoriya}
+  - {name: Volodin}
+  code: '72'
+  name: Tambovskaya oblast
+- cities:
+  - {name: Aktanysh}
+  - {name: Almetyevsk}
+  - {name: Bugulma}
+  - {name: Chelny}
+  - {name: Chistopol}
+  - {name: Elabuga}
+  - {name: Isakov}
+  - {name: Kamskoye Ustye}
+  - {name: Kazan}
+  - {name: Kotlovka}
+  - {name: Kuybyshev}
+  - {name: Leninogorsk}
+  - {name: Malaya Polyanka}
+  - {name: Nizhnekamsk}
+  - {name: Norma}
+  - {name: Observatoriya}
+  - {name: Tagil}
+  - {name: Veneta}
+  - {name: Yelabuga}
+  code: '73'
+  name: Tatarstan
+- cities:
+  - {name: Dudinka}
+  - {name: Ilya}
+  - {name: Kargo}
+  - {name: Makarova}
+  - {name: Marka}
+  - {name: Vostochnaya}
+  - {name: Zvereva}
+  code: '74'
+  name: Taymyr
+- cities:
+  - {name: Beloborodova}
+  - {name: Bulvar}
+  - {name: Cherkasova}
+  - {name: Feoktistova}
+  - {name: Gagarina}
+  - {name: Karbysheva}
+  - {name: Kargasok}
+  - {name: Kolpashevo}
+  - {name: Leskova}
+  - {name: Pisareva}
+  - {name: Rozhdestvenskaya}
+  - {name: Seversk}
+  - {name: Smena}
+  - {name: Strezhevoy}
+  - {name: Surova}
+  - {name: Tomsk}
+  - {name: Turgeneva}
+  - {name: Usach}
+  code: '75'
+  name: Tomsk
+- cities:
+  - {name: Donskoy}
+  - {name: Gorod}
+  - {name: Leninskiy}
+  - {name: Lvova}
+  - {name: Novomoskovsk}
+  - {name: Pestovskiy}
+  - {name: Prichal}
+  - {name: Ruka}
+  - {name: Rumyantsev}
+  - {name: Serebryany}
+  - {name: Sokolniki}
+  - {name: Stupinskiy}
+  - {name: Suvorov}
+  - {name: Sverdlovskaya}
+  - {name: Tula}
+  - {name: Yalta}
+  - {name: Zhizn}
+  - {name: Zubovskiy}
+  code: '76'
+  name: Tula
+- cities:
+  - {name: Alik}
+  - {name: Kyzyl}
+  - {name: Most}
+  code: '79'
+  name: Tuva
+- cities:
+  - {name: Akademicheskaya}
+  - {name: Akademicheskiy}
+  - {name: Belyy}
+  - {name: Besedy}
+  - {name: Bolnitsa}
+  - {name: Davidova}
+  - {name: Desna}
+  - {name: Fabrika}
+  - {name: Fialka}
+  - {name: Gribova}
+  - {name: Industriya}
+  - {name: Kanat}
+  - {name: Kashin}
+  - {name: Kimry}
+  - {name: Klevtsova}
+  - {name: Konakovo}
+  - {name: Kopylova}
+  - {name: Laykovo}
+  - {name: Luzhniki}
+  - {name: Nikopol}
+  - {name: Ordynka}
+  - {name: Perova}
+  - {name: Plan}
+  - {name: Podarki}
+  - {name: Polevaya}
+  - {name: Pyatnitskaya}
+  - {name: Radchenko}
+  - {name: Ramenki}
+  - {name: Redkino}
+  - {name: Rokotova}
+  - {name: Runa}
+  - {name: Ryad}
+  - {name: Ryady}
+  - {name: Serova}
+  - {name: Shuvalov}
+  - {name: Sopot}
+  - {name: Stan}
+  - {name: Trud}
+  - {name: Tsentralny}
+  - {name: Tver}
+  - {name: Udomlya}
+  - {name: Volgo}
+  - {name: Zel}
+  - {name: Znamya}
+  code: '77'
+  name: Tver'
+- cities:
+  - {name: Aromashevo}
+  - {name: Berkut}
+  - {name: Golyshmanovo}
+  - {name: Irtyshskiy}
+  - {name: Ishim}
+  - {name: Kinder}
+  - {name: Melioratorov}
+  - {name: Molchanova}
+  - {name: Sladkovo}
+  - {name: Tjumen}
+  - {name: Tobolsk}
+  - {name: Turtas}
+  - {name: Tyumen}
+  - {name: Uporovo}
+  - {name: Uvat}
+  - {name: Vikulovo}
+  - {name: Yalutorovsk}
+  - {name: Zavodoukovsk}
+  code: '78'
+  name: Tyumen'
+- cities:
+  - {name: Buran}
+  - {name: Fakel}
+  - {name: Glazov}
+  - {name: Igra}
+  - {name: Izbushka}
+  - {name: Izhevsk}
+  - {name: Kama}
+  - {name: Keldysh}
+  - {name: Lokteva}
+  - {name: Mozhga}
+  - {name: Ozon}
+  - {name: Pirogovo}
+  - {name: Sarapul}
+  - {name: Uva}
+  - {name: Votkinsk}
+  code: '80'
+  name: Udmurt
+- cities:
+  - {name: Dimitrovgrad}
+  - {name: Izmaylovo}
+  - {name: Osoka}
+  - {name: Sakhalin}
+  - {name: Sara}
+  - {name: Silikatnyy}
+  - {name: Simbirsk}
+  - {name: Sushchevka}
+  - {name: Ulyanovsk}
+  code: '81'
+  name: Ul'yanovsk
+- cities:
+  - {name: Bard}
+  - {name: Buryat}
+  - {name: Ideal}
+  - {name: Ishin}
+  - {name: Kalashnikova}
+  - {name: Tarasa}
+  code: '82'
+  name: Ust-Orda Buryat
+- cities:
+  - {name: Aleksandrov}
+  - {name: Alexandrov}
+  - {name: Baykova}
+  - {name: Chasha}
+  - {name: Delovo}
+  - {name: Entuziast}
+  - {name: Gorokhovets}
+  - {name: Gruzdeva}
+  - {name: Klyuch}
+  - {name: Kolchugino}
+  - {name: Korobovo}
+  - {name: Korsak}
+  - {name: Kosterevo}
+  - {name: Kovrov}
+  - {name: Krylova}
+  - {name: Lesnaya}
+  - {name: Lisitsina}
+  - {name: Litvinova}
+  - {name: Murom}
+  - {name: Pleskovo}
+  - {name: Rodionovo}
+  - {name: Ryzhikova}
+  - {name: Shipilova}
+  - {name: Simonova}
+  - {name: Suzdal}
+  - {name: Svyato}
+  - {name: Tolstova}
+  - {name: Vladimir}
+  - {name: Vyazniki}
+  code: '83'
+  name: Vladimir
+- cities:
+  - {name: Abramov}
+  - {name: Alekseevskaya}
+  - {name: Amelin}
+  - {name: Antonov}
+  - {name: Babenko}
+  - {name: Baranov}
+  - {name: Ber}
+  - {name: Blok}
+  - {name: Bogatyr}
+  - {name: Bogoyavlenskiy}
+  - {name: Bolshoi}
+  - {name: Bolshoy}
+  - {name: Bondar}
+  - {name: Bondarenko}
+  - {name: Borisov}
+  - {name: Borisovskiy}
+  - {name: Borodin}
+  - {name: Budennogo}
+  - {name: Chebotar}
+  - {name: Cherkasskiy}
+  - {name: Chirkov}
+  - {name: D}
+  - {name: Denisov}
+  - {name: Devyatkin}
+  - {name: Dinamo}
+  - {name: Fetisov}
+  - {name: Filin}
+  - {name: Firsov}
+  - {name: Fomichev}
+  - {name: Fomin}
+  - {name: Frank}
+  - {name: Frolov}
+  - {name: Galkin}
+  - {name: Gavrilin}
+  - {name: Golenkov}
+  - {name: Golubaya}
+  - {name: Goncharov}
+  - {name: Grachev}
+  - {name: Grebennikov}
+  - {name: Grishin}
+  - {name: Ignatov}
+  - {name: Ilicha}
+  - {name: Ilovlya}
+  - {name: Ivanov}
+  - {name: Kachalin}
+  - {name: Kalach}
+  - {name: Kalashnikov}
+  - {name: Kalmykov}
+  - {name: Kamennoy}
+  - {name: Kamyshin}
+  - {name: Kargin}
+  - {name: Karpov}
+  - {name: Khvostov}
+  - {name: Kirova}
+  - {name: Kisel}
+  - {name: Koltso}
+  - {name: Komarov}
+  - {name: Kommuny}
+  - {name: Korol}
+  - {name: Korolevskiy}
+  - {name: Kostin}
+  - {name: Kotovo}
+  - {name: Koval}
+  - {name: Kovalenko}
+  - {name: Kozlov}
+  - {name: Kozlovskiy}
+  - {name: Kraft}
+  - {name: Krasnov}
+  - {name: Kravtsov}
+  - {name: Kryuchkov}
+  - {name: Kudinov}
+  - {name: Kulikov}
+  - {name: Kuznetsov}
+  - {name: Lapin}
+  - {name: Lebedev}
+  - {name: Leninsk}
+  - {name: Lin}
+  - {name: Lomakin}
+  - {name: Makarenko}
+  - {name: Malakhov}
+  - {name: Markin}
+  - {name: Medvedev}
+  - {name: Miller}
+  - {name: Mishin}
+  - {name: Morozov}
+  - {name: Morskoy}
+  - {name: Nazarov}
+  - {name: Nikiforov}
+  - {name: Nikolaevsk}
+  - {name: Nikulin}
+  - {name: Nizhniy}
+  - {name: Nosov}
+  - {name: Novikov}
+  - {name: Novonikolskoe}
+  - {name: Ogarkov}
+  - {name: Olenev}
+  - {name: Opyt}
+  - {name: Opytnyy}
+  - {name: Orlov}
+  - {name: Ostrovskiy}
+  - {name: Pankin}
+  - {name: Parkhomenko}
+  - {name: Pavlenko}
+  - {name: Petropavlovsk}
+  - {name: Petrov}
+  - {name: Plotnikov}
+  - {name: Pochta}
+  - {name: Polevoy}
+  - {name: Poltavskiy}
+  - {name: Poperechnyy}
+  - {name: Popov}
+  - {name: Potapov}
+  - {name: Potapovskiy}
+  - {name: Preobrazhenskaya}
+  - {name: Pronin}
+  - {name: Pugach}
+  - {name: Reutovskiy}
+  - {name: Revenko}
+  - {name: Rodin}
+  - {name: Rodionov}
+  - {name: Rogovoy}
+  - {name: Romanov}
+  - {name: Romashkin}
+  - {name: Rybnyy}
+  - {name: Ryzhov}
+  - {name: S}
+  - {name: Safronov}
+  - {name: Samarskiy}
+  - {name: Savin}
+  - {name: Sedov}
+  - {name: Seleznev}
+  - {name: Selivanov}
+  - {name: Sem}
+  - {name: Serp I Molot}
+  - {name: Shapovalov}
+  - {name: Shestakov}
+  - {name: Shilin}
+  - {name: Shustov}
+  - {name: Simonov}
+  - {name: Skvortsov}
+  - {name: Smirnov}
+  - {name: Sokolov}
+  - {name: Spartak}
+  - {name: Subbotin}
+  - {name: Suchkov}
+  - {name: Sumskoy}
+  - {name: Sychev}
+  - {name: Tarasov}
+  - {name: Ternovoe}
+  - {name: Timoshenko}
+  - {name: Tishanskaya}
+  - {name: Titov}
+  - {name: Tkach}
+  - {name: Tkachenko}
+  - {name: Tsar}
+  - {name: Tumanov}
+  - {name: Ushinka}
+  - {name: Vasin}
+  - {name: Vershinin}
+  - {name: Veshki}
+  - {name: Vodstroy}
+  - {name: Volgograd}
+  - {name: Volzhskiy}
+  - {name: Voroshilova}
+  - {name: Voskresenskiy}
+  - {name: Yagodnaya}
+  - {name: Yurlov}
+  - {name: Zaytsev}
+  - {name: Zhukovskiy}
+  - {name: Zotov}
+  code: '84'
+  name: Volgograd
+- cities:
+  - {name: Baza}
+  - {name: Bolshaya}
+  - {name: Borovaya}
+  - {name: Chaika}
+  - {name: Chayka}
+  - {name: Cherepovets}
+  - {name: Chistaya}
+  - {name: Davydkovo}
+  - {name: Delo}
+  - {name: Dolgovo}
+  - {name: Dorozhnyy}
+  - {name: Frolovskoe}
+  - {name: Gora}
+  - {name: Gory}
+  - {name: Igmas}
+  - {name: Kirillov}
+  - {name: Klimovskaya}
+  - {name: Loza}
+  - {name: Malaya}
+  - {name: Malina}
+  - {name: Mariinskaya}
+  - {name: Markov}
+  - {name: Michkova}
+  - {name: Mitinskaya}
+  - {name: Mostovaya}
+  - {name: Nizhnyaya}
+  - {name: Nova}
+  - {name: Novator}
+  - {name: Novgorodskaya}
+  - {name: Orlova}
+  - {name: Pavlov}
+  - {name: Pozhara}
+  - {name: Raduga}
+  - {name: Roksa}
+  - {name: Rostovskaya}
+  - {name: Safonovskaya}
+  - {name: Sheksna}
+  - {name: Sidorova}
+  - {name: Sokol}
+  - {name: Srednyaya}
+  - {name: Starkovo}
+  - {name: Stary}
+  - {name: Tekhnika}
+  - {name: Terem}
+  - {name: Trio}
+  - {name: Ushakovskaya}
+  - {name: Ves}
+  - {name: Vologda}
+  - {name: Vorobeva}
+  - {name: Yamskaya}
+  - {name: Yugra}
+  - {name: Zolotova}
+  code: '85'
+  name: Vologda
+- cities:
+  - {name: Anna}
+  - {name: Bobrov}
+  - {name: Bogdan}
+  - {name: Boguchar}
+  - {name: Bolshaya Dmitrovka}
+  - {name: Borisoglebsk}
+  - {name: Buturlinovka}
+  - {name: Buturlinovskiy}
+  - {name: Danila}
+  - {name: Degtyarny}
+  - {name: Drakino}
+  - {name: Ekaterinovka}
+  - {name: Kalmyk}
+  - {name: Kantemirovka}
+  - {name: Kolodeznyy}
+  - {name: Kolomenskiy}
+  - {name: Liski}
+  - {name: Maslovka}
+  - {name: Narodnaya}
+  - {name: Novovoronezh}
+  - {name: Obolenskiy}
+  - {name: Ostrovskogo}
+  - {name: Panino}
+  - {name: Pankov}
+  - {name: Parizhskaya}
+  - {name: Pavlovsk}
+  - {name: Povorino}
+  - {name: Pushino}
+  - {name: Rossosh}
+  - {name: Ruda}
+  - {name: Ryzhkov}
+  - {name: Sadovoe}
+  - {name: Sloboda}
+  - {name: Sverdlov}
+  - {name: Talovaya}
+  - {name: Ternovka}
+  - {name: Tolstoy}
+  - {name: Tovarnaya}
+  - {name: Tsentral}
+  - {name: Voronezh}
+  - {name: Zibrov}
+  - {name: Zolotar}
+  - {name: Zorkiy}
+  code: '86'
+  name: Voronezh
+- cities:
+  - {name: Drovyanoy}
+  - {name: Gubkinskiy}
+  - {name: Labytnangi}
+  - {name: Muravlenko}
+  - {name: Nadym}
+  - {name: Noyabrsk}
+  - {name: Polyarnaya}
+  - {name: Purpe}
+  - {name: Salekhard}
+  - {name: Tarko-sale}
+  - {name: Tazovskiy}
+  - {name: Urengoy}
+  code: '87'
+  name: Yamal-Nenets
+- cities:
+  - {name: Bolshoye Selo}
+  - {name: Danilov}
+  - {name: Nikitskaya}
+  - {name: Panfilova}
+  - {name: Pereslavl-zalesskiy}
+  - {name: Perovo}
+  - {name: Prechistenskiy}
+  - {name: Prigorodnaya}
+  - {name: Rechnaya}
+  - {name: Rostov}
+  - {name: Rybinsk}
+  - {name: Suvorova}
+  - {name: Uglich}
+  - {name: Vesennyaya}
+  - {name: Vesna}
+  - {name: Volga}
+  - {name: Yaroslavl}
+  code: '88'
+  name: Yaroslavl'
+- cities:
+  - {name: Amurzet}
+  - {name: Birobidzhan}
+  - {name: Birobijan}
+  - {name: Dezhneva}
+  - {name: Leninskoe}
+  - {name: Smidovich}
+  - {name: Topolevaya}
+  code: '89'
+  name: Yevrey

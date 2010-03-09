@@ -1,0 +1,26 @@
+- cities:
+  - {name: Aiyuun}
+  - {name: Nizw}
+  - {name: Rustaq}
+  - {name: Sohar}
+  code: '02'
+  name: Al Batinah
+- cities:
+  - {name: Ibra}
+  - {name: Sur}
+  code: '04'
+  name: Ash Sharqiyah
+- cities:
+  - {name: Buraimi}
+  code: '05'
+  name: Az Zahirah
+- cities:
+  - {name: Al Bi'r}
+  - {name: Muscat}
+  - {name: Ruwi}
+  code: '06'
+  name: Masqat
+- cities:
+  - {name: Salalah}
+  code: 08
+  name: Zufar

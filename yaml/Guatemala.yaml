@@ -1,0 +1,103 @@
+- cities:
+  - {name: Panz}
+  code: '01'
+  name: Alta Verapaz
+- cities:
+  - {name: San Jer}
+  code: '02'
+  name: Baja Verapaz
+- cities:
+  - {name: Aurora}
+  - {name: Chimaltenango}
+  code: '03'
+  name: Chimaltenango
+- cities:
+  - {name: Chiquimula}
+  - {name: Esquipulas}
+  code: '04'
+  name: Chiquimula
+- cities:
+  - {name: El J}
+  - {name: Guastatoya}
+  code: '05'
+  name: El Progreso
+- cities:
+  - {name: San Jos}
+  code: '06'
+  name: Escuintla
+- cities:
+  - {name: Amatitl}
+  - {name: Ciudad De Guatemala}
+  - {name: El Lim}
+  - {name: Guatemala City}
+  - {name: Lomas}
+  - {name: Mixco}
+  - {name: Petapa}
+  - {name: Puerta Parada}
+  - {name: Villa Nueva}
+  code: '07'
+  name: Guatemala
+- cities:
+  - {name: El Salvador}
+  - {name: Huehuetenango}
+  code: 08
+  name: Huehuetenango
+- cities:
+  - {name: Puerto Barrios}
+  code: 09
+  name: Izabal
+- cities:
+  - {name: Jalapa}
+  code: '10'
+  name: Jalapa
+- cities:
+  - {name: Jutiapa}
+  - {name: San Crist}
+  code: '11'
+  name: Jutiapa
+- cities:
+  - {name: Central}
+  - {name: Tikal}
+  code: '12'
+  name: Peten
+- cities:
+  - {name: Quetzaltenango}
+  code: '13'
+  name: Quetzaltenango
+- cities:
+  - {name: Retalhuleu}
+  code: '15'
+  name: Retalhuleu
+- cities:
+  - {name: Antigua Guatemala}
+  - {name: Jocotenango}
+  code: '16'
+  name: Sacatepequez
+- cities:
+  - {name: La Reforma}
+  code: '17'
+  name: San Marcos
+- cities:
+  - {name: Chiquimulilla}
+  - {name: Las Margaritas}
+  code: '18'
+  name: Santa Rosa
+- cities:
+  - {name: San Lucas Tolim}
+  - {name: Solol}
+  code: '19'
+  name: Solola
+- cities:
+  - {name: Chicacao}
+  - {name: Mazatenango}
+  code: '20'
+  name: Suchitepequez
+- cities:
+  - {name: Totonicap}
+  code: '21'
+  name: Totonicapan
+- cities:
+  - {name: Reforma}
+  - {name: Zacapa}
+  code: '22'
+  name: Zacapa

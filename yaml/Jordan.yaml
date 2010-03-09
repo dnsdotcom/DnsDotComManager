@@ -1,0 +1,38 @@
+- cities:
+  - {name: Amman}
+  - {name: Belal}
+  - {name: Madaba}
+  - {name: Philadelphia}
+  - {name: Sahab}
+  - {name: Tafila}
+  code: '11'
+  name: ''
+- cities:
+  - {name: Safut}
+  - {name: Salt}
+  - {name: Yarqa}
+  code: '02'
+  name: Al Balqa'
+- cities:
+  - {name: Safi}
+  - {name: Samra}
+  code: 09
+  name: Al Karak
+- cities:
+  - {name: Farah}
+  - {name: Mafraq}
+  - {name: Sama}
+  code: '10'
+  name: Al Mafraq
+- cities:
+  - {name: Irbid}
+  - {name: Jerash}
+  - {name: Ramtha}
+  code: '14'
+  name: Irbid
+- cities:
+  - {name: Karak}
+  - {name: Petra}
+  - {name: Wadi Musa}
+  code: '07'
+  name: Ma

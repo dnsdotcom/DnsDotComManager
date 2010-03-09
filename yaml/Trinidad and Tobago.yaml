@@ -1,0 +1,66 @@
+- cities:
+  - {name: Arima}
+  code: '01'
+  name: Arima
+- cities:
+  - {name: Caroni}
+  - {name: Chaguanas}
+  - {name: Chase Village}
+  - {name: Couva}
+  - {name: Phoenix Park}
+  code: '02'
+  name: Caroni
+- cities:
+  - {name: Laventille}
+  - {name: Port-of-spain}
+  - {name: Saint James}
+  code: '05'
+  name: Port-of-Spain
+- cities:
+  - {name: Mucurapo}
+  - {name: Sangre Grande}
+  code: '06'
+  name: Saint Andrew
+- cities:
+  - {name: Arouca}
+  - {name: Barataria}
+  - {name: Cocorite}
+  - {name: Curepe}
+  - {name: Diego Martin}
+  - {name: Dinsley}
+  - {name: El Socorro}
+  - {name: Maraval}
+  - {name: Morvant}
+  - {name: Petit Valley}
+  - {name: Saint Augustine}
+  - {name: Saint Joseph}
+  - {name: San Juan}
+  - {name: Santa Cruz}
+  - {name: Tacarigua}
+  - {name: Tunapuna}
+  - {name: Valsayn}
+  code: 08
+  name: Saint George
+- cities:
+  - {name: Fyzabad}
+  - {name: Pe}
+  - {name: Point Fortin}
+  code: 09
+  name: Saint Patrick
+- cities:
+  - {name: Marabella}
+  - {name: San Fernando}
+  code: '10'
+  name: San Fernando
+- cities:
+  - {name: Richmond}
+  - {name: Scarborough}
+  code: '11'
+  name: Tobago
+- cities:
+  - {name: Gasparillo}
+  - {name: Princes Town}
+  - {name: Princess Town}
+  - {name: Victoria}
+  code: '12'
+  name: Victoria

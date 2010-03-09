@@ -1,0 +1,38 @@
+- cities:
+  - {name: Balzers}
+  code: '01'
+  name: Balzers
+- cities:
+  - {name: Eschen}
+  - {name: Nendeln}
+  code: '02'
+  name: Eschen
+- cities:
+  - {name: Mauren}
+  code: '04'
+  name: Mauren
+- cities:
+  - {name: Ruggell}
+  code: '06'
+  name: Ruggell
+- cities:
+  - {name: Schaan}
+  - {name: Schan}
+  code: '07'
+  name: Schaan
+- cities:
+  - {name: Schellenberg}
+  code: 08
+  name: Schellenberg
+- cities:
+  - {name: Triesen}
+  code: 09
+  name: Triesen
+- cities:
+  - {name: Triesenberg}
+  code: '10'
+  name: Triesenberg
+- cities:
+  - {name: Vaduz}
+  code: '11'
+  name: Vaduz

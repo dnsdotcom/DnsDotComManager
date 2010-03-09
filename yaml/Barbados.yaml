@@ -1,0 +1,50 @@
+- cities:
+  - {name: Hastings}
+  - {name: Maxwell Coast}
+  - {name: Oistins}
+  - {name: Providence}
+  - {name: Saint Lawrence}
+  code: '01'
+  name: Christ Church
+- cities:
+  - {name: Haggatt Hall}
+  - {name: Wildey}
+  code: '03'
+  name: Saint George
+- cities:
+  - {name: Holetown}
+  - {name: Porters}
+  - {name: Sandy Lane}
+  - {name: Sunset Crest}
+  code: '04'
+  name: Saint James
+- cities:
+  - {name: Cave Hill}
+  - {name: Husbands}
+  - {name: Spring Hall}
+  code: '07'
+  name: Saint Lucy
+- cities:
+  - {name: Black Rock}
+  - {name: Bridgetown}
+  - {name: Clapham}
+  - {name: Garrison}
+  - {name: Howells}
+  - {name: Jackmans}
+  - {name: Oxnards}
+  - {name: Two Mile Hill}
+  - {name: Weymouth}
+  code: 08
+  name: Saint Michael
+- cities:
+  - {name: Speightstown}
+  code: 09
+  name: Saint Peter
+- cities:
+  - {name: River}
+  code: '10'
+  name: Saint Philip
+- cities:
+  - {name: Warrens}
+  code: '11'
+  name: Saint Thomas

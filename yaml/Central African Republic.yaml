@@ -1,0 +1,8 @@
+- cities:
+  - {name: Bangui}
+  code: '18'
+  name: Bangui
+- cities:
+  - {name: Bangui}
+  code: '17'
+  name: Ombella-Mpoko

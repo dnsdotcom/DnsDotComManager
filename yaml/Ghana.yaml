@@ -1,0 +1,49 @@
+- cities:
+  - {name: Kenyase}
+  - {name: Kumasi}
+  - {name: Tafo}
+  code: '02'
+  name: Ashanti
+- cities:
+  - {name: Kintampo}
+  code: '03'
+  name: Brong-Ahafo
+- cities:
+  - {name: Winneba}
+  code: '04'
+  name: Central
+- cities:
+  - {name: Koforidua}
+  code: '05'
+  name: Eastern
+- cities:
+  - {name: Accra}
+  code: '01'
+  name: Greater Accra
+- cities:
+  - {name: Tamale}
+  code: '06'
+  name: Northern
+- cities:
+  - {name: Tumu}
+  code: '11'
+  name: Upper West
+- cities:
+  - {name: Achimota}
+  - {name: Akosombo}
+  - {name: Ashanti}
+  - {name: Dodowa}
+  - {name: Home}
+  - {name: Legon}
+  - {name: Nsuta}
+  - {name: Ridge}
+  - {name: Tema}
+  code: 08
+  name: Volta
+- cities:
+  - {name: Bogoso}
+  - {name: Site}
+  - {name: Takoradi}
+  - {name: Tarkwa}
+  code: 09
+  name: Western

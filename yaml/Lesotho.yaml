@@ -1,0 +1,5 @@
+- cities:
+  - {name: Maseru}
+  - {name: Roma}
+  code: '14'
+  name: Maseru

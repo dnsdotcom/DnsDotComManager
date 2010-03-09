@@ -1,0 +1,12 @@
+- cities:
+  - {name: Darhan}
+  code: '11'
+  name: Hentiy
+- cities:
+  - {name: Erdenet}
+  code: '25'
+  name: Orhon
+- cities:
+  - {name: Ulaanbaatar}
+  code: '20'
+  name: Ulaanbaatar

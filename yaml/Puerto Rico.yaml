@@ -1,0 +1,213 @@
+- cities:
+  - {name: Adjuntas}
+  - {name: Aguada}
+  - {name: Aguada}
+  - {name: Aguadilla}
+  - {name: Aguadilla}
+  - {name: Aguadilla}
+  - {name: Aguas Buenas}
+  - {name: Aguas Buenas}
+  - {name: Aguirre}
+  - {name: Aibonito}
+  - {name: Aibonito}
+  - {name: Anasco}
+  - {name: Anasco}
+  - {name: Angeles}
+  - {name: Arecibo}
+  - {name: Arecibo}
+  - {name: Arecibo}
+  - {name: Arecibo}
+  - {name: Arroyo}
+  - {name: Arroyo}
+  - {name: Bajadero}
+  - {name: Barceloneta}
+  - {name: Barceloneta}
+  - {name: Barranquitas}
+  - {name: Barranquitas}
+  - {name: Bayamon}
+  - {name: Bayamon}
+  - {name: Bayamon}
+  - {name: Bayamon}
+  - {name: Bayamon}
+  - {name: Bayamon}
+  - {name: Bayamon}
+  - {name: Cabo Rojo}
+  - {name: Cabo Rojo}
+  - {name: Caguas}
+  - {name: Caguas}
+  - {name: Caguas}
+  - {name: Caguas}
+  - {name: Camuy}
+  - {name: Camuy}
+  - {name: Canovanas}
+  - {name: Canovanas}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Carolina}
+  - {name: Castaner}
+  - {name: Catano}
+  - {name: Catano}
+  - {name: Catano}
+  - {name: Cayey}
+  - {name: Cayey}
+  - {name: Cayey}
+  - {name: Ceiba}
+  - {name: Ciales}
+  - {name: Cidra}
+  - {name: Cidra}
+  - {name: Coamo}
+  - {name: Comerio}
+  - {name: Comerio}
+  - {name: Corozal}
+  - {name: Corozal}
+  - {name: Dorado}
+  - {name: Dorado}
+  - {name: Fajardo}
+  - {name: Fajardo}
+  - {name: Florida}
+  - {name: Fort Buchanan}
+  - {name: Garrochales}
+  - {name: Garrochales}
+  - {name: Guanica}
+  - {name: Guayama}
+  - {name: Guayama}
+  - {name: Guayama}
+  - {name: Guayanilla}
+  - {name: Guayanilla}
+  - {name: Guaynabo}
+  - {name: Guaynabo}
+  - {name: Guaynabo}
+  - {name: Guaynabo}
+  - {name: Guaynabo}
+  - {name: Guaynabo}
+  - {name: Gurabo}
+  - {name: Gurabo}
+  - {name: Hatillo}
+  - {name: Hatillo}
+  - {name: Hormigueros}
+  - {name: Humacao}
+  - {name: Humacao}
+  - {name: Humacao}
+  - {name: Isabela}
+  - {name: Isabela}
+  - {name: Jayuya}
+  - {name: Juana Diaz}
+  - {name: Juana Diaz}
+  - {name: Juncos}
+  - {name: La Plata}
+  - {name: Lajas}
+  - {name: Lares}
+  - {name: Las Piedras}
+  - {name: Las Piedras}
+  - {name: Loiza}
+  - {name: Luquillo}
+  - {name: Luquillo}
+  - {name: Manati}
+  - {name: Manati}
+  - {name: Mayaguez}
+  - {name: Mayaguez}
+  - {name: Mayaguez}
+  - {name: Mayaguez}
+  - {name: Mercedita}
+  - {name: Mercedita}
+  - {name: Moca}
+  - {name: Moca}
+  - {name: Morovis}
+  - {name: Morovis}
+  - {name: Naguabo}
+  - {name: Naguabo}
+  - {name: Naranjito}
+  - {name: Naranjito}
+  - {name: Orocovis}
+  - {name: Orocovis}
+  - {name: Penuelas}
+  - {name: Penuelas}
+  - {name: Ponce}
+  - {name: Ponce}
+  - {name: Ponce}
+  - {name: Ponce}
+  - {name: Ponce}
+  - {name: Ponce}
+  - {name: Ponce}
+  - {name: Puerto Real}
+  - {name: Quebradillas}
+  - {name: Rincon}
+  - {name: Rio Blanco}
+  - {name: Rio Grande}
+  - {name: Rio Grande}
+  - {name: Sabana Grande}
+  - {name: Sabana Hoyos}
+  - {name: Sabana Seca}
+  - {name: Saint Just}
+  - {name: Salinas}
+  - {name: Salinas}
+  - {name: San Antonio}
+  - {name: San Antonio}
+  - {name: San German}
+  - {name: San German}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Juan}
+  - {name: San Lorenzo}
+  - {name: San Lorenzo}
+  - {name: San Sebastian}
+  - {name: Santa Isabel}
+  - {name: Toa Alta}
+  - {name: Toa Alta}
+  - {name: Toa Baja}
+  - {name: Toa Baja}
+  - {name: Toa Baja}
+  - {name: Trujillo Alto}
+  - {name: Trujillo Alto}
+  - {name: Trujillo Alto}
+  - {name: Utuado}
+  - {name: Utuado}
+  - {name: Vega Alta}
+  - {name: Vega Alta}
+  - {name: Vega Baja}
+  - {name: Vega Baja}
+  - {name: Vieques}
+  - {name: Villalba}
+  - {name: Yabucoa}
+  - {name: Yabucoa}
+  - {name: Yauco}
+  code: (nu
+  name: ''

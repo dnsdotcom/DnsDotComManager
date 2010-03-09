@@ -1,0 +1,25 @@
+- cities:
+  - {name: Belize City}
+  - {name: Bomba}
+  - {name: Ladyville}
+  - {name: San Pedro}
+  code: '01'
+  name: Belize
+- cities:
+  - {name: Belmopan}
+  - {name: Benque Viejo}
+  - {name: Cayo}
+  - {name: Panama}
+  - {name: San Ignacio}
+  - {name: Spanish Lookout}
+  code: '02'
+  name: Cayo
+- cities:
+  - {name: Corozal}
+  code: '03'
+  name: Corozal
+- cities:
+  - {name: Dangriga}
+  - {name: Placencia}
+  code: '05'
+  name: Stann Creek

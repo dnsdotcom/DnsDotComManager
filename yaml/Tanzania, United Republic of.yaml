@@ -1,0 +1,45 @@
+- cities:
+  - {name: Arusha}
+  code: '26'
+  name: ''
+- cities:
+  - {name: Mbezi}
+  code: '27'
+  name: ''
+- cities:
+  - {name: Dar Es Salaam}
+  - {name: Dar Es Salam}
+  code: '23'
+  name: Dar es Salaam
+- cities:
+  - {name: Dodoma}
+  code: '03'
+  name: Dodoma
+- cities:
+  - {name: Iringa}
+  code: '04'
+  name: Iringa
+- cities:
+  - {name: Moshi}
+  code: '06'
+  name: Kilimanjaro
+- cities:
+  - {name: Mtwara}
+  code: '11'
+  name: Mtwara
+- cities:
+  - {name: Mwanza}
+  code: '12'
+  name: Mwanza
+- cities:
+  - {name: Kilimanjaro}
+  - {name: Langata}
+  - {name: Nairobi}
+  - {name: Tanga}
+  code: '18'
+  name: Tanga
+- cities:
+  - {name: Bagamoyo}
+  - {name: Zanzibar}
+  code: '25'
+  name: Zanzibar Urban

@@ -1,0 +1,12 @@
+- cities:
+  - {name: Butare}
+  code: '01'
+  name: Butare
+- cities:
+  - {name: Gitarama}
+  code: '06'
+  name: Gitarama
+- cities:
+  - {name: Kigali}
+  code: 09
+  name: Kigali

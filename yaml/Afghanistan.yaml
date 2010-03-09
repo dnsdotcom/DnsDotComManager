@@ -1,0 +1,46 @@
+- cities:
+  - {name: Bamyan}
+  code: '05'
+  name: Bamian
+- cities:
+  - {name: Herat}
+  code: '11'
+  name: Herat
+- cities:
+  - {name: Kabul}
+  code: '13'
+  name: Kabol
+- cities:
+  - {name: Kandahar}
+  - {name: Kandhar}
+  code: '23'
+  name: Kandahar
+- cities:
+  - {name: Kunduz}
+  code: '24'
+  name: Kondoz
+- cities:
+  - {name: Jalalabad}
+  code: '18'
+  name: Nangarhar
+- cities:
+  - {name: Gardez}
+  code: '36'
+  name: Paktia
+- cities:
+  - {name: Bagram}
+  - {name: Parwan}
+  code: '22'
+  name: Parvan
+- cities:
+  - {name: Mazar}
+  code: '33'
+  name: Sar-e Pol
+- cities:
+  - {name: Talugan}
+  code: '26'
+  name: Takhar
+- cities:
+  - {name: Rana}
+  code: '28'
+  name: Zabol

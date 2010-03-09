@@ -1,0 +1,93 @@
+- cities:
+  - {name: B}
+  - {name: Hverager}
+  - {name: Hveragerdi}
+  - {name: Laugarvatn}
+  - {name: Selfoss}
+  - {name: Stokkseyri}
+  code: '03'
+  name: Arnessysla
+- cities:
+  - {name: Bl}
+  code: '05'
+  name: Austur-Hunavatnssysla
+- cities:
+  - {name: H}
+  code: '06'
+  name: Austur-Skaftafellssysla
+- cities:
+  - {name: Akranes}
+  - {name: Hvanneyri}
+  code: '07'
+  name: Borgarfjardarsysla
+- cities:
+  - {name: Akureyri}
+  - {name: Dalv}
+  code: 09
+  name: Eyjafjardarsysla
+- cities:
+  - {name: Gar}
+  - {name: Grindav}
+  - {name: Hafnarfj}
+  - {name: K}
+  - {name: Keflav}
+  - {name: Reykjav}
+  - {name: Sandger}
+  - {name: Vogar}
+  code: '10'
+  name: Gullbringusysla
+- cities:
+  - {name: Brautarholt}
+  code: '15'
+  name: Kjosarsysla
+- cities:
+  - {name: ''}
+  - {name: Borgarnes}
+  code: '17'
+  name: Myrasysla
+- cities:
+  - {name: Sey}
+  code: '20'
+  name: Nordur-Mulasysla
+- cities:
+  - {name: K}
+  code: '21'
+  name: Nordur-Tingeyjarsysla
+- cities:
+  - {name: Hella}
+  - {name: Hvolsv}
+  - {name: Vestmannaeyjar}
+  code: '23'
+  name: Rangarvallasysla
+- cities:
+  - {name: Sau}
+  code: '28'
+  name: Skagafjardarsysla
+- cities:
+  - {name: ''}
+  - {name: Hellissandur}
+  - {name: Stykkish}
+  code: '29'
+  name: Snafellsnes- og Hnappadalssysla
+- cities:
+  - {name: Dj}
+  - {name: Eskifj}
+  - {name: Rey}
+  code: '31'
+  name: Sudur-Mulasysla
+- cities:
+  - {name: Greniv}
+  - {name: H}
+  code: '32'
+  name: Sudur-Tingeyjarsysla
+- cities:
+  - {name: ''}
+  - {name: Bolungarv}
+  - {name: Su}
+  code: '36'
+  name: Vestur-Isafjardarsysla
+- cities:
+  - {name: Kirkjub}
+  - {name: V}
+  code: '37'
+  name: Vestur-Skaftafellssysla

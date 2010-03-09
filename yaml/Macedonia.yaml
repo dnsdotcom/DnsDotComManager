@@ -1,0 +1,124 @@
+- cities:
+  - {name: Bitola}
+  code: '06'
+  name: Bitola
+- cities:
+  - {name: Bogdanci}
+  code: 08
+  name: Bogdanci
+- cities:
+  - {name: Gevgelija}
+  code: '33'
+  name: Gevgelija
+- cities:
+  - {name: Gostivar}
+  code: '34'
+  name: Gostivar
+- cities:
+  - {name: Gradsko}
+  code: '35'
+  name: Gradsko
+- cities:
+  - {name: Skopje}
+  code: '41'
+  name: Karpos
+- cities:
+  - {name: Kavadarci}
+  code: '42'
+  name: Kavadarci
+- cities:
+  - {name: Kicevo}
+  code: '43'
+  name: Kicevo
+- cities:
+  - {name: Kocani}
+  code: '46'
+  name: Kocani
+- cities:
+  - {name: Kosel}
+  code: '50'
+  name: Kosel
+- cities:
+  - {name: Kumanovo}
+  code: '57'
+  name: Kumanovo
+- cities:
+  - {name: Kamenica}
+  code: '62'
+  name: Makedonska Kamenica
+- cities:
+  - {name: Meseista}
+  code: '65'
+  name: Meseista
+- cities:
+  - {name: Negotino}
+  code: '69'
+  name: Negotino
+- cities:
+  - {name: Ohrid}
+  code: '74'
+  name: Ohrid
+- cities:
+  - {name: Prilep}
+  code: '82'
+  name: Prilep
+- cities:
+  - {name: Radovis}
+  code: '84'
+  name: Radovis
+- cities:
+  - {name: Resen}
+  code: '86'
+  name: Resen
+- cities:
+  - {name: Rosoman}
+  code: '87'
+  name: Rosoman
+- cities:
+  - {name: Kosovo}
+  code: '89'
+  name: Samokov
+- cities:
+  - {name: Sopiste}
+  code: '92'
+  name: Sopiste
+- cities:
+  - {name: Dojran}
+  code: '96'
+  name: Star Dojran
+- cities:
+  - {name: Stip}
+  code: '98'
+  name: Stip
+- cities:
+  - {name: Struga}
+  code: '99'
+  name: Struga
+- cities:
+  - {name: Strumica}
+  code: A1
+  name: Strumica
+- cities:
+  - {name: Sveti Nikole}
+  code: A4
+  name: Sveti Nikole
+- cities:
+  - {name: Tetovo}
+  code: A6
+  name: Tetovo
+- cities:
+  - {name: Valandovo}
+  code: A8
+  name: Valandovo
+- cities:
+  - {name: Veles}
+  code: B1
+  name: Veles
+- cities:
+  - {name: Zitose}
+  code: C4
+  name: Zitose
+- cities:
+  - {name: Vinica}
+  code: C6
+  name: Zrnovci

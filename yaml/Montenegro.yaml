@@ -1,0 +1,27 @@
+- cities:
+  - {name: Bar}
+  - {name: Berane}
+  - {name: Bijela}
+  - {name: Brdo}
+  - {name: Budva}
+  - {name: Cetinje}
+  - {name: Golubovci}
+  - {name: Gorica}
+  - {name: Igalo}
+  - {name: Kosijeri}
+  - {name: Kotor}
+  - {name: Niksic}
+  - {name: Obod}
+  - {name: Plav}
+  - {name: Podgorica}
+  - {name: Rozaje}
+  - {name: Tivat}
+  - {name: Tolosi}
+  - {name: Tuzi}
+  - {name: Tvrdas}
+  - {name: Ulcinj}
+  - {name: Zabljak}
+  - {name: Zagoric}
+  - {name: Zeljeznica}
+  code: '00'
+  name: ''

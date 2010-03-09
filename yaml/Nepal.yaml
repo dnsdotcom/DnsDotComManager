@@ -1,0 +1,20 @@
+- cities:
+  - {name: Baglung}
+  - {name: Belani}
+  - {name: Bhadrapur}
+  - {name: Bhairawa}
+  - {name: Bhaktapur}
+  - {name: Bharatpur}
+  - {name: Biratnagar}
+  - {name: Birgunj}
+  - {name: Butwal}
+  - {name: Hetauda}
+  - {name: Janakpur}
+  - {name: Jawalakhel}
+  - {name: Kathmandu}
+  - {name: Lalitpur}
+  - {name: Palpa}
+  - {name: Pokhara}
+  - {name: Siddharthanagar}
+  code: '00'
+  name: ''

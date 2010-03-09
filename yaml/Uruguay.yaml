@@ -1,0 +1,82 @@
+- cities:
+  - {name: Atl}
+  - {name: Canelones}
+  - {name: Las Piedras}
+  - {name: Pando}
+  - {name: Paso De Carrasco}
+  - {name: San Ram}
+  code: '02'
+  name: Canelones
+- cities:
+  - {name: Melo}
+  code: '03'
+  name: Cerro Largo
+- cities:
+  - {name: Colonia}
+  - {name: Colonia Omb}
+  - {name: Nueva Helvecia}
+  code: '04'
+  name: Colonia
+- cities:
+  - {name: Durazno}
+  code: '05'
+  name: Durazno
+- cities:
+  - {name: Trinidad}
+  code: '06'
+  name: Flores
+- cities:
+  - {name: Florida}
+  code: '07'
+  name: Florida
+- cities:
+  - {name: Minas}
+  code: 08
+  name: Lavalleja
+- cities:
+  - {name: Maldonado}
+  - {name: Pan De Az}
+  - {name: Piri}
+  - {name: Punta Del Este}
+  - {name: San Carlos}
+  code: 09
+  name: Maldonado
+- cities:
+  - {name: Montevideo}
+  code: '10'
+  name: Montevideo
+- cities:
+  - {name: Fray Bentos}
+  code: '12'
+  name: Rio Negro
+- cities:
+  - {name: Rivera}
+  code: '13'
+  name: Rivera
+- cities:
+  - {name: Rocha}
+  code: '14'
+  name: Rocha
+- cities:
+  - {name: Salto}
+  code: '15'
+  name: Salto
+- cities:
+  - {name: Ecilda Paullier}
+  - {name: San Jos}
+  code: '16'
+  name: San Jose
+- cities:
+  - {name: Dolores}
+  - {name: Soriano}
+  code: '17'
+  name: Soriano
+- cities:
+  - {name: Las Toscas}
+  - {name: Tacuaremb}
+  code: '18'
+  name: Tacuarembo
+- cities:
+  - {name: Treinta Y Tres}
+  code: '19'
+  name: Treinta y Tres

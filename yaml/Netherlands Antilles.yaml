@@ -1,0 +1,9 @@
+- cities:
+  - {name: Emmastad}
+  - {name: Kralendijk}
+  - {name: Philipsburg}
+  - {name: Saint Peter}
+  - {name: Vredenberg}
+  - {name: Willemstad}
+  code: '00'
+  name: ''

@@ -1,0 +1,59 @@
+- cities:
+  - {name: Camag}
+  - {name: La Habana}
+  code: '05'
+  name: Camaguey
+- cities:
+  - {name: 'Ciego De '}
+  - {name: Habana}
+  code: '07'
+  name: Ciego de Avila
+- cities:
+  - {name: Cienfuegos}
+  code: 08
+  name: Cienfuegos
+- cities:
+  - {name: Havana}
+  code: '02'
+  name: Ciudad de la Habana
+- cities:
+  - {name: Bayamo}
+  - {name: Miramar}
+  code: 09
+  name: Granma
+- cities:
+  - {name: Holgu}
+  code: '12'
+  name: Holguin
+- cities:
+  - {name: Juventud}
+  code: '11'
+  name: La Habana
+- cities:
+  - {name: Las Tunas}
+  - {name: Tunas}
+  code: '13'
+  name: Las Tunas
+- cities:
+  - {name: Empresa}
+  - {name: Matanzas}
+  - {name: Varadero}
+  code: '03'
+  name: Matanzas
+- cities:
+  - {name: Pinar Del R}
+  - {name: Villa}
+  code: '01'
+  name: Pinar del Rio
+- cities:
+  - {name: Sancti Sp}
+  code: '14'
+  name: Sancti Spiritus
+- cities:
+  - {name: Santiago De Cuba}
+  code: '15'
+  name: Santiago de Cuba
+- cities:
+  - {name: Santa Clara}
+  code: '16'
+  name: Villa Clara

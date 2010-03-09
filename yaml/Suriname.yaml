@@ -1,0 +1,8 @@
+- cities:
+  - {name: Nieuw Nickerie}
+  code: '14'
+  name: Nickerie
+- cities:
+  - {name: Paramaribo}
+  code: '16'
+  name: Paramaribo

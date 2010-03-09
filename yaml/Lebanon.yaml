@@ -1,0 +1,48 @@
+- cities:
+  - {name: Jazzin}
+  - {name: Sa}
+  - {name: Tyre}
+  code: '02'
+  name: ''
+- cities:
+  - {name: Bakkah}
+  code: '01'
+  name: Beqaa
+- cities:
+  - {name: Achrafieh}
+  - {name: Bayrut}
+  - {name: Beirut}
+  - {name: Beyrouth}
+  - {name: Dora}
+  - {name: Hamra}
+  code: '04'
+  name: Beyrouth
+- cities:
+  - {name: Batro}
+  - {name: Bterr}
+  - {name: Chekka}
+  - {name: Gebr}
+  - {name: Tripoli}
+  - {name: Zgharta}
+  code: '03'
+  name: Liban-Nord
+- cities:
+  - {name: Ksara}
+  code: '06'
+  name: Liban-Sud
+- cities:
+  - {name: Adma}
+  - {name: Aley}
+  - {name: Baabda}
+  - {name: Broumm}
+  - {name: Btebiat}
+  - {name: Byblos}
+  - {name: Chiy}
+  - {name: Damour}
+  - {name: Dbayeh}
+  - {name: Fanar}
+  - {name: Hammana}
+  - {name: Jubayl}
+  - {name: Zahl}
+  code: '05'
+  name: Mont-Liban

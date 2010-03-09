@@ -1,0 +1,21 @@
+- cities:
+  - {name: Anses D'arlet}
+  - {name: Concorde}
+  - {name: Diamant}
+  - {name: Ducos}
+  - {name: Fort-de-france}
+  - {name: Gros-morne}
+  - {name: La Chapelle}
+  - {name: La Trinit}
+  - {name: Lamentin}
+  - {name: Le Fran}
+  - {name: Le Lamentin}
+  - {name: Le Marigot}
+  - {name: Le Robert}
+  - {name: Les Trois-}
+  - {name: Rivi}
+  - {name: Saint-joseph}
+  - {name: Sainte-luce}
+  - {name: Trinit}
+  code: '00'
+  name: ''

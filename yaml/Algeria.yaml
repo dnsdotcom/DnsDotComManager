@@ -1,0 +1,153 @@
+- cities:
+  - {name: Adrar}
+  code: '34'
+  name: Adrar
+- cities:
+  - {name: Khemis Miliana}
+  code: '35'
+  name: Ain Defla
+- cities:
+  - {name: Alger}
+  - {name: Algiers}
+  - {name: Birkhadem}
+  - {name: Cheraga}
+  - {name: Dar El Be}
+  - {name: El Biar}
+  code: '01'
+  name: Alger
+- cities:
+  - {name: Guelma}
+  - {name: Mechtat El Msadia}
+  - {name: Souk Ahras}
+  code: '37'
+  name: Annaba
+- cities:
+  - {name: A}
+  - {name: Batna}
+  code: '03'
+  name: Batna
+- cities:
+  - {name: B}
+  - {name: El Be}
+  code: '38'
+  name: Bechar
+- cities:
+  - {name: Beja}
+  - {name: Feraoun}
+  code: '18'
+  name: Bejaia
+- cities:
+  - {name: Biskra}
+  - {name: Chetma}
+  code: '19'
+  name: Biskra
+- cities:
+  - {name: Blida}
+  code: '20'
+  name: Blida
+- cities:
+  - {name: Bouira}
+  code: '21'
+  name: Bouira
+- cities:
+  - {name: Ben Hammam}
+  - {name: Chlef}
+  - {name: Malakoff}
+  code: '41'
+  name: Chlef
+- cities:
+  - {name: Constantine}
+  - {name: Redjas}
+  - {name: Skikda}
+  code: '04'
+  name: Constantine
+- cities:
+  - {name: Djelfa}
+  code: '22'
+  name: Djelfa
+- cities:
+  - {name: Jijel}
+  - {name: Kaous}
+  code: '24'
+  name: Jijel
+- cities:
+  - {name: Laghouat}
+  code: '25'
+  name: Laghouat
+- cities:
+  - {name: Douar Sidi 'abbo}
+  - {name: Mascara}
+  - {name: Mohammadia}
+  code: '26'
+  name: Mascara
+- cities:
+  - {name: M}
+  code: '06'
+  name: Medea
+- cities:
+  - {name: Mila}
+  code: '48'
+  name: Mila
+- cities:
+  - {name: Mostaganem}
+  code: '07'
+  name: Mostaganem
+- cities:
+  - {name: Oran}
+  - {name: Wahran}
+  code: 09
+  name: Oran
+- cities:
+  - {name: Gharda}
+  - {name: Ouargla}
+  code: '50'
+  name: Ouargla
+- cities:
+  - {name: Oued Rhiou}
+  - {name: Relizane}
+  code: '51'
+  name: Relizane
+- cities:
+  - {name: Sa}
+  code: '10'
+  name: Saida
+- cities:
+  - {name: El Eulma}
+  - {name: S}
+  code: '12'
+  name: Setif
+- cities:
+  - {name: Sidi Bel Abb}
+  code: '30'
+  name: Sidi Bel Abbes
+- cities:
+  - {name: Annaba}
+  code: '31'
+  name: Skikda
+- cities:
+  - {name: T}
+  code: '33'
+  name: Tebessa
+- cities:
+  - {name: Tiaret}
+  - {name: Victor Hugo}
+  code: '13'
+  name: Tiaret
+- cities:
+  - {name: Tindouf}
+  code: '54'
+  name: Tindouf
+- cities:
+  - {name: Fouka}
+  - {name: Kolea}
+  - {name: Tipaza}
+  code: '55'
+  name: Tipaza
+- cities:
+  - {name: Tizi Ouzou}
+  code: '14'
+  name: Tizi Ouzou
+- cities:
+  - {name: Tlemcen}
+  code: '15'
+  name: Tlemcen

@@ -1,0 +1,5 @@
+- cities:
+  - {name: Miquelon}
+  - {name: Saint-pierre}
+  code: '00'
+  name: ''

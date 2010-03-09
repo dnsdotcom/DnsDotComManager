@@ -1,0 +1,263 @@
+- cities:
+  - {name: Bjelovar}
+  - {name: Garesnica}
+  - {name: Nova}
+  code: '01'
+  name: Bjelovarsko-Bilogorska
+- cities:
+  - {name: Nova Gradiska}
+  - {name: Resetari}
+  - {name: Slavonski Brod}
+  code: '02'
+  name: Brodsko-Posavska
+- cities:
+  - {name: Cavtat}
+  - {name: Cilipi}
+  - {name: Dubrovnik}
+  - {name: Gdinj}
+  - {name: Igrane}
+  - {name: Korcula}
+  - {name: Makarska}
+  - {name: Marinici}
+  - {name: Metkovic}
+  - {name: Njivice}
+  - {name: Ploce}
+  - {name: Vodice}
+  - {name: Vrgorac}
+  - {name: Zovko}
+  code: '03'
+  name: Dubrovacko-Neretvanska
+- cities:
+  - {name: Gornji Stupnik}
+  - {name: Hrvatski Leskovac}
+  - {name: Jankomir}
+  - {name: Kerestinec}
+  - {name: Kraljevac}
+  - {name: Lucko}
+  - {name: Mikulici}
+  - {name: Nedjelja}
+  - {name: Novaki Samoborski}
+  - {name: Rakitje}
+  - {name: Rakov Potok}
+  - {name: Samobor}
+  - {name: Sesvete}
+  - {name: Strmec Samoborski}
+  - {name: Sveta Nedelja}
+  - {name: Sveta Nedjelja}
+  - {name: Zagreb}
+  - {name: Zapresic}
+  code: '21'
+  name: Grad Zagreb
+- cities:
+  - {name: Brtonigla}
+  - {name: Buje}
+  - {name: Buzet}
+  - {name: Cerovlje}
+  - {name: Fazana}
+  - {name: Gliuscici}
+  - {name: Koromacno}
+  - {name: Labin}
+  - {name: Lindar}
+  - {name: Lupoglav}
+  - {name: Mali Losinj}
+  - {name: Marcenegla}
+  - {name: Maric}
+  - {name: Medulin}
+  - {name: Novigrad}
+  - {name: Okreti}
+  - {name: Pazin}
+  - {name: Petar U Sumi}
+  - {name: Porec}
+  - {name: Potpican}
+  - {name: Pula}
+  - {name: Rabac}
+  - {name: Rasa}
+  - {name: Rovinj}
+  - {name: Savudrija}
+  - {name: Umag}
+  - {name: Visnjan}
+  - {name: Vizinada}
+  code: '04'
+  name: Istarska
+- cities:
+  - {name: Brod}
+  - {name: Jaska}
+  - {name: Jastrebarsko}
+  - {name: Karlovac}
+  - {name: Lucica}
+  - {name: Ozalj}
+  - {name: Police}
+  - {name: Svetice}
+  code: '05'
+  name: Karlovacka
+- cities:
+  - {name: Koprivnica}
+  - {name: Krizevci}
+  - {name: Majur}
+  code: '06'
+  name: Koprivnicko-Krizevacka
+- cities:
+  - {name: Donja Bistra}
+  - {name: Donja Stubica}
+  - {name: Dubravica}
+  - {name: Gornja Stubica}
+  - {name: Hum Na Sutli}
+  - {name: Klanjec}
+  - {name: Krapina}
+  - {name: Kumrovec}
+  - {name: Kupljenovo}
+  - {name: Marija Bistrica}
+  - {name: Mihovljan}
+  - {name: Prigorje Brdovecko}
+  - {name: Sveti Kriz}
+  - {name: Veliko Trgovisce}
+  - {name: Zabok}
+  - {name: Zagorska Sela}
+  - {name: Zlatar}
+  code: '07'
+  name: Krapinsko-Zagorska
+- cities:
+  - {name: Podstrana}
+  - {name: Popovaca}
+  - {name: Senj}
+  code: 08
+  name: Licko-Senjska
+- cities:
+  - {name: Cakovec}
+  - {name: Lopatinec}
+  - {name: Nedelisce}
+  - {name: Prelog}
+  code: 09
+  name: Medimurska
+- cities:
+  - {name: Beli Manastir}
+  - {name: Belisce}
+  - {name: Cepin}
+  - {name: Donji Miholjac}
+  - {name: Kusevac}
+  - {name: Osijek}
+  - {name: Tenja}
+  - {name: Valpovo}
+  code: '10'
+  name: Osjecko-Baranjska
+- cities:
+  - {name: Djakovo}
+  - {name: Lipik}
+  - {name: Pozega}
+  code: '11'
+  name: Pozesko-Slavonska
+- cities:
+  - {name: Bakar}
+  - {name: Baska}
+  - {name: Benkovac}
+  - {name: Blizanci}
+  - {name: Cres}
+  - {name: Crikvenica}
+  - {name: Dabar}
+  - {name: Delnice}
+  - {name: Hreljin}
+  - {name: Josipdol}
+  - {name: Jurdani}
+  - {name: Kastav}
+  - {name: Kostrena}
+  - {name: Kraljevica}
+  - {name: Kras}
+  - {name: Krk}
+  - {name: Kukuljanovo}
+  - {name: Malinska}
+  - {name: Matulji}
+  - {name: Novi}
+  - {name: Novi Vinodolski}
+  - {name: Ogulin}
+  - {name: Opatija}
+  - {name: Pago}
+  - {name: Punat}
+  - {name: Rab}
+  - {name: Rijeka}
+  - {name: Sbissina}
+  - {name: Stinica}
+  - {name: Tomic}
+  code: '12'
+  name: Primorsko-Goranska
+- cities:
+  - {name: Betina}
+  - {name: Murter}
+  - {name: Sibenik}
+  - {name: Tvornica}
+  code: '13'
+  name: Sibensko-Kninska
+- cities:
+  - {name: Core}
+  - {name: Glina}
+  - {name: Gracac}
+  - {name: Korenica}
+  - {name: Kutina}
+  - {name: Petrinja}
+  - {name: Plitvicka Jezera}
+  - {name: Sisak}
+  - {name: Stupnik}
+  code: '14'
+  name: Sisacko-Moslavacka
+- cities:
+  - {name: Bol}
+  - {name: Dugopolje}
+  - {name: Hvar}
+  - {name: Kamen}
+  - {name: Kastel Gomilica}
+  - {name: Kastel Luksic}
+  - {name: Kastel Novi}
+  - {name: Kastel Stari}
+  - {name: Kastel Sucurac}
+  - {name: Komiza}
+  - {name: Omis}
+  - {name: Sinj}
+  - {name: Solin}
+  - {name: Split}
+  - {name: Stari}
+  - {name: Stobrec}
+  - {name: Strozanac}
+  - {name: Trogir}
+  code: '15'
+  name: Splitsko-Dalmatinska
+- cities:
+  - {name: Bednja}
+  - {name: Breznicki Hum}
+  - {name: Greda}
+  - {name: Ivanec}
+  - {name: Kneginec}
+  - {name: Trnovec}
+  - {name: Varazdin}
+  - {name: Visoko}
+  code: '16'
+  name: Varazdinska
+- cities:
+  - {name: Nasice}
+  - {name: Orahovica}
+  - {name: Slatina}
+  - {name: Virovitica}
+  code: '17'
+  name: Viroviticko-Podravska
+- cities:
+  - {name: Cerna}
+  - {name: Vinkovci}
+  - {name: Vrbanja}
+  - {name: Vukovar}
+  - {name: Zupanja}
+  code: '18'
+  name: Vukovarsko-Srijemska
+- cities:
+  - {name: Biograd Na Moru}
+  - {name: Dugo Selo}
+  - {name: Ivanic-grad}
+  - {name: Kuce}
+  - {name: Lonjica}
+  - {name: Pavlovec Vrbovecki}
+  - {name: Sale}
+  - {name: Sukosan}
+  - {name: Ugljan}
+  - {name: Velika Gorica}
+  - {name: Vrbovec}
+  - {name: Zadar}
+  - {name: Zara}
+  code: '20'
+  name: Zagrebacka

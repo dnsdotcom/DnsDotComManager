@@ -1,0 +1,8 @@
+- cities:
+  - {name: Malabo}
+  code: '04'
+  name: Bioko Norte
+- cities:
+  - {name: Bata}
+  code: 08
+  name: Litoral

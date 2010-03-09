@@ -1,0 +1,38 @@
+- cities:
+  - {name: May Pen}
+  - {name: Portland}
+  code: '01'
+  name: Clarendon
+- cities:
+  - {name: Mandeville}
+  code: '04'
+  name: Manchester
+- cities:
+  - {name: Kingston}
+  code: 08
+  name: Saint Andrew
+- cities:
+  - {name: Discovery Bay}
+  - {name: Ocho Rios}
+  code: 09
+  name: Saint Ann
+- cities:
+  - {name: Braeton}
+  - {name: Kilbies}
+  - {name: Old Harbour}
+  - {name: Port Henderson}
+  - {name: Portmore}
+  - {name: Spanish Town}
+  code: '10'
+  name: Saint Catherine
+- cities:
+  - {name: Montego}
+  - {name: Montego Bay}
+  code: '12'
+  name: Saint James
+- cities:
+  - {name: Glasgow}
+  - {name: Negril}
+  - {name: Savanna-la-mar}
+  code: '16'
+  name: Westmoreland

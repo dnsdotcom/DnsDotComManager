@@ -1,0 +1,641 @@
+- cities:
+  - {name: Bad}
+  - {name: Balaze}
+  - {name: Balog}
+  - {name: Bansk}
+  - {name: Banska Stiavnica}
+  - {name: Benus}
+  - {name: Bobrovec}
+  - {name: Brezno}
+  - {name: Budca}
+  - {name: Busince}
+  - {name: Bystricka}
+  - {name: Cakanovce}
+  - {name: Cerovo}
+  - {name: Chrenovec}
+  - {name: Cierny Balog}
+  - {name: Detva}
+  - {name: Div}
+  - {name: Dolina}
+  - {name: Filakovo}
+  - {name: Halic}
+  - {name: Handlov}
+  - {name: Harmanec}
+  - {name: Helpa}
+  - {name: Hlin}
+  - {name: Hnusta}
+  - {name: Hodrusa}
+  - {name: Hontianske Nemce}
+  - {name: Horn}
+  - {name: Horna Stubna}
+  - {name: Hostice}
+  - {name: Hrinova}
+  - {name: Jakubovany}
+  - {name: Jesensk}
+  - {name: Kalinovo}
+  - {name: Klacany}
+  - {name: Kokava Nad Rimavicou}
+  - {name: Kosor}
+  - {name: Kremnica}
+  - {name: Kremnicka}
+  - {name: Krivan}
+  - {name: Krizna}
+  - {name: Krtis}
+  - {name: Krupina}
+  - {name: Lesenice}
+  - {name: Lieskovec}
+  - {name: Liptovsk}
+  - {name: Liptovsky Mikulas}
+  - {name: Lovcica}
+  - {name: Lovinobana}
+  - {name: Lubela}
+  - {name: Lucenec}
+  - {name: Lutila}
+  - {name: M}
+  - {name: Mastinec}
+  - {name: Mikusovce}
+  - {name: Mosovce}
+  - {name: Mucin}
+  - {name: Myto Pod Dumbierom}
+  - {name: Nov}
+  - {name: Ocova}
+  - {name: Ozdany}
+  - {name: Petrovce}
+  - {name: Pliesovce}
+  - {name: Podbrezov}
+  - {name: Pohorel}
+  - {name: Pohorelska Masa}
+  - {name: Poloma}
+  - {name: Polomka}
+  - {name: Polt}
+  - {name: Poproc}
+  - {name: Praha}
+  - {name: Prievidza}
+  - {name: Radzovce}
+  - {name: Raztocno}
+  - {name: Rev}
+  - {name: Rimavsk}
+  - {name: Sebedrazie}
+  - {name: Selce}
+  - {name: Slanec}
+  - {name: Sliac}
+  - {name: Sliace}
+  - {name: Slovenska Lupca}
+  - {name: Stiavnicka}
+  - {name: Strba}
+  - {name: Strbske Pleso}
+  - {name: Sunava}
+  - {name: Tajov}
+  - {name: Tisovec}
+  - {name: Turcianske Teplice}
+  - {name: V}
+  - {name: Vazec}
+  - {name: Velky Blh}
+  - {name: Velky Krtis}
+  - {name: Viglas}
+  - {name: Vinica}
+  - {name: Vyhne}
+  - {name: Vysok}
+  - {name: Z}
+  - {name: Zarnovica}
+  - {name: Zelovce}
+  - {name: Ziar Nad Hronom}
+  - {name: Zvolen}
+  - {name: Zvolensk}
+  code: '01'
+  name: Banska Bystrica
+- cities:
+  - {name: Bernol}
+  - {name: Bratislava}
+  - {name: Brodsk}
+  - {name: Chorv}
+  - {name: Cicov}
+  - {name: Cierne Pole}
+  - {name: Dolny Stal}
+  - {name: Dunajsk}
+  - {name: Eberhart}
+  - {name: Gabcikovo}
+  - {name: Gbely}
+  - {name: Hamuliakovo}
+  - {name: Holic}
+  - {name: Ivanka Pri Dunaji}
+  - {name: Jelka}
+  - {name: K}
+  - {name: Kalinkovo}
+  - {name: Kostolany}
+  - {name: Lehnice}
+  - {name: Limbach}
+  - {name: Lozorno}
+  - {name: Malacky}
+  - {name: Malinovo}
+  - {name: Miloslavov}
+  - {name: Modra}
+  - {name: Moravsk}
+  - {name: Na Ostrove}
+  - {name: Ohrady}
+  - {name: Petrova Ves}
+  - {name: Pezinok}
+  - {name: Raca}
+  - {name: Rohovce}
+  - {name: Rovinka}
+  - {name: Samorin}
+  - {name: Sastin}
+  - {name: Sekule}
+  - {name: Senec}
+  - {name: Senkvice}
+  - {name: Slovensk}
+  - {name: Studienka}
+  - {name: Stupava}
+  - {name: Stvrtok Na Ostrove}
+  - {name: Sv}
+  - {name: Tomasov}
+  - {name: Tr}
+  - {name: Velke Levare}
+  - {name: Velky Biel}
+  - {name: Velky Meder}
+  - {name: Vinicne}
+  - {name: Z}
+  - {name: Zemianska Olca}
+  - {name: Zlatn}
+  code: '02'
+  name: Bratislava
+- cities:
+  - {name: Bel}
+  - {name: Biel}
+  - {name: Bohdanovce}
+  - {name: Bol}
+  - {name: Brzot}
+  - {name: Budkovce}
+  - {name: Cana}
+  - {name: Cecejovce}
+  - {name: Cestice}
+  - {name: Cierna}
+  - {name: Cierna Nad Tisou}
+  - {name: Davidov}
+  - {name: Dlh}
+  - {name: Dobsina}
+  - {name: Drienovec}
+  - {name: Druzstevna Pri Hornade}
+  - {name: Gelnica}
+  - {name: Gemersk}
+  - {name: Hencovce}
+  - {name: Horovce}
+  - {name: Humenn}
+  - {name: Kopcany}
+  - {name: Kosice}
+  - {name: Kr}
+  - {name: Kralovsky Chlmec}
+  - {name: Lemesany}
+  - {name: Lev}
+  - {name: Mal}
+  - {name: Michalovce}
+  - {name: Moldava Nad Bodvou}
+  - {name: N}
+  - {name: Nizna Mysla}
+  - {name: Nizna Slana}
+  - {name: Nizny Hrabovec}
+  - {name: Nov}
+  - {name: Ochtin}
+  - {name: Plesivec}
+  - {name: Posa}
+  - {name: Prakovce}
+  - {name: Priben}
+  - {name: Rakovec Nad Ondavou}
+  - {name: Rimavska Sec}
+  - {name: Rozhanovce}
+  - {name: Roznava}
+  - {name: Ruskov}
+  - {name: Sacurov}
+  - {name: Secovce}
+  - {name: Secovska Polianka}
+  - {name: Semsa}
+  - {name: Sena}
+  - {name: Skaros}
+  - {name: Slavec}
+  - {name: Slovensk}
+  - {name: Snina}
+  - {name: Sobrance}
+  - {name: Stakcin}
+  - {name: Stankovce}
+  - {name: Star}
+  - {name: Strazske}
+  - {name: Streda Nad Bodrogom}
+  - {name: Svatuse}
+  - {name: Svinica}
+  - {name: Tornala}
+  - {name: Trebejov}
+  - {name: Trebisov}
+  - {name: Trhoviste}
+  - {name: Trsten}
+  - {name: Turna Nad Bodvou}
+  - {name: Turnianska Nov}
+  - {name: Tusicka Nova Ves}
+  - {name: Valaliky}
+  - {name: Vechec}
+  - {name: Velka Ida}
+  - {name: Velke Kapusany}
+  - {name: Zarnov}
+  - {name: Zdana}
+  code: '03'
+  name: Kosice
+- cities:
+  - {name: B}
+  - {name: Bajc}
+  - {name: Bosany}
+  - {name: Branc}
+  - {name: Brodzany}
+  - {name: Cabaj}
+  - {name: Cabaj-capor}
+  - {name: Cerov}
+  - {name: Chot}
+  - {name: Dedinka}
+  - {name: Diakovce}
+  - {name: Dudince}
+  - {name: Dvory Nad Zitavou}
+  - {name: Gbelce}
+  - {name: Horn}
+  - {name: Horn}
+  - {name: Hrkovce}
+  - {name: Hurbanovo}
+  - {name: Imel}
+  - {name: Ivanka Pri Nitre}
+  - {name: K}
+  - {name: Kamen}
+  - {name: Kol}
+  - {name: Kom}
+  - {name: Komjatice}
+  - {name: Koz}
+  - {name: Kralova Nad Vahom}
+  - {name: Krusovce}
+  - {name: Lehota}
+  - {name: Levice}
+  - {name: Ludanice}
+  - {name: Luzianky}
+  - {name: Marcelov}
+  - {name: Mikula}
+  - {name: Moca}
+  - {name: Mojm}
+  - {name: N}
+  - {name: Nesvady}
+  - {name: Nitra}
+  - {name: Nov}
+  - {name: Nov}
+  - {name: Nova Bana}
+  - {name: Pal}
+  - {name: Pana}
+  - {name: Pastuchov}
+  - {name: Pata}
+  - {name: Pozba}
+  - {name: Preselany}
+  - {name: Pukanec}
+  - {name: Radosina}
+  - {name: Radvan Nad Dunajom}
+  - {name: Risnovce}
+  - {name: Sahy}
+  - {name: Sala}
+  - {name: Semerovo}
+  - {name: Slatina}
+  - {name: Solcany}
+  - {name: Sturovo}
+  - {name: Surany}
+  - {name: Svod}
+  - {name: Tlmace}
+  - {name: Topolcany}
+  - {name: Topolcianky}
+  - {name: Tup}
+  - {name: Tura}
+  - {name: Tvrdosovce}
+  - {name: Velke Ludince}
+  - {name: Velke Ripnany}
+  - {name: Velke Uherce}
+  - {name: Velke Zaluzie}
+  - {name: Velky Cetin}
+  - {name: Velky Kyr}
+  - {name: Vieska Nad Zitavou}
+  - {name: Vr}
+  - {name: Zeliezovce}
+  - {name: Zlat}
+  code: '04'
+  name: Nitra
+- cities:
+  - {name: Bardejov}
+  - {name: Batizovce}
+  - {name: Bijacovce}
+  - {name: Brezov}
+  - {name: Bystr}
+  - {name: Caklov}
+  - {name: Cervenica}
+  - {name: Chmelov}
+  - {name: Chminianska Nov}
+  - {name: Chotca}
+  - {name: Cicava}
+  - {name: Dacov}
+  - {name: Dapalovce}
+  - {name: Dubovica}
+  - {name: Durkov}
+  - {name: Fulianka}
+  - {name: Giraltovce}
+  - {name: Gregorovce}
+  - {name: Haniska}
+  - {name: Hanusovce Nad Toplou}
+  - {name: Harichovce}
+  - {name: Hazlin}
+  - {name: Hlinn}
+  - {name: Hrabovec}
+  - {name: Jablonov}
+  - {name: Jakubany}
+  - {name: Jarabina}
+  - {name: Jarovnice}
+  - {name: Javorina}
+  - {name: Kalniste}
+  - {name: Kamenica}
+  - {name: Kamienka}
+  - {name: Kapusany}
+  - {name: Kendice}
+  - {name: Kezmarok}
+  - {name: Kochanovce}
+  - {name: Kojatice}
+  - {name: Koskovce}
+  - {name: Kracunovce}
+  - {name: Krivany}
+  - {name: Krizova Ves}
+  - {name: Krompachy}
+  - {name: Kruzlov}
+  - {name: Kruzlova}
+  - {name: Kurima}
+  - {name: Lada}
+  - {name: Ladomirov}
+  - {name: Lendak}
+  - {name: Letanovce}
+  - {name: Levoca}
+  - {name: Licartovce}
+  - {name: Lipany}
+  - {name: Lubica}
+  - {name: Lubotice}
+  - {name: Lubotin}
+  - {name: Malcov}
+  - {name: Margecany}
+  - {name: Medzilaborce}
+  - {name: Michalany}
+  - {name: Mnisek}
+  - {name: Nov}
+  - {name: Nova Lubovna}
+  - {name: Ohradzany}
+  - {name: Pecovska Nova Ves}
+  - {name: Plavnica}
+  - {name: Podol}
+  - {name: Poliakovce}
+  - {name: Poprad}
+  - {name: Presov}
+  - {name: Raslavice}
+  - {name: Raznany}
+  - {name: Rohoznik}
+  - {name: Rozkovany}
+  - {name: Sabinov}
+  - {name: Sarisske Dravce}
+  - {name: Siroke}
+  - {name: Smizany}
+  - {name: Spisska Bela}
+  - {name: Spisska Nova Ves}
+  - {name: Spisska Stara Ves}
+  - {name: Spisske Podhradie}
+  - {name: Star}
+  - {name: Star}
+  - {name: Stara Lubovna}
+  - {name: Stropkov}
+  - {name: Studenec}
+  - {name: Svidn}
+  - {name: Svinia}
+  - {name: Svit}
+  - {name: Tatransk}
+  - {name: Torysa}
+  - {name: Trnkov}
+  - {name: Turcovce}
+  - {name: Uzovsky Salgov}
+  - {name: Velka Lomnica}
+  - {name: Velky Saris}
+  - {name: Vislanka}
+  - {name: Vitaz}
+  - {name: Vranov}
+  - {name: Vysna Olsava}
+  - {name: Vysny Orlik}
+  - {name: Vysny Zipov}
+  - {name: Vysok}
+  - {name: Zlat}
+  code: '05'
+  name: Presov
+- cities:
+  - {name: Banovce}
+  - {name: Belusa}
+  - {name: Biskupice}
+  - {name: Bojnice}
+  - {name: Bolesov}
+  - {name: Bosaca}
+  - {name: Bystricany}
+  - {name: Bzince Pod Javorinou}
+  - {name: Cerenany}
+  - {name: Chocholn}
+  - {name: Chynorany}
+  - {name: Dlh}
+  - {name: Dolna Suca}
+  - {name: Drietoma}
+  - {name: Dubnica}
+  - {name: Dubnica Nad V}
+  - {name: Horn}
+  - {name: Horn}
+  - {name: Horna Suca}
+  - {name: Ilava}
+  - {name: Kamenec}
+  - {name: Kanianka}
+  - {name: Kocovce}
+  - {name: Koseca}
+  - {name: Kostoln}
+  - {name: L}
+  - {name: Ladce}
+  - {name: Lednica}
+  - {name: Lednick}
+  - {name: Lubina}
+  - {name: Lys}
+  - {name: Melcice}
+  - {name: Mesto}
+  - {name: Myjava}
+  - {name: Nemsova}
+  - {name: Nitrianske Rudno}
+  - {name: Nitrianske Sucany}
+  - {name: Nov}
+  - {name: Nov}
+  - {name: Nov}
+  - {name: Omsenie}
+  - {name: Opatovce}
+  - {name: Oslany}
+  - {name: Partiz}
+  - {name: Prasice}
+  - {name: Prusk}
+  - {name: Rybany}
+  - {name: Skalica}
+  - {name: Star}
+  - {name: Star}
+  - {name: Stehl}
+  - {name: Trencianska Tepla}
+  - {name: Trencianska Turna}
+  - {name: Trencianske Teplice}
+  - {name: Trencin}
+  - {name: Vadovce}
+  - {name: Valask}
+  - {name: Velke Bedzany}
+  - {name: Zabokreky Nad Nitrou}
+  code: '06'
+  name: Trencin
+- cities:
+  - {name: Abrah}
+  - {name: Bahon}
+  - {name: Banka}
+  - {name: Blatn}
+  - {name: Bohdanovce Nad Trnavou}
+  - {name: Bojnicky}
+  - {name: Brestovany}
+  - {name: Brezov}
+  - {name: Bucany}
+  - {name: Budmerice}
+  - {name: C}
+  - {name: Casta}
+  - {name: Cierna Voda}
+  - {name: Cierny Brod}
+  - {name: Dojc}
+  - {name: Doln}
+  - {name: Doln}
+  - {name: Drahovce}
+  - {name: Dvorn}
+  - {name: Galanta}
+  - {name: Hlohovec}
+  - {name: Horn}
+  - {name: Horn}
+  - {name: Hrnciarovce}
+  - {name: Jablonec}
+  - {name: Jablonica}
+  - {name: Katlovce}
+  - {name: Kosuty}
+  - {name: Kralova}
+  - {name: Leopoldov}
+  - {name: Madunice}
+  - {name: Malzenice}
+  - {name: Matuskovo}
+  - {name: Moravany Nad V}
+  - {name: Mostov}
+  - {name: Nizna}
+  - {name: Piestany}
+  - {name: Podhradie}
+  - {name: Radosovce}
+  - {name: Rozbehy}
+  - {name: Senica}
+  - {name: Siladice}
+  - {name: Sintava}
+  - {name: Sladkovicovo}
+  - {name: Smolenice}
+  - {name: Sobotiste}
+  - {name: Soporna}
+  - {name: Stefanov}
+  - {name: Straze}
+  - {name: Such}
+  - {name: Tomasikovo}
+  - {name: Trebatice}
+  - {name: Trnava}
+  - {name: Velke Ulany}
+  - {name: Vesel}
+  - {name: Vieska}
+  - {name: Vlckovce}
+  - {name: Vozokany}
+  - {name: Vrbov}
+  - {name: Zavar}
+  - {name: Zbehy}
+  code: '07'
+  name: Trnava
+- cities:
+  - {name: Bel}
+  - {name: Bystrica}
+  - {name: Bytca}
+  - {name: Cadca}
+  - {name: Cierne}
+  - {name: Cimhova}
+  - {name: Divina}
+  - {name: Dlh}
+  - {name: Doln}
+  - {name: Doln}
+  - {name: Domaniza}
+  - {name: Drazkovce}
+  - {name: Drienov}
+  - {name: Dvorec}
+  - {name: Gbelany}
+  - {name: Istebn}
+  - {name: Jasenica}
+  - {name: Jastrabie}
+  - {name: Jelsava}
+  - {name: Klastor Pod Znievom}
+  - {name: Klubina}
+  - {name: Kostany Nad Turcom}
+  - {name: Kr}
+  - {name: Krpelany}
+  - {name: Kysuck}
+  - {name: Kysuck}
+  - {name: Lazany}
+  - {name: Lazy Pod Makytou}
+  - {name: Liesek}
+  - {name: Lietava}
+  - {name: Lietavska Lucka}
+  - {name: Likavka}
+  - {name: Liptovsk}
+  - {name: Liskov}
+  - {name: Makov}
+  - {name: Martin}
+  - {name: N}
+  - {name: Nedozery}
+  - {name: Nitrianske Pravno}
+  - {name: Nov}
+  - {name: Novot}
+  - {name: Olesna}
+  - {name: Oravsk}
+  - {name: Oravsk}
+  - {name: Oravsk}
+  - {name: Osada}
+  - {name: Oscadnica}
+  - {name: P}
+  - {name: P}
+  - {name: Podvysok}
+  - {name: Povazska Bystrica}
+  - {name: Povazsky Chlmec}
+  - {name: Pravenec}
+  - {name: Pruzina}
+  - {name: Rabca}
+  - {name: Radola}
+  - {name: Rajec}
+  - {name: Rajeck}
+  - {name: Rajeck}
+  - {name: Rakov}
+  - {name: Ruzomberok}
+  - {name: Skalit}
+  - {name: Star}
+  - {name: Staskov}
+  - {name: Strecno}
+  - {name: Sucany}
+  - {name: Svinn}
+  - {name: Svrcinovec}
+  - {name: Teplicka Nad Vahom}
+  - {name: Terchov}
+  - {name: Trsten}
+  - {name: Turany}
+  - {name: Turany Nad Vahom}
+  - {name: Turzovka}
+  - {name: Tvrdosin}
+  - {name: Var}
+  - {name: Velicna}
+  - {name: Velke Rovne}
+  - {name: Vr}
+  - {name: Vysny Kubin}
+  - {name: Z}
+  - {name: Z}
+  - {name: Zborov Nad Bystricou}
+  - {name: Ziar}
+  - {name: Zilina}
+  - {name: Zuberec}
+  code: 08
+  name: Zilina

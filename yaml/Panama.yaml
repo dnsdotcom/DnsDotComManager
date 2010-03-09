@@ -1,0 +1,103 @@
+- cities:
+  - {name: Bocas Del Toro}
+  - {name: Camilo}
+  - {name: Changuinola}
+  - {name: Elena}
+  - {name: Victoria}
+  code: '01'
+  name: Bocas del Toro
+- cities:
+  - {name: Boquete}
+  - {name: Bugaba}
+  - {name: Cerro Punta}
+  - {name: Chiriqu}
+  - {name: David}
+  - {name: Dolega}
+  - {name: La Concepci}
+  - {name: La Primavera}
+  - {name: Los Algarrobos}
+  - {name: Muerto}
+  - {name: Pueblo Nuevo}
+  - {name: Volc}
+  code: '02'
+  name: Chiriqui
+- cities:
+  - {name: Aguadulce}
+  - {name: Chiguir}
+  - {name: Cocl}
+  - {name: Las Sabanas}
+  - {name: Nat}
+  - {name: Penonom}
+  - {name: R}
+  - {name: San Crist}
+  - {name: Santa Elena}
+  - {name: Vista Hermosa}
+  code: '03'
+  name: Cocle
+- cities:
+  - {name: Col}
+  - {name: Salamanca}
+  code: '04'
+  name: Colon
+- cities:
+  - {name: La Plaza}
+  - {name: Torre}
+  code: '05'
+  name: Darien
+- cities:
+  - {name: Boca De Parita}
+  - {name: Chitr}
+  - {name: Santa Mar}
+  code: '06'
+  name: Herrera
+- cities:
+  - {name: Bella Vista}
+  - {name: Campo Alegre}
+  - {name: Corozal}
+  - {name: Las Tablas}
+  - {name: Los Cedros}
+  - {name: Los Santos}
+  - {name: R}
+  - {name: San Agust}
+  - {name: Santa Ana}
+  - {name: Santa Isabel}
+  code: '07'
+  name: Los Santos
+- cities:
+  - {name: Albrook}
+  - {name: Anc}
+  - {name: Arosemena}
+  - {name: Arraij}
+  - {name: Balboa}
+  - {name: Calidonia}
+  - {name: Cerro Cama}
+  - {name: Cerro Viento}
+  - {name: Chorrera}
+  - {name: Curund}
+  - {name: El Cangrejo}
+  - {name: El Carmen}
+  - {name: El Dorado}
+  - {name: Juan Franco}
+  - {name: La Chorrera}
+  - {name: Loma Alegre}
+  - {name: Paitilla}
+  - {name: Panama City}
+  - {name: Per}
+  - {name: San Miguelito}
+  - {name: San Pedro}
+  - {name: Tocumen}
+  - {name: Vacamonte}
+  code: 08
+  name: Panama
+- cities:
+  - {name: Cuba}
+  code: 09
+  name: San Blas
+- cities:
+  - {name: Bol}
+  - {name: Concepci}
+  - {name: Plaza}
+  - {name: San Francisco}
+  - {name: Santiago}
+  code: '10'
+  name: Veraguas

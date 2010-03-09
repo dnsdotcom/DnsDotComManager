@@ -1,0 +1,29 @@
+- cities:
+  - {name: Luanda}
+  code: '10'
+  name: ''
+- cities:
+  - {name: Portugal}
+  code: '01'
+  name: Benguela
+- cities:
+  - {name: Sumbe}
+  - {name: Waku Kungo}
+  code: '06'
+  name: Cuanza Sul
+- cities:
+  - {name: Luanda}
+  code: '20'
+  name: Luanda
+- cities:
+  - {name: Calonda}
+  code: '17'
+  name: Lunda Norte
+- cities:
+  - {name: Mundo}
+  code: '12'
+  name: Malanje
+- cities:
+  - {name: Soyo}
+  code: '16'
+  name: Zaire

@@ -1,0 +1,9 @@
+- cities:
+  - {name: Cayenne}
+  - {name: Guadeloupe}
+  - {name: Kourou}
+  - {name: Macouria}
+  - {name: Matoury}
+  - {name: Montjoly}
+  code: '00'
+  name: ''

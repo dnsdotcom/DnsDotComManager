@@ -1,0 +1,5 @@
+- cities:
+  - {name: Macau}
+  - {name: Taipa}
+  code: '01'
+  name: Ilhas

@@ -1,0 +1,635 @@
+- cities:
+  - {name: 28 De Septiembre}
+  - {name: 6 De Septiembre}
+  - {name: A. Brown}
+  - {name: Abasto}
+  - {name: Acassuso}
+  - {name: Alberti}
+  - {name: Alem}
+  - {name: Alsina}
+  - {name: Arrecifes}
+  - {name: Avellaneda}
+  - {name: Ayacucho}
+  - {name: Azul}
+  - {name: Bah}
+  - {name: Balcarce}
+  - {name: Bancalari}
+  - {name: Banfield}
+  - {name: Baradero}
+  - {name: Bariloche}
+  - {name: Bartolom}
+  - {name: Bat}
+  - {name: Beccar}
+  - {name: Bel}
+  - {name: Bella Vista}
+  - {name: Belloco}
+  - {name: Benav}
+  - {name: Benavides}
+  - {name: Berazategui}
+  - {name: Berisso}
+  - {name: Bernal}
+  - {name: Billinghurst}
+  - {name: Bol}
+  - {name: Bonifacio}
+  - {name: Bordenave}
+  - {name: Bosch}
+  - {name: Boulogne}
+  - {name: Bragado}
+  - {name: Brandsen}
+  - {name: Burzaco}
+  - {name: C. De Mayo}
+  - {name: Ca}
+  - {name: Calder}
+  - {name: Campana}
+  - {name: Canning}
+  - {name: Capilla Del Se}
+  - {name: Capit}
+  - {name: Capit}
+  - {name: Carlos Casares}
+  - {name: Carlos Tejedor}
+  - {name: Carmen De Areco}
+  - {name: Caseros}
+  - {name: Castelar}
+  - {name: Centenario}
+  - {name: Chacabuco}
+  - {name: Chivilcoy}
+  - {name: City Bell}
+  - {name: Ciudad Evita}
+  - {name: Ciudadela}
+  - {name: Claypole}
+  - {name: Col}
+  - {name: Condarco}
+  - {name: Coronel Dorrego}
+  - {name: Coronel Pringles}
+  - {name: Coronel Su}
+  - {name: Daireaux}
+  - {name: Darregueira}
+  - {name: Del Viso}
+  - {name: Derqui}
+  - {name: Diamante}
+  - {name: Dique Luj}
+  - {name: Dolores}
+  - {name: Don Torcuato}
+  - {name: Drabble}
+  - {name: El Dorado}
+  - {name: El Palomar}
+  - {name: El Talar}
+  - {name: El Talar De Pacheco}
+  - {name: Energ}
+  - {name: Ensenada}
+  - {name: Escobar}
+  - {name: Estaci}
+  - {name: Ezeiza}
+  - {name: Ezpeleta}
+  - {name: Fatral}
+  - {name: Florencio Varela}
+  - {name: Florida}
+  - {name: G. Cat}
+  - {name: Gar}
+  - {name: General Arenales}
+  - {name: General Belgrano}
+  - {name: General Conesa}
+  - {name: General F. Lynch}
+  - {name: General Pacheco}
+  - {name: General Rodr}
+  - {name: General San Mart}
+  - {name: General Sarmiento}
+  - {name: General Villegas}
+  - {name: Gerli}
+  - {name: Germania}
+  - {name: Gobernador Castro}
+  - {name: Gonz}
+  - {name: Goyeneche}
+  - {name: Grand Bourg}
+  - {name: Guernica}
+  - {name: Haedo}
+  - {name: Hilario Ascasubi}
+  - {name: Hurlingham}
+  - {name: I. Casanova}
+  - {name: Ingeniero Budge}
+  - {name: Ingeniero Maschwitz}
+  - {name: Ingeniero White}
+  - {name: Isidro Casanova}
+  - {name: Ituzaing}
+  - {name: J. Le}
+  - {name: J.c. Paz}
+  - {name: J.m. Bosch}
+  - {name: Jos}
+  - {name: Jos}
+  - {name: Jos}
+  - {name: Jos}
+  - {name: Juan Jos}
+  - {name: Jun}
+  - {name: La Noria}
+  - {name: La Paz}
+  - {name: La Plata}
+  - {name: Laferrere}
+  - {name: Lan}
+  - {name: Libertad}
+  - {name: Lima}
+  - {name: Lincoln}
+  - {name: Llavallol}
+  - {name: Lobos}
+  - {name: Lomas De Zamora}
+  - {name: Lomas Del Mirador}
+  - {name: Longchamps}
+  - {name: Los Polvorines}
+  - {name: Los Toldos}
+  - {name: Luis Guill}
+  - {name: Luj}
+  - {name: Luro}
+  - {name: M}
+  - {name: M}
+  - {name: Maip}
+  - {name: Manzanares}
+  - {name: Maquinista Savio}
+  - {name: Mar De Aj}
+  - {name: Mar Del Plata}
+  - {name: Marcos Paz}
+  - {name: Mart}
+  - {name: Matheu}
+  - {name: Mechita}
+  - {name: Merlo}
+  - {name: Miramar}
+  - {name: Monte Chingolo}
+  - {name: Monte Grande}
+  - {name: Monte Hermoso}
+  - {name: Mor}
+  - {name: Moreno}
+  - {name: Mu}
+  - {name: Munro}
+  - {name: Necochea}
+  - {name: Nueve De Julio}
+  - {name: Olavarr}
+  - {name: Olivos}
+  - {name: Ostende}
+  - {name: P}
+  - {name: Paso Del Rey}
+  - {name: Pedro Luro}
+  - {name: Pehuaj}
+  - {name: Pellegrini}
+  - {name: Pergamino}
+  - {name: Piedritas}
+  - {name: Pig}
+  - {name: Pilar}
+  - {name: Pinamar}
+  - {name: Pla}
+  - {name: Presidente Derqui}
+  - {name: Puan}
+  - {name: Pujol}
+  - {name: Punta Alta}
+  - {name: Quilmes}
+  - {name: R. De Escalada}
+  - {name: Rafael Calzada}
+  - {name: Rafael Castillo}
+  - {name: Ramallo}
+  - {name: Ramos Mej}
+  - {name: Ranchos}
+  - {name: Ranelagh}
+  - {name: Remedios De Escalada}
+  - {name: Rojas}
+  - {name: Rosa}
+  - {name: S}
+  - {name: Saladillo}
+  - {name: Salazar}
+  - {name: Salto}
+  - {name: San Agust}
+  - {name: San Andr}
+  - {name: San Andr}
+  - {name: San Antonio De Areco}
+  - {name: San Antonio De Padua}
+  - {name: San Cayetano}
+  - {name: San Fernando}
+  - {name: San Isidro}
+  - {name: San Justo}
+  - {name: San Miguel}
+  - {name: San Miguel Del Monte}
+  - {name: San Nicol}
+  - {name: San Pedro}
+  - {name: San Vicente}
+  - {name: Santa Teresita}
+  - {name: Santos Lugares}
+  - {name: Sarand}
+  - {name: Suipacha}
+  - {name: Tablada}
+  - {name: Tacuar}
+  - {name: Tandil}
+  - {name: Temperley}
+  - {name: Teniente Origone}
+  - {name: Tigre}
+  - {name: Todd}
+  - {name: Tortuguitas}
+  - {name: Treinta De Agosto}
+  - {name: Trenque Lauquen}
+  - {name: Tres Arroyos}
+  - {name: Turdera}
+  - {name: Valent}
+  - {name: Vedia}
+  - {name: Ver}
+  - {name: Vicente L}
+  - {name: Villa Adelina}
+  - {name: Villa Ansaldi}
+  - {name: Villa Ballester}
+  - {name: Villa Bosch}
+  - {name: Villa De Mayo}
+  - {name: Villa Dom}
+  - {name: Villa Elisa}
+  - {name: Villa Gesell}
+  - {name: Villa Leloir}
+  - {name: Villa Luzuriaga}
+  - {name: Villa Madero}
+  - {name: Villa Progreso}
+  - {name: Villa Recondo}
+  - {name: Villa Saboya}
+  - {name: Villa Sarmiento}
+  - {name: Wilde}
+  - {name: Z}
+  code: '01'
+  name: Buenos Aires
+- cities:
+  - {name: Catamarca}
+  - {name: Comedero}
+  code: '02'
+  name: Catamarca
+- cities:
+  - {name: Barranqueras}
+  - {name: Fontana}
+  - {name: Juan Jos}
+  - {name: Las Bre}
+  - {name: Machagai}
+  - {name: Margarita Bel}
+  - {name: Puerto Vilelas}
+  - {name: Resistencia}
+  - {name: Roque S}
+  - {name: San Bernardo}
+  - {name: Tres Isletas}
+  - {name: 'Villa '}
+  code: '03'
+  name: Chaco
+- cities:
+  - {name: Madryn}
+  - {name: Puerto Madryn}
+  - {name: Rada Tilly}
+  - {name: Rawson}
+  - {name: Trelew}
+  - {name: Trevel}
+  code: '04'
+  name: Chubut
+- cities:
+  - {name: Adelia Mar}
+  - {name: Alejandro Roca}
+  - {name: Alta Gracia}
+  - {name: Arg}
+  - {name: Bell Ville}
+  - {name: C}
+  - {name: Ca}
+  - {name: Camilo Aldao}
+  - {name: Capilla De Los Remedios}
+  - {name: Carreta Quebrada}
+  - {name: Chaz}
+  - {name: Colonia Caroya}
+  - {name: Corral De Bustos}
+  - {name: Cosqu}
+  - {name: Cruz Alta}
+  - {name: Cruz Del Eje}
+  - {name: Despe}
+  - {name: Embalse}
+  - {name: General Levalle}
+  - {name: Huerta Grande}
+  - {name: Inriville}
+  - {name: Justiniano Posse}
+  - {name: La Calera}
+  - {name: La Carlota}
+  - {name: La Cesira}
+  - {name: La Cumbre}
+  - {name: La Pampa}
+  - {name: Las Heras}
+  - {name: Las Perdices}
+  - {name: Las Varas}
+  - {name: Las Varillas}
+  - {name: Los Surgentes}
+  - {name: Luque}
+  - {name: Manfredi}
+  - {name: Marcos Ju}
+  - {name: Monte Buey}
+  - {name: Monte Cristo}
+  - {name: Monte Ma}
+  - {name: Morteros}
+  - {name: Oliva}
+  - {name: Olivia}
+  - {name: Per}
+  - {name: Porte}
+  - {name: Pueblo Italiano}
+  - {name: R}
+  - {name: R}
+  - {name: R}
+  - {name: Salsipuedes}
+  - {name: San Francisco}
+  - {name: San Marcos Sierra}
+  - {name: Santa Rosa De Calamuchita}
+  - {name: Tala Ca}
+  - {name: Tanti}
+  - {name: Villa Allende}
+  - {name: Villa Carlos Paz}
+  - {name: Villa Cura Brochero}
+  - {name: Villa Dolores}
+  - {name: Villa General Belgrano}
+  - {name: Villa Las Rosas}
+  - {name: Villa Mar}
+  code: '05'
+  name: Cordoba
+- cities:
+  - {name: Corrientes}
+  - {name: Curuz}
+  - {name: Goya}
+  - {name: Ituzaing}
+  - {name: Paso De Los Libres}
+  - {name: San Lorenzo}
+  - {name: San Luis Del Palmar}
+  code: '06'
+  name: Corrientes
+- cities:
+  - {name: Almirante Brown}
+  - {name: Barracas}
+  - {name: Barrio Norte}
+  - {name: Buenos Aires}
+  - {name: Caballito}
+  - {name: Chacarita}
+  - {name: Colegiales}
+  - {name: Comodoro Rivadavia}
+  - {name: Esquel}
+  - {name: Flores}
+  - {name: General J. De San Mart}
+  - {name: Liniers}
+  - {name: Mataderos}
+  - {name: Parque Chas}
+  - {name: Puerto Madero}
+  - {name: Ram}
+  - {name: Retiro}
+  - {name: San Crist}
+  - {name: San Telmo}
+  - {name: Varela}
+  - {name: Villa Del Parque}
+  - {name: Villa Devoto}
+  - {name: Villa Ort}
+  code: '07'
+  name: Distrito Federal
+- cities:
+  - {name: Chajar}
+  - {name: Colonia Delta}
+  - {name: Concepci}
+  - {name: Concordia}
+  - {name: Crespo}
+  - {name: Federal}
+  - {name: General Ram}
+  - {name: Gualeguay}
+  - {name: Gualeguaych}
+  - {name: Hernandarias}
+  - {name: Paran}
+  - {name: Ram}
+  - {name: Rosario Del Tala}
+  - {name: Viale}
+  - {name: Victoria}
+  - {name: Villa Del Rosario}
+  - {name: Villaguay}
+  code: 08
+  name: Entre Rios
+- cities:
+  - {name: Clorinda}
+  - {name: Formosa}
+  - {name: Piran}
+  code: 09
+  name: Formosa
+- cities:
+  - {name: Aguilar}
+  - {name: Jujuy}
+  code: '10'
+  name: Jujuy
+- cities:
+  - {name: Cevallos}
+  - {name: Eduardo Castex}
+  - {name: General Pico}
+  - {name: Miguel Riglos}
+  - {name: R}
+  - {name: Realic}
+  - {name: San Miguel}
+  - {name: Santa Rosa}
+  - {name: Victorica}
+  code: '11'
+  name: La Pampa
+- cities:
+  - {name: Chepes}
+  - {name: La Rioja}
+  code: '12'
+  name: La Rioja
+- cities:
+  - {name: Bowen}
+  - {name: General Alvear}
+  - {name: Godoy Cruz}
+  - {name: Guaymall}
+  - {name: La Paz}
+  - {name: Las Catitas}
+  - {name: Las Heras}
+  - {name: Luj}
+  - {name: Mendoza}
+  - {name: Pe}
+  - {name: Rivadavia}
+  - {name: Rodeo Del Medio}
+  - {name: San Mart}
+  - {name: San Rafael}
+  code: '13'
+  name: Mendoza
+- cities:
+  - {name: Ap}
+  - {name: De Mayo}
+  - {name: Eldorado}
+  - {name: Esperanza}
+  - {name: Garup}
+  - {name: Ober}
+  - {name: Posadas}
+  - {name: Puerto Iguaz}
+  - {name: Puerto Rico}
+  - {name: San Ignacio}
+  code: '14'
+  name: Misiones
+- cities:
+  - {name: Cutral-c}
+  - {name: Neuqu}
+  - {name: Plottier}
+  - {name: San Mart}
+  - {name: Villa La Angostura}
+  - {name: Zapala}
+  code: '15'
+  name: Neuquen
+- cities:
+  - {name: Allen}
+  - {name: Catriel}
+  - {name: Chichinales}
+  - {name: Choele Choel}
+  - {name: Cinco Saltos}
+  - {name: Cipolleti}
+  - {name: Cipolletti}
+  - {name: El Bols}
+  - {name: General Roca}
+  - {name: Luis Beltr}
+  - {name: San Carlos De Bariloche}
+  - {name: Sierra Grande}
+  - {name: Viedma}
+  - {name: Villa Regina}
+  code: '16'
+  name: Rio Negro
+- cities:
+  - {name: Met}
+  - {name: Piquete Cabado}
+  - {name: R}
+  - {name: Salta}
+  - {name: San Ram}
+  code: '17'
+  name: Salta
+- cities:
+  - {name: 9 De Julio}
+  - {name: Hilario}
+  - {name: San Juan}
+  - {name: Villa Aberastain}
+  code: '18'
+  name: San Juan
+- cities:
+  - {name: Concar}
+  - {name: Cr}
+  - {name: El Chorrillo}
+  - {name: Hip}
+  - {name: Mercedes}
+  - {name: San Luis}
+  code: '19'
+  name: San Luis
+- cities:
+  - {name: Caleta Olivia}
+  - {name: El Calafate}
+  - {name: Los Antiguos}
+  - {name: Pico Truncado}
+  - {name: Puerto Deseado}
+  - {name: R}
+  code: '20'
+  name: Santa Cruz
+- cities:
+  - {name: ''}
+  - {name: Alvear}
+  - {name: Amen}
+  - {name: Armstrong}
+  - {name: Arroyito}
+  - {name: Arroyo Seco}
+  - {name: Avellaneda}
+  - {name: Bella Vista}
+  - {name: Bombal}
+  - {name: Ca}
+  - {name: Calchaqu}
+  - {name: Capit}
+  - {name: Carcara}
+  - {name: Carlos Pellegrini}
+  - {name: Casilda}
+  - {name: Centeno}
+  - {name: Coronda}
+  - {name: Coronel Arnold}
+  - {name: Coronel Bogado}
+  - {name: D}
+  - {name: Esmeralda}
+  - {name: Esperanza}
+  - {name: Firmat}
+  - {name: Franck}
+  - {name: Fray Lu}
+  - {name: Funes}
+  - {name: G}
+  - {name: Gobernador Crespo}
+  - {name: Gobernador G}
+  - {name: Granadero Baigorria}
+  - {name: Hughes}
+  - {name: La Lucila}
+  - {name: Las Parejas}
+  - {name: Las Toscas}
+  - {name: Los Quirquinchos}
+  - {name: Maciel}
+  - {name: Malabrigo}
+  - {name: Marcelino Escalada}
+  - {name: Matheu}
+  - {name: Monte Flores}
+  - {name: Montes De Oca}
+  - {name: Oliveros}
+  - {name: Pilar}
+  - {name: Pujato}
+  - {name: Rafaela}
+  - {name: Reconquista}
+  - {name: Rodriguez}
+  - {name: Rold}
+  - {name: Rosario}
+  - {name: Rufino}
+  - {name: Saladillo}
+  - {name: San Antonio}
+  - {name: San Carlos Centro}
+  - {name: San Crist}
+  - {name: San Genaro}
+  - {name: San Guillermo}
+  - {name: San Javier}
+  - {name: San Jer}
+  - {name: San Jorge}
+  - {name: San Justo}
+  - {name: Santa Fe}
+  - {name: Santo Tom}
+  - {name: Sarmiento}
+  - {name: Soldini}
+  - {name: Sunchales}
+  - {name: Tortugas}
+  - {name: Totoras}
+  - {name: Venado Tuerto}
+  - {name: Villa Constituci}
+  - {name: Villa Gobernador G}
+  - {name: Villa Mugueta}
+  code: '21'
+  name: Santa Fe
+- cities:
+  - {name: Belgrano}
+  - {name: Colonia Alpina}
+  - {name: Concepci}
+  - {name: El Hoyo}
+  - {name: Fern}
+  - {name: Fr}
+  - {name: Herrera}
+  - {name: La Banda}
+  - {name: La Falda}
+  - {name: Las Flores}
+  - {name: Lavalle}
+  - {name: Lugones}
+  - {name: Navarro}
+  - {name: San Bernardo}
+  - {name: San Carlos}
+  - {name: San Justo}
+  - {name: San Manuel}
+  - {name: Santa Cruz}
+  - {name: Santa Luc}
+  - {name: Santiago Del Estero}
+  - {name: Termas De R}
+  - {name: Villa Nueva}
+  code: '22'
+  name: Santiago del Estero
+- cities:
+  - {name: R}
+  - {name: Ushuaia}
+  code: '23'
+  name: Tierra del Fuego
+- cities:
+  - {name: Aguilares}
+  - {name: Ampata}
+  - {name: Atahona}
+  - {name: Banda Del R}
+  - {name: Ciudad Universitaria}
+  - {name: Encrucijada}
+  - {name: Famaill}
+  - {name: Lules}
+  - {name: Malvinas}
+  - {name: Manantial}
+  - {name: Monteros}
+  - {name: Or}
+  - {name: Taf}
+  - {name: Tucum}
+  - {name: Yerba Buena}
+  code: '24'
+  name: Tucuman

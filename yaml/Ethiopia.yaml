@@ -1,0 +1,5 @@
+- cities:
+  - {name: Addis Ababa}
+  - {name: Addis Abeba}
+  code: '10'
+  name: Addis Abeba

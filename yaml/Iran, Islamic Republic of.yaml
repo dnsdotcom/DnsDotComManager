@@ -1,0 +1,583 @@
+- cities:
+  - {name: Zarin}
+  - {name: Zarrin}
+  code: '18'
+  name: ''
+- cities:
+  - {name: Adineh}
+  - {name: Alborz}
+  - {name: Arak}
+  - {name: Ashtian}
+  - {name: Azadshahr}
+  - {name: Chamran}
+  - {name: Delijan}
+  - {name: Ghom}
+  - {name: Khomein}
+  - {name: Langrood}
+  - {name: Mahallat}
+  - {name: Mahestan}
+  - {name: Nazar}
+  - {name: Nimvar}
+  - {name: Qom}
+  - {name: Salafchegan}
+  - {name: Saveh}
+  - {name: Shazand}
+  - {name: Tafresh}
+  - {name: Vahed}
+  code: '24'
+  name: ''
+- cities:
+  - {name: Abhar}
+  - {name: Abyek}
+  - {name: Afarin}
+  - {name: Alvand}
+  - {name: Aras}
+  - {name: Ashena}
+  - {name: Baba}
+  - {name: Chapar}
+  - {name: Emam}
+  - {name: Ferdows}
+  - {name: Ghorveh}
+  - {name: Gonbad}
+  - {name: Imam}
+  - {name: Kalat}
+  - {name: Meydan}
+  - {name: Mihan}
+  - {name: Parsian}
+  - {name: Qazvin}
+  - {name: Ramin}
+  - {name: Sakhteman}
+  - {name: Sazan}
+  - {name: Takestan}
+  - {name: Zangan}
+  - {name: Zanjan}
+  - {name: Ziarat}
+  code: '27'
+  name: ''
+- cities:
+  - {name: Ahar}
+  - {name: Evin}
+  - {name: Kavan}
+  - {name: Kavir}
+  - {name: Malek}
+  code: '33'
+  name: ''
+- cities:
+  - {name: Azad}
+  - {name: Shahrak}
+  code: '21'
+  name: ''
+- cities:
+  - {name: Kashani}
+  code: '19'
+  name: ''
+- cities:
+  - {name: Amol}
+  - {name: Babol}
+  - {name: Behshahr}
+  - {name: Chashm}
+  - {name: Daliran}
+  - {name: Didgah}
+  - {name: Eram}
+  - {name: Gonar}
+  - {name: Kalaleh}
+  - {name: Kalleh Bast}
+  - {name: Khorshid}
+  - {name: Kian}
+  - {name: Majid}
+  - {name: Neka}
+  - {name: Parsa}
+  - {name: Rafi}
+  - {name: Ramsar}
+  - {name: Sari}
+  - {name: Shahr}
+  - {name: Shasta}
+  - {name: Tamishan}
+  - {name: Tonekabon}
+  code: '17'
+  name: ''
+- cities:
+  - {name: Kermani}
+  code: '12'
+  name: ''
+- cities:
+  - {name: Ardabil}
+  - {name: Ardebil}
+  - {name: Baran}
+  - {name: Khalkhal}
+  - {name: Parsabad}
+  - {name: Pishgaman}
+  - {name: Razi}
+  - {name: Shahrivar}
+  code: '32'
+  name: Ardabil
+- cities:
+  - {name: Asan}
+  - {name: Babak}
+  - {name: Bazargan}
+  - {name: Bonab}
+  - {name: Hamid}
+  - {name: Mahabad}
+  - {name: Maku}
+  - {name: Malekan}
+  - {name: Maragheh}
+  - {name: Marand}
+  - {name: Parnak}
+  - {name: Payam}
+  - {name: Post}
+  - {name: Sahlan}
+  - {name: Sara}
+  - {name: Shabestar}
+  - {name: Shahsavar}
+  - {name: Soofian}
+  - {name: Tabriz}
+  - {name: Vakil}
+  code: '01'
+  name: Azarbayjan-e Bakhtari
+- cities:
+  - {name: Farhangian}
+  - {name: Khoy}
+  - {name: Miandoab}
+  - {name: Mianeh}
+  - {name: Miyandoab}
+  - {name: Naghadeh}
+  - {name: Nowshahr}
+  - {name: Orumiyeh}
+  - {name: Sabalan}
+  - {name: Sabz}
+  - {name: Salmas}
+  - {name: Sarab}
+  - {name: Takab}
+  - {name: Urmia}
+  code: '02'
+  name: Azarbayjan-e Khavari
+- cities:
+  - {name: Aftab}
+  - {name: Hedayat}
+  - {name: Kangavar}
+  - {name: Kermanshah}
+  - {name: Khoram}
+  - {name: Mehregan}
+  - {name: Mostafa}
+  - {name: Shahre}
+  - {name: Shakib}
+  - {name: Yaran}
+  code: '13'
+  name: Bakhtaran
+- cities:
+  - {name: Abad}
+  - {name: Bank}
+  - {name: Barid}
+  - {name: Bonyad}
+  - {name: Borazjan}
+  - {name: Bushehr}
+  - {name: Ganaveh}
+  - {name: Genaveh}
+  - {name: Kangan}
+  - {name: Khark}
+  - {name: Saravan}
+  - {name: Sarvestan}
+  - {name: Sedeh}
+  - {name: Sina}
+  - {name: Velayat}
+  code: '22'
+  name: Bushehr
+- cities:
+  - {name: Arman}
+  - {name: Farrokhshahr}
+  - {name: Iran}
+  - {name: Lordegan}
+  - {name: Saman}
+  - {name: Shahriar}
+  - {name: Shahryar}
+  - {name: Shimbar}
+  code: '03'
+  name: Chahar Mahall va Bakhtiari
+- cities:
+  - {name: Ardestan}
+  - {name: Azar}
+  - {name: Bahabad}
+  - {name: Chahar Bagh}
+  - {name: Daran}
+  - {name: Dizicheh}
+  - {name: Dorcheh}
+  - {name: Esfahan}
+  - {name: Eziran}
+  - {name: Falavarjan}
+  - {name: Faran}
+  - {name: Golpayegan}
+  - {name: Hakim}
+  - {name: Homa}
+  - {name: Isfahan}
+  - {name: Javadi}
+  - {name: Jolfa}
+  - {name: Kashanak}
+  - {name: Kelishad}
+  - {name: Khansar}
+  - {name: Khorasgan}
+  - {name: Kurd}
+  - {name: Mohammadiyeh}
+  - {name: Najafabad}
+  - {name: Natanz}
+  - {name: Niasar}
+  - {name: Ravand}
+  - {name: Razan}
+  - {name: Sanabad}
+  - {name: Shahreza}
+  - {name: Tangestan}
+  - {name: Zarrin Shahr}
+  code: '28'
+  name: Esfahan
+- cities:
+  - {name: Afra}
+  - {name: Aliabad}
+  - {name: Arad}
+  - {name: Arsenjan}
+  - {name: Azadegan}
+  - {name: Baharestan}
+  - {name: Bakhtiari}
+  - {name: Bavanat}
+  - {name: Dehkadeh}
+  - {name: Eshkanan}
+  - {name: Estahban}
+  - {name: Fasa}
+  - {name: Fassa}
+  - {name: Garmeh}
+  - {name: Hadi}
+  - {name: Hormoz}
+  - {name: Jadid}
+  - {name: Jahrom}
+  - {name: Jamshid}
+  - {name: Javanan}
+  - {name: Kashan}
+  - {name: Kavar}
+  - {name: Khalil}
+  - {name: Khayyam}
+  - {name: Khesht}
+  - {name: Lamerd}
+  - {name: Mehr}
+  - {name: Mobarakeh}
+  - {name: Negarestan}
+  - {name: Neyriz}
+  - {name: Pasargad}
+  - {name: Reza}
+  - {name: Sardasht}
+  - {name: Sepidar}
+  - {name: Shahed}
+  - {name: Shahid}
+  - {name: Sharqi}
+  - {name: Shiraz}
+  - {name: Shohada}
+  - {name: Sistan}
+  - {name: Torkan}
+  - {name: Yasooj}
+  - {name: Yasuj}
+  - {name: Zargan}
+  - {name: Zirab}
+  code: '07'
+  name: Fars
+- cities:
+  - {name: Almas}
+  - {name: Astara}
+  - {name: Chaboksar}
+  - {name: Fasham}
+  - {name: Gasht}
+  - {name: Keyhan}
+  - {name: Lahijan}
+  - {name: Rasht}
+  - {name: Send}
+  - {name: Shekari}
+  - {name: Side}
+  - {name: Talesh}
+  - {name: Zarrineh}
+  code: 08
+  name: Gilan
+- cities:
+  - {name: Ghaznavi}
+  - {name: Gorgan}
+  - {name: Rizi}
+  code: '37'
+  name: Golestan
+- cities:
+  - {name: Bahar}
+  - {name: Famenin}
+  - {name: Gostar}
+  - {name: Hamadan}
+  - {name: Hezareh}
+  - {name: Lalejin}
+  - {name: Malayer}
+  - {name: Mohajeran}
+  - {name: Nahavand}
+  - {name: Samen}
+  - {name: Zarreh}
+  code: 09
+  name: Hamadan
+- cities:
+  - {name: Abadani}
+  - {name: Amir}
+  - {name: Astan}
+  - {name: Bandar}
+  - {name: Bozorg}
+  - {name: Dargaz}
+  - {name: Daru}
+  - {name: Golestan}
+  - {name: Karbala}
+  - {name: Kish}
+  - {name: Lengeh}
+  - {name: Minab}
+  - {name: Molla}
+  - {name: Negar}
+  - {name: Qeshm}
+  - {name: Rahbaran}
+  - {name: Shahrood}
+  - {name: Talar}
+  code: '11'
+  name: Hormozgan
+- cities:
+  - {name: Abdanan}
+  - {name: Dehloran}
+  - {name: Farid}
+  - {name: Firozabad}
+  - {name: Hamgam}
+  - {name: Ilam}
+  - {name: Mehran}
+  - {name: Sepah}
+  - {name: Shahid Madani}
+  - {name: Zaman}
+  code: '10'
+  name: Ilam
+- cities:
+  - {name: Afzar}
+  - {name: Avaran}
+  - {name: Baft}
+  - {name: Bardsir}
+  - {name: Ghasr}
+  - {name: Hoor}
+  - {name: Jannat}
+  - {name: Jiroft}
+  - {name: Kerman}
+  - {name: Khabar}
+  - {name: Kowsar}
+  - {name: Lenjan}
+  - {name: Mahan}
+  - {name: Parand}
+  - {name: Rafsanjan}
+  - {name: Ramezani}
+  - {name: Sheikh}
+  - {name: Sirjan}
+  - {name: Vali}
+  - {name: Zarand}
+  code: '29'
+  name: Kerman
+- cities:
+  - {name: Abbasabad}
+  - {name: Ahang}
+  - {name: Ahmadiyeh}
+  - {name: Ansar}
+  - {name: Aryan}
+  - {name: Asad Abad}
+  - {name: Avar}
+  - {name: Baghdad}
+  - {name: Bahreh}
+  - {name: Bala}
+  - {name: Bardeskan}
+  - {name: Barg}
+  - {name: Birjand}
+  - {name: Esfarayen}
+  - {name: Fars}
+  - {name: Faruj}
+  - {name: Ferdowsi}
+  - {name: Golshahr}
+  - {name: Gonabad}
+  - {name: Hazrati}
+  - {name: Ideh}
+  - {name: Jahan}
+  - {name: Jomhuri}
+  - {name: Kabir}
+  - {name: Karimkhan}
+  - {name: Kashmar}
+  - {name: Khaf}
+  - {name: Khashmar}
+  - {name: Mahdavi}
+  - {name: Mashad}
+  - {name: Mashhad}
+  - {name: Maskan}
+  - {name: Melli}
+  - {name: Mortazavi}
+  - {name: Mortez}
+  - {name: Najaf}
+  - {name: Naser}
+  - {name: Nehbandan}
+  - {name: Neyshabur}
+  - {name: Nimruz}
+  - {name: Ostad}
+  - {name: Quchan}
+  - {name: Rasan}
+  - {name: Razavi}
+  - {name: Resalat}
+  - {name: Roshtkhar}
+  - {name: Sabzevar}
+  - {name: Safa}
+  - {name: Samangan}
+  - {name: Sarakhs}
+  - {name: Shafa}
+  - {name: Shamekh}
+  - {name: Shams}
+  - {name: Shand}
+  - {name: Shayegan}
+  - {name: Shirvan}
+  - {name: Silk}
+  - {name: Simorgh}
+  - {name: Tabas}
+  - {name: Taraz}
+  - {name: Taybad}
+  - {name: Torshiz}
+  - {name: Yadak}
+  - {name: Yadegar}
+  - {name: Zharf}
+  code: '30'
+  name: Khorasan
+- cities:
+  - {name: Abadan}
+  - {name: Ahvaz}
+  - {name: Ahwaz}
+  - {name: Alavi}
+  - {name: Andimeshk}
+  - {name: Ashkanan}
+  - {name: Behbahan}
+  - {name: Behbehan}
+  - {name: Deylam}
+  - {name: Dezfool}
+  - {name: Dezful}
+  - {name: Farrokh}
+  - {name: Gohar}
+  - {name: Hemayat}
+  - {name: Kazemi}
+  - {name: Keshvar}
+  - {name: Kordestan}
+  - {name: Kurdistan}
+  - {name: Mahshahr}
+  - {name: Mohsen}
+  - {name: Pardis}
+  - {name: Pirooz}
+  - {name: Shahab}
+  - {name: Shahid Chamran}
+  - {name: Shoosh}
+  - {name: Shooshtar}
+  - {name: Taha}
+  - {name: Tina}
+  - {name: Vahid}
+  code: '15'
+  name: Khuzestan
+- cities:
+  - {name: Andisheh}
+  - {name: Chavil}
+  - {name: Ghazanfari}
+  - {name: Hejrat}
+  - {name: Mahtab}
+  - {name: Mohammad}
+  - {name: Vahdat}
+  code: '05'
+  name: Kohkiluyeh va Buyer Ahmadi
+- cities:
+  - {name: Baneh}
+  - {name: Bijar}
+  - {name: Ghazvin}
+  - {name: Kamyaran}
+  - {name: Khorasan}
+  - {name: Majin}
+  - {name: Marivan}
+  - {name: Novin}
+  - {name: Saghez}
+  - {name: Sanandaj}
+  - {name: Shahin}
+  - {name: Shahini}
+  code: '16'
+  name: Kordestan
+- cities:
+  - {name: Abbas Abad}
+  - {name: Aleshtar}
+  - {name: Aligoodarz}
+  - {name: Azadi}
+  - {name: Azna}
+  - {name: Borujerd}
+  - {name: Delfan}
+  - {name: Kamalvand}
+  - {name: Khorramabad}
+  - {name: Rashid}
+  - {name: Rashidi}
+  - {name: Sharif}
+  - {name: Shisheh}
+  code: '23'
+  name: Lorestan
+- cities:
+  - {name: Peyvand}
+  code: '34'
+  name: Markazi
+- cities:
+  - {name: Bastak}
+  - {name: Gilas}
+  - {name: Nahar}
+  - {name: Vana}
+  code: '35'
+  name: Mazandaran
+- cities:
+  - {name: Astaneh}
+  - {name: Baghestan}
+  - {name: Damghan}
+  - {name: Gilan}
+  - {name: Larestan}
+  - {name: Moghan}
+  - {name: Mojen}
+  - {name: Semnan}
+  - {name: Shahmirzad}
+  code: '25'
+  name: Semnan
+- cities:
+  - {name: Afshan}
+  - {name: Asrar}
+  - {name: Barekat}
+  - {name: Chabahar}
+  - {name: Dadeh}
+  - {name: Iranshahr}
+  - {name: Khash}
+  - {name: Sadi}
+  - {name: Sardaran}
+  - {name: Takhti}
+  - {name: Tamin}
+  - {name: Zabol}
+  - {name: Zahedan}
+  code: '04'
+  name: Sistan va Baluchestan
+- cities:
+  - {name: Chizar}
+  - {name: Damavand}
+  - {name: Eslamshahr}
+  - {name: Garmsar}
+  - {name: Hashtgerd}
+  - {name: Karadj}
+  - {name: Karaj}
+  - {name: Lavasan}
+  - {name: Pars}
+  - {name: Rakhsh}
+  - {name: Salar}
+  - {name: Sepahan}
+  - {name: Shahriyar}
+  - {name: Tehran}
+  - {name: Towchal}
+  - {name: Varamin}
+  code: '26'
+  name: Tehran
+- cities:
+  - {name: Ardakan}
+  - {name: Bafq}
+  - {name: Hamedan}
+  - {name: Hormozan}
+  - {name: Mansoori}
+  - {name: Mehdi}
+  - {name: Meybod}
+  - {name: Park}
+  - {name: Taft}
+  - {name: Yazd}
+  code: '31'
+  name: Yazd

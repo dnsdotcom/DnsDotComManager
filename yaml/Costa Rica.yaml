@@ -1,0 +1,108 @@
+- cities:
+  - {name: Alajuela}
+  - {name: Atenas}
+  - {name: Cinco Esquinas}
+  - {name: Coco}
+  - {name: Coyol}
+  - {name: Florencia}
+  - {name: Grecia}
+  - {name: La Fortuna}
+  - {name: Los Chiles}
+  - {name: Naranjo}
+  - {name: Orotina}
+  - {name: Pavas}
+  - {name: Pital}
+  - {name: Quesada}
+  - {name: San Antonio}
+  - {name: San Rafael}
+  - {name: San Ram}
+  - {name: Sarch}
+  - {name: Upala}
+  code: '01'
+  name: Alajuela
+- cities:
+  - {name: Cartago}
+  - {name: Concepci}
+  - {name: Moravia}
+  - {name: Para}
+  - {name: Taras}
+  - {name: Tres R}
+  - {name: Turrialba}
+  code: '02'
+  name: Cartago
+- cities:
+  - {name: Bagaces}
+  - {name: Bel}
+  - {name: Ca}
+  - {name: Filadelfia}
+  - {name: La Cruz}
+  - {name: Las Juntas}
+  - {name: Liberia}
+  - {name: Monteverde}
+  - {name: Nicoya}
+  - {name: Nosara}
+  - {name: Palmira}
+  - {name: Santa Cruz}
+  - {name: Solania}
+  - {name: Tamarindo}
+  - {name: Tilar}
+  code: '03'
+  name: Guanacaste
+- cities:
+  - {name: Heredia}
+  - {name: San Antonio}
+  - {name: San Francisco}
+  - {name: San Joaqu}
+  - {name: San Pablo}
+  - {name: San Rafael}
+  - {name: San Vicente}
+  - {name: Santo Domingo}
+  code: '04'
+  name: Heredia
+- cities:
+  - {name: Gu}
+  - {name: Lim}
+  - {name: Siquirres}
+  - {name: Vesta}
+  code: '06'
+  name: Limon
+- cities:
+  - {name: Abangares}
+  - {name: Capital}
+  - {name: Chacarita}
+  - {name: Coronado}
+  - {name: Esparta}
+  - {name: Golfito}
+  - {name: Jac}
+  - {name: Miramar}
+  - {name: Montezuma}
+  - {name: Puerto Jim}
+  - {name: Puntarenas}
+  - {name: Quepos}
+  - {name: Tambor}
+  code: '07'
+  name: Puntarenas
+- cities:
+  - {name: Alajuelita}
+  - {name: Aserr}
+  - {name: Col}
+  - {name: Curridabat}
+  - {name: Desamparados}
+  - {name: Escaz}
+  - {name: Guadalupe}
+  - {name: Los Yoses}
+  - {name: P}
+  - {name: Palmares}
+  - {name: Sabanilla}
+  - {name: San Carlos}
+  - {name: San Ignacio}
+  - {name: San Isidro}
+  - {name: San Jos}
+  - {name: San Juan}
+  - {name: San Marcos De Tarraz}
+  - {name: San Pedro}
+  - {name: San Rafael}
+  - {name: Santa Ana}
+  - {name: Santiago}
+  code: 08
+  name: San Jose

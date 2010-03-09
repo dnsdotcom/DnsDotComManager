@@ -1,0 +1,17 @@
+- cities:
+  - {name: Bourdon}
+  code: '07'
+  name: Centre
+- cities:
+  - {name: Cap-ha}
+  code: 09
+  name: Nord
+- cities:
+  - {name: Carrefour}
+  - {name: Croix Des Bouquets}
+  - {name: Delmas}
+  - {name: Port-au-prince}
+  - {name: Prince}
+  - {name: Vigni}
+  code: '11'
+  name: Ouest

@@ -1,0 +1,109 @@
+- cities:
+  - {name: Azua}
+  code: '01'
+  name: Azua
+- cities:
+  - {name: Barahona}
+  code: '03'
+  name: Barahona
+- cities:
+  - {name: Los Prados}
+  - {name: Santo Domingo}
+  - {name: Villa Mella}
+  code: '05'
+  name: Distrito Nacional
+- cities:
+  - {name: San Francisco De Macor}
+  code: '06'
+  name: Duarte
+- cities:
+  - {name: Dominicana}
+  code: '28'
+  name: El Seibo
+- cities:
+  - {name: Moca}
+  code: 08
+  name: Espaillat
+- cities:
+  - {name: Hato Mayor}
+  code: '29'
+  name: Hato Mayor
+- cities:
+  - {name: B}
+  - {name: Hig}
+  code: '10'
+  name: La Altagracia
+- cities:
+  - {name: La Romana}
+  code: '12'
+  name: La Romana
+- cities:
+  - {name: Jarabacoa}
+  - {name: La Vega}
+  code: '30'
+  name: La Vega
+- cities:
+  - {name: Nagua}
+  - {name: Puerto}
+  code: '14'
+  name: Maria Trinidad Sanchez
+- cities:
+  - {name: Bonao}
+  code: '31'
+  name: Monsenor Nouel
+- cities:
+  - {name: Bayaguana}
+  code: '32'
+  name: Monte Plata
+- cities:
+  - {name: Ban}
+  - {name: San Jos}
+  code: '17'
+  name: Peravia
+- cities:
+  - {name: Cabarete}
+  - {name: Luper}
+  - {name: Puerto Plata}
+  - {name: Sos}
+  code: '18'
+  name: Puerto Plata
+- cities:
+  - {name: Salcedo}
+  - {name: Tenares}
+  code: '19'
+  name: Salcedo
+- cities:
+  - {name: Las Terrenas}
+  - {name: S}
+  code: '20'
+  name: Samana
+- cities:
+  - {name: Pedro Brand}
+  - {name: San Crist}
+  - {name: San Francisco}
+  - {name: San Juan}
+  code: '33'
+  name: San Cristobal
+- cities:
+  - {name: San Juan De La Maguana}
+  code: '23'
+  name: San Juan
+- cities:
+  - {name: Juan Dolio}
+  - {name: San Pedro De Macor}
+  - {name: Villas Del Mar}
+  code: '24'
+  name: San Pedro De Macoris
+- cities:
+  - {name: Cotu}
+  code: '21'
+  name: Sanchez Ramirez
+- cities:
+  - {name: San Jos}
+  - {name: Santiago}
+  code: '25'
+  name: Santiago
+- cities:
+  - {name: Mao}
+  code: '27'
+  name: Valverde

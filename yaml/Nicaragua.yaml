@@ -1,0 +1,51 @@
+- cities:
+  - {name: Diriamba}
+  - {name: Dolores}
+  - {name: Jinotepe}
+  - {name: San Marcos}
+  code: '02'
+  name: Carazo
+- cities:
+  - {name: Chinandega}
+  code: '03'
+  name: Chinandega
+- cities:
+  - {name: Estel}
+  code: '05'
+  name: Esteli
+- cities:
+  - {name: Granada}
+  code: '06'
+  name: Granada
+- cities:
+  - {name: La Paz Centro}
+  - {name: Le}
+  code: 08
+  name: Leon
+- cities:
+  - {name: Somoto}
+  code: 09
+  name: Madriz
+- cities:
+  - {name: La Trinidad}
+  - {name: Managua}
+  - {name: Tipitapa}
+  code: '10'
+  name: Managua
+- cities:
+  - {name: Masaya}
+  code: '11'
+  name: Masaya
+- cities:
+  - {name: Matagalpa}
+  - {name: S}
+  code: '12'
+  name: Matagalpa
+- cities:
+  - {name: Ocotal}
+  code: '13'
+  name: Nueva Segovia
+- cities:
+  - {name: Portugal}
+  code: '15'
+  name: Rivas

@@ -1,0 +1,150 @@
+- cities:
+  - {name: Attidiya}
+  - {name: Avissawella}
+  - {name: Bandaragama}
+  - {name: Battaramulla}
+  - {name: Beruwala}
+  - {name: Biyagama}
+  - {name: Borupana}
+  - {name: Colombo}
+  - {name: Dehiwala}
+  - {name: Dehiwela}
+  - {name: Dekatana}
+  - {name: Dematagoda}
+  - {name: Gampaha}
+  - {name: Gangodawila}
+  - {name: Giridara}
+  - {name: Hendala}
+  - {name: Hokandara North}
+  - {name: Homagama}
+  - {name: Horana}
+  - {name: Ja-ela}
+  - {name: Kaduwela}
+  - {name: Kalutara}
+  - {name: Kandana}
+  - {name: Katunayaka}
+  - {name: Katunayake}
+  - {name: Katuwawala}
+  - {name: Kelaniya}
+  - {name: Kolonnawa}
+  - {name: Kotalawala}
+  - {name: Kotte}
+  - {name: Liyanagemulla}
+  - {name: Madapatha}
+  - {name: Magalkanda}
+  - {name: Maharagama}
+  - {name: Makola}
+  - {name: Mirigama}
+  - {name: Moratuwa}
+  - {name: Morontuduwa}
+  - {name: Mount Lavinia}
+  - {name: Muddaragama}
+  - {name: Mulleriyawa}
+  - {name: Negombo}
+  - {name: Nugegoda}
+  - {name: Oruwala}
+  - {name: Padukka}
+  - {name: Panadura}
+  - {name: Pannipitiya}
+  - {name: Peliyagoda}
+  - {name: Piliyandala}
+  - {name: Ragama}
+  - {name: Rajagiriya}
+  - {name: Ratmalana}
+  - {name: Sapugaskanda}
+  - {name: Seeduwa}
+  - {name: Slave Island}
+  - {name: Veyangoda}
+  - {name: Wathupitiwala}
+  - {name: Wattala}
+  - {name: Watupitiwala}
+  - {name: Welisara}
+  - {name: Weliwita}
+  code: '36'
+  name: ''
+- cities:
+  - {name: Bogawantalawa}
+  - {name: Dambulla}
+  - {name: Gampola}
+  - {name: Hatton}
+  - {name: Hunnasgiriya}
+  - {name: Kadugannawa}
+  - {name: Kandy}
+  - {name: Katugastota}
+  - {name: Kotmale}
+  - {name: Matale}
+  - {name: Nawalapitiya}
+  - {name: Nuwara Eliya}
+  - {name: Peradeniya}
+  - {name: Talawakele}
+  code: '29'
+  name: ''
+- cities:
+  - {name: Anuradhapura}
+  code: '30'
+  name: ''
+- cities:
+  - {name: Aluthgama}
+  - {name: Kuliyapitiya}
+  - {name: Kurunegala}
+  - {name: Lunuwila}
+  - {name: Malabe}
+  - {name: Marawila}
+  - {name: Polgolla}
+  - {name: Puttalam}
+  - {name: Wariyapola}
+  - {name: Welikada}
+  code: '32'
+  name: ''
+- cities:
+  - {name: Ambalangoda}
+  - {name: Arangala}
+  - {name: Balapitiya}
+  - {name: Bentota}
+  - {name: Galle}
+  - {name: Hambantota}
+  - {name: Hapugala}
+  - {name: Hikkaduwa}
+  - {name: Koggala}
+  - {name: Kottawa}
+  - {name: Kurunduwatta}
+  - {name: Matara}
+  - {name: Medaketiya}
+  - {name: Tangalle}
+  - {name: Unawatuna}
+  code: '34'
+  name: ''
+- cities:
+  - {name: Ampara}
+  - {name: Amparai}
+  - {name: Batticaloa}
+  - {name: Jaffna}
+  - {name: Kalmunai}
+  - {name: Kokuvil}
+  - {name: Mannar}
+  - {name: Trincomalee}
+  - {name: Vavuniya}
+  code: '31'
+  name: ''
+- cities:
+  - {name: Badalkumbura}
+  - {name: Badulla}
+  - {name: Bandarawela}
+  - {name: Buttala}
+  - {name: Embilipitiya}
+  - {name: Nawala}
+  code: '35'
+  name: ''
+- cities:
+  - {name: Balangoda}
+  - {name: Bogala}
+  - {name: Dangampala}
+  - {name: Deraniyagala}
+  - {name: Kegalla}
+  - {name: Makandura}
+  - {name: Malwana}
+  - {name: Mawanella}
+  - {name: Pannala}
+  - {name: Ratnapura}
+  code: '33'
+  name: ''

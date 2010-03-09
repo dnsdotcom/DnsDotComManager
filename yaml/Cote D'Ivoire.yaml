@@ -1,0 +1,34 @@
+- cities:
+  - {name: Abidjan}
+  - {name: Abijan}
+  code: '82'
+  name: ''
+- cities:
+  - {name: Yamoussoukro}
+  code: '58'
+  name: ''
+- cities:
+  - {name: Daloa}
+  code: '80'
+  name: ''
+- cities:
+  - {name: Guiglo}
+  code: '84'
+  name: ''
+- cities:
+  - {name: Bassa}
+  code: '76'
+  name: ''
+- cities:
+  - {name: Abengourou}
+  code: '85'
+  name: ''
+- cities:
+  - {name: Abidjan}
+  - {name: Toupah}
+  code: '61'
+  name: Abidjan
+- cities:
+  - {name: Yacolidabouo}
+  code: '51'
+  name: Sassandra

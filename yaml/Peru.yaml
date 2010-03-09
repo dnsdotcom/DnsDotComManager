@@ -1,0 +1,174 @@
+- cities:
+  - {name: Bagua Chica}
+  - {name: Bol}
+  - {name: Chachapoyas}
+  - {name: La Libertad}
+  code: '01'
+  name: Amazonas
+- cities:
+  - {name: Caraz}
+  - {name: Carhuaz}
+  - {name: Chimbote}
+  - {name: Huaraz}
+  - {name: Huarmey}
+  code: '02'
+  name: Ancash
+- cities:
+  - {name: Abancay}
+  - {name: Andahuaylas}
+  code: '03'
+  name: Apurimac
+- cities:
+  - {name: Aplao}
+  - {name: Arequipa}
+  - {name: Caman}
+  - {name: La Legua}
+  - {name: Surco}
+  code: '04'
+  name: Arequipa
+- cities:
+  - {name: Ayacucho}
+  code: '05'
+  name: Ayacucho
+- cities:
+  - {name: Cajamarca}
+  - {name: Chota}
+  code: '06'
+  name: Cajamarca
+- cities:
+  - {name: Callao}
+  - {name: La Perla}
+  code: '07'
+  name: Callao
+- cities:
+  - {name: Cusco}
+  code: 08
+  name: Cusco
+- cities:
+  - {name: Huancavelica}
+  - {name: Pampas}
+  - {name: Pasco}
+  code: 09
+  name: Huancavelica
+- cities:
+  - {name: Hu}
+  - {name: Inca}
+  - {name: Tingo Mar}
+  code: '10'
+  name: Huanuco
+- cities:
+  - {name: Ica}
+  - {name: Marcona}
+  - {name: Pariahuana}
+  - {name: Pisco}
+  - {name: San Juan}
+  - {name: San Mart}
+  code: '11'
+  name: Ica
+- cities:
+  - {name: Huancayo}
+  - {name: Huasahuasi}
+  - {name: Jun}
+  - {name: La Oroya}
+  - {name: San Ram}
+  - {name: Satipo}
+  - {name: Tarma}
+  code: '12'
+  name: Junin
+- cities:
+  - {name: Huamachuco}
+  - {name: Laredo}
+  - {name: Salaverry}
+  - {name: Trujillo}
+  - {name: Vir}
+  code: '13'
+  name: La Libertad
+- cities:
+  - {name: Chiclayo}
+  - {name: Eten}
+  - {name: Lambayeque}
+  - {name: Tum}
+  code: '14'
+  name: Lambayeque
+- cities:
+  - {name: Agua}
+  - {name: Ate}
+  - {name: Barranca}
+  - {name: Chosica}
+  - {name: Huacho}
+  - {name: Huaral}
+  - {name: Imperial}
+  - {name: La Molina}
+  - {name: Lima}
+  - {name: Mala}
+  - {name: San Borja}
+  - {name: Santiago De Surco}
+  - {name: Surquillo}
+  code: '15'
+  name: Lima
+- cities:
+  - {name: Iquitos}
+  - {name: Yurimaguas}
+  code: '16'
+  name: Loreto
+- cities:
+  - {name: Madre De Dios}
+  - {name: Puerto Maldonado}
+  code: '17'
+  name: Madre de Dios
+- cities:
+  - {name: Chincha}
+  - {name: Ilo}
+  - {name: Loreto}
+  - {name: Moquegua}
+  code: '18'
+  name: Moquegua
+- cities:
+  - {name: Cerro De Pasco}
+  - {name: Huariaca}
+  - {name: Oxapampa}
+  - {name: Villa Rica}
+  code: '19'
+  name: Pasco
+- cities:
+  - {name: Ayabaca}
+  - {name: Calle}
+  - {name: Paita}
+  - {name: Piura}
+  - {name: Sullana}
+  - {name: Talara}
+  code: '20'
+  name: Piura
+- cities:
+  - {name: Juliaca}
+  - {name: Progreso}
+  - {name: Puno}
+  code: '21'
+  name: Puno
+- cities:
+  - {name: Bellavista}
+  - {name: Cuzco}
+  - {name: Lamas}
+  - {name: Moyobamba}
+  - {name: Rioja}
+  - {name: San Jos}
+  - {name: Tabalosos}
+  - {name: Tarapoto}
+  - {name: Ventanilla}
+  code: '22'
+  name: San Martin
+- cities:
+  - {name: Tacna}
+  - {name: Tarata}
+  code: '23'
+  name: Tacna
+- cities:
+  - {name: Tumbes}
+  code: '24'
+  name: Tumbes
+- cities:
+  - {name: Escuela}
+  - {name: Pucallpa}
+  - {name: San Isidro}
+  code: '25'
+  name: Ucayali

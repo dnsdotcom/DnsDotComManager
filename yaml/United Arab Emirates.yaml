@@ -1,0 +1,30 @@
+- cities:
+  - {name: Abu Dhabi}
+  - {name: Al Ain}
+  - {name: As Slabeikh}
+  - {name: Suwayhan}
+  code: '01'
+  name: Abu Dhabi
+- cities:
+  - {name: Deira}
+  - {name: Dubai}
+  code: '03'
+  name: Dubai
+- cities:
+  - {name: Fujairah}
+  code: '04'
+  name: Fujairah
+- cities:
+  - {name: Khaimah}
+  - {name: Ras Al Khaimah}
+  code: '05'
+  name: Ras Al Khaimah
+- cities:
+  - {name: Kalba}
+  - {name: Sharjah}
+  code: '06'
+  name: Sharjah
+- cities:
+  - {name: Dhaid}
+  code: '07'
+  name: Umm Al Quwain

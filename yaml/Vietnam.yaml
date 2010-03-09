@@ -1,0 +1,364 @@
+- cities:
+  - {name: Hai Duong}
+  code: '79'
+  name: ''
+- cities:
+  - {name: Rach Gia}
+  code: '21'
+  name: ''
+- cities:
+  - {name: Viet Tri}
+  code: '83'
+  name: ''
+- cities:
+  - {name: Buon Ma Thuot}
+  - {name: Buon Me Thuot}
+  - {name: H}
+  - {name: Tan Thoi}
+  code: '07'
+  name: ''
+- cities:
+  - {name: Hung Yen}
+  code: '81'
+  name: ''
+- cities:
+  - {name: Phu Ly}
+  code: '80'
+  name: ''
+- cities:
+  - {name: Gia Lam}
+  - {name: Van Tri}
+  code: '15'
+  name: ''
+- cities:
+  - {name: Chi Thanh}
+  - {name: Le Thanh}
+  - {name: Ninh Phuoc}
+  - {name: Phuoc Long}
+  - {name: T}
+  - {name: Tan Dinh}
+  - {name: Thanh Khe}
+  code: '28'
+  name: ''
+- cities:
+  - {name: Tam Ky}
+  code: '84'
+  name: ''
+- cities:
+  - {name: Tan Thuan}
+  code: '25'
+  name: ''
+- cities:
+  - {name: Ben Thanh}
+  - {name: Co Giang}
+  - {name: Quang Ninh}
+  - {name: Trai}
+  code: '04'
+  name: ''
+- cities:
+  - {name: Ben Nghe}
+  - {name: Dong Du}
+  - {name: Dong Nai}
+  - {name: L}
+  - {name: Phan}
+  - {name: Phuong Dong}
+  - {name: Quan}
+  - {name: Thuong Binh}
+  - {name: Truong Son}
+  - {name: Van Tan}
+  code: '26'
+  name: ''
+- cities:
+  - {name: Nam Dinh}
+  code: '82'
+  name: ''
+- cities:
+  - {name: Binh Chanh}
+  - {name: Chau Doc}
+  - {name: Kh}
+  - {name: Long Xuy}
+  code: '01'
+  name: ''
+- cities:
+  - {name: Kon Tum}
+  code: '10'
+  name: ''
+- cities:
+  - {name: Hoai Duc}
+  code: '36'
+  name: ''
+- cities:
+  - {name: Ba V}
+  - {name: Chuong Duong}
+  - {name: Quang Trung}
+  code: '16'
+  name: ''
+- cities:
+  - {name: Nguon Nhan}
+  code: '14'
+  name: ''
+- cities:
+  - {name: B}
+  - {name: Binh Dinh}
+  - {name: Binh Thanh}
+  - {name: Khuong}
+  - {name: Long B}
+  - {name: Long Th}
+  - {name: My Hung}
+  - {name: Son Tra}
+  - {name: T}
+  - {name: Tan Son}
+  - {name: Thanh An}
+  - {name: Thanh Quan}
+  - {name: Thuan Dao}
+  - {name: Truong Dinh}
+  - {name: Van Hoa}
+  code: '27'
+  name: ''
+- cities:
+  - {name: Cu Chi}
+  - {name: Go Vap}
+  - {name: Ho Chi Minh City}
+  - {name: Saigon}
+  - {name: Tan Thoi Hiep}
+  - {name: Tan Thuan Dong}
+  - {name: Tang Nhon Phu}
+  - {name: Thu Duc}
+  code: '20'
+  name: ''
+- cities:
+  - {name: Di An}
+  - {name: Nhon Trach}
+  code: '40'
+  name: ''
+- cities:
+  - {name: Chanh Hiep}
+  - {name: Tan Phuoc Khanh}
+  code: '31'
+  name: ''
+- cities:
+  - {name: Luong Bang}
+  code: '38'
+  name: ''
+- cities:
+  - {name: Hong Ha}
+  code: '17'
+  name: ''
+- cities:
+  - {name: Th}
+  code: '85'
+  name: ''
+- cities:
+  - {name: Dong Thap}
+  - {name: Tang}
+  code: '19'
+  name: ''
+- cities:
+  - {name: Cao L}
+  code: 09
+  name: ''
+- cities:
+  - {name: Bi}
+  code: '43'
+  name: An Giang
+- cities:
+  - {name: H}
+  code: '53'
+  name: Ba Ria-Vung Tau
+- cities:
+  - {name: Thai}
+  code: '02'
+  name: Bac Thai
+- cities:
+  - {name: Ben Tre}
+  - {name: Dinh}
+  - {name: Phong}
+  - {name: Thoi}
+  code: '03'
+  name: Ben Tre
+- cities:
+  - {name: Cam Ranh}
+  - {name: Nha Trang}
+  code: '54'
+  name: Binh Dinh
+- cities:
+  - {name: L}
+  code: '56'
+  name: Can Tho
+- cities:
+  - {name: Cao Bang}
+  - {name: Kim M}
+  code: '05'
+  name: Cao Bang
+- cities:
+  - {name: Hanoi}
+  code: '44'
+  name: Dac Lac
+- cities:
+  - {name: Vung Tau}
+  - {name: Xuyen Moc}
+  code: '45'
+  name: Dong Nai
+- cities:
+  - {name: Qui Nhon}
+  - {name: Quy Nhon}
+  code: '46'
+  name: Dong Thap
+- cities:
+  - {name: Yen The}
+  code: '11'
+  name: Ha Bac
+- cities:
+  - {name: Vinh}
+  code: '58'
+  name: Ha Giang
+- cities:
+  - {name: Ninh B}
+  code: '59'
+  name: Ha Tay
+- cities:
+  - {name: Phan Rang}
+  code: '60'
+  name: Ha Tinh
+- cities:
+  - {name: Kinh Duong}
+  - {name: Ngu Lao}
+  - {name: Van Tai}
+  code: '12'
+  name: Hai Hung
+- cities:
+  - {name: H}
+  - {name: Hai Phong}
+  - {name: Van Phong}
+  code: '13'
+  name: Hai Phong
+- cities:
+  - {name: Quang Ngai}
+  code: '63'
+  name: Kon Tum
+- cities:
+  - {name: Ban Giao}
+  - {name: Dien Bien}
+  - {name: Lai Ch}
+  code: '22'
+  name: Lai Chau
+- cities:
+  - {name: Da Lat}
+  - {name: Di Linh}
+  - {name: Don Duong}
+  code: '23'
+  name: Lam Dong
+- cities:
+  - {name: Dong}
+  - {name: Lang Son}
+  - {name: Van Linh}
+  code: '39'
+  name: Lang Son
+- cities:
+  - {name: Quang Tri}
+  code: '64'
+  name: Lao Cai
+- cities:
+  - {name: T}
+  code: '24'
+  name: Long An
+- cities:
+  - {name: Can Tho}
+  code: '48'
+  name: Minh Hai
+- cities:
+  - {name: S}
+  - {name: Soc Trang}
+  - {name: Thanh}
+  code: '65'
+  name: Nam Ha
+- cities:
+  - {name: Hue}
+  code: '66'
+  name: Nghe An
+- cities:
+  - {name: Nguy}
+  - {name: Tr}
+  - {name: Trung}
+  - {name: Truong}
+  code: '67'
+  name: Ninh Binh
+- cities:
+  - {name: Vinh Long}
+  code: '69'
+  name: Phu Yen
+- cities:
+  - {name: Y}
+  code: '70'
+  name: Quang Binh
+- cities:
+  - {name: Binh Duong}
+  - {name: H}
+  - {name: Quang Nam}
+  - {name: Tran}
+  code: '29'
+  name: Quang Nam-Da Nang
+- cities:
+  - {name: Bac Giang}
+  - {name: Duc Thang}
+  code: '71'
+  name: Quang Ngai
+- cities:
+  - {name: Bac Lieu}
+  code: '73'
+  name: Soc Trang
+- cities:
+  - {name: Ban Phong}
+  - {name: Hoang Van Thu}
+  code: '32'
+  name: Son La
+- cities:
+  - {name: Gia Lai}
+  - {name: Pl}
+  code: '49'
+  name: Song Be
+- cities:
+  - {name: T}
+  code: '33'
+  name: Tay Ninh
+- cities:
+  - {name: Ha Dong}
+  - {name: Phu Nhuan}
+  - {name: Th}
+  - {name: Van Hai}
+  code: '35'
+  name: Thai Binh
+- cities:
+  - {name: Thang}
+  - {name: Thanh H}
+  - {name: Thuong}
+  - {name: Thuong Xuan}
+  - {name: Van Thu}
+  code: '34'
+  name: Thanh Hoa
+- cities:
+  - {name: Bac Ninh}
+  code: '74'
+  name: Thua Thien
+- cities:
+  - {name: Giao Duc}
+  - {name: Long An}
+  - {name: My Tho}
+  code: '37'
+  name: Tien Giang
+- cities:
+  - {name: Thu Dau Mot}
+  code: '75'
+  name: Tra Vinh
+- cities:
+  - {name: C}
+  code: '77'
+  name: Vinh Long
+- cities:
+  - {name: H}
+  code: '50'
+  name: Vinh Phu
+- cities:
+  - {name: Da Nang}
+  code: '78'
+  name: Yen Bai

@@ -1,0 +1,6 @@
+- cities:
+  - {name: Fontvieille}
+  - {name: Monaco-ville}
+  - {name: Monte-carlo}
+  code: '00'
+  name: ''

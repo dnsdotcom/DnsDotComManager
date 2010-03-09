@@ -1,0 +1,52 @@
+- cities:
+  - {name: Agstafa}
+  code: '05'
+  name: Agstafa
+- cities:
+  - {name: Baku}
+  - {name: Binagadi}
+  - {name: Gobustan}
+  - {name: Sangachal}
+  - {name: Zabrat}
+  code: 09
+  name: Baki
+- cities:
+  - {name: Sharg}
+  code: '12'
+  name: Beylaqan
+- cities:
+  - {name: Fizuli}
+  code: '18'
+  name: Fuzuli
+- cities:
+  - {name: Nizami}
+  code: '21'
+  name: Goranboy
+- cities:
+  - {name: Bank}
+  code: '25'
+  name: Ismayilli
+- cities:
+  - {name: Ismailli}
+  code: '27'
+  name: Kurdamir
+- cities:
+  - {name: Ordubad}
+  code: '35'
+  name: Naxcivan
+- cities:
+  - {name: Sheki}
+  code: '48'
+  name: Saki
+- cities:
+  - {name: Salyan}
+  code: '49'
+  name: Salyan
+- cities:
+  - {name: Sumgait}
+  code: '54'
+  name: Sumqayit
+- cities:
+  - {name: Zaqatala}
+  code: '70'
+  name: Zaqatala

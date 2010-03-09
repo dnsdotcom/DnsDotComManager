@@ -1,0 +1,348 @@
+- cities:
+  - {name: ''}
+  - {name: Aktobe}
+  - {name: Alatau}
+  - {name: Algabas}
+  - {name: Almaly}
+  - {name: Asyl}
+  - {name: Bereke}
+  - {name: Boralday}
+  - {name: Daulet}
+  - {name: Druzhba}
+  - {name: Energeticheskiy}
+  - {name: Energiya}
+  - {name: Esik}
+  - {name: Frunze}
+  - {name: Gagarina}
+  - {name: Issyk}
+  - {name: Italy}
+  - {name: Kabanbay}
+  - {name: Kapchagai}
+  - {name: Kapchagay}
+  - {name: Karabastau}
+  - {name: Karabulak}
+  - {name: Kaskelen}
+  - {name: Kaynar}
+  - {name: Kayrat}
+  - {name: Kerbulak}
+  - {name: Kirov}
+  - {name: Koksu}
+  - {name: Kurday}
+  - {name: Lugovaya}
+  - {name: Otegen Batyr}
+  - {name: Panfilov}
+  - {name: Panfilova}
+  - {name: Raimbek}
+  - {name: Rakhat}
+  - {name: S}
+  - {name: Sary}
+  - {name: Sarybulak}
+  - {name: Sibek}
+  - {name: Taldykorgan}
+  - {name: Taldykurgan}
+  - {name: Talgar}
+  - {name: Tekeli}
+  - {name: Tolkyn}
+  - {name: Usharal}
+  - {name: Zhambyl}
+  - {name: Zhanaarka}
+  - {name: Zhanama}
+  - {name: Zharkent}
+  code: '01'
+  name: Almaty
+- cities:
+  - {name: Alma-ata}
+  - {name: Almaty}
+  - {name: Mamyr}
+  code: '02'
+  name: Almaty City
+- cities:
+  - {name: Abylay}
+  - {name: Aksoran}
+  - {name: Alua}
+  - {name: Anar}
+  - {name: Atbasar}
+  - {name: B}
+  - {name: Balkashino}
+  - {name: Batyr}
+  - {name: Derzhavinsk}
+  - {name: Ereymentau}
+  - {name: Ermentau}
+  - {name: Esil}
+  - {name: Kurylys}
+  - {name: Makinsk}
+  - {name: Martuk}
+  - {name: Sagyndyk}
+  - {name: Sandyktau}
+  - {name: Shortandy}
+  - {name: Sovet}
+  - {name: Stepnogorsk}
+  - {name: Tastak}
+  - {name: Zhaksy}
+  - {name: Zharyk}
+  code: '03'
+  name: Aqmola
+- cities:
+  - {name: Aktubinsk}
+  - {name: Aktyubinsk}
+  - {name: Amangeldy}
+  - {name: Badamsha}
+  - {name: Emba}
+  - {name: Irgiz}
+  - {name: Kandyagash}
+  - {name: Khromtau}
+  - {name: Sibiryak}
+  - {name: Temir}
+  code: '04'
+  name: Aqt
+- cities:
+  - {name: Akmolinsk}
+  - {name: Astana}
+  code: '05'
+  name: Astana
+- cities:
+  - {name: Atyrau}
+  - {name: Karabatan}
+  - {name: Karaton}
+  - {name: Makhambet}
+  - {name: Talas}
+  - {name: Tengiz}
+  - {name: Zhaik}
+  code: '06'
+  name: Atyrau
+- cities:
+  - {name: Baykonur}
+  code: 08
+  name: Bayqonyr
+- cities:
+  - {name: ''}
+  - {name: Alimkhan}
+  - {name: Altay}
+  - {name: Auezov}
+  - {name: Buran}
+  - {name: Glubokoe}
+  - {name: Ibray}
+  - {name: Kyzyl}
+  - {name: Murat}
+  - {name: Petrova}
+  - {name: Ridder}
+  - {name: Samarskoe}
+  - {name: Semey}
+  - {name: Semipalatinsk}
+  - {name: Serebryansk}
+  - {name: Shemonaikha}
+  - {name: Stepnaya}
+  - {name: Tarbagatay}
+  - {name: Tore}
+  - {name: Urdzhar}
+  - {name: Vladimirskaya}
+  - {name: Zaisan}
+  - {name: Zhanay}
+  - {name: Zhangiztobe}
+  - {name: Zyryanovsk}
+  code: '15'
+  name: East Kazakhstan
+- cities:
+  - {name: ''}
+  - {name: Atash}
+  - {name: Bautino}
+  - {name: Beineu}
+  - {name: Beyneu}
+  - {name: Eraliev}
+  - {name: Fort-shevchenko}
+  - {name: Kuryk}
+  - {name: Shetpe}
+  - {name: Shevchenko}
+  - {name: Tenge}
+  - {name: Umirzak}
+  - {name: Zhanaozen}
+  - {name: Zhetybay}
+  code: 09
+  name: Mangghystau
+- cities:
+  - {name: Alatay}
+  - {name: Avangard}
+  - {name: Bayan}
+  - {name: Bulaevo}
+  - {name: Kokchetau}
+  - {name: Kokshetau}
+  - {name: Lomonosov}
+  - {name: Molodezhnoye}
+  - {name: Petropavl}
+  - {name: Petropavlovsk}
+  - {name: Petropavlovskiy}
+  - {name: Progress}
+  - {name: Ruzaevka}
+  - {name: Sabit}
+  - {name: Seyfullin}
+  - {name: Stepnyak}
+  - {name: Taldyk}
+  - {name: Zerenda}
+  - {name: Zharkin}
+  code: '16'
+  name: North Kazakhstan
+- cities:
+  - {name: Aksu}
+  - {name: Alga}
+  - {name: Bayanaul}
+  - {name: Bayer}
+  - {name: Birlik}
+  - {name: Dostyk}
+  - {name: Dzhambul}
+  - {name: Ekibastuz}
+  - {name: Kalkaman}
+  - {name: Karashoky}
+  - {name: Karasu}
+  - {name: Karaul}
+  - {name: Karim}
+  - {name: Kazaly}
+  - {name: Kenes}
+  - {name: Koktobe}
+  - {name: Kuanysh}
+  - {name: Kurchatov}
+  - {name: Kyzylzhar}
+  - {name: Lenin}
+  - {name: Odak}
+  - {name: Pavlodar}
+  - {name: Pobeda}
+  - {name: Suleymenov}
+  - {name: Zangar}
+  - {name: Zhanazhol}
+  code: '11'
+  name: Pavlodar
+- cities:
+  - {name: Abay}
+  - {name: Aktau}
+  - {name: Akzhal}
+  - {name: Akzhol}
+  - {name: Balkhash}
+  - {name: Bukey}
+  - {name: G}
+  - {name: Karkaralinsk}
+  - {name: Kievka}
+  - {name: Kiik}
+  - {name: Osakarovka}
+  - {name: Pushkin}
+  - {name: Rakhimzhan}
+  - {name: Samarskoye}
+  - {name: Satpayev}
+  - {name: Shakhtinsk}
+  - {name: Temirtau}
+  - {name: Zhezkazgan}
+  code: '12'
+  name: Qaraghandy
+- cities:
+  - {name: Aral}
+  - {name: Arkalyk}
+  - {name: Arshaly}
+  - {name: Borovo}
+  - {name: Denisovka}
+  - {name: Dzhetygara}
+  - {name: Kirova}
+  - {name: Koblandy}
+  - {name: Kolos}
+  - {name: Kostanay}
+  - {name: Kuat}
+  - {name: Kulik}
+  - {name: Kushmurun}
+  - {name: Kustanai}
+  - {name: Kustanay}
+  - {name: Lisakovsk}
+  - {name: Ordzhonikidze}
+  - {name: Qostanay}
+  - {name: Sofiyevka}
+  - {name: Tobol}
+  - {name: Ushakova}
+  - {name: Uzunagash}
+  - {name: Uzynagash}
+  - {name: Vostok}
+  - {name: Zhumagul}
+  code: '13'
+  name: Qostanay
+- cities:
+  - {name: Aktiv}
+  - {name: Ayteke Bi}
+  - {name: Koktem}
+  - {name: Kyzylorda}
+  - {name: Kzyl-orda}
+  - {name: Shieli}
+  - {name: Terenozek}
+  - {name: Zhalagash}
+  - {name: Zhanakorgan}
+  code: '14'
+  name: Qyzylorda
+- cities:
+  - {name: Akbastau}
+  - {name: Birlesu}
+  - {name: Chimkent}
+  - {name: Kentau}
+  - {name: Lenger}
+  - {name: Otrar}
+  - {name: Saryagash}
+  - {name: Shymkent}
+  - {name: T}
+  - {name: Temirlan}
+  - {name: Timur}
+  - {name: Turar Ryskulov}
+  - {name: Turkestan}
+  - {name: Zhibek Zholy}
+  code: '10'
+  name: South Kazakhstan
+- cities:
+  - {name: Akchi}
+  - {name: Akmola}
+  - {name: Aksay}
+  - {name: Akzhaik}
+  - {name: Alimbek}
+  - {name: Amangeldi}
+  - {name: Aqtau}
+  - {name: Aulet}
+  - {name: Baldyrgan}
+  - {name: Beket}
+  - {name: Bektas}
+  - {name: Bolat}
+  - {name: Bulat}
+  - {name: Burlin}
+  - {name: Egindik}
+  - {name: Enbek}
+  - {name: Furmanov}
+  - {name: Ivanov}
+  - {name: Karachaganak}
+  - {name: Karaganda}
+  - {name: Karagandy}
+  - {name: Karasay}
+  - {name: Kartash}
+  - {name: Korgan}
+  - {name: Kozhevnikov}
+  - {name: Kumek}
+  - {name: Martynov}
+  - {name: Morozov}
+  - {name: Mukashev}
+  - {name: Oral}
+  - {name: Orda}
+  - {name: Orlov}
+  - {name: Petrovo}
+  - {name: Pravda}
+  - {name: Sary}
+  - {name: Saule}
+  - {name: Serik}
+  - {name: Shalkar}
+  - {name: Sultan}
+  - {name: Talap}
+  - {name: Zh}
+  - {name: Zhuldyz}
+  code: '07'
+  name: West Kazakhstan
+- cities:
+  - {name: Bauyrzhan Momyshuly}
+  - {name: Karatau}
+  - {name: Kulan}
+  - {name: Lenina}
+  - {name: Merke}
+  - {name: Sarykemer}
+  - {name: Saudakent}
+  - {name: Taraz}
+  - {name: Tole Bi}
+  - {name: Zhalpaktobe}
+  code: '17'
+  name: Zhambyl

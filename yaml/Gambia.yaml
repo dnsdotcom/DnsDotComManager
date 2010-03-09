@@ -1,0 +1,8 @@
+- cities:
+  - {name: Banjul}
+  code: '01'
+  name: Banjul
+- cities:
+  - {name: Fajara}
+  code: '05'
+  name: Western

@@ -1,0 +1,343 @@
+- cities:
+  - {name: Content}
+  - {name: Hartswater}
+  code: '01'
+  name: ''
+- cities:
+  - {name: Addo}
+  - {name: Alice}
+  - {name: Aston Bay}
+  - {name: Beacon Bay}
+  - {name: Bedford}
+  - {name: Bell}
+  - {name: Bisho}
+  - {name: Braamfontein}
+  - {name: Butterworth}
+  - {name: Despatch}
+  - {name: Doornfontein}
+  - {name: Doringkloof}
+  - {name: East London}
+  - {name: Emerald Hill}
+  - {name: Grahamstown}
+  - {name: Hogsback}
+  - {name: Horton}
+  - {name: Huguenot}
+  - {name: Jeffrey's Bay}
+  - {name: Kenton On Sea}
+  - {name: Kirkwood}
+  - {name: Korsten}
+  - {name: Kwa-zulu}
+  - {name: Lyndhurst}
+  - {name: Main}
+  - {name: Melrose}
+  - {name: North End}
+  - {name: Outspan}
+  - {name: Peninsula}
+  - {name: Port Alfred}
+  - {name: Port Elizabeth}
+  - {name: Riebeek}
+  - {name: Somerset East}
+  - {name: Trust}
+  - {name: Uitenhage}
+  - {name: Umtata}
+  - {name: Union}
+  - {name: Walmer}
+  - {name: Waterkloof}
+  - {name: Westering}
+  - {name: Zwartkop}
+  code: '05'
+  name: Eastern Cape
+- cities:
+  - {name: Alfa}
+  - {name: Arlington}
+  - {name: Bethlehem}
+  - {name: Bloemfontein}
+  - {name: Fichardtpark}
+  - {name: Florida}
+  - {name: Grootgeluk}
+  - {name: Harrismith}
+  - {name: Hennenman}
+  - {name: Juta}
+  - {name: Kroonstad}
+  - {name: Lusaka}
+  - {name: Parys}
+  - {name: Phuthaditjhaba}
+  - {name: Roodepoort}
+  - {name: Villiers}
+  - {name: Virginia}
+  - {name: Welkom}
+  - {name: Wesselsbron}
+  code: '03'
+  name: Free State
+- cities:
+  - {name: Alberton}
+  - {name: Alrode}
+  - {name: Bedfordview}
+  - {name: Benoni}
+  - {name: Boksburg}
+  - {name: Booysens}
+  - {name: Boskruin}
+  - {name: Brakpan}
+  - {name: Brixton}
+  - {name: Bronkhorstspruit}
+  - {name: Bryanston}
+  - {name: Capital Park}
+  - {name: Carletonville}
+  - {name: Centurion}
+  - {name: Clubview}
+  - {name: Craighall}
+  - {name: Craighall Park}
+  - {name: Cullinan}
+  - {name: Dunkeld}
+  - {name: Edenvale}
+  - {name: Erasmia}
+  - {name: Fairland}
+  - {name: Ferndale}
+  - {name: Garsfontein}
+  - {name: Germiston}
+  - {name: Halfway House}
+  - {name: Hatfield}
+  - {name: Heidelberg}
+  - {name: Hekpoort}
+  - {name: Honeydew}
+  - {name: Houghton}
+  - {name: Hyde Park}
+  - {name: Inanda}
+  - {name: Isando}
+  - {name: Johannesburg}
+  - {name: Kempton Park}
+  - {name: Krugersdorp}
+  - {name: Laudium}
+  - {name: Lenasia}
+  - {name: Lynnwood}
+  - {name: Lyttelton}
+  - {name: Magaliesburg}
+  - {name: Maraisburg}
+  - {name: Marshalltown}
+  - {name: Melville}
+  - {name: Menlo Park}
+  - {name: Midrand}
+  - {name: Monument Park}
+  - {name: Morningside}
+  - {name: Nigel}
+  - {name: Norkem Park}
+  - {name: Northcliff}
+  - {name: Olifantsfontein}
+  - {name: Onderstepoort}
+  - {name: Parkhurst}
+  - {name: Parkmore}
+  - {name: Parktown}
+  - {name: Parkview}
+  - {name: Pretoria}
+  - {name: Pretoria North}
+  - {name: Primrose}
+  - {name: Randburg}
+  - {name: Randfontein}
+  - {name: Rayton}
+  - {name: Rivonia}
+  - {name: Rosslyn}
+  - {name: Sandhurst}
+  - {name: Sandown}
+  - {name: Sandton}
+  - {name: Silverton}
+  - {name: Soshanguve}
+  - {name: Soweto}
+  - {name: Springs}
+  - {name: Strathavon}
+  - {name: Tembisa}
+  - {name: Valhalla}
+  - {name: Vanderbijlpark}
+  - {name: Vereeniging}
+  - {name: Verwoerdburg}
+  - {name: Waverly}
+  - {name: Weltevredenpark}
+  - {name: Westdene}
+  - {name: Westonaria}
+  - {name: Witfield}
+  code: '06'
+  name: Gauteng
+- cities:
+  - {name: Bergville}
+  - {name: Cato Ridge}
+  - {name: Colenso}
+  - {name: Durban}
+  - {name: Empangeni}
+  - {name: Escombe}
+  - {name: Estcourt}
+  - {name: Gillitts}
+  - {name: Greytown}
+  - {name: Hammarsdale}
+  - {name: Hibberdene}
+  - {name: Hluhluwe}
+  - {name: Howick}
+  - {name: Jacobs}
+  - {name: Kloof}
+  - {name: Kokstad}
+  - {name: Kwandengezi}
+  - {name: La Lucia}
+  - {name: Ladysmith}
+  - {name: Mariannhill}
+  - {name: Martin}
+  - {name: Merebank}
+  - {name: Merrivale}
+  - {name: Mobeni}
+  - {name: Mooi River}
+  - {name: Mount Edgecombe}
+  - {name: Mpumalanga}
+  - {name: Mtubatuba}
+  - {name: Mtunzini}
+  - {name: Mtwalume}
+  - {name: New Germany}
+  - {name: Newcastle}
+  - {name: Overport}
+  - {name: Pietermaritzburg}
+  - {name: Pinetown}
+  - {name: Point}
+  - {name: Port Shepstone}
+  - {name: Richards Bay}
+  - {name: Richmond}
+  - {name: Scottsburgh}
+  - {name: Sherwood}
+  - {name: Stanger}
+  - {name: Tongaat}
+  - {name: Umhlanga Rocks}
+  - {name: Umkomaas}
+  - {name: Umlazi}
+  - {name: Utrecht}
+  - {name: Victoria}
+  - {name: Wartburg}
+  - {name: Westville}
+  - {name: Winterton}
+  code: '02'
+  name: KwaZulu-Natal
+- cities:
+  - {name: Hoedspruit}
+  - {name: Jane Furse}
+  - {name: Louis Trichardt}
+  - {name: Messina}
+  - {name: Phalaborwa}
+  - {name: Pietersburg}
+  - {name: Potgietersrus}
+  - {name: Thabazimbi}
+  - {name: Thohoyandou}
+  - {name: Tzaneen}
+  - {name: Warmbad}
+  - {name: Windhoek}
+  code: 09
+  name: Limpopo
+- cities:
+  - {name: Barberton}
+  - {name: Ermelo}
+  - {name: Evander}
+  - {name: Groblersdal}
+  - {name: Kriel}
+  - {name: Loding}
+  - {name: London}
+  - {name: Middelburg}
+  - {name: Nelspruit}
+  - {name: Secunda}
+  - {name: Trichardt}
+  - {name: Weltevreden}
+  - {name: Witbank}
+  code: '07'
+  name: Mpumalanga
+- cities:
+  - {name: Atlanta}
+  - {name: Avon}
+  - {name: Brits}
+  - {name: Ga-rankuwa}
+  - {name: Hartbeespoort}
+  - {name: Klerksdorp}
+  - {name: Leeudoringstad}
+  - {name: Lichtenburg}
+  - {name: Mafikeng}
+  - {name: Medunsa}
+  - {name: Mmabatho}
+  - {name: Potchefstroom}
+  - {name: Rustenburg}
+  - {name: Sun City}
+  code: '10'
+  name: North-West
+- cities:
+  - {name: Campbell}
+  - {name: Jackson}
+  - {name: Kimberley}
+  - {name: Kleinzee}
+  - {name: Modderfontein}
+  - {name: Sishen}
+  - {name: Upington}
+  code: 08
+  name: Northern Cape
+- cities:
+  - {name: Atlantis}
+  - {name: Bellville}
+  - {name: Bishopscourt}
+  - {name: Bothasig}
+  - {name: Brackenfell}
+  - {name: Bredasdorp}
+  - {name: Brooklyn}
+  - {name: Caledon}
+  - {name: Cape Town}
+  - {name: Clanwilliam}
+  - {name: Claremont}
+  - {name: Constantia}
+  - {name: Danabaai}
+  - {name: Dro}
+  - {name: Durbanville}
+  - {name: Edgemead}
+  - {name: Elandsfontein}
+  - {name: Elsenburg}
+  - {name: Faure}
+  - {name: George}
+  - {name: Goodwood}
+  - {name: Grabouw}
+  - {name: Green Point}
+  - {name: Hartenbos}
+  - {name: Hermanus}
+  - {name: Hopefield}
+  - {name: Hout Bay}
+  - {name: Kaapstad}
+  - {name: Knysna}
+  - {name: Kuils River}
+  - {name: Ladismith}
+  - {name: Langebaan}
+  - {name: Lansdowne}
+  - {name: Maitland}
+  - {name: Malmesbury}
+  - {name: Milnerton}
+  - {name: Montana}
+  - {name: Mossel Bay}
+  - {name: Mowbray}
+  - {name: Muizenberg}
+  - {name: New Horizons}
+  - {name: Newlands}
+  - {name: Observatory}
+  - {name: Oudtshoorn}
+  - {name: Paarl}
+  - {name: Parow}
+  - {name: Pinelands}
+  - {name: Plettenberg Bay}
+  - {name: Rawsonville}
+  - {name: Robertson}
+  - {name: Roggebaai}
+  - {name: Rosebank}
+  - {name: Saldanha}
+  - {name: Sauer}
+  - {name: Sedgefield}
+  - {name: Somerset West}
+  - {name: Sonstraal}
+  - {name: Southfield}
+  - {name: Stellenberg}
+  - {name: Stellenbosch}
+  - {name: Stilbaai}
+  - {name: Sunnyside}
+  - {name: Swellendam}
+  - {name: Tokai}
+  - {name: Vredendal}
+  - {name: Waverley}
+  - {name: Wellington}
+  - {name: Woodlands}
+  - {name: Worcester}
+  - {name: Wynberg}
+  code: '11'
+  name: Western Cape

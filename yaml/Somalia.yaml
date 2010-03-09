@@ -1,0 +1,18 @@
+- cities:
+  - {name: Mogadishu}
+  code: '02'
+  name: Banaadir
+- cities:
+  - {name: Bosaso}
+  code: '03'
+  name: Bari
+- cities:
+  - {name: Bohol}
+  code: '11'
+  name: Nugaal
+- cities:
+  - {name: Borama}
+  - {name: Hargeisa}
+  - {name: Hargeysa}
+  code: '16'
+  name: Woqooyi Galbeed

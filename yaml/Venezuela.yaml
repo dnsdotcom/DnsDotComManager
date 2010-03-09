@@ -1,0 +1,234 @@
+- cities:
+  - {name: Puerto La Cruz}
+  - {name: Solano}
+  code: '01'
+  name: Amazonas
+- cities:
+  - {name: Anaco}
+  - {name: Barcelona}
+  - {name: Cantaura}
+  - {name: El Tigre}
+  - {name: Guanta}
+  - {name: Lecheria}
+  - {name: Monte Cristo}
+  - {name: Oficina}
+  - {name: Pariagu}
+  - {name: Puerto P}
+  - {name: San Jos}
+  code: '02'
+  name: Anzoategui
+- cities:
+  - {name: Lara}
+  - {name: Londres}
+  code: '03'
+  name: Apure
+- cities:
+  - {name: Cagua}
+  - {name: La Victoria}
+  - {name: Maracay}
+  - {name: Palo Negro}
+  - {name: San Casimiro}
+  - {name: San Mateo}
+  - {name: Santa Cruz}
+  - {name: Turmero}
+  - {name: Vargas}
+  - {name: Villa De Cura}
+  code: '04'
+  name: Aragua
+- cities:
+  - {name: Barinas}
+  - {name: Barinitas}
+  - {name: Flor Amarillo}
+  - {name: La Escasez}
+  - {name: Libertad}
+  - {name: Socop}
+  code: '05'
+  name: Barinas
+- cities:
+  - {name: Ciudad Bol}
+  - {name: Ciudad Guayana}
+  - {name: Guri}
+  - {name: Los Pijiguaos}
+  - {name: Puerto}
+  - {name: Puerto Ordaz}
+  - {name: Upata}
+  code: '06'
+  name: Bolivar
+- cities:
+  - {name: Bejuma}
+  - {name: Carabobo}
+  - {name: Guacara}
+  - {name: Las Lomas}
+  - {name: Mariara}
+  - {name: Miranda}
+  - {name: Mor}
+  - {name: Naguanagua}
+  - {name: Puerto Cabello}
+  - {name: San Diego}
+  - {name: San Joaqu}
+  - {name: Tacarigua}
+  - {name: Tocuyito}
+  - {name: Valencia}
+  code: '07'
+  name: Carabobo
+- cities:
+  - {name: Higuerote}
+  - {name: Monagas}
+  - {name: San Carlos}
+  code: 08
+  name: Cojedes
+- cities:
+  - {name: Tucupita}
+  code: 09
+  name: Delta Amacuro
+- cities:
+  - {name: Caracas}
+  - {name: Caricuao}
+  - {name: Sabana Grande}
+  code: '25'
+  name: Distrito Federal
+- cities:
+  - {name: Antonio}
+  - {name: Caja De Agua}
+  - {name: Churuguara}
+  - {name: Coro}
+  - {name: Judibana}
+  - {name: La Castellana}
+  - {name: La Cruz}
+  - {name: Los Taques}
+  - {name: Punto Fijo}
+  - {name: Sabaneta}
+  - {name: San Fernando}
+  - {name: Santa Fe}
+  - {name: Socopo}
+  - {name: Tucupido}
+  code: '11'
+  name: Falcon
+- cities:
+  - {name: Altagracia De Orituco}
+  - {name: El Sombrero}
+  - {name: San Juan De Los Morros}
+  code: '12'
+  name: Guarico
+- cities:
+  - {name: Anzo}
+  - {name: Barquisimeto}
+  - {name: Cabudare}
+  - {name: Carora}
+  - {name: El Tocuyo}
+  - {name: La Verdad}
+  - {name: Qu}
+  code: '13'
+  name: Lara
+- cities:
+  - {name: Ejido}
+  - {name: M}
+  code: '14'
+  name: Merida
+- cities:
+  - {name: C}
+  - {name: Carrizal}
+  - {name: Chacao}
+  - {name: Charallave}
+  - {name: Guarenas}
+  - {name: Guatire}
+  - {name: La Dolorita}
+  - {name: Los Ruices}
+  - {name: Los Teques}
+  - {name: Ocumare Del Tuy}
+  - {name: Petare}
+  - {name: R}
+  - {name: San Antonio De Los Altos}
+  - {name: San Jos}
+  - {name: Santa Teresa}
+  code: '15'
+  name: Miranda
+- cities:
+  - {name: Barrancas}
+  - {name: Caicara De Matur}
+  - {name: Caripe}
+  - {name: Caripito}
+  - {name: Matur}
+  - {name: Punta De Mata}
+  - {name: Torre}
+  code: '16'
+  name: Monagas
+- cities:
+  - {name: El Agua}
+  - {name: Juangriego}
+  - {name: La Asunci}
+  - {name: Las Hern}
+  - {name: Los Millanes}
+  - {name: Los Robles}
+  - {name: Pampatar}
+  - {name: Paraguachi}
+  - {name: Pedrogonz}
+  - {name: Porlamar}
+  - {name: Punta De Piedras}
+  code: '17'
+  name: Nueva Esparta
+- cities:
+  - {name: Acarigua}
+  - {name: Araure}
+  - {name: Guanare}
+  - {name: Guanarito}
+  - {name: Mar}
+  - {name: Ospino}
+  - {name: Turen}
+  code: '18'
+  name: Portuguesa
+- cities:
+  - {name: Capiantar}
+  - {name: Car}
+  - {name: Cuman}
+  - {name: Guayana}
+  - {name: San Antonio Del Golfo}
+  code: '19'
+  name: Sucre
+- cities:
+  - {name: El Rosal}
+  - {name: Michelena}
+  - {name: Rubio}
+  - {name: San Antonio Del T}
+  - {name: San Crist}
+  - {name: San Juan De Col}
+  - {name: T}
+  - {name: Tachira}
+  code: '20'
+  name: Tachira
+- cities:
+  - {name: Betijoque}
+  - {name: La Urbina}
+  - {name: Pamp}
+  - {name: Trujillo}
+  - {name: Valera}
+  code: '21'
+  name: Trujillo
+- cities:
+  - {name: Catia La Mar}
+  - {name: La Guaira}
+  - {name: Maiquet}
+  code: '26'
+  name: Vargas
+- cities:
+  - {name: Carabobo}
+  - {name: Chivacoa}
+  - {name: El Chorro}
+  - {name: La Mara}
+  - {name: Nirgua}
+  - {name: Sabana De Parra}
+  - {name: San Felipe}
+  - {name: Yaritagua}
+  code: '22'
+  name: Yaracuy
+- cities:
+  - {name: Cabimas}
+  - {name: Ciudad Ojeda}
+  - {name: Curacao}
+  - {name: Lagunillas}
+  - {name: Maracaibo}
+  - {name: San Francisco}
+  - {name: Santa Rita}
+  - {name: T}
+  code: '23'
+  name: Zulia

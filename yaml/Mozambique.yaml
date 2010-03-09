@@ -1,0 +1,28 @@
+- cities:
+  - {name: Chimoio}
+  code: '10'
+  name: Manica
+- cities:
+  - {name: Maputo}
+  code: '04'
+  name: Maputo
+- cities:
+  - {name: Mo}
+  - {name: Nampula}
+  code: '06'
+  name: Nampula
+- cities:
+  - {name: Beira}
+  - {name: Marromeu}
+  code: '05'
+  name: Sofala
+- cities:
+  - {name: Songo}
+  - {name: Tete}
+  code: 08
+  name: Tete
+- cities:
+  - {name: Mocuba}
+  - {name: Quelimane}
+  code: 09
+  name: Zambezia

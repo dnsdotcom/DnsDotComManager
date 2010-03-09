@@ -1,0 +1,8 @@
+- cities:
+  - {name: Pya}
+  code: 09
+  name: Lama-Kara
+- cities:
+  - {name: Lom}
+  code: '18'
+  name: Tsevie

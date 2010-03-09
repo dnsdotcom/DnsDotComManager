@@ -1,0 +1,23 @@
+- cities:
+  - {name: Arabeh}
+  - {name: Balata}
+  - {name: Bayt `ur At Tahta}
+  - {name: Beit Hanina}
+  - {name: Beit Jala}
+  - {name: Bethlehem}
+  - {name: Birah}
+  - {name: Gaza}
+  - {name: Hebron}
+  - {name: Jenin}
+  - {name: Jericho}
+  - {name: Jinin}
+  - {name: Khan Yunis}
+  - {name: Nablus}
+  - {name: Rafah}
+  - {name: Ram}
+  - {name: Ramallah}
+  - {name: Tubas}
+  - {name: Tulkarm}
+  - {name: Yasid}
+  code: '00'
+  name: ''

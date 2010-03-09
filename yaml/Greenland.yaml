@@ -1,0 +1,36 @@
+- cities:
+  - {name: Kangerlussuaq}
+  - {name: Narsaq}
+  - {name: Qaanaaq}
+  - {name: Thule}
+  code: '01'
+  name: Nordgronland
+- cities:
+  - {name: Ittoqqortoormiit}
+  - {name: Kulusuk}
+  - {name: Kuummiut}
+  - {name: Tasiilaq}
+  code: '02'
+  name: Ostgronland
+- cities:
+  - {name: Aasiaat}
+  - {name: Arsuk}
+  - {name: Godthaab}
+  - {name: Ilulissat}
+  - {name: Ivittuut}
+  - {name: Kangaatsiaq}
+  - {name: Maniitsoq}
+  - {name: Nanortalik}
+  - {name: Narsarsuaq}
+  - {name: Nuuk}
+  - {name: Nuussuaq}
+  - {name: Paamiut}
+  - {name: Qaqortoq}
+  - {name: Qasigianguit}
+  - {name: Qasigiannguit}
+  - {name: Qeqertarsuaq}
+  - {name: Sisimiut}
+  - {name: Upernavik}
+  - {name: Uummannaq}
+  code: '03'
+  name: Vestgronland

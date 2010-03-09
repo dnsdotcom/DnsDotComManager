@@ -1,0 +1,253 @@
+- cities:
+  - {name: ''}
+  - {name: Aegviidu}
+  - {name: Aruk}
+  - {name: Assaku}
+  - {name: Haabneeme}
+  - {name: Harku}
+  - {name: Harkuj}
+  - {name: J}
+  - {name: Kalesi}
+  - {name: Karjak}
+  - {name: Kehra}
+  - {name: Keila}
+  - {name: Kiili}
+  - {name: Kiisa}
+  - {name: Kose-uuem}
+  - {name: Kotka}
+  - {name: Kuusalu}
+  - {name: Laagri}
+  - {name: Lagedi}
+  - {name: Loksa}
+  - {name: Luige}
+  - {name: M}
+  - {name: Maardu}
+  - {name: Muraste}
+  - {name: Mustam}
+  - {name: Neeme}
+  - {name: Paldiski}
+  - {name: Pikaliiva}
+  - {name: Pirita}
+  - {name: Randvere}
+  - {name: Reval}
+  - {name: Riisipere}
+  - {name: Saha}
+  - {name: Saku}
+  - {name: Saue}
+  - {name: Suurupi}
+  - {name: Tabasalu}
+  - {name: Tallin}
+  - {name: Tallinn}
+  - {name: Tallinna}
+  - {name: Tondi}
+  - {name: Turba}
+  - {name: Vaida}
+  - {name: Viimsi}
+  code: '01'
+  name: Harjumaa
+- cities:
+  - {name: Emmaste}
+  - {name: Harju}
+  - {name: K}
+  - {name: K}
+  code: '02'
+  name: Hiiumaa
+- cities:
+  - {name: J}
+  - {name: Jarve}
+  - {name: Kivi}
+  - {name: Kohtla}
+  - {name: Kohtla-j}
+  - {name: Koogu}
+  - {name: Kreenholm}
+  - {name: L}
+  - {name: Narva}
+  - {name: Narva-j}
+  - {name: Sillam}
+  - {name: Sonda}
+  - {name: Toila}
+  - {name: Vasavere}
+  code: '03'
+  name: Ida-Virumaa
+- cities:
+  - {name: Albu}
+  - {name: Imavere}
+  - {name: J}
+  - {name: Koeru}
+  - {name: Oisu}
+  - {name: Paide}
+  - {name: S}
+  - {name: T}
+  - {name: Tarbja}
+  code: '04'
+  name: Jarvamaa
+- cities:
+  - {name: Endla}
+  - {name: J}
+  - {name: Nurga}
+  - {name: P}
+  - {name: Sadala}
+  - {name: Tabivere}
+  - {name: Torma}
+  code: '05'
+  name: Jogevamaa
+- cities:
+  - {name: Aaspere}
+  - {name: Haljala}
+  - {name: Kadrina}
+  - {name: Kunda}
+  - {name: Laekvere}
+  - {name: Pariisi}
+  - {name: Rakke}
+  - {name: Rakvere}
+  - {name: S}
+  - {name: Tamsalu}
+  - {name: Tapa}
+  - {name: Ubja}
+  - {name: V}
+  - {name: Vinni}
+  code: 08
+  name: Laane-Virumaa
+- cities:
+  - {name: Haapsalu}
+  - {name: Hanila}
+  - {name: Kadaka}
+  - {name: Kalda}
+  - {name: Kiriku}
+  - {name: Kivi}
+  - {name: Lihula}
+  - {name: Liiva}
+  - {name: Liivi}
+  - {name: Metsa}
+  - {name: Nigula}
+  - {name: Nurme}
+  - {name: Palivere}
+  - {name: Rannam}
+  - {name: Sepa}
+  - {name: Veski}
+  code: '07'
+  name: Laanemaa
+- cities:
+  - {name: K}
+  - {name: Kilingi}
+  - {name: Kopli}
+  - {name: Lutsu}
+  - {name: M}
+  - {name: Mere}
+  - {name: Mihkli}
+  - {name: N}
+  - {name: P}
+  - {name: Pikavere}
+  - {name: R}
+  - {name: S}
+  - {name: Sauga}
+  - {name: Sindi}
+  - {name: Surju}
+  - {name: T}
+  - {name: Tootsi}
+  - {name: Tori}
+  - {name: V}
+  - {name: Vabriku}
+  - {name: Vihtra}
+  code: '11'
+  name: Parnumaa
+- cities:
+  - {name: Koidula}
+  - {name: Mammaste}
+  - {name: Mooste}
+  - {name: P}
+  - {name: Tilsi}
+  - {name: V}
+  - {name: Valgj}
+  code: '12'
+  name: Polvamaa
+- cities:
+  - {name: Aespa}
+  - {name: Hagudi}
+  - {name: J}
+  - {name: K}
+  - {name: Keava}
+  - {name: Kehtna}
+  - {name: Kohila}
+  - {name: Lane}
+  - {name: Lelle}
+  - {name: Lille}
+  - {name: M}
+  - {name: Manni}
+  - {name: Prillim}
+  - {name: Raikk}
+  - {name: Rapla}
+  - {name: Saksa}
+  - {name: Tamme}
+  - {name: Teenuse}
+  - {name: Varbola}
+  code: '13'
+  name: Raplamaa
+- cities:
+  - {name: K}
+  - {name: Kapi}
+  - {name: Karja}
+  - {name: Kure}
+  - {name: Kuressaare}
+  - {name: Leisi}
+  - {name: Suur-pahila}
+  - {name: Tornim}
+  code: '14'
+  name: Saaremaa
+- cities:
+  - {name: ''}
+  - {name: Alatskivi}
+  - {name: Elva}
+  - {name: Haage}
+  - {name: Ihaste}
+  - {name: K}
+  - {name: K}
+  - {name: Kaagvere}
+  - {name: Kallaste}
+  - {name: Laane}
+  - {name: Laeva}
+  - {name: Luunja}
+  - {name: Puhja}
+  - {name: Roiu}
+  - {name: T}
+  - {name: T}
+  - {name: Tartu}
+  - {name: Uhti}
+  - {name: Ulila}
+  - {name: V}
+  code: '18'
+  name: Tartumaa
+- cities:
+  - {name: Hummuli}
+  - {name: L}
+  - {name: Otep}
+  - {name: Puka}
+  - {name: Sihva}
+  - {name: T}
+  - {name: Valga}
+  code: '19'
+  name: Valgamaa
+- cities:
+  - {name: Halliste}
+  - {name: Leie}
+  - {name: P}
+  - {name: Paistu}
+  - {name: Suure-jaani}
+  - {name: Uusna}
+  - {name: V}
+  - {name: Viiratsi}
+  - {name: Viljandi}
+  code: '20'
+  name: Viljandimaa
+- cities:
+  - {name: Anne}
+  - {name: Antsla}
+  - {name: Kobela}
+  - {name: Kollino}
+  - {name: Parksepa}
+  - {name: S}
+  - {name: V}
+  - {name: Vastseliina}
+  - {name: Viru}
+  code: '21'
+  name: Vorumaa

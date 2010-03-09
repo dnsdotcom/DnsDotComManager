@@ -1,0 +1,345 @@
+- cities:
+  - {name: Aba Hillel}
+  - {name: Abba Hillel}
+  - {name: Ashdod}
+  - {name: Ashqelon}
+  - {name: Avigdor}
+  - {name: Beersheba}
+  - {name: Bitha}
+  - {name: Brosh}
+  - {name: Dimona}
+  - {name: Dorot}
+  - {name: Eilat}
+  - {name: Eitan}
+  - {name: Elat}
+  - {name: Erez}
+  - {name: Gevim}
+  - {name: Gilat}
+  - {name: Hatzor}
+  - {name: Hazav}
+  - {name: Kannot}
+  - {name: Karmon}
+  - {name: Kiryat Gat}
+  - {name: Kiryat Malachi}
+  - {name: Kiryat-malakhi}
+  - {name: Lahat}
+  - {name: Lahav}
+  - {name: Mag}
+  - {name: Maslul}
+  - {name: Mefalsim}
+  - {name: Mivtah}
+  - {name: Mivtahim}
+  - {name: Negba}
+  - {name: Netivot}
+  - {name: Nevatim}
+  - {name: Nirim}
+  - {name: Noga}
+  - {name: Ofakim}
+  - {name: Ofaqim}
+  - {name: Omar}
+  - {name: Orot}
+  - {name: Qiryat Gat}
+  - {name: Ranen}
+  - {name: Revadim}
+  - {name: Revivim}
+  - {name: Ruhama}
+  - {name: Sderot}
+  - {name: Shafir}
+  - {name: Shahar}
+  - {name: Shoval}
+  - {name: Shuva}
+  - {name: Timmorim}
+  - {name: Urim}
+  - {name: Yad Natan}
+  - {name: Yahel}
+  - {name: Yair}
+  - {name: Yasur}
+  - {name: Yeroham}
+  - {name: Yeruham}
+  - {name: Zofar}
+  - {name: Zohar}
+  code: '01'
+  name: HaDarom
+- cities:
+  - {name: Ashdod}
+  - {name: Bareket}
+  - {name: Bazra}
+  - {name: Beit `oved}
+  - {name: Ben Shemen}
+  - {name: Benaya}
+  - {name: Bet Dagan}
+  - {name: Bet Yizhaq}
+  - {name: Bitan}
+  - {name: Bitan Aharon}
+  - {name: Burgata}
+  - {name: Daniel}
+  - {name: Einat}
+  - {name: Elyakhin}
+  - {name: Elyashiv}
+  - {name: Even Yehuda}
+  - {name: Eyal}
+  - {name: Gan Yavne}
+  - {name: Ganne Tiqwa}
+  - {name: Gedera}
+  - {name: Gezer}
+  - {name: Gimzo}
+  - {name: Givat Haim}
+  - {name: Hadar}
+  - {name: Hadid}
+  - {name: Hagor}
+  - {name: Haruzim}
+  - {name: Herut}
+  - {name: Hod Hasharon}
+  - {name: Hofit}
+  - {name: Hulda}
+  - {name: Jaljulye}
+  - {name: Kafar Qasem}
+  - {name: Kef}
+  - {name: Kefar Habad}
+  - {name: Kefar Malal}
+  - {name: Kefar Sava}
+  - {name: Kefar Shmuel}
+  - {name: Kefar Vitkin}
+  - {name: Kefar Yona}
+  - {name: Kfar Saba}
+  - {name: Kidron}
+  - {name: Lod}
+  - {name: Magshimim}
+  - {name: Mazkeret Batya}
+  - {name: Mazliah}
+  - {name: Mazor}
+  - {name: Mishmeret}
+  - {name: Nahshonim}
+  - {name: Natanya}
+  - {name: Nehalim}
+  - {name: Nes Tsiyona}
+  - {name: Nes Ziyona}
+  - {name: Ness Ziona}
+  - {name: Netanya}
+  - {name: Nir Eliyahu}
+  - {name: Nir Zevi}
+  - {name: Nordiyya}
+  - {name: Pardesiyya}
+  - {name: Petah Tiqva}
+  - {name: Petah Tiqwa}
+  - {name: Porat}
+  - {name: Qadima}
+  - {name: Qiryat Ono}
+  - {name: Ramat Hakovesh}
+  - {name: Ramla}
+  - {name: Ramle}
+  - {name: Ramot Hashavim}
+  - {name: Rehovot}
+  - {name: Rehovoth}
+  - {name: Reuven}
+  - {name: Rishon Le Zion}
+  - {name: Rishon Le Ziyon}
+  - {name: Rishon Leziyyon}
+  - {name: Rishpon}
+  - {name: Savyon}
+  - {name: Sede Warburg}
+  - {name: Shefayim}
+  - {name: Tayibe}
+  - {name: Tel Hashomer}
+  - {name: Tel Mond}
+  - {name: Tenuvot}
+  - {name: Tirat Yehuda}
+  - {name: Udim}
+  - {name: Yad Binyamin}
+  - {name: Yakum}
+  - {name: Yamin}
+  - {name: Yavne}
+  - {name: Yavneh}
+  - {name: Yehud}
+  - {name: Zofit}
+  code: '02'
+  name: HaMerkaz
+- cities:
+  - {name: Acre}
+  - {name: Afikim}
+  - {name: Ahihud}
+  - {name: Almagor}
+  - {name: Alonim}
+  - {name: Alumot}
+  - {name: Amirim}
+  - {name: Arbel}
+  - {name: Asher}
+  - {name: Avital}
+  - {name: Beit Hakerem}
+  - {name: Beit Shean}
+  - {name: Bney-brit}
+  - {name: Carmiel}
+  - {name: Dafna}
+  - {name: Dalia}
+  - {name: Deir Hanna}
+  - {name: Dovev}
+  - {name: Dovrat}
+  - {name: Eilon}
+  - {name: Elon}
+  - {name: Gadish}
+  - {name: Gadot}
+  - {name: Gazit}
+  - {name: Gesher}
+  - {name: Gesher Haziv}
+  - {name: Ginnosar}
+  - {name: Gonen}
+  - {name: Goren}
+  - {name: Gvat}
+  - {name: Habonim}
+  - {name: Hanita}
+  - {name: Haon}
+  - {name: Hasharon}
+  - {name: Hazor}
+  - {name: Hever}
+  - {name: Hosen}
+  - {name: Iksal}
+  - {name: Kafar Manda}
+  - {name: Kawkab}
+  - {name: Kefar Tavor}
+  - {name: Kfar Tavor}
+  - {name: Kfar Yasif}
+  - {name: Kineret}
+  - {name: Lavi}
+  - {name: Lotem}
+  - {name: Maghar}
+  - {name: Mahanayim}
+  - {name: Maoz}
+  - {name: Mashad}
+  - {name: Megiddo}
+  - {name: Megido}
+  - {name: Meiron}
+  - {name: Merchavia}
+  - {name: Merhavya}
+  - {name: Mesilot}
+  - {name: Migdal}
+  - {name: Migdal Hameq}
+  - {name: Misgav}
+  - {name: Moran}
+  - {name: Nahaf}
+  - {name: Nahalal}
+  - {name: Nahar}
+  - {name: Nahariya}
+  - {name: Nahariyya}
+  - {name: Nahef}
+  - {name: Nazareth}
+  - {name: Nazareth Illit}
+  - {name: Nir David}
+  - {name: Parod}
+  - {name: Poriya}
+  - {name: Rama}
+  - {name: Ramah}
+  - {name: Ramat Hashofet}
+  - {name: Ramat Yishay}
+  - {name: Rami}
+  - {name: Regba}
+  - {name: Reine}
+  - {name: Reshafim}
+  - {name: Revaya}
+  - {name: Rosh Pinna}
+  - {name: Rumat Heib}
+  - {name: Sakhnin}
+  - {name: Sallama}
+  - {name: Sarid}
+  - {name: Segev}
+  - {name: Shamir}
+  - {name: Shavei Zion}
+  - {name: Shefer}
+  - {name: Shelomi}
+  - {name: Shlomi}
+  - {name: Shluhot}
+  - {name: Sulam}
+  - {name: Tiberias}
+  - {name: Timrat}
+  - {name: Tsipori}
+  - {name: Wingate}
+  - {name: Yiftah}
+  - {name: Yuval}
+  - {name: Zefat}
+  - {name: Zippori}
+  code: '03'
+  name: HaZafon
+- cities:
+  - {name: Alona}
+  - {name: Avot}
+  - {name: Baqa}
+  - {name: Barkai}
+  - {name: Bat Shelomo}
+  - {name: Binyamina}
+  - {name: Caesarea}
+  - {name: Carmel}
+  - {name: Fureidis}
+  - {name: Hadera}
+  - {name: Hahotrim}
+  - {name: Haifa}
+  - {name: Hakarmel}
+  - {name: Hedera}
+  - {name: Karkur}
+  - {name: Kerem Maharal}
+  - {name: Kiryat Tivon}
+  - {name: Maagan Michael}
+  - {name: Magal}
+  - {name: Megadim}
+  - {name: Mishmarot}
+  - {name: Nahsholim}
+  - {name: Nesher}
+  - {name: Oranim}
+  - {name: Pardes Hanna}
+  - {name: Pardess Hanna}
+  - {name: Qiryat Atta}
+  - {name: Qiryat Bialik}
+  - {name: Qiryat Motzkin}
+  - {name: Qiryat Yam}
+  - {name: Regavim}
+  - {name: Rekhasim}
+  - {name: Salim}
+  - {name: Shfeyah}
+  - {name: Tira}
+  - {name: Tirat Karmel}
+  - {name: Usha}
+  - {name: Yagur}
+  code: '04'
+  name: Hefa
+- cities:
+  - {name: Azor}
+  - {name: Azur}
+  - {name: Bat Yam}
+  - {name: Bene Beraq}
+  - {name: Ganot}
+  - {name: Gelilot}
+  - {name: Glil Yam}
+  - {name: Hakirya}
+  - {name: Herzlia B}
+  - {name: Herzliya}
+  - {name: Herzliyya}
+  - {name: Holon}
+  - {name: Kefar Shemaryahu}
+  - {name: Moledet}
+  - {name: Morasha}
+  - {name: Or Yehuda}
+  - {name: Qiryat Ono}
+  - {name: Ramat Aviv}
+  - {name: Ramat Gan}
+  - {name: Ramat Hasharon}
+  - {name: Reshef}
+  - {name: Tel Aviv}
+  - {name: Tel Aviv-yafo}
+  - {name: Yafo}
+  code: '05'
+  name: Tel Aviv
+- cities:
+  - {name: Abu Ghosh}
+  - {name: Beit Neqofa}
+  - {name: Bet Shemesh}
+  - {name: Gefen}
+  - {name: Jerusalem}
+  - {name: Kiria}
+  - {name: Masua}
+  - {name: Nahshon}
+  - {name: Neve Ilan}
+  - {name: Romema}
+  - {name: Shoresh}
+  - {name: Tal Shahar}
+  - {name: Zekharya}
+  - {name: Zur Hadassa}
+  code: '06'
+  name: Yerushalayim

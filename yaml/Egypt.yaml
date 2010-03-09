@@ -1,0 +1,124 @@
+- cities:
+  - {name: Damas}
+  - {name: Dekernes}
+  - {name: Diyarb Najm}
+  - {name: Mansoura}
+  - {name: Mit Ghamr}
+  - {name: Talkha}
+  code: '01'
+  name: Ad Daqahliyah
+- cities:
+  - {name: El Bad}
+  - {name: Hurghada}
+  code: '02'
+  name: Al Bahr al Ahmar
+- cities:
+  - {name: Damanhour}
+  - {name: Nasr}
+  - {name: Ramsis}
+  - {name: Sadat City}
+  code: '03'
+  name: Al Buhayrah
+- cities:
+  - {name: El Faiy}
+  - {name: Fayoum}
+  - {name: Fayyoum}
+  code: '04'
+  name: Al Fayyum
+- cities:
+  - {name: El Mahalla El Kubra}
+  - {name: Kafr El-zayat}
+  - {name: Tanta}
+  - {name: Zift}
+  code: '05'
+  name: Al Gharbiyah
+- cities:
+  - {name: Alexandria}
+  code: '06'
+  name: Al Iskandariyah
+- cities:
+  - {name: Ismailia}
+  code: '07'
+  name: Al Isma'iliyah
+- cities:
+  - {name: El Haram}
+  - {name: G}
+  - {name: Gizeh}
+  code: 08
+  name: Al Jizah
+- cities:
+  - {name: Menouf}
+  - {name: Tala}
+  code: 09
+  name: Al Minufiyah
+- cities:
+  - {name: Minia}
+  - {name: Minya}
+  code: '10'
+  name: Al Minya
+- cities:
+  - {name: Almaza}
+  - {name: Badr}
+  - {name: Cairo}
+  - {name: Garden City}
+  - {name: Heliopolis}
+  - {name: Helwan}
+  - {name: Imb}
+  - {name: Misr}
+  - {name: Nasr City}
+  - {name: Zamalek}
+  code: '11'
+  name: Al Qahirah
+- cities:
+  - {name: Banha}
+  - {name: Benha}
+  code: '12'
+  name: Al Qalyubiyah
+- cities:
+  - {name: Su}
+  - {name: Suez}
+  code: '15'
+  name: As Suways
+- cities:
+  - {name: Belbeis}
+  - {name: Hehia}
+  - {name: Kafr El Sheikh}
+  - {name: Kafr Saqr}
+  - {name: Zagazig}
+  code: '14'
+  name: Ash Sharqiyah
+- cities:
+  - {name: Aswan}
+  code: '16'
+  name: Aswan
+- cities:
+  - {name: Abu T}
+  - {name: Assiut}
+  - {name: Asyut}
+  code: '17'
+  name: Asyut
+- cities:
+  - {name: Port Said}
+  code: '19'
+  name: Bur Sa'id
+- cities:
+  - {name: Damietta}
+  code: '20'
+  name: Dumyat
+- cities:
+  - {name: Kafr El-sheikh}
+  code: '21'
+  name: Kafr ash Shaykh
+- cities:
+  - {name: Sohag}
+  code: '22'
+  name: Matruh
+- cities:
+  - {name: Luxor}
+  - {name: Qena}
+  code: '23'
+  name: Qina
+- cities:
+  - {name: Balyana}
+  code: '24'
+  name: Suhaj

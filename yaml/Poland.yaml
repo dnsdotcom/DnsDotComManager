@@ -1,0 +1,4731 @@
+- cities:
+  - {name: Biala Podlaska}
+  - {name: Brudno}
+  - {name: Chotylow}
+  - {name: Debowa Kloda}
+  - {name: Drel}
+  - {name: Dubica G}
+  - {name: Hanna}
+  - {name: Huszlew}
+  - {name: Jan}
+  - {name: Kakolewnica}
+  - {name: Koczergi}
+  - {name: Koden}
+  - {name: Koroszczyn}
+  - {name: Kostry}
+  - {name: Lesna Podlaska}
+  - {name: Lobaczow}
+  - {name: Lomazy}
+  - {name: Losice}
+  - {name: Malaszewice}
+  - {name: Malaszewicze}
+  - {name: Michalki}
+  - {name: Miedzyrzec}
+  - {name: Miedzyrzec Podlaski}
+  - {name: Most}
+  - {name: Olszyn}
+  - {name: Parczew}
+  - {name: Piszczac}
+  - {name: Radzyn Podlaski}
+  - {name: Sarnaki}
+  - {name: Siemien}
+  - {name: Slawatycze}
+  - {name: Sowin}
+  - {name: Tlusciec}
+  - {name: Tuczna}
+  - {name: Wisznice}
+  - {name: Wohyn}
+  - {name: Wolka Dobrynska}
+  - {name: Zakanale}
+  code: '23'
+  name: Biala Podlaska
+- cities:
+  - {name: Bialystok}
+  - {name: Bielsk Podlaski}
+  - {name: Bocki}
+  - {name: Bransk}
+  - {name: Choroszcz}
+  - {name: Czarna Bialostocka}
+  - {name: Czartajew}
+  - {name: Czyze}
+  - {name: Dabrowa Bialostocka}
+  - {name: Dobrzyniewo Duze}
+  - {name: Dojlidy}
+  - {name: Dojlidy G}
+  - {name: Drohiczyn}
+  - {name: Dubicze Cerkiewne}
+  - {name: Dziadkowice}
+  - {name: Fasty}
+  - {name: Hajn}
+  - {name: Hryniewicze}
+  - {name: Ignatki}
+  - {name: Jasion}
+  - {name: Jaswily}
+  - {name: Juchnowiec}
+  - {name: Juchnowiec Koscielny}
+  - {name: Kleszczele}
+  - {name: Knyszyn}
+  - {name: Korycin}
+  - {name: Kruszyn}
+  - {name: Krypno Koscielne}
+  - {name: Krypno Wielkie}
+  - {name: Ksiezyno}
+  - {name: Kumiala}
+  - {name: Lapy}
+  - {name: Lewkowo Stare}
+  - {name: Mielnik}
+  - {name: Milejczyce}
+  - {name: Moniuszki}
+  - {name: Monki}
+  - {name: Narew}
+  - {name: Narewka}
+  - {name: Niewodnica Korycka}
+  - {name: Nowodworce}
+  - {name: Nurzec}
+  - {name: Nurzec-stacja}
+  - {name: Ogrodniczki}
+  - {name: Panki}
+  - {name: Podlaski}
+  - {name: Poletyly}
+  - {name: Policzna}
+  - {name: Porosly}
+  - {name: Rzedziany}
+  - {name: Sidra}
+  - {name: Siemianowka}
+  - {name: Siemiatycze}
+  - {name: Stare Lewkowo}
+  - {name: Starosielce}
+  - {name: Suprasl}
+  - {name: Suraz}
+  - {name: Szudzialowo}
+  - {name: Trypucie}
+  - {name: Turosn Koscielna}
+  - {name: Tykocin}
+  - {name: Uhowo}
+  - {name: Walily}
+  - {name: Wasilk}
+  - {name: Zabludow}
+  - {name: Zascianki}
+  - {name: Zlotoria}
+  - {name: Zlotoryja}
+  - {name: Zoltki}
+  code: '24'
+  name: Bialystok
+- cities:
+  - {name: Andrych}
+  - {name: Bachowice}
+  - {name: Baczyn}
+  - {name: Bielany}
+  - {name: Bielsko-biala}
+  - {name: Brenna}
+  - {name: Brody}
+  - {name: Buczkowice}
+  - {name: Budz}
+  - {name: Bugaj}
+  - {name: Bulowice}
+  - {name: Bystra}
+  - {name: Bystra Slaska}
+  - {name: Chelmek}
+  - {name: Chocznia}
+  - {name: Chybie}
+  - {name: Ciecina}
+  - {name: Cieszyn}
+  - {name: Cisiec}
+  - {name: Czaniec}
+  - {name: Czarne}
+  - {name: Czernich}
+  - {name: Drogomysl}
+  - {name: Dwory}
+  - {name: Dziegielow}
+  - {name: Frydrychowice}
+  - {name: G}
+  - {name: Godzisz}
+  - {name: Golesz}
+  - {name: Gorki Male}
+  - {name: Gorz}
+  - {name: Grodzisko}
+  - {name: Gumna}
+  - {name: Harbutowice}
+  - {name: Hazlach}
+  - {name: Hecznarowice}
+  - {name: Hucisko}
+  - {name: Ilownica}
+  - {name: Inwald}
+  - {name: Iskrzyczyn}
+  - {name: Istebna}
+  - {name: Izdebnik}
+  - {name: Janowice}
+  - {name: Jastrzebia}
+  - {name: Jawornik}
+  - {name: Jaworze}
+  - {name: Jelesnia}
+  - {name: Kalwaria}
+  - {name: Kalwaria Zebrzydowska}
+  - {name: Kamienica}
+  - {name: Kamienna}
+  - {name: Kety}
+  - {name: Kisiel}
+  - {name: Klecza Dolna}
+  - {name: Klecza G}
+  - {name: Kobiernice}
+  - {name: Kocon}
+  - {name: Konczyce Wielkie}
+  - {name: Koszarawa}
+  - {name: Koszarowa}
+  - {name: Kowale}
+  - {name: Kozy}
+  - {name: Krzesz}
+  - {name: Krzywa}
+  - {name: Krzyzowa}
+  - {name: Kuk}
+  - {name: Kur}
+  - {name: Lachowice}
+  - {name: Laczany}
+  - {name: Lanckorona}
+  - {name: Lekawica}
+  - {name: Leki}
+  - {name: Lesnica}
+  - {name: Lipnik}
+  - {name: Lodygowice}
+  - {name: Makow Podhalanski}
+  - {name: Malec}
+  - {name: Malinka}
+  - {name: Meszna}
+  - {name: Miedzybrodzie}
+  - {name: Miedzyrzecze Dolne}
+  - {name: Miedzyrzecze Gorne}
+  - {name: Miedzyswiec}
+  - {name: Mil}
+  - {name: Mucharz}
+  - {name: Nalecz}
+  - {name: Nowy Swiat}
+  - {name: Ochaby}
+  - {name: Oswiecim}
+  - {name: Piersciec}
+  - {name: Pietrzykowice}
+  - {name: Podlasie}
+  - {name: Podolsze}
+  - {name: Polanka Wielka}
+  - {name: Ponikiew}
+  - {name: Przecisz}
+  - {name: Przew}
+  - {name: Przytkowice}
+  - {name: Puncow}
+  - {name: Radziechowy}
+  - {name: Rajcza}
+  - {name: Rajsko}
+  - {name: Roczyny}
+  - {name: Rudzica}
+  - {name: Rybarzowice}
+  - {name: Rychwaldek}
+  - {name: Rzyki}
+  - {name: Skawica}
+  - {name: Skocz}
+  - {name: Slemien}
+  - {name: Spytkowice}
+  - {name: Stanislaw Dolny}
+  - {name: Stronie}
+  - {name: Strumien}
+  - {name: Strysz}
+  - {name: Stryszawa}
+  - {name: Sucha}
+  - {name: Sucha Beskidzka}
+  - {name: Swinna}
+  - {name: Szczyrk}
+  - {name: Targanice}
+  - {name: Tarnawa Dolna}
+  - {name: Tesin}
+  - {name: Tokarnia}
+  - {name: Ujsoly}
+  - {name: Ustron}
+  - {name: Wadowice}
+  - {name: Wegierska Gorka}
+  - {name: Wieprz}
+  - {name: Wilamowice}
+  - {name: Wisla}
+  - {name: Wislica}
+  - {name: Wlosienica}
+  - {name: Wozniki}
+  - {name: Wr}
+  - {name: Wyrabana}
+  - {name: Zabnica}
+  - {name: Zakrz}
+  - {name: Zawadka}
+  - {name: Zawoja}
+  - {name: Zembrzyce}
+  - {name: Zwardon}
+  - {name: Zywiec}
+  code: '25'
+  name: Bielsko
+- cities:
+  - {name: Barcin}
+  - {name: Biskupin}
+  - {name: Brusy}
+  - {name: Brzesc}
+  - {name: Brzozie}
+  - {name: Byslaw}
+  - {name: Byslawek}
+  - {name: Cekcyn}
+  - {name: Charzykowy}
+  - {name: Chojnice}
+  - {name: Chojniczki}
+  - {name: Ciele}
+  - {name: Czarze}
+  - {name: Czersk}
+  - {name: Dabrowa Biskupia}
+  - {name: Dabrowa Chelminska}
+  - {name: Dobrcz}
+  - {name: Dolna Grupa}
+  - {name: Drzycim}
+  - {name: G}
+  - {name: Gasawa}
+  - {name: Gniewkowiec}
+  - {name: Gogolin}
+  - {name: Goluszyce}
+  - {name: Gostycyn}
+  - {name: Gruczno}
+  - {name: Inowroclaw}
+  - {name: Jacewo}
+  - {name: Jadwiga}
+  - {name: Janowiec Wielkopolski}
+  - {name: Jeziora Wielkie}
+  - {name: Kamien Krajenski}
+  - {name: Kamionek}
+  - {name: Kcynia}
+  - {name: Kesowo}
+  - {name: Klocek}
+  - {name: Koronowo}
+  - {name: Kotomierz}
+  - {name: Kr}
+  - {name: Kraplewice}
+  - {name: Krojanty}
+  - {name: Kruk}
+  - {name: Kruszwica}
+  - {name: Kwieciszewo}
+  - {name: Labiszyn}
+  - {name: Lisi Ogon}
+  - {name: Lniano}
+  - {name: Lubostron}
+  - {name: Miedzno}
+  - {name: Mogilno}
+  - {name: Mrocza}
+  - {name: Myslecinek}
+  - {name: Naklo}
+  - {name: Naklo Nad Notecia}
+  - {name: Niezywiec}
+  - {name: Nowe Dabie}
+  - {name: Odry}
+  - {name: Osie}
+  - {name: Osielsko}
+  - {name: Ostromecko}
+  - {name: Padniewko}
+  - {name: Paterek}
+  - {name: Piastoszyn}
+  - {name: Pruszcz}
+  - {name: Pruszcz Pomorski}
+  - {name: Przyleki}
+  - {name: Runowo Krajenskie}
+  - {name: Rynarzewo}
+  - {name: Rytel}
+  - {name: Sadki}
+  - {name: Sepolno Krajenskie}
+  - {name: Sicienko}
+  - {name: Sliwice}
+  - {name: Solec Kujawski}
+  - {name: Sosno}
+  - {name: Swiecie}
+  - {name: Swiekatowo}
+  - {name: Szpital}
+  - {name: Szubin}
+  - {name: Tlen}
+  - {name: Trlag}
+  - {name: Trzeciewnica}
+  - {name: Tuchola}
+  - {name: Warlubie}
+  - {name: Wiag}
+  - {name: Wiecbork}
+  - {name: Wiele}
+  - {name: Wielki Konopat}
+  - {name: Wiewi}
+  - {name: Witoslaw}
+  - {name: Zalno}
+  - {name: Zlotniki Kujawskie}
+  - {name: Znin}
+  - {name: Zurawia}
+  code: '26'
+  name: Bydgoszcz
+- cities:
+  - {name: Adam}
+  - {name: Andrzej}
+  - {name: Bialka}
+  - {name: Bialopole}
+  - {name: Borowo}
+  - {name: Chelmiec}
+  - {name: Cyc}
+  - {name: Dorohusk}
+  - {name: Dubienka}
+  - {name: G}
+  - {name: Glebokie}
+  - {name: Golab}
+  - {name: Grusz}
+  - {name: Hansk}
+  - {name: Ilowa}
+  - {name: Jasienica}
+  - {name: Julian}
+  - {name: Kanie}
+  - {name: Kholm}
+  - {name: Kicin}
+  - {name: Komar}
+  - {name: Krasne}
+  - {name: Krasniczyn}
+  - {name: Krasnystaw}
+  - {name: Krynica}
+  - {name: Kryniczki}
+  - {name: Leczynska}
+  - {name: Lesna}
+  - {name: Lesniowice}
+  - {name: Lipinki}
+  - {name: Lipniki}
+  - {name: Lomnica}
+  - {name: Lopiennik Gorny}
+  - {name: Majdan Stary}
+  - {name: Malin}
+  - {name: Marianka}
+  - {name: Marysin}
+  - {name: Nowy Folwark}
+  - {name: Oksz}
+  - {name: Olszanka}
+  - {name: Osowa}
+  - {name: Ostr}
+  - {name: Podg}
+  - {name: Pokr}
+  - {name: Radzan}
+  - {name: Rejowiec}
+  - {name: Rejowiec Fabryczny}
+  - {name: Rozanka}
+  - {name: Rudka}
+  - {name: Sawin}
+  - {name: Siedliszcze}
+  - {name: Sielec}
+  - {name: Siennica Nadolna}
+  - {name: Siennica Rozana}
+  - {name: Sosnowica}
+  - {name: Stanislawow}
+  - {name: Staw}
+  - {name: Staw Lubelski}
+  - {name: Stawki}
+  - {name: Strzelce}
+  - {name: Tarnog}
+  - {name: Teosin}
+  - {name: Teresin}
+  - {name: Turka}
+  - {name: Uchanie}
+  - {name: Urszulin}
+  - {name: Wladyslawow}
+  - {name: Wlodawa}
+  - {name: Wojciech}
+  - {name: Wojslawice}
+  - {name: Wola Uhruska}
+  - {name: Zarudnia}
+  - {name: Zastawie}
+  - {name: Zawad}
+  code: '27'
+  name: Chelm
+- cities:
+  - {name: Adamowo}
+  - {name: Baboszewo}
+  - {name: Badzyn}
+  - {name: Bialowieza}
+  - {name: Biezun}
+  - {name: Bledowo}
+  - {name: Chroscin}
+  - {name: Ciechan}
+  - {name: Cieciorki}
+  - {name: Czernice Borowe}
+  - {name: Dlutowo}
+  - {name: Dreglin}
+  - {name: Dzialdowo}
+  - {name: Dzierzaznia}
+  - {name: Dzierzenin}
+  - {name: Dzierzgowo}
+  - {name: Gasocin}
+  - {name: Gielczyn}
+  - {name: Glinojeck}
+  - {name: Golymin}
+  - {name: Goszczk}
+  - {name: Grudusk}
+  - {name: Gumowo}
+  - {name: Gutkowo}
+  - {name: Ilowo}
+  - {name: Joniec}
+  - {name: Karniewo}
+  - {name: Kolaki}
+  - {name: Konopki}
+  - {name: Kozlowka}
+  - {name: Kraszewo}
+  - {name: Kraszewo Gaczulty}
+  - {name: Kuczbork}
+  - {name: Lezno}
+  - {name: Lidzbark}
+  - {name: Lidzbark Welski}
+  - {name: Lipowiec Koscielny}
+  - {name: Lisewo}
+  - {name: Lutocin}
+  - {name: Miszewo Maly}
+  - {name: Miszewo Wielkie}
+  - {name: Mlawa}
+  - {name: Mory}
+  - {name: Nadole}
+  - {name: Naruszewo}
+  - {name: Nasielsk}
+  - {name: Nick}
+  - {name: Niestepowo}
+  - {name: Ojrzen}
+  - {name: Opinog}
+  - {name: Petrykozy}
+  - {name: Pietrzyk}
+  - {name: Plonsk}
+  - {name: Plosnica}
+  - {name: Pszczolki}
+  - {name: Pultusk}
+  - {name: Raciaz}
+  - {name: Regimin}
+  - {name: Rynek}
+  - {name: Sadek}
+  - {name: Siemiatkowo}
+  - {name: Siennica}
+  - {name: Sniadowo}
+  - {name: Sochocin}
+  - {name: Sonsk}
+  - {name: Straszewo}
+  - {name: Strzalkowo}
+  - {name: Strzegowo}
+  - {name: Stupsk}
+  - {name: Szczawno}
+  - {name: Szrensk}
+  - {name: Tupadly}
+  - {name: Wieczfnia Koscielna}
+  - {name: Zdrojek}
+  - {name: Zuromin}
+  code: '28'
+  name: Ciechanow
+- cities:
+  - {name: Aleksandria Pierwsza}
+  - {name: Blachownia}
+  - {name: Boron}
+  - {name: Choron}
+  - {name: Ciasna}
+  - {name: Czestochowa}
+  - {name: Dabrowa Zielona}
+  - {name: Dobrodzien}
+  - {name: Florian}
+  - {name: Gidle}
+  - {name: Gorz}
+  - {name: Gorzow Slaski}
+  - {name: Huta Stara A}
+  - {name: Huta Stara B}
+  - {name: Jaskr}
+  - {name: Jastrzab}
+  - {name: Kalej}
+  - {name: Kalety}
+  - {name: Kamienica Polska}
+  - {name: Klepaczka}
+  - {name: Klobuck}
+  - {name: Klomnice}
+  - {name: Kochanowice}
+  - {name: Kochcice}
+  - {name: Kokotek}
+  - {name: Koniecpol}
+  - {name: Konopiska}
+  - {name: Kopalnia}
+  - {name: Koszecin}
+  - {name: Kozieglowki}
+  - {name: Kroczyce}
+  - {name: Krzepice}
+  - {name: Kuznica Kiedrzynska}
+  - {name: Lagiewniki Male}
+  - {name: Lel}
+  - {name: Lobodno}
+  - {name: Lubliniec}
+  - {name: Lubsza}
+  - {name: Mykan}
+  - {name: Myszk}
+  - {name: Nieznanice}
+  - {name: Ogorzelnik}
+  - {name: Olesno}
+  - {name: Pawlowice Gorzowskie}
+  - {name: Pawonk}
+  - {name: Pludry}
+  - {name: Poczesna}
+  - {name: Posmyk}
+  - {name: Postep}
+  - {name: Praszka}
+  - {name: Przedmosc}
+  - {name: Przymilowice}
+  - {name: Przyr}
+  - {name: Przysieki}
+  - {name: Przystajn}
+  - {name: Puszczew}
+  - {name: Rzerzeczyce}
+  - {name: Secemin}
+  - {name: Stary Koniecpol}
+  - {name: Stebl}
+  - {name: Strzebin}
+  - {name: Szczekociny}
+  - {name: Walencz}
+  - {name: Wielki B}
+  - {name: Wlasna}
+  - {name: Wreczyca Mala}
+  - {name: Wreczyca Wielka}
+  - {name: Wrzosowa}
+  - {name: Zarki}
+  - {name: Zelislawice}
+  - {name: Zloty Potok}
+  - {name: Zytno}
+  code: '29'
+  name: Czestochowa
+- cities:
+  - {name: Dziwisz}
+  - {name: Janowice Wielkie}
+  - {name: Jelenia G}
+  - {name: Jezow Sudecki}
+  - {name: Karpacz}
+  - {name: Karpniki}
+  - {name: Kowary}
+  - {name: Lubawka}
+  - {name: Milkow}
+  - {name: Mirsk}
+  - {name: Myslakowice}
+  - {name: Piechowice}
+  - {name: Pobiedna}
+  - {name: Podg}
+  - {name: Siedlecin}
+  - {name: Stara Kamienica}
+  - {name: Swieradow-zdroj}
+  - {name: Szklarska Poreba}
+  - {name: Wojciesz}
+  - {name: Wroclaw}
+  code: '72'
+  name: Dolnoslaskie
+- cities:
+  - {name: Braniewo}
+  - {name: Cetki}
+  - {name: Dlugobor}
+  - {name: Dzierzgon}
+  - {name: Elblag}
+  - {name: Frombork}
+  - {name: Gardeja}
+  - {name: Godkowo}
+  - {name: Gronowo Elblaskie}
+  - {name: Jantar}
+  - {name: Kacik}
+  - {name: Kisielice}
+  - {name: Kmiecin}
+  - {name: Komorowo Zulawskie}
+  - {name: Krynica Morska}
+  - {name: Ksiezno}
+  - {name: Kwidzyn}
+  - {name: Lasowice Wielkie}
+  - {name: Lelkowo}
+  - {name: Lichn}
+  - {name: Lipowina}
+  - {name: Malbork}
+  - {name: Malborskie}
+  - {name: Nowy Dwor Gdanski}
+  - {name: Open}
+  - {name: Orneta}
+  - {name: Ostaszewo}
+  - {name: Ostr}
+  - {name: Paslek}
+  - {name: Pieniezno}
+  - {name: Pregowo}
+  - {name: Przylesie}
+  - {name: Rozpedziny}
+  - {name: Rusy}
+  - {name: Rychliki}
+  - {name: Rychnowo}
+  - {name: Ryjewo}
+  - {name: Sadlinki}
+  - {name: Stare Pole}
+  - {name: Stary Targ}
+  - {name: Susz}
+  - {name: Swierki}
+  - {name: Sztum}
+  - {name: Sztutowo}
+  - {name: Tolkmicko}
+  - {name: Usnice}
+  - {name: Vorwerk}
+  - {name: Wielbark}
+  - {name: Zblewo}
+  code: '30'
+  name: Elblag
+- cities:
+  - {name: Banino}
+  - {name: Bialogora}
+  - {name: Bielk}
+  - {name: Bobowo}
+  - {name: Bojano}
+  - {name: Bolszewo}
+  - {name: Bozepole Wielkie}
+  - {name: Cedry Wielkie}
+  - {name: Celbowo}
+  - {name: Choczewo}
+  - {name: Chwaszczyno}
+  - {name: Garcz}
+  - {name: Gdynia}
+  - {name: Glincz}
+  - {name: Gniew}
+  - {name: Gniewino}
+  - {name: Gniezdzewo}
+  - {name: Godetowo}
+  - {name: Goreczyno}
+  - {name: Goscicino}
+  - {name: Goszyn}
+  - {name: Gowino}
+  - {name: Hel}
+  - {name: Hopowo}
+  - {name: Jablowo}
+  - {name: Jastarnia}
+  - {name: Jelenska Huta}
+  - {name: Jurata}
+  - {name: Juszkowo}
+  - {name: Kaliska}
+  - {name: Kamienica Kr}
+  - {name: Kamierowskie Piece}
+  - {name: Karlikowo}
+  - {name: Kartuzy}
+  - {name: Karwia}
+  - {name: Kawle Dolne}
+  - {name: Kawle G}
+  - {name: Kelpin}
+  - {name: Kielno}
+  - {name: Kokoszkowy}
+  - {name: Kolbudy}
+  - {name: Koleczkowo}
+  - {name: Kosakowo}
+  - {name: Koscierska Huta}
+  - {name: Koscierzyna}
+  - {name: Koszwaly}
+  - {name: Koteze}
+  - {name: Kr}
+  - {name: Krokowa}
+  - {name: Krokowo}
+  - {name: Lapino}
+  - {name: Lesno}
+  - {name: Linia}
+  - {name: Liniewo}
+  - {name: Lipusz}
+  - {name: Luban}
+  - {name: Lubichowo}
+  - {name: Lubieszyn}
+  - {name: Lubiszewo}
+  - {name: Lubkowo}
+  - {name: Lublewo}
+  - {name: Lublewo Gdanskie}
+  - {name: Luzino}
+  - {name: Malkowo}
+  - {name: Matarnia}
+  - {name: Miechucino}
+  - {name: Morzeszczyn}
+  - {name: Oksywie}
+  - {name: Opalenie}
+  - {name: Osice}
+  - {name: Otomin}
+  - {name: Pelplin}
+  - {name: Pinczyn}
+  - {name: Pog}
+  - {name: Pomieczyno}
+  - {name: Pruszcz Gdanski}
+  - {name: Przejazdowo}
+  - {name: Przodkowo}
+  - {name: Przyjazn}
+  - {name: Przytarnia}
+  - {name: Puck}
+  - {name: Puzdrowo}
+  - {name: Reda}
+  - {name: Reskowo}
+  - {name: Rozental}
+  - {name: Rozewie}
+  - {name: Rumia}
+  - {name: Sk}
+  - {name: Skrzeszewo Zukowskie}
+  - {name: Smetowo}
+  - {name: Sobowidz}
+  - {name: Somonino}
+  - {name: Sopieszyno}
+  - {name: Sopot}
+  - {name: Stara Kiszewa}
+  - {name: Starogard Gdanski}
+  - {name: Starzyno}
+  - {name: Stezyca Szlachecka}
+  - {name: Straszyn}
+  - {name: Strzebielino}
+  - {name: Subkowy}
+  - {name: Suchy Dab}
+  - {name: Suleczyno}
+  - {name: Swarozyn}
+  - {name: Szemud}
+  - {name: Szklana}
+  - {name: Sznurki}
+  - {name: Tczew}
+  - {name: Trabki Wielkie}
+  - {name: Waglikowice}
+  - {name: Warcz}
+  - {name: Wejherowo}
+  - {name: Werblinia}
+  - {name: Westerplatte}
+  - {name: Wielki Klincz}
+  - {name: Wladyslawowo}
+  - {name: Zbychowo}
+  - {name: Zelistrzewo}
+  code: '31'
+  name: Gdansk
+- cities:
+  - {name: Baczyna}
+  - {name: Bledzew}
+  - {name: Bogdaniec}
+  - {name: Bolemin}
+  - {name: Borek}
+  - {name: Brzezno}
+  - {name: Brzoza}
+  - {name: Brzozowa}
+  - {name: Bukowiec}
+  - {name: Ciche}
+  - {name: Debowiec}
+  - {name: Deszczno}
+  - {name: Dobiegniew}
+  - {name: Drawiny}
+  - {name: Drezdenko}
+  - {name: Glinik}
+  - {name: Gorz}
+  - {name: Gorzyn}
+  - {name: Goscim}
+  - {name: Jenin}
+  - {name: Klodawa}
+  - {name: Kostrzyn}
+  - {name: Krasowiec}
+  - {name: Krzeszyce}
+  - {name: Kunice}
+  - {name: Lichen}
+  - {name: Lipie G}
+  - {name: Lipki Wielkie}
+  - {name: Lis}
+  - {name: Lowyn}
+  - {name: Lubiewo}
+  - {name: Lubiszyn}
+  - {name: Lubniewice}
+  - {name: Lubuskie}
+  - {name: Maluszow}
+  - {name: Miedzychod}
+  - {name: Miedzyrzecz}
+  - {name: Nowe Miasto}
+  - {name: Nowiny Wielkie}
+  - {name: Osno Lubuskie}
+  - {name: Ostrowiec}
+  - {name: Przytoczna}
+  - {name: Pszczew}
+  - {name: Radgoszcz}
+  - {name: Rozanki}
+  - {name: Rzepin}
+  - {name: Santok}
+  - {name: Sarbiewo}
+  - {name: Schwerin}
+  - {name: Sepolno}
+  - {name: Skwierzyna}
+  - {name: Slonsk}
+  - {name: Smogory}
+  - {name: Stare Kurowo}
+  - {name: Stary Folwark}
+  - {name: Strzelce Krajenskie}
+  - {name: Sulecin}
+  - {name: Swiecko}
+  - {name: Swierkocin}
+  - {name: Trzciel}
+  - {name: Trzemeszno}
+  - {name: Tuczepy}
+  - {name: Ulim}
+  - {name: Wawr}
+  - {name: Wojcieszyce}
+  code: '32'
+  name: Gorzow
+- cities:
+  - {name: Biedrzychowice}
+  - {name: Bogatynia}
+  - {name: Boleslawiec}
+  - {name: Buk}
+  - {name: Chalupy}
+  - {name: Chelmsko Slaskie}
+  - {name: Dluzyna Dolna}
+  - {name: Droginia}
+  - {name: Dzialoszyn}
+  - {name: Graniczna}
+  - {name: Gron}
+  - {name: Gryfow Slaski}
+  - {name: Jurk}
+  - {name: Kamienna G}
+  - {name: Kliczk}
+  - {name: Koscielnik}
+  - {name: Koscielniki Gorne}
+  - {name: Koscielniki Srednie}
+  - {name: Kozmin}
+  - {name: Lipie}
+  - {name: Luban}
+  - {name: Lubomierz}
+  - {name: Lwowek Slaski}
+  - {name: Mniszk}
+  - {name: Nowa}
+  - {name: Nowogrodziec}
+  - {name: Nowy Kosciol}
+  - {name: Olszyna}
+  - {name: Osiecznica}
+  - {name: Piensk}
+  - {name: Plater}
+  - {name: Posada}
+  - {name: Poswietne}
+  - {name: Radogoszcz}
+  - {name: Rusz}
+  - {name: Siekierczyn}
+  - {name: Skala}
+  - {name: Strzelno}
+  - {name: Swierzawa}
+  - {name: Swietoszow}
+  - {name: Trzebien}
+  - {name: Ubocze}
+  - {name: Wegliniec}
+  - {name: Wierzchoslawice}
+  - {name: Wlen}
+  - {name: Wykroty}
+  - {name: Wyzne}
+  - {name: Zawid}
+  - {name: Zebrzydowa}
+  - {name: Zgorzelec}
+  code: '33'
+  name: Jelenia Gora
+- cities:
+  - {name: Antonin}
+  - {name: Biadki}
+  - {name: Bilczew}
+  - {name: Biskupice Oloboczne}
+  - {name: Blizan}
+  - {name: Bor}
+  - {name: Bralin}
+  - {name: Brudzew}
+  - {name: Cek}
+  - {name: Chmielnik}
+  - {name: Chocz}
+  - {name: Chudoba}
+  - {name: Ciepiel}
+  - {name: Czastary}
+  - {name: Czermin}
+  - {name: Czerminek}
+  - {name: Dluga Wies Druga}
+  - {name: Doruch}
+  - {name: Dziadowa Kloda}
+  - {name: Elzbietow}
+  - {name: Galewice}
+  - {name: Gizalki}
+  - {name: Gniazd}
+  - {name: Godziesze Male}
+  - {name: Godziesze Wielkie}
+  - {name: Golina}
+  - {name: Goluchow}
+  - {name: Grab}
+  - {name: Grabow Nad Prosna}
+  - {name: Jarocin}
+  - {name: Jedlec}
+  - {name: Kalisz}
+  - {name: Kazimier}
+  - {name: Kazmir}
+  - {name: Kepno}
+  - {name: Klonowo}
+  - {name: Kobierno}
+  - {name: Kobyla G}
+  - {name: Kokanin}
+  - {name: Kolonia Borek}
+  - {name: Korytnica}
+  - {name: Korzeniew}
+  - {name: Koscielna Wies}
+  - {name: Kotlin}
+  - {name: Kotlow}
+  - {name: Kowalew}
+  - {name: Kozminek}
+  - {name: Kraszewice}
+  - {name: Krotoszyn}
+  - {name: Krzemionka}
+  - {name: Kuznia}
+  - {name: Kuznica Myslniewska}
+  - {name: Kuzniki}
+  - {name: Lakociny}
+  - {name: Leka Mroczenska}
+  - {name: Lenartowice}
+  - {name: Lewk}
+  - {name: Lewkowiec}
+  - {name: Lipsko}
+  - {name: Lisk}
+  - {name: Mazury}
+  - {name: Mieszk}
+  - {name: Mikstat}
+  - {name: Mirk}
+  - {name: Moszczanka}
+  - {name: Mroczen}
+  - {name: Naceslawice}
+  - {name: Niedzwiady}
+  - {name: Nowe Skalmierzyce}
+  - {name: Obra Nowa}
+  - {name: Ociaz}
+  - {name: Odolan}
+  - {name: Opat}
+  - {name: Ostr}
+  - {name: Ostrzesz}
+  - {name: Parcice}
+  - {name: Parzeczew}
+  - {name: Parzew}
+  - {name: Perz}
+  - {name: Perzyce}
+  - {name: Piekarzew}
+  - {name: Pleszew}
+  - {name: Polskie}
+  - {name: Przygodzice}
+  - {name: Radlow}
+  - {name: Raszk}
+  - {name: Roj}
+  - {name: Rozdrazew}
+  - {name: Russ}
+  - {name: Rybka}
+  - {name: Skarszew}
+  - {name: Sosnie}
+  - {name: Stawiszyn}
+  - {name: Stradomia Wierzchnia}
+  - {name: Sulmierzyce}
+  - {name: Swiba}
+  - {name: Syc}
+  - {name: Szadek}
+  - {name: Szale}
+  - {name: Tarce}
+  - {name: Tomnice}
+  - {name: Tyble}
+  - {name: Unislaw}
+  - {name: Weglowice}
+  - {name: Wierusz}
+  - {name: Witaszyce}
+  - {name: Wlodzimierzow}
+  - {name: Wt}
+  - {name: Wysocko Male}
+  - {name: Wyszki}
+  - {name: Zbiersk}
+  - {name: Zelazkow}
+  - {name: Zerkow}
+  code: '34'
+  name: Kalisz
+- cities:
+  - {name: Babice}
+  - {name: Balin}
+  - {name: Barglowka}
+  - {name: Bedzin}
+  - {name: Belk}
+  - {name: Bestwina}
+  - {name: Bestwinka}
+  - {name: Bierun}
+  - {name: Biskupice}
+  - {name: Blazejowice}
+  - {name: Bobrowniki}
+  - {name: Bogucin Maly}
+  - {name: Bojan}
+  - {name: Bojsz}
+  - {name: Bojszowy}
+  - {name: Bolecin}
+  - {name: Boleslaw}
+  - {name: Borki}
+  - {name: Borowa Wies}
+  - {name: Borowiec}
+  - {name: Borucin}
+  - {name: Bory}
+  - {name: Brudzowice}
+  - {name: Brynek}
+  - {name: Brzeszcze}
+  - {name: Brzezce}
+  - {name: Brzezie}
+  - {name: Brzezinka}
+  - {name: Brzeznica}
+  - {name: Brzoz}
+  - {name: Budziska}
+  - {name: Bujak}
+  - {name: Bukowina}
+  - {name: Bukowno}
+  - {name: Byczyna}
+  - {name: Bydlin}
+  - {name: Bykowina}
+  - {name: Bytom}
+  - {name: Chalupki}
+  - {name: Chechlo}
+  - {name: Chelm}
+  - {name: Chorz}
+  - {name: Chrzan}
+  - {name: Chrzastowice}
+  - {name: Chwalecice}
+  - {name: Chwalowice}
+  - {name: Ciezkowice}
+  - {name: Cwiklice}
+  - {name: Czark}
+  - {name: Czarna Huta}
+  - {name: Czarny Las}
+  - {name: Czechowice}
+  - {name: Czechowice-dziedzice}
+  - {name: Czekan}
+  - {name: Czeladz}
+  - {name: Czerwionka}
+  - {name: Czulow}
+  - {name: Czyzowice}
+  - {name: Dabrowa Gornicza}
+  - {name: Dabrowka}
+  - {name: Dobieszowice}
+  - {name: Dobra}
+  - {name: Frelich}
+  - {name: Frydek}
+  - {name: Fugas}
+  - {name: G}
+  - {name: Gaszowice}
+  - {name: Gieraltowice}
+  - {name: Gilowice}
+  - {name: Gliwice}
+  - {name: Goczalkowice}
+  - {name: Goczalkowice Zdroj}
+  - {name: God}
+  - {name: Gogolowa}
+  - {name: Golaczewy}
+  - {name: Golasowice}
+  - {name: Golasza Dolna}
+  - {name: Golkowice}
+  - {name: Goluchowice}
+  - {name: Golysz}
+  - {name: Gorka}
+  - {name: Gorzyce}
+  - {name: Gorzyczki}
+  - {name: Grab}
+  - {name: Grabowa}
+  - {name: Granica}
+  - {name: Grodziec}
+  - {name: Grzawa}
+  - {name: Huta}
+  - {name: Imielin}
+  - {name: Jan}
+  - {name: Jankowice}
+  - {name: Jankowice Rybnickie}
+  - {name: Jaroszowice}
+  - {name: Jaroszowiec}
+  - {name: Jaskowice}
+  - {name: Jastrzebie}
+  - {name: Jastrzebie Zdroj}
+  - {name: Jawiszowice}
+  - {name: Jaworzno}
+  - {name: Jedlina}
+  - {name: Jejkowice}
+  - {name: Kaczyce}
+  - {name: Kaczyce G}
+  - {name: Kamien}
+  - {name: Kamieniec}
+  - {name: Kamionka}
+  - {name: Karb}
+  - {name: Karchowice}
+  - {name: Karniowice}
+  - {name: Katy}
+  - {name: Kazimierz}
+  - {name: Kleszcz}
+  - {name: Klimont}
+  - {name: Klodnica}
+  - {name: Klucze}
+  - {name: Knur}
+  - {name: Kobi}
+  - {name: Kobielice}
+  - {name: Kolonia}
+  - {name: Konczyce Male}
+  - {name: Kornowac}
+  - {name: Koscielec}
+  - {name: Kozle}
+  - {name: Kozlow}
+  - {name: Kr}
+  - {name: Krostoszowice}
+  - {name: Krupski Mlyn}
+  - {name: Kryry}
+  - {name: Krzanowice}
+  - {name: Krzyzanowice}
+  - {name: Kuznia Raciborska}
+  - {name: Kuznica Raciborska}
+  - {name: Kwasniow Dolny}
+  - {name: Lacza}
+  - {name: Lagiewniki}
+  - {name: Laka}
+  - {name: Lance}
+  - {name: Lany}
+  - {name: Laski}
+  - {name: Laziska}
+  - {name: Laziska Gorne}
+  - {name: Lazy}
+  - {name: Ledziny}
+  - {name: Leka}
+  - {name: Libiaz}
+  - {name: Lipiny}
+  - {name: Lipowiec}
+  - {name: Lobzow}
+  - {name: Lubomia}
+  - {name: Lukow}
+  - {name: Luszowice}
+  - {name: Lyski}
+  - {name: Malinowice}
+  - {name: Marcisz}
+  - {name: Maria}
+  - {name: Marklowice}
+  - {name: Marklowice Gorne}
+  - {name: Mazancowice}
+  - {name: Miasteczko}
+  - {name: Miasteczko Slaskie}
+  - {name: Miedzna}
+  - {name: Mierzecice}
+  - {name: Mikolow}
+  - {name: Mloszowa}
+  - {name: Mlyny}
+  - {name: Mokre}
+  - {name: Mosciska}
+  - {name: Moscisko}
+  - {name: Moszczenica}
+  - {name: Mszana}
+  - {name: Myslachowice}
+  - {name: Myslowice}
+  - {name: Naklo}
+  - {name: Nedza}
+  - {name: Nieborowice}
+  - {name: Niedobczyce}
+  - {name: Niegowonice}
+  - {name: Niemce}
+  - {name: Niewiesze}
+  - {name: Niwiska}
+  - {name: Nowe Chechlo}
+  - {name: Ogrodzieniec}
+  - {name: Olewin}
+  - {name: Olkusz}
+  - {name: Olszyny}
+  - {name: Ornontowice}
+  - {name: Orzech}
+  - {name: Orzesze}
+  - {name: Osiek}
+  - {name: Osiny}
+  - {name: Ozarowice}
+  - {name: Paczyna}
+  - {name: Pani}
+  - {name: Pawlow}
+  - {name: Pawlowice}
+  - {name: Piasek}
+  - {name: Piaski}
+  - {name: Piece}
+  - {name: Piekary Slaskie}
+  - {name: Pielgrzymowice}
+  - {name: Pietrowice Wielkie}
+  - {name: Pila Koscielecka}
+  - {name: Pilchowice}
+  - {name: Pilica}
+  - {name: Piotrowice}
+  - {name: Pisarzowice}
+  - {name: Plaza}
+  - {name: Plebiscytowa}
+  - {name: Pni}
+  - {name: Podlas}
+  - {name: Podlesie}
+  - {name: Podzamcze}
+  - {name: Pogrzebien}
+  - {name: Pogwizd}
+  - {name: Polomia}
+  - {name: Poniszowice}
+  - {name: Porabka}
+  - {name: Poreba}
+  - {name: Pruchna}
+  - {name: Przecieszyn}
+  - {name: Przyszowice}
+  - {name: Psary}
+  - {name: Psz}
+  - {name: Pszczyna}
+  - {name: Pyrzowice}
+  - {name: Pyskowice}
+  - {name: Rachowice}
+  - {name: Racib}
+  - {name: Radlin}
+  - {name: Radostowice}
+  - {name: Radziej}
+  - {name: Radzionk}
+  - {name: Rog}
+  - {name: Rogoznik}
+  - {name: Rokitno Szlacheckie}
+  - {name: Ruda}
+  - {name: Ruda Slaska}
+  - {name: Rudnik}
+  - {name: Rudno}
+  - {name: Rudoltowice}
+  - {name: Rudy}
+  - {name: Rudziczka}
+  - {name: Rudziniec}
+  - {name: Rybna}
+  - {name: Rybnik}
+  - {name: Rycz}
+  - {name: Rydultowy}
+  - {name: Rzuch}
+  - {name: Saczow}
+  - {name: Siemianowice}
+  - {name: Siemianowice Slaskie}
+  - {name: Sierak}
+  - {name: Siewierz}
+  - {name: Skidzin}
+  - {name: Skrzysz}
+  - {name: Slawkow}
+  - {name: Smolnica}
+  - {name: Sosnicowice}
+  - {name: Sosnowiec}
+  - {name: Stanice}
+  - {name: Stara Wies}
+  - {name: Strzyzowice}
+  - {name: Studzienice}
+  - {name: Studzionka}
+  - {name: Sulik}
+  - {name: Suszec}
+  - {name: Swibie}
+  - {name: Swierklaniec}
+  - {name: Swierklany}
+  - {name: Swierklany Gorne}
+  - {name: Swietochlowice}
+  - {name: Szczejkowice}
+  - {name: Szeroka}
+  - {name: Szonowice}
+  - {name: Tacisz}
+  - {name: Tapkowice}
+  - {name: Tarnowice}
+  - {name: Tarnowskie G}
+  - {name: Toszek}
+  - {name: Trawniki}
+  - {name: Trzebinia}
+  - {name: Turza}
+  - {name: Turza Slaska}
+  - {name: Turze}
+  - {name: Twor}
+  - {name: Tworog Maly}
+  - {name: Tychy}
+  - {name: Uchylsko}
+  - {name: Warszowice}
+  - {name: Wesola}
+  - {name: Wielopole}
+  - {name: Wielowies}
+  - {name: Wierbka}
+  - {name: Wierzbica}
+  - {name: Wierzchowiska}
+  - {name: Wieszowa}
+  - {name: Wilcza}
+  - {name: Wisla Wielka}
+  - {name: Wodzislaw}
+  - {name: Wodzislaw Slaski}
+  - {name: Wojkowice}
+  - {name: Wola}
+  - {name: Wolbrom}
+  - {name: Wygielzow}
+  - {name: Wymyslow}
+  - {name: Wyry}
+  - {name: Wysoka}
+  - {name: Zabkowice}
+  - {name: Zaborze}
+  - {name: Zabrodzie}
+  - {name: Zabrze}
+  - {name: Zabrzeg}
+  - {name: Zag}
+  - {name: Zaleze}
+  - {name: Zarki}
+  - {name: Zarnowiec}
+  - {name: Zarzecze}
+  - {name: Zawada}
+  - {name: Zawiercie}
+  - {name: Zbroslawice}
+  - {name: Zebrzydowice}
+  - {name: Zendek}
+  - {name: Zernica}
+  - {name: Zielona}
+  - {name: Ziemiecice}
+  - {name: Zory}
+  - {name: Zwierzyniec}
+  - {name: Zwonowice}
+  code: '35'
+  name: Katowice
+- cities:
+  - {name: Adama}
+  - {name: Baltow}
+  - {name: Bejsce}
+  - {name: Blizyn}
+  - {name: Bodzech}
+  - {name: Bodzentyn}
+  - {name: Bronina}
+  - {name: Busko}
+  - {name: Busko-zdr}
+  - {name: Charsznica}
+  - {name: Chmielowice}
+  - {name: Chroberz}
+  - {name: Ciecierze}
+  - {name: Czepiec}
+  - {name: Daleszyce}
+  - {name: Domaszowice}
+  - {name: Dzialoszyce}
+  - {name: Falni}
+  - {name: Gaik}
+  - {name: Gostk}
+  - {name: Henryk}
+  - {name: Herby}
+  - {name: Izabel}
+  - {name: Janik}
+  - {name: Jedrzejow}
+  - {name: Kalkow}
+  - {name: Kazimierza Wielka}
+  - {name: Komaszyce}
+  - {name: Konskie}
+  - {name: Kopernia}
+  - {name: Kornica}
+  - {name: Kostomloty Pierwsze}
+  - {name: Krask}
+  - {name: Krasocin}
+  - {name: Krepice}
+  - {name: Kruk}
+  - {name: Ksiaz Wielki}
+  - {name: Labedziow}
+  - {name: Lopuszno}
+  - {name: Majorat}
+  - {name: Malogoszcz}
+  - {name: Marcinowice}
+  - {name: Maslow}
+  - {name: Miasowa}
+  - {name: Miech}
+  - {name: Miedziana G}
+  - {name: Mlynek Nieswinski}
+  - {name: Mni}
+  - {name: Mokrsko}
+  - {name: Mroczk}
+  - {name: Napek}
+  - {name: Nida}
+  - {name: Niziny}
+  - {name: Nowa Slupia}
+  - {name: Nowy Korczyn}
+  - {name: Nowy Staw}
+  - {name: Odon}
+  - {name: Ostrowiec Swietokrzyski}
+  - {name: Pacan}
+  - {name: Palecznica}
+  - {name: Parkoszowice}
+  - {name: Petkowice}
+  - {name: Piekosz}
+  - {name: Pierzchnica}
+  - {name: Pinczow}
+  - {name: Radoszyce}
+  - {name: Radwan}
+  - {name: Sedziszow}
+  - {name: Serwis}
+  - {name: Sieslawice}
+  - {name: Sitk}
+  - {name: Sitk}
+  - {name: Skalbmierz}
+  - {name: Skarbka}
+  - {name: Skarzysko}
+  - {name: Skarzysko Koscielne}
+  - {name: Skarzysko-kamienna}
+  - {name: Slowik}
+  - {name: Solec-zdr}
+  - {name: Staporkow}
+  - {name: Starachowice}
+  - {name: Strawczyn}
+  - {name: Suchedni}
+  - {name: Szewna}
+  - {name: Szydlow}
+  - {name: Truskolasy}
+  - {name: Trzebina}
+  - {name: Uniej}
+  - {name: Wachock}
+  - {name: Wasniow}
+  - {name: Wegrzynow}
+  - {name: Widnica}
+  - {name: Wloszczowa}
+  - {name: Wola Kopcowa}
+  - {name: Wola Zagojska}
+  - {name: Zagnansk}
+  - {name: Zajaczkow}
+  - {name: Zakosciele}
+  - {name: Zbludowice}
+  code: '36'
+  name: Kielce
+- cities:
+  - {name: Babiak}
+  - {name: Barczyglow}
+  - {name: Boleslawowo}
+  - {name: Budzislaw Koscielny}
+  - {name: Buszkowo}
+  - {name: Ciazen}
+  - {name: Dzierzazno}
+  - {name: Glogowo}
+  - {name: Grzymiszew}
+  - {name: Julia}
+  - {name: Kalisz}
+  - {name: Katarzyna}
+  - {name: Kazimierz Biskupi}
+  - {name: Kleczew}
+  - {name: Klonowa}
+  - {name: Kolaczkowo}
+  - {name: Konin}
+  - {name: Kos}
+  - {name: Kramsk}
+  - {name: Kryszkowice}
+  - {name: Ladek}
+  - {name: Linowiec}
+  - {name: Lubomysle}
+  - {name: Malan}
+  - {name: Marcinkowo}
+  - {name: Milejewo}
+  - {name: Modla Krolewska}
+  - {name: Obrzebin}
+  - {name: Ogorzelczyn}
+  - {name: Orchowo}
+  - {name: Osiek Maly}
+  - {name: Patnow}
+  - {name: Ponetow Gorny}
+  - {name: Potwor}
+  - {name: Powiercie}
+  - {name: Przedecz}
+  - {name: Przykona}
+  - {name: Pyzdry}
+  - {name: Rychwal}
+  - {name: Rzg}
+  - {name: Skulsk}
+  - {name: Slawecinek}
+  - {name: Slesin}
+  - {name: Smardzew}
+  - {name: Sompolno}
+  - {name: Swiecia}
+  - {name: Swinice Warckie}
+  - {name: Szadow Panski}
+  - {name: Tuliszk}
+  - {name: Turek}
+  - {name: Unia}
+  - {name: Wilczyn}
+  - {name: Wola Podlezna}
+  - {name: Zaryn}
+  - {name: Ziemiecin}
+  code: '37'
+  name: Konin
+- cities:
+  - {name: Precz}
+  code: '38'
+  name: Koszalin
+- cities:
+  - {name: Alwernia}
+  - {name: Balice}
+  - {name: Baran}
+  - {name: Batowice}
+  - {name: Bialy Kosciol}
+  - {name: Bienczyce}
+  - {name: Biezanow}
+  - {name: Bilczyce}
+  - {name: Bolechowice}
+  - {name: Borek Falecki}
+  - {name: Borzeta}
+  - {name: Bosut}
+  - {name: Branice}
+  - {name: Brzaczowice}
+  - {name: Brzegi}
+  - {name: Brzoskwinia}
+  - {name: Bysina}
+  - {name: Cholerzyn}
+  - {name: Czerwin}
+  - {name: Czubrowice}
+  - {name: Czyzyny}
+  - {name: Dabrowa Szlachecka}
+  - {name: Dluga}
+  - {name: Dobczyce}
+  - {name: Drwinia}
+  - {name: Filipowice}
+  - {name: Gd}
+  - {name: Glogoczow}
+  - {name: Golcza}
+  - {name: Grebocin}
+  - {name: Grodkowice}
+  - {name: Grzeg}
+  - {name: Igolomia}
+  - {name: Iwanowice}
+  - {name: Jangrot}
+  - {name: Jawczyce}
+  - {name: Jerzmanowice}
+  - {name: Klaj}
+  - {name: Kleczany}
+  - {name: Kobierzyn}
+  - {name: Kocmyrz}
+  - {name: Kokot}
+  - {name: Koniusza}
+  - {name: Kostrze}
+  - {name: Kowala}
+  - {name: Kozmice}
+  - {name: Krowodrza}
+  - {name: Kryspin}
+  - {name: Krzczon}
+  - {name: Krzeszowice}
+  - {name: Krzywaczka}
+  - {name: Lepianka}
+  - {name: Libert}
+  - {name: Liszki}
+  - {name: Luborzyca}
+  - {name: Maciejowice}
+  - {name: Maslomiaca}
+  - {name: Miekina}
+  - {name: Mikluszowice}
+  - {name: Minoga}
+  - {name: Modlnica}
+  - {name: Modlniczka}
+  - {name: Mogila}
+  - {name: Mogilany}
+  - {name: Morawica}
+  - {name: Myslenice}
+  - {name: Niedzwiedz}
+  - {name: Niegard}
+  - {name: Niegowic}
+  - {name: Nielepice}
+  - {name: Niepolomice}
+  - {name: Nieporaz}
+  - {name: Nowa G}
+  - {name: Ochman}
+  - {name: Ochojno G}
+  - {name: Ojc}
+  - {name: Olszanica}
+  - {name: Paczoltowice}
+  - {name: Paszk}
+  - {name: Pawlikowice}
+  - {name: Pcim}
+  - {name: Pobiednik Wielki}
+  - {name: Podlesice}
+  - {name: Polanka}
+  - {name: Posadza}
+  - {name: Pradnik Czerwony}
+  - {name: Proszowice}
+  - {name: Przebieczany}
+  - {name: Przeginia}
+  - {name: Raciborsko}
+  - {name: Raciechowice}
+  - {name: Radziemice}
+  - {name: Radzisz}
+  - {name: Regulice}
+  - {name: Rozkoch}
+  - {name: Rudawa}
+  - {name: Rzaska}
+  - {name: Sapow}
+  - {name: Sawa}
+  - {name: Sidzina}
+  - {name: Siepraw}
+  - {name: Skawina}
+  - {name: Skomielna Czarna}
+  - {name: Slawice}
+  - {name: Sledziejowice}
+  - {name: Slomniki}
+  - {name: Smardzowice}
+  - {name: Sobieski}
+  - {name: Sosn}
+  - {name: Stadniki}
+  - {name: Staniatki}
+  - {name: Suloszowa}
+  - {name: Swiatniki Gorne}
+  - {name: Swoszowice}
+  - {name: Tenczynek}
+  - {name: Tomaszowice}
+  - {name: Trojanowice}
+  - {name: Trzebunia}
+  - {name: Trzemesnia}
+  - {name: Trzemiesnia}
+  - {name: Trzyciaz}
+  - {name: Wawel}
+  - {name: Wegrzce}
+  - {name: Wegrzce Wielkie}
+  - {name: Wieclawice Stare}
+  - {name: Wieliczka}
+  - {name: Wielkie}
+  - {name: Wielkie Drogi}
+  - {name: Wladyslaw}
+  - {name: Wlosan}
+  - {name: Wola Batorska}
+  - {name: Wola Filipowska}
+  - {name: Wola Justowska}
+  - {name: Wola Radziszowska}
+  - {name: Wolowice}
+  - {name: Wrzasowice}
+  - {name: Zabierz}
+  - {name: Zabierz}
+  - {name: Zag}
+  - {name: Zakliczyn}
+  - {name: Zegartowice}
+  - {name: Zelk}
+  code: '39'
+  name: Krakow
+- cities:
+  - {name: Bachlawa}
+  - {name: Baligr}
+  - {name: Besko}
+  - {name: Biezdziedza}
+  - {name: Brzegi Dolne}
+  - {name: Brzyska}
+  - {name: Bukowsko}
+  - {name: Cergowa}
+  - {name: Chocen}
+  - {name: Chork}
+  - {name: Cisna}
+  - {name: Czeremcha}
+  - {name: Dolna}
+  - {name: Dukla}
+  - {name: Dydnia}
+  - {name: Gadki}
+  - {name: Glowienka}
+  - {name: Hacz}
+  - {name: Hoczew}
+  - {name: Humniska}
+  - {name: Huzele}
+  - {name: Iwonicz}
+  - {name: Iwonicz-zdr}
+  - {name: Jablonka}
+  - {name: Jasienica Rosielna}
+  - {name: Jasliska}
+  - {name: Jaslo}
+  - {name: Jedlicze}
+  - {name: Jurowce}
+  - {name: Kolaczyce}
+  - {name: Komancza}
+  - {name: Korczyna}
+  - {name: Krempna}
+  - {name: Krepna}
+  - {name: Kroscienko Wyzne}
+  - {name: Krosno}
+  - {name: Lesko}
+  - {name: Lezany}
+  - {name: Libusza}
+  - {name: Lubat}
+  - {name: Lubatowa}
+  - {name: Lutowiska}
+  - {name: Makowiska}
+  - {name: Mecinka}
+  - {name: Miejsce Piastowe}
+  - {name: Milcza}
+  - {name: Myczkowce}
+  - {name: Nozdrzec}
+  - {name: Odrzechowa}
+  - {name: Odrzykon}
+  - {name: Orzech}
+  - {name: Osiek Jasielski}
+  - {name: Polanczyk}
+  - {name: Posada G}
+  - {name: Pulawy}
+  - {name: Rogi}
+  - {name: Ryman}
+  - {name: Ryman}
+  - {name: Rzepedz}
+  - {name: Sadkowa}
+  - {name: Sanok}
+  - {name: Skolyszyn}
+  - {name: Swiecany}
+  - {name: Swierzowa Polska}
+  - {name: Szczepancowa}
+  - {name: Tyrawa Woloska}
+  - {name: Uherce Mineralne}
+  - {name: Ustrzyki Dolne}
+  - {name: Ustrzyki G}
+  - {name: W}
+  - {name: Warzyce}
+  - {name: Wojasz}
+  - {name: Wrocanka}
+  - {name: Wzd}
+  - {name: Zag}
+  - {name: Zahutyn}
+  - {name: Zarszyn}
+  - {name: Zrecin}
+  code: '40'
+  name: Krosno
+- cities:
+  - {name: Bydgoszcz}
+  code: '73'
+  name: Kujawsko-Pomorskie
+- cities:
+  - {name: Chocian}
+  - {name: Chojn}
+  - {name: Chr}
+  - {name: Gaworzyce}
+  - {name: Grebocice}
+  - {name: Gromadka}
+  - {name: Jaroslaw}
+  - {name: Jaskowice Legnickie}
+  - {name: Jawor}
+  - {name: Kotla}
+  - {name: Krotoszyce}
+  - {name: Legnica}
+  - {name: Legnickie Pole}
+  - {name: Lubin}
+  - {name: Msciwojow}
+  - {name: Nowa Wies Grodziska}
+  - {name: Paszowice}
+  - {name: Polkowice}
+  - {name: Prochowice}
+  - {name: Przedmoscie}
+  - {name: Przemk}
+  - {name: Rasz}
+  - {name: Rokitki}
+  - {name: Serby}
+  - {name: Sieroszewice}
+  - {name: Udanin}
+  - {name: Wadroze Wielkie}
+  - {name: Warta Boleslawiecka}
+  - {name: Zagrodno}
+  code: '41'
+  name: Legnica
+- cities:
+  - {name: Blotnica}
+  - {name: Bojanowo}
+  - {name: Borek Wielkopolski}
+  - {name: Brenno}
+  - {name: Bucz}
+  - {name: Bukowiec G}
+  - {name: Celestyn}
+  - {name: Chojno}
+  - {name: Chroscina}
+  - {name: Chwalkowo}
+  - {name: Czernina}
+  - {name: Dabcze}
+  - {name: Dlugie Stare}
+  - {name: Drobnin}
+  - {name: G}
+  - {name: G}
+  - {name: Golaszyn}
+  - {name: Golejewko}
+  - {name: Golina Wielka}
+  - {name: Golinka}
+  - {name: Gostyn}
+  - {name: Grabkowo}
+  - {name: Gronowo}
+  - {name: Grotniki}
+  - {name: Hersztupowo}
+  - {name: Jablonna}
+  - {name: Jerka}
+  - {name: Jutrosin}
+  - {name: Kaczkowo}
+  - {name: Kakolewo}
+  - {name: Kielczewo}
+  - {name: Kleszczewo}
+  - {name: Kloda}
+  - {name: Kluczewo}
+  - {name: Kobylin}
+  - {name: Kokorzyn}
+  - {name: Kolaczkowice}
+  - {name: Koscian}
+  - {name: Krobia}
+  - {name: Krzemieniewo}
+  - {name: Krzycko Male}
+  - {name: Krzywin}
+  - {name: Lasocice}
+  - {name: Leszno}
+  - {name: Ligota}
+  - {name: Maslowo}
+  - {name: Michalowo}
+  - {name: Miejska G}
+  - {name: Niechl}
+  - {name: Ochla}
+  - {name: Osieczna}
+  - {name: Pakoslaw}
+  - {name: Pepowo}
+  - {name: Perkowo}
+  - {name: Pogorzela}
+  - {name: Poniec}
+  - {name: Przedmiescie}
+  - {name: Przemet}
+  - {name: Przyczyna G}
+  - {name: Pudliszki}
+  - {name: Racot}
+  - {name: Radomysl}
+  - {name: Radoslaw}
+  - {name: Radoszyce}
+  - {name: Rawicz}
+  - {name: Roszk}
+  - {name: Rydzyna}
+  - {name: Saczkowo}
+  - {name: Sarbinowo}
+  - {name: Sierakowo}
+  - {name: Slupia Kapitulna}
+  - {name: Smigiel}
+  - {name: Smilowo}
+  - {name: Stary Kobylin}
+  - {name: Stezyca}
+  - {name: Strzelce Wielkie}
+  - {name: Strzyzewice}
+  - {name: Swieciechowa}
+  - {name: Szelejewo}
+  - {name: Szlichtyngowa}
+  - {name: Szymanowo}
+  - {name: Targowisko}
+  - {name: Wielen}
+  - {name: Wijewo}
+  - {name: Wloszakowice}
+  - {name: Wschowa}
+  - {name: Zamyslow}
+  - {name: Zelazno}
+  - {name: Ziemnice}
+  code: '42'
+  name: Leszno
+- cities:
+  - {name: Aleksandrow Lodzki}
+  - {name: Andrespol}
+  - {name: Bechcice}
+  - {name: Bedon}
+  - {name: Bratoszewice}
+  - {name: Dobieszk}
+  - {name: Dobra Nowiny}
+  - {name: Gadka Stara}
+  - {name: Konstantynow Lodzki}
+  - {name: Ksawer}
+  - {name: Kwiryn}
+  - {name: Lagiewniki Nowe}
+  - {name: Lesmierz}
+  - {name: Leznica Wielka}
+  - {name: Lucmierz}
+  - {name: Modlna}
+  - {name: Nowosolna}
+  - {name: Nowy J}
+  - {name: Ozork}
+  - {name: Pabianice}
+  - {name: Rabien}
+  - {name: Retkinia}
+  - {name: Sokolniki-las}
+  - {name: Stara Gadka}
+  - {name: Stryk}
+  - {name: Wiaczyn Dolny}
+  - {name: Widzew}
+  - {name: Wola Rakowa}
+  - {name: Wola Zaradzynska}
+  - {name: Zelgoszcz}
+  - {name: Zgierz}
+  - {name: Ziewanice}
+  - {name: Zubardz}
+  code: '43'
+  name: Lodz
+- cities:
+  - {name: Lodz}
+  code: '74'
+  name: Lodzkie
+- cities:
+  - {name: Bialaszewo}
+  - {name: Ciechanowiec}
+  - {name: Czerwone}
+  - {name: Czyzew-osada}
+  - {name: Goniadz}
+  - {name: Grady-woniecko}
+  - {name: Grajewo}
+  - {name: Jablonka Koscielna}
+  - {name: Jedwabne}
+  - {name: Kapice}
+  - {name: Kobylin-borzymy}
+  - {name: Kolno}
+  - {name: Kossaki}
+  - {name: Kramkowo}
+  - {name: Krusza}
+  - {name: Kupiski Stare}
+  - {name: Lachowo}
+  - {name: Lomza}
+  - {name: Maliszewo}
+  - {name: Maly Plock}
+  - {name: Ozarki-olszanka}
+  - {name: Ozary}
+  - {name: Perlejewo}
+  - {name: Piatnica Poduchowna}
+  - {name: Podg}
+  - {name: Racibory}
+  - {name: Radzilow}
+  - {name: Rajgr}
+  - {name: Rutki}
+  - {name: Sawino}
+  - {name: Stawiski}
+  - {name: Szepietowo}
+  - {name: Wizna}
+  - {name: Wysokie Mazowieckie}
+  - {name: Zambr}
+  - {name: Zareby Koscielne}
+  - {name: Zaruzie}
+  - {name: Zb}
+  code: '44'
+  name: Lomza
+- cities:
+  - {name: Lublin}
+  code: '75'
+  name: Lubelskie
+- cities:
+  - {name: Barak}
+  - {name: Belzyce}
+  - {name: Borzech}
+  - {name: Bychawa}
+  - {name: Bychawka}
+  - {name: Chodel}
+  - {name: Cholewianka}
+  - {name: Ciechanki}
+  - {name: Ciecierzyn}
+  - {name: Cmilow}
+  - {name: Deblin}
+  - {name: Dys}
+  - {name: Dzierzkowice}
+  - {name: Eliz}
+  - {name: Elzbieta}
+  - {name: Fajslawice}
+  - {name: Felin}
+  - {name: Firlej}
+  - {name: Gora Pulawska}
+  - {name: Karczmiska}
+  - {name: Katy}
+  - {name: Kazimierz Dolny}
+  - {name: Klikawa}
+  - {name: Kock}
+  - {name: Kolonia Warszawska}
+  - {name: Konskowola}
+  - {name: Kozubszczyzna}
+  - {name: Krasnik}
+  - {name: Kreznica Jara}
+  - {name: Lubart}
+  - {name: Ludwin}
+  - {name: Markusz}
+  - {name: Mich}
+  - {name: Michalin}
+  - {name: Milej}
+  - {name: Motycz}
+  - {name: Naleczow}
+  - {name: Niedrzwica Duza}
+  - {name: Nieszawa}
+  - {name: Nowodw}
+  - {name: Opole Lubelskie}
+  - {name: Ostr}
+  - {name: Parchatka}
+  - {name: Pliszczyn}
+  - {name: Poniatowa}
+  - {name: Potok G}
+  - {name: Prawiedniki}
+  - {name: Puchacz}
+  - {name: Pulankowice}
+  - {name: Radawiec Duzy}
+  - {name: Rybczewice}
+  - {name: Ryki}
+  - {name: Serniki}
+  - {name: Slawinek}
+  - {name: Spiczyn}
+  - {name: Swidnik}
+  - {name: Ulez}
+  - {name: Urzedow}
+  - {name: Uscimow}
+  - {name: Wandalin}
+  - {name: Wawolnica}
+  - {name: Wilczopole}
+  - {name: Wilkolaz}
+  - {name: Witoszyn}
+  - {name: Wola Niemiecka}
+  - {name: Wola Osowinska}
+  - {name: Wzg}
+  - {name: Zarasz}
+  - {name: Zemborzyce}
+  - {name: Zyrzyn}
+  code: '45'
+  name: Lublin
+- cities:
+  - {name: Zielona G}
+  code: '76'
+  name: Lubuskie
+- cities:
+  - {name: Cracow}
+  - {name: Krak}
+  - {name: Krakau}
+  code: '77'
+  name: Malopolskie
+- cities:
+  - {name: Bartkowa}
+  - {name: Biala Nizna}
+  - {name: Biala Woda}
+  - {name: Bialy Dunajec}
+  - {name: Biczyce Dolne}
+  - {name: Biesna}
+  - {name: Bobowa}
+  - {name: Bukowina Tatrzanska}
+  - {name: Chab}
+  - {name: Chyzne}
+  - {name: Czarna Woda}
+  - {name: Czarny Dunajec}
+  - {name: Czerniec}
+  - {name: Dlugopole}
+  - {name: Dominikowice}
+  - {name: Dzial}
+  - {name: Glinnik}
+  - {name: Gorlice}
+  - {name: Gryb}
+  - {name: Harklowa}
+  - {name: Jaworzna}
+  - {name: Jazowsko}
+  - {name: Jodlownik}
+  - {name: Jurg}
+  - {name: Kamionka Wielka}
+  - {name: Kasinka}
+  - {name: Klimk}
+  - {name: Kluszkowce}
+  - {name: Korzenna}
+  - {name: Koscielisko}
+  - {name: Krasne Potockie}
+  - {name: Kroscienko}
+  - {name: Kruzlowa Wyzna}
+  - {name: Krynica Zdr}
+  - {name: Labowa}
+  - {name: Lapsze Nizne}
+  - {name: Limanowa}
+  - {name: Lipnica Wielka}
+  - {name: Lososina Dolna}
+  - {name: Lososina Gorna}
+  - {name: Ludzmierz}
+  - {name: Lukowica}
+  - {name: Luzna}
+  - {name: Maniowy}
+  - {name: Mlodow}
+  - {name: Moszczenica Wyzna}
+  - {name: Mszalnica}
+  - {name: Mszana Dolna}
+  - {name: Murzasichle}
+  - {name: Muszyna}
+  - {name: Nawojowa}
+  - {name: Niedzica}
+  - {name: Niskowa}
+  - {name: Nowe Rybie}
+  - {name: Nowy Sacz}
+  - {name: Nowy Targ}
+  - {name: Nowy Zmigrod}
+  - {name: Ochotnica Dolna}
+  - {name: Olsz}
+  - {name: Osielec}
+  - {name: Ostrowsko}
+  - {name: Piekielnik}
+  - {name: Pisarzowa}
+  - {name: Piwniczna}
+  - {name: Podegrodzie}
+  - {name: Podobin}
+  - {name: Polna}
+  - {name: Ponice}
+  - {name: Przysietnica}
+  - {name: Raba Wyzna}
+  - {name: Rabka}
+  - {name: Rokiciny}
+  - {name: Rytro}
+  - {name: Sekowa}
+  - {name: Skawa}
+  - {name: Skrzydlna}
+  - {name: Slopnice}
+  - {name: Slotwiny}
+  - {name: Sromowce Nizne}
+  - {name: Stary Sacz}
+  - {name: Strozowka}
+  - {name: Szaflary}
+  - {name: Szczawa}
+  - {name: Szczawnica}
+  - {name: Szczawnik}
+  - {name: Szczyrzyc}
+  - {name: Szymbark}
+  - {name: Tegoborze}
+  - {name: Tymbark}
+  - {name: Uscie Gorlickie}
+  - {name: Wysowa}
+  - {name: Zag}
+  - {name: Zakopane}
+  - {name: Zlockie}
+  - {name: Zubrzyca G}
+  code: '46'
+  name: Nowy Sacz
+- cities:
+  - {name: Barciany}
+  - {name: Barczewo}
+  - {name: Bartoszyce}
+  - {name: Bezledy}
+  - {name: Biskupiec}
+  - {name: Bisztynek}
+  - {name: Boreczno}
+  - {name: Bynowo}
+  - {name: Dobre Miasto}
+  - {name: Dywity}
+  - {name: Fijewo}
+  - {name: Frednowy}
+  - {name: G}
+  - {name: Galiny}
+  - {name: Gierzwald}
+  - {name: Gietrzwald}
+  - {name: Gizewo}
+  - {name: Gorowo Ilaweckie}
+  - {name: Grodziczno}
+  - {name: Grunwald}
+  - {name: Janowiec Koscielny}
+  - {name: Jeziorany}
+  - {name: Jonkowo}
+  - {name: Kajkowo}
+  - {name: Kandyty}
+  - {name: Karas}
+  - {name: Ketrzyn}
+  - {name: Kiezliny}
+  - {name: Kiwity}
+  - {name: Klebark Wielki}
+  - {name: Klutajny}
+  - {name: Kominki}
+  - {name: Korpele}
+  - {name: Korsze}
+  - {name: Kosakowo}
+  - {name: Laseczno}
+  - {name: Legajny}
+  - {name: Lidzbark Warminski}
+  - {name: Liwa}
+  - {name: Lubawa}
+  - {name: Lubomino}
+  - {name: Lukta}
+  - {name: Lupstych}
+  - {name: Maldyty}
+  - {name: Matki}
+  - {name: Mierki}
+  - {name: Milomlyn}
+  - {name: Morag}
+  - {name: Mragowo}
+  - {name: Naterki}
+  - {name: Nidzica}
+  - {name: Olsztynek}
+  - {name: Ostr}
+  - {name: Pasym}
+  - {name: Pieszkowo}
+  - {name: Pluski}
+  - {name: Pratnica}
+  - {name: Purda}
+  - {name: Reszel}
+  - {name: Samplawa}
+  - {name: Sepopol}
+  - {name: Siemiany}
+  - {name: Skarbiec}
+  - {name: Sorkwity}
+  - {name: Sprecowo}
+  - {name: Srokowo}
+  - {name: Stare Jablonki}
+  - {name: Stare Kiejkuty}
+  - {name: Stawiguda}
+  - {name: Swiatki}
+  - {name: Szczytno}
+  - {name: Szestno}
+  - {name: Szkotowo}
+  - {name: Tomaszkowo}
+  - {name: Toprzyny}
+  - {name: W}
+  - {name: Wadag}
+  - {name: Waplewo}
+  - {name: Wikno}
+  - {name: Wojciechy}
+  - {name: Worliny}
+  - {name: Wrzesina}
+  - {name: Zabi Rog}
+  - {name: Zalewo}
+  code: '47'
+  name: Olsztyn
+- cities:
+  - {name: Babor}
+  - {name: Beznatka}
+  - {name: Bierawa}
+  - {name: Biskup}
+  - {name: Blotnica Strzelecka}
+  - {name: Bogacica}
+  - {name: Bork}
+  - {name: Brzeg}
+  - {name: Chorula}
+  - {name: Cisek}
+  - {name: Czarnowasy}
+  - {name: Debrzyca}
+  - {name: Dobrzen Wielki}
+  - {name: Domaszkowice}
+  - {name: Dylaki}
+  - {name: Dziewkowice}
+  - {name: Glogowek}
+  - {name: Glubczyce}
+  - {name: Glucholazy}
+  - {name: Gorazdze}
+  - {name: Gosciejowice}
+  - {name: Gracze}
+  - {name: Grodk}
+  - {name: Grudynia Wielka}
+  - {name: Gwozdzice}
+  - {name: Ilawa}
+  - {name: Izbicko}
+  - {name: Jasienica Dolna}
+  - {name: Jelowa}
+  - {name: Jemielnica}
+  - {name: Kamien Slaski}
+  - {name: Karcz}
+  - {name: Kedzierzyn-kozle}
+  - {name: Kempa}
+  - {name: Kielcza}
+  - {name: Kietrz}
+  - {name: Kluczbork}
+  - {name: Kolonowskie}
+  - {name: Komprachcice}
+  - {name: Korfant}
+  - {name: Kotlarnia}
+  - {name: Krapkowice}
+  - {name: Kuni}
+  - {name: Kup}
+  - {name: Kurznie}
+  - {name: Lacznik}
+  - {name: Lambinowice}
+  - {name: Lewin Brzeski}
+  - {name: Ligota Turawska}
+  - {name: Losiow}
+  - {name: Lubniany}
+  - {name: Miedziana}
+  - {name: Mur}
+  - {name: Namyslow}
+  - {name: Narok}
+  - {name: Niemodlin}
+  - {name: Nysa}
+  - {name: Otmice}
+  - {name: Otmuch}
+  - {name: Ozimek}
+  - {name: Paczk}
+  - {name: Pakoslawice}
+  - {name: Pawlowiczki}
+  - {name: Piaskowa}
+  - {name: Polska Cerekiew}
+  - {name: Polska Nowa Wies}
+  - {name: Pr}
+  - {name: Prudnik}
+  - {name: R}
+  - {name: Rozumice}
+  - {name: Schodnia}
+  - {name: Skorogoszcz}
+  - {name: Skoroszyce}
+  - {name: Slawniowice}
+  - {name: Smicz}
+  - {name: Stare Kotkowice}
+  - {name: Stary Ujazd}
+  - {name: Stradunia}
+  - {name: Strzelce Opolskie}
+  - {name: Strzeleczki}
+  - {name: Suchy B}
+  - {name: Szybowice}
+  - {name: Szymisz}
+  - {name: Turawa}
+  - {name: Twardawa}
+  - {name: Walce}
+  - {name: Wiekszyce}
+  - {name: Win}
+  - {name: Wolczyn}
+  - {name: Zagwizdzie}
+  - {name: Zawadzkie}
+  - {name: Zdzieszowice}
+  - {name: Zebowice}
+  - {name: Zedowice}
+  - {name: Zielecice}
+  code: '48'
+  name: Opole
+- cities:
+  - {name: Opole}
+  code: '79'
+  name: Opolskie
+- cities:
+  - {name: Barcice}
+  - {name: Brok}
+  - {name: Brzuze}
+  - {name: Chorzele}
+  - {name: Czarnia}
+  - {name: Dabrowy}
+  - {name: Dlugosiodlo}
+  - {name: Dobroleka}
+  - {name: Drazdzewo}
+  - {name: Dylewo}
+  - {name: Dzbenin}
+  - {name: Jarzebia Laka}
+  - {name: Jastrzabka}
+  - {name: Jednorozec}
+  - {name: Jelonki}
+  - {name: Kadzidlo}
+  - {name: Klemb}
+  - {name: Kowalik}
+  - {name: Krasnosielc}
+  - {name: Krzynowloga Mala}
+  - {name: Laskowiec}
+  - {name: Lelis}
+  - {name: Lucka}
+  - {name: Lyse}
+  - {name: Mak}
+  - {name: Malkinia}
+  - {name: Malkinia Gorna}
+  - {name: Myszyniec}
+  - {name: Obryte}
+  - {name: Olszewnica}
+  - {name: Olszewo Borki}
+  - {name: Orzel}
+  - {name: Ostr}
+  - {name: Ostr}
+  - {name: Ploniawy}
+  - {name: Pok}
+  - {name: Polon}
+  - {name: Postoliska}
+  - {name: Prabuty}
+  - {name: Przasnysz}
+  - {name: Rozan}
+  - {name: Rozogi}
+  - {name: Rybienko}
+  - {name: Rzekun}
+  - {name: Rzewnie}
+  - {name: Somianka}
+  - {name: Stok}
+  - {name: Szelk}
+  - {name: Tluszcz}
+  - {name: Turzyn}
+  - {name: Wasewo}
+  - {name: Wolowno}
+  - {name: Wyszk}
+  - {name: Zelazna}
+  - {name: Zuzanny}
+  code: '49'
+  name: Ostroleka
+- cities:
+  - {name: Bakowo}
+  - {name: Bialosliwie}
+  - {name: Bielawy}
+  - {name: Borucino}
+  - {name: Budzyn}
+  - {name: Chodziez}
+  - {name: Czarnk}
+  - {name: Damaslawek}
+  - {name: Dobrzyniewo}
+  - {name: Dorotowo}
+  - {name: Drawski Mlyn}
+  - {name: Garbatka}
+  - {name: Golancz}
+  - {name: Goraj}
+  - {name: Grabowo}
+  - {name: Hammer}
+  - {name: Izdebki}
+  - {name: J}
+  - {name: Jaraczewo}
+  - {name: Jastrowie}
+  - {name: Kaczory}
+  - {name: Kamiennik}
+  - {name: Klukowo}
+  - {name: Koszyce}
+  - {name: Krajenka}
+  - {name: Kruszewo}
+  - {name: Krzyz}
+  - {name: Ledyczek}
+  - {name: Legowo}
+  - {name: Lipa}
+  - {name: Lipka}
+  - {name: Lobzenica}
+  - {name: Lubasz}
+  - {name: Ludomy}
+  - {name: Margonin}
+  - {name: Milcz}
+  - {name: Mlynary}
+  - {name: Ochodza}
+  - {name: Okonek}
+  - {name: Osiek Nad Notecia}
+  - {name: Osuch}
+  - {name: Peckowo}
+  - {name: Pianowka}
+  - {name: Pila}
+  - {name: Pilka}
+  - {name: Piotrkowice}
+  - {name: Pniewo}
+  - {name: Podanin}
+  - {name: Polajewo}
+  - {name: Potulice}
+  - {name: Przybychowo}
+  - {name: Rabczyn}
+  - {name: Radawnica}
+  - {name: Rogozno}
+  - {name: Roznowice}
+  - {name: Ryczywol}
+  - {name: Rzeczyca}
+  - {name: Siedlisko}
+  - {name: Sienno}
+  - {name: Sobolewo}
+  - {name: Sokolowo}
+  - {name: Stara}
+  - {name: Stara Lubianka}
+  - {name: Stare}
+  - {name: Stradun}
+  - {name: Sypniewo}
+  - {name: Szydlowo}
+  - {name: Tarn}
+  - {name: Trzcianka}
+  - {name: Ujscie}
+  - {name: Wagrowiec}
+  - {name: Wapno}
+  - {name: Wartoslaw}
+  - {name: Wasosz}
+  - {name: Wronki}
+  - {name: Wyrzysk}
+  - {name: Wyszyny}
+  - {name: Zakrzewo}
+  code: '50'
+  name: Pila
+- cities:
+  - {name: Bedkow}
+  - {name: Belchatow}
+  - {name: Bialaczow}
+  - {name: Dlutow}
+  - {name: Dobryszyce}
+  - {name: Druzbice}
+  - {name: Dzielna}
+  - {name: Dzielnica}
+  - {name: Falkow}
+  - {name: Glupice}
+  - {name: Gomunice}
+  - {name: Gorzkowice}
+  - {name: Grabica}
+  - {name: Inowlodz}
+  - {name: Jablon}
+  - {name: Jarosty}
+  - {name: Kamiensk}
+  - {name: Kleszcz}
+  - {name: Kluczewsko}
+  - {name: Kobiele Wielkie}
+  - {name: Koluszki}
+  - {name: Krusz}
+  - {name: Kuznica}
+  - {name: Laznowska Wola}
+  - {name: Lokietka}
+  - {name: Luban}
+  - {name: Magdalenka}
+  - {name: Marcel}
+  - {name: Niewiad}
+  - {name: Nowy Glinnik}
+  - {name: Opoczno}
+  - {name: Paradyz}
+  - {name: Paszkowice}
+  - {name: Piotrk}
+  - {name: Praca}
+  - {name: Proszenie}
+  - {name: Przesiadlow}
+  - {name: Przyglow}
+  - {name: Radomsko}
+  - {name: Rozprza}
+  - {name: Rzasnia}
+  - {name: Rzewuszyce}
+  - {name: Spala}
+  - {name: Stanislawow Drugi}
+  - {name: Stanislawow Pierwszy}
+  - {name: Swolszewice Male}
+  - {name: Szczerc}
+  - {name: Taras}
+  - {name: Tomasz}
+  - {name: Wlodzimierz}
+  - {name: Wola Krzysztoporska}
+  - {name: Wolb}
+  - {name: Wykno}
+  - {name: Zarnow}
+  - {name: Zel}
+  - {name: Zelechlin}
+  - {name: Zelechlinek}
+  code: '51'
+  name: Piotrkow
+- cities:
+  - {name: Baby}
+  - {name: Badkowo}
+  - {name: Bedlno}
+  - {name: Bialotarsk}
+  - {name: Bielsk}
+  - {name: Bodzan}
+  - {name: Boleslawow}
+  - {name: Boryszewo Stare}
+  - {name: Bozewo}
+  - {name: Brody Male}
+  - {name: Brudzen Duzy}
+  - {name: Bulkowo}
+  - {name: Cekanowo}
+  - {name: Ciesle}
+  - {name: Czarn}
+  - {name: Czermno}
+  - {name: Czerwinsk}
+  - {name: Czerwinsk Nad Wisla}
+  - {name: Czyzew}
+  - {name: Dabrowki}
+  - {name: Dlugoleka}
+  - {name: Dobr}
+  - {name: Dobrzelin}
+  - {name: Dobrzyk}
+  - {name: Drobin}
+  - {name: Ernestyn}
+  - {name: G}
+  - {name: Gabin}
+  - {name: Garb}
+  - {name: Gasewo}
+  - {name: Gizyno}
+  - {name: Glogowa}
+  - {name: Gluchowo}
+  - {name: Gnojno}
+  - {name: Golejewo}
+  - {name: Gorzewo}
+  - {name: Gostynin}
+  - {name: Goworowo}
+  - {name: Gozdowo}
+  - {name: Gulczewo}
+  - {name: Halin}
+  - {name: Ilow}
+  - {name: Jank}
+  - {name: Janki}
+  - {name: Jarosz}
+  - {name: Jaroszewo}
+  - {name: Jaworzyna}
+  - {name: Jazwiny}
+  - {name: Jezewo}
+  - {name: Kamionki}
+  - {name: Karolewo}
+  - {name: Karsy}
+  - {name: Kiernozia}
+  - {name: Kobylniki}
+  - {name: Kolonia Zawada}
+  - {name: Koszel}
+  - {name: Koziebrody}
+  - {name: Krosniewice}
+  - {name: Krzyszkowice}
+  - {name: Kutno}
+  - {name: Lack}
+  - {name: Leczyca}
+  - {name: Leznica Mala}
+  - {name: Ligowo}
+  - {name: Lubien}
+  - {name: Lucien}
+  - {name: Lw}
+  - {name: Maszewo}
+  - {name: Miaczyn}
+  - {name: Milosna}
+  - {name: Miroslaw}
+  - {name: Miszewko}
+  - {name: Mochowo}
+  - {name: Mogielnica}
+  - {name: Nowa Huta}
+  - {name: Nowe}
+  - {name: Nowy Dunin}
+  - {name: Opat}
+  - {name: Osiek Wielki}
+  - {name: Pacyna}
+  - {name: Pawlowice}
+  - {name: Piatek}
+  - {name: Pieczyska}
+  - {name: Piotr}
+  - {name: Piotrk}
+  - {name: Plock}
+  - {name: Podolszyce}
+  - {name: Pokrzywnica}
+  - {name: Proboszczewice}
+  - {name: Przedb}
+  - {name: Radzanowo}
+  - {name: Rakowo}
+  - {name: Rekowo}
+  - {name: Rogozino}
+  - {name: Rybie}
+  - {name: Rzeszotary}
+  - {name: Sanniki}
+  - {name: Sieciech}
+  - {name: Sierpc}
+  - {name: Skoki}
+  - {name: Slubice}
+  - {name: Slupca}
+  - {name: Slupno}
+  - {name: Srebrna}
+  - {name: Stanislawice}
+  - {name: Starozreby}
+  - {name: Stegna}
+  - {name: Sulkowice}
+  - {name: Swiecice}
+  - {name: Szczawin Koscielny}
+  - {name: Szczutowo}
+  - {name: Szkarada}
+  - {name: Topola Kr}
+  - {name: Waly}
+  - {name: Wilkanowo}
+  - {name: Wilkowyja}
+  - {name: Winnica}
+  - {name: Wisniewo}
+  - {name: Wojszyce}
+  - {name: Wyszogr}
+  - {name: Wyszyna}
+  - {name: Zalusin}
+  - {name: Zawidz Koscielny}
+  - {name: Zb}
+  - {name: Zeronice}
+  - {name: Zofi}
+  - {name: Zwolen}
+  - {name: Zychlin}
+  code: '52'
+  name: Plock
+- cities:
+  - {name: Rzesz}
+  code: '80'
+  name: Podkarpackie
+- cities:
+  - {name: Bialystok}
+  code: '81'
+  name: Podlaskie
+- cities:
+  - {name: Gdansk}
+  code: '82'
+  name: Pomorskie
+- cities:
+  - {name: Baranowo}
+  - {name: Bardo}
+  - {name: Batorowo}
+  - {name: Biedrusko}
+  - {name: Blazejewko}
+  - {name: Bogucin}
+  - {name: Bolechowo}
+  - {name: Borkowice}
+  - {name: Brzostek}
+  - {name: Budziszewice}
+  - {name: Chelmno}
+  - {name: Chlewiska}
+  - {name: Chludowo}
+  - {name: Chocicza}
+  - {name: Chomecice}
+  - {name: Chrzypsko Wielkie}
+  - {name: Chyby}
+  - {name: Czapury}
+  - {name: Czarna Wies}
+  - {name: Czempin}
+  - {name: Czerniejewo}
+  - {name: Czerwonak}
+  - {name: Daszewice}
+  - {name: Debienko}
+  - {name: Dopiewo}
+  - {name: Druzyn}
+  - {name: Duszniki}
+  - {name: Dymaczewo Nowe}
+  - {name: Dziekanowice}
+  - {name: Falkowo}
+  - {name: G}
+  - {name: Garby}
+  - {name: Glowna}
+  - {name: Glowno}
+  - {name: Gnezno}
+  - {name: Gniewkowo}
+  - {name: Gniezno}
+  - {name: Goleczewo}
+  - {name: Gorszewice}
+  - {name: Gortatowo}
+  - {name: Gowarzewo}
+  - {name: Grablewo}
+  - {name: Grodzisk Wielkopolski}
+  - {name: Gruszczyn}
+  - {name: Janikowo}
+  - {name: Jankowo}
+  - {name: Jasien}
+  - {name: Jasin}
+  - {name: Jerzykowo}
+  - {name: K}
+  - {name: Kazmierz}
+  - {name: Kiekrz}
+  - {name: Kiszewo}
+  - {name: Kiszkowo}
+  - {name: Klecko}
+  - {name: Kobylarnia}
+  - {name: Kowan}
+  - {name: Kozieglowy}
+  - {name: Kozlowo}
+  - {name: Kraplewo}
+  - {name: Krerowo}
+  - {name: Krzykosy}
+  - {name: Ksiaz}
+  - {name: Ksiaz Wielkopolski}
+  - {name: Kuslin}
+  - {name: Kwilcz}
+  - {name: Lawica}
+  - {name: Lesniewo}
+  - {name: Lipnica}
+  - {name: Lowecin}
+  - {name: Lubochnia}
+  - {name: Lubon}
+  - {name: Lus}
+  - {name: Maksymilianowo}
+  - {name: Manieczki}
+  - {name: Miastkowo}
+  - {name: Michorzewko}
+  - {name: Michorzewo}
+  - {name: Miescisko}
+  - {name: Miloslaw}
+  - {name: Minikowo}
+  - {name: Mosina}
+  - {name: Mrowino}
+  - {name: Murowana Goslina}
+  - {name: Napachanie}
+  - {name: Nekla}
+  - {name: Niepruszewo}
+  - {name: Nowy Tomysl}
+  - {name: Oblaczkowo}
+  - {name: Oborniki}
+  - {name: Obrowo}
+  - {name: Obrzycko}
+  - {name: Olszewo}
+  - {name: Opalenica}
+  - {name: Otorowo}
+  - {name: Owinska}
+  - {name: Paczkowo}
+  - {name: Paledzie}
+  - {name: Paproc}
+  - {name: Pawlowo}
+  - {name: Pecna}
+  - {name: Plewiska}
+  - {name: Pniewy}
+  - {name: Pobiedziska}
+  - {name: Podrzewie}
+  - {name: Pomarzanowice}
+  - {name: Popkowice}
+  - {name: Popowo Koscielne}
+  - {name: Przemysl}
+  - {name: Przezmierowo}
+  - {name: Psarskie}
+  - {name: Psary Male}
+  - {name: Puszczykowo}
+  - {name: Pyszaca}
+  - {name: Rakoniewice}
+  - {name: Robakowo}
+  - {name: Rokietnica}
+  - {name: Rosn}
+  - {name: Ruchocice}
+  - {name: Rusocin}
+  - {name: Ruszkowo}
+  - {name: Rybno Wielkie}
+  - {name: Satopy}
+  - {name: Siedlec}
+  - {name: Skiereszewo}
+  - {name: Slopanowo}
+  - {name: Slupia Wielka}
+  - {name: Solec}
+  - {name: Srem}
+  - {name: Sroda Wielkopolska}
+  - {name: Stare Miasto}
+  - {name: Stary Tomysl}
+  - {name: Steszew}
+  - {name: Strykowo}
+  - {name: Sulecinek}
+  - {name: Swadzim}
+  - {name: Swarzedz}
+  - {name: Szamotuly}
+  - {name: Szczepankowo}
+  - {name: Szczuczyn}
+  - {name: Szreniawa}
+  - {name: Tarnowo Podg}
+  - {name: Terespol}
+  - {name: Trzcinica}
+  - {name: Trzebaw}
+  - {name: Tulce}
+  - {name: Uscikowo}
+  - {name: Wargowo}
+  - {name: Wegierki}
+  - {name: Wi}
+  - {name: Wielichowo}
+  - {name: Wiry}
+  - {name: Wladyslawowo}
+  - {name: Wojnowo}
+  - {name: Wrzesnia}
+  - {name: Wysogotowo}
+  - {name: Wytomysl}
+  - {name: Zakrzewice}
+  - {name: Zalasewo}
+  - {name: Zamyslowo}
+  - {name: Zaniemysl}
+  - {name: Zasutowo}
+  - {name: Zbrudzewo}
+  - {name: Zdr}
+  - {name: Zdziechowa}
+  - {name: Zielatkowo}
+  - {name: Zlotkowo}
+  - {name: Zlotniki}
+  code: '53'
+  name: Poznan
+- cities:
+  - {name: Bach}
+  - {name: Basznia Dolna}
+  - {name: Bircza}
+  - {name: Boratyn}
+  - {name: Cieszan}
+  - {name: Dachn}
+  - {name: Dubiecko}
+  - {name: Dyn}
+  - {name: Gorliczyna}
+  - {name: Grzeska}
+  - {name: Horyniec}
+  - {name: Horyniec Zdr}
+  - {name: Hureczko}
+  - {name: Kanczuga}
+  - {name: Karczary}
+  - {name: Korczowa}
+  - {name: Korytniki}
+  - {name: Krasiczyn}
+  - {name: Krasne}
+  - {name: Krzywcza}
+  - {name: Krzywiecka Wola}
+  - {name: Lowce}
+  - {name: Lubacz}
+  - {name: Mackowice}
+  - {name: Medyka}
+  - {name: Munina}
+  - {name: Narol}
+  - {name: Nowe Siolo}
+  - {name: Oleszyce}
+  - {name: Opaka}
+  - {name: Orly}
+  - {name: Pawlosiow}
+  - {name: Pruchnik}
+  - {name: Przekopana}
+  - {name: Przemysl}
+  - {name: Przeworsk}
+  - {name: Radymno}
+  - {name: Rozb}
+  - {name: Rozwienica}
+  - {name: Siedleczka}
+  - {name: Skoloszow}
+  - {name: Sliwnica}
+  - {name: Stubno}
+  - {name: Suroch}
+  - {name: Sz}
+  - {name: Tuczempy}
+  - {name: Wielkie Oczy}
+  code: '54'
+  name: Przemysl
+- cities:
+  - {name: Belsk Duzy}
+  - {name: Bierwce}
+  - {name: Broniszew}
+  - {name: Budy Niemianowskie}
+  - {name: Bujak}
+  - {name: Deba}
+  - {name: Dlugowola}
+  - {name: Garbatka Dluga}
+  - {name: Garbatka-letnisko}
+  - {name: Garno}
+  - {name: Gielni}
+  - {name: Glogow}
+  - {name: Glowaczow}
+  - {name: Goszczyn}
+  - {name: Gowarcz}
+  - {name: Gr}
+  - {name: Grabow Nad Pilica}
+  - {name: Ilza}
+  - {name: Jedlinsk}
+  - {name: Jedlnia-letnisko}
+  - {name: Kaminsk}
+  - {name: Klw}
+  - {name: Kowala Stepocina}
+  - {name: Kozienice}
+  - {name: Leokadi}
+  - {name: Magnuszew}
+  - {name: Maleczyn}
+  - {name: Milejowice}
+  - {name: Mscichow}
+  - {name: Myslakowice}
+  - {name: Nink}
+  - {name: Oblas}
+  - {name: Odrzywolek}
+  - {name: Oronsko}
+  - {name: Parznice}
+  - {name: Pionki}
+  - {name: Potwor}
+  - {name: Promna}
+  - {name: Przysucha}
+  - {name: Przytyk}
+  - {name: Radom}
+  - {name: Rzeczni}
+  - {name: Skaryszew}
+  - {name: Slepowron}
+  - {name: Stromiec}
+  - {name: Swierze Gorne}
+  - {name: Warka}
+  - {name: Wola Brudnowska}
+  - {name: Wola Korzeniowa}
+  - {name: Wolan}
+  - {name: Wsola}
+  - {name: Wysmierzyce}
+  - {name: Zwolen}
+  code: '55'
+  name: Radom
+- cities:
+  - {name: Albigowa}
+  - {name: Babica}
+  - {name: Baryczka}
+  - {name: Bedziemysl}
+  - {name: Bialobrzegi}
+  - {name: Blazowa}
+  - {name: Blizne}
+  - {name: Boguchwala}
+  - {name: Bor}
+  - {name: Bratkowice}
+  - {name: Brz}
+  - {name: Budziw}
+  - {name: Chorzel}
+  - {name: Cieszyna}
+  - {name: Cmolas}
+  - {name: Czudec}
+  - {name: Dobrzech}
+  - {name: Dubas}
+  - {name: Frysztak}
+  - {name: Giedlarowa}
+  - {name: Glogow}
+  - {name: Glogow Malopolski}
+  - {name: Gniewczyna}
+  - {name: Gniewczyna Lancucka}
+  - {name: Gniewczyna Tryniecka}
+  - {name: Godowa}
+  - {name: Gorny Slask}
+  - {name: Grodzisko Dolne}
+  - {name: Grodzisko G}
+  - {name: Gwoznica Gorna}
+  - {name: Hadle Szklarskie}
+  - {name: Handzl}
+  - {name: Hus}
+  - {name: Hyzne}
+  - {name: Iwierzyce}
+  - {name: Jawornik Polski}
+  - {name: Jazowa}
+  - {name: Jezowe}
+  - {name: Kielan}
+  - {name: Kielnarowa}
+  - {name: Kolbuszowa}
+  - {name: Kolbuszowa Dolna}
+  - {name: Korniakt}
+  - {name: Kosina}
+  - {name: Kraczkowa}
+  - {name: Kurylowka}
+  - {name: Laczki Kucharskie}
+  - {name: Lancut}
+  - {name: Lezajsk}
+  - {name: Lowisko}
+  - {name: Lubenia}
+  - {name: Lubzina}
+  - {name: Lukawiec}
+  - {name: Mala}
+  - {name: Malawa}
+  - {name: Maleniska}
+  - {name: Markowa}
+  - {name: Mielec}
+  - {name: Milocin}
+  - {name: Mrowla}
+  - {name: Niebylec}
+  - {name: Niechobrz}
+  - {name: Niwiska}
+  - {name: Nowa Sarzyna}
+  - {name: Piatkowa}
+  - {name: Plac}
+  - {name: Pogwizd}
+  - {name: Przybysz}
+  - {name: Pstragowka}
+  - {name: Raclawowka}
+  - {name: Rakszawa}
+  - {name: Ranizow}
+  - {name: Ropczyce}
+  - {name: Rudna Mala}
+  - {name: Rudna Wielka}
+  - {name: Rzedzianowice}
+  - {name: Rzemien}
+  - {name: Sarzyna}
+  - {name: Sedziszow Malopolski}
+  - {name: Slotwinka}
+  - {name: Smoczka}
+  - {name: Smolarzyny}
+  - {name: Sokolow Malopolski}
+  - {name: Sonina}
+  - {name: Stepina}
+  - {name: Strazow}
+  - {name: Swilcza}
+  - {name: Szydlowiec}
+  - {name: Trzebownisko}
+  - {name: Tusz}
+  - {name: Tuszyma}
+  - {name: Twierdza}
+  - {name: Tyczyn}
+  - {name: Widacz}
+  - {name: Widelka}
+  - {name: Wielopole Skrzynskie}
+  - {name: Wierzawice}
+  - {name: Wola Dalsza}
+  - {name: Wola Mielecka}
+  - {name: Woliczka}
+  - {name: Zabajka}
+  - {name: Zabiniec}
+  - {name: Zaczernie}
+  - {name: Zarnowa}
+  - {name: Zglobien}
+  - {name: Zolynia}
+  - {name: Zwieczyca}
+  code: '56'
+  name: Rzeszow
+- cities:
+  - {name: Bojmie}
+  - {name: Borowie}
+  - {name: Ceglow}
+  - {name: Celej}
+  - {name: Ceran}
+  - {name: Chod}
+  - {name: Chroscice}
+  - {name: Cielechowizna}
+  - {name: Cyganka}
+  - {name: Czernik}
+  - {name: Czerwonka}
+  - {name: Czlekowka}
+  - {name: Debe Wielkie}
+  - {name: Garwolin}
+  - {name: Jad}
+  - {name: Jakub}
+  - {name: Kamienczyk}
+  - {name: Karpiska}
+  - {name: Kokoszka}
+  - {name: Kolbiel}
+  - {name: Komisja}
+  - {name: Kostki}
+  - {name: Kotun}
+  - {name: Krystyna}
+  - {name: Krzeslin}
+  - {name: Krzywda}
+  - {name: Kurowice}
+  - {name: Laskarzew}
+  - {name: Latowicz}
+  - {name: Letnisko}
+  - {name: Lochow}
+  - {name: Matejki}
+  - {name: Milan}
+  - {name: Minsk}
+  - {name: Minsk Mazowiecki}
+  - {name: Mokobody}
+  - {name: Mordy}
+  - {name: Olech}
+  - {name: Osieck}
+  - {name: Podniesno}
+  - {name: Pog}
+  - {name: Ruda Talubska}
+  - {name: Sadowne}
+  - {name: Siedlce}
+  - {name: Sk}
+  - {name: Skwarne}
+  - {name: Sobienie Jeziory}
+  - {name: Sobolew}
+  - {name: Sokolka}
+  - {name: Sokolow Podlaski}
+  - {name: Sosninka}
+  - {name: Stasin}
+  - {name: Stoczek}
+  - {name: Stoczek Lukowski}
+  - {name: Stojadla}
+  - {name: Stok Lacki}
+  - {name: Strach}
+  - {name: Strzala}
+  - {name: Suchozebry}
+  - {name: Sulbiny}
+  - {name: Swierczow}
+  - {name: Szynczyce}
+  - {name: Teresin}
+  - {name: Towarzystwo}
+  - {name: Trzebiesz}
+  - {name: Wegrow}
+  - {name: Wielgie}
+  - {name: Wielgolas}
+  - {name: Wierzbice}
+  - {name: Wilga}
+  - {name: Wisniew}
+  - {name: Wola Rafalowska}
+  - {name: Wola Rebkowska}
+  - {name: Zakrz}
+  - {name: Zamienie}
+  - {name: Zawiszyn}
+  - {name: Zbuczyn}
+  - {name: Zytnia}
+  code: '57'
+  name: Siedlce
+- cities:
+  - {name: Baldrzychow}
+  - {name: Blaszki}
+  - {name: Braszewice}
+  - {name: Brzeznio}
+  - {name: Burzenin}
+  - {name: Chechlo Pierwsze}
+  - {name: Chrzastawa}
+  - {name: Czarnozyly}
+  - {name: Dobron}
+  - {name: Drwalew}
+  - {name: Dymek}
+  - {name: Gorzuchy}
+  - {name: Goszczan}
+  - {name: Grebien}
+  - {name: Kadlub}
+  - {name: Kliczk}
+  - {name: Kluski}
+  - {name: Kroban}
+  - {name: Kurek}
+  - {name: Lask}
+  - {name: Lichawa}
+  - {name: Lutomiersk}
+  - {name: Lutut}
+  - {name: Lyskornia}
+  - {name: Mecka Wola}
+  - {name: Milkowice}
+  - {name: Niemyslow}
+  - {name: Nietuszyna}
+  - {name: Ocin}
+  - {name: Okup Maly}
+  - {name: Opiesin}
+  - {name: Opojowice}
+  - {name: Osjak}
+  - {name: Peczniew}
+  - {name: Przywidz}
+  - {name: R}
+  - {name: Raciszyn}
+  - {name: Sedziejowice}
+  - {name: Siemkowice}
+  - {name: Sieradz}
+  - {name: Warta}
+  - {name: Wielun}
+  - {name: Wola Wiazowa}
+  - {name: Wr}
+  - {name: Zadzim}
+  - {name: Zakrzewki}
+  - {name: Zdunska Wola}
+  - {name: Zloczew}
+  - {name: Zofia}
+  code: '58'
+  name: Sieradz
+- cities:
+  - {name: Aleksandr}
+  - {name: Aleksandria}
+  - {name: Antoniew}
+  - {name: Augustowo}
+  - {name: Babsk}
+  - {name: Bakow}
+  - {name: Baran}
+  - {name: Bartosz}
+  - {name: Bednary}
+  - {name: Biala Rawska}
+  - {name: Biala Wies}
+  - {name: Biegan}
+  - {name: Bielice}
+  - {name: Bledow}
+  - {name: Bogdanka}
+  - {name: Bolim}
+  - {name: Bronisze}
+  - {name: Bronowice}
+  - {name: Brzeziny}
+  - {name: Brzoz}
+  - {name: Buczek}
+  - {name: Chodak}
+  - {name: Chrzaszczew}
+  - {name: Chylice}
+  - {name: Dabrowice}
+  - {name: Dabrowka Mala}
+  - {name: Dank}
+  - {name: Dmosin}
+  - {name: Domaniewice}
+  - {name: Drzewce}
+  - {name: Feliks}
+  - {name: Galkowek}
+  - {name: Godzian}
+  - {name: Grabice}
+  - {name: Grzmiaca}
+  - {name: Hipolit}
+  - {name: Huta Stara}
+  - {name: Huta Zabiowolska}
+  - {name: Jaktor}
+  - {name: Jamno}
+  - {name: Janin}
+  - {name: Janowiec}
+  - {name: Jasieniec}
+  - {name: Jeruzal}
+  - {name: Jezow}
+  - {name: Justyn}
+  - {name: Karnice}
+  - {name: Kaski}
+  - {name: Kocierzew}
+  - {name: Konopnica}
+  - {name: Kosciuszki}
+  - {name: Kowiesy}
+  - {name: Koziolki}
+  - {name: Krze Duze}
+  - {name: Ksawer}
+  - {name: Ksiazenice}
+  - {name: Kurdwan}
+  - {name: Kurzeszyn}
+  - {name: Lagow}
+  - {name: Leszczyny}
+  - {name: Lipce}
+  - {name: Lnisno}
+  - {name: Lowicz}
+  - {name: Lubania}
+  - {name: Lyszkowice}
+  - {name: Macierzysz}
+  - {name: Mak}
+  - {name: Mak}
+  - {name: Miedzyborow}
+  - {name: Mlodzieszyn}
+  - {name: Mrozy}
+  - {name: Mszczon}
+  - {name: Niebor}
+  - {name: Niedzwiada}
+  - {name: Niepokalan}
+  - {name: Nowy Kaweczyn}
+  - {name: Oddzial}
+  - {name: Osowiec}
+  - {name: Paprotnia}
+  - {name: Piekary}
+  - {name: Podb}
+  - {name: Podleze}
+  - {name: Polesie}
+  - {name: Pop}
+  - {name: Przeclaw}
+  - {name: Puszcza Marianska}
+  - {name: Radziejowice}
+  - {name: Rawa}
+  - {name: Rawa Mazowiecka}
+  - {name: Regn}
+  - {name: Rogowiec}
+  - {name: Rokitnica}
+  - {name: Rokszyce}
+  - {name: Rozalin}
+  - {name: Rudki}
+  - {name: Rybno}
+  - {name: Sadkowice}
+  - {name: Sarn}
+  - {name: Sierakowice}
+  - {name: Skaratki}
+  - {name: Skierniewice}
+  - {name: Slupia}
+  - {name: Sobota}
+  - {name: Sochaczew}
+  - {name: Sokolow}
+  - {name: Strob}
+  - {name: Swinice}
+  - {name: Szeligi}
+  - {name: Szyman}
+  - {name: Trojan}
+  - {name: Ulan}
+  - {name: Urzecze}
+  - {name: Wiskitki}
+  - {name: Wit}
+  - {name: Witkowice}
+  - {name: Wojska}
+  - {name: Wyczesniak}
+  - {name: Zabia Wola}
+  - {name: Zator}
+  - {name: Zboiska}
+  - {name: Zduny}
+  - {name: Zelechow}
+  - {name: Zgoda}
+  - {name: Zimnice}
+  - {name: Zlota}
+  - {name: Zyrardow}
+  code: '59'
+  name: Skierniewice
+- cities:
+  - {name: Katowice}
+  code: '83'
+  name: Slaskie
+- cities:
+  - {name: Bielsko}
+  - {name: Bierkowo}
+  - {name: Borzytuchom}
+  - {name: Bruskowo Wielkie}
+  - {name: Bukowa}
+  - {name: Byt}
+  - {name: Cewice}
+  - {name: Czluchow}
+  - {name: Dabrowno}
+  - {name: Damnica}
+  - {name: Debnica}
+  - {name: Debnica Kaszubska}
+  - {name: Debrzno}
+  - {name: Domaradz}
+  - {name: Gledowo}
+  - {name: Globino}
+  - {name: Glowczyce}
+  - {name: Grabno}
+  - {name: Jeziorka}
+  - {name: Karzniczka}
+  - {name: Kczewo}
+  - {name: Kepice}
+  - {name: Kobylnica}
+  - {name: Koczala}
+  - {name: Kolczyglowy}
+  - {name: Koldowo}
+  - {name: Konarzyny}
+  - {name: Korzybie}
+  - {name: Kotowo}
+  - {name: Krzemienica}
+  - {name: Labunia}
+  - {name: Leba}
+  - {name: Lebork}
+  - {name: Lekinia}
+  - {name: Lubowidz}
+  - {name: Mianowice}
+  - {name: Miastko}
+  - {name: Miedzyborz}
+  - {name: Miszewo}
+  - {name: Niezabyszewo}
+  - {name: Nowa Karczma}
+  - {name: Objazda}
+  - {name: Ostrowite}
+  - {name: Parchowo}
+  - {name: Potegowo}
+  - {name: Przechlewo}
+  - {name: Redzikowo}
+  - {name: Rowy}
+  - {name: Rzeczenica}
+  - {name: Siemianice}
+  - {name: Sierakowo Slupskie}
+  - {name: Sk}
+  - {name: Slupsk}
+  - {name: Smoldzino}
+  - {name: Tuchomie}
+  - {name: Ugoszcz}
+  - {name: Ustka}
+  - {name: Waldowo}
+  - {name: Widzino}
+  - {name: Wielka Wies}
+  - {name: Wieloglowy}
+  - {name: Wrzescie}
+  - {name: Zagony}
+  - {name: Zajaczkowo}
+  - {name: Zelkowo}
+  code: '60'
+  name: Slupsk
+- cities:
+  - {name: Antonowo}
+  - {name: August}
+  - {name: Bakalarzewo}
+  - {name: Banie Mazurskie}
+  - {name: Barglow Koscielny}
+  - {name: Becejly}
+  - {name: Biala Piska}
+  - {name: Biale Blota}
+  - {name: Budry}
+  - {name: Czerwony Dw}
+  - {name: Dabrowskie}
+  - {name: Dowspuda}
+  - {name: Drygaly}
+  - {name: Dubeninki}
+  - {name: Elk}
+  - {name: G}
+  - {name: Giby}
+  - {name: Gizycko}
+  - {name: Goldap}
+  - {name: Golubie}
+  - {name: Grab}
+  - {name: Jeleniewo}
+  - {name: Kaletnik}
+  - {name: Kociolki}
+  - {name: Kowale Oleckie}
+  - {name: Krasnopol}
+  - {name: Kruklanki}
+  - {name: Kuty}
+  - {name: Lipsk}
+  - {name: Mikolajki}
+  - {name: Nowa Wies Elcka}
+  - {name: Nowinka}
+  - {name: Olecko}
+  - {name: Orlen}
+  - {name: Orzysz}
+  - {name: Piecki}
+  - {name: Pisanica}
+  - {name: Pisz}
+  - {name: Plaska}
+  - {name: Pockuny}
+  - {name: Pozezdrze}
+  - {name: Prostki}
+  - {name: Przerosl}
+  - {name: Punsk}
+  - {name: Raczki}
+  - {name: Ruciane}
+  - {name: Ruciane-nida}
+  - {name: Rudzie}
+  - {name: Rutka Tartak}
+  - {name: Ryn}
+  - {name: Sejny}
+  - {name: Sieden}
+  - {name: Slobodka}
+  - {name: Sobiechy}
+  - {name: Sokolki}
+  - {name: Sokoly}
+  - {name: Stare Juchy}
+  - {name: Straduny}
+  - {name: Suwalki}
+  - {name: Swietajno}
+  - {name: Sztabin}
+  - {name: Szypliszki}
+  - {name: Turosl}
+  - {name: Wegorzewo}
+  - {name: Wieliczki}
+  - {name: Wilkasy}
+  - {name: Wizajny}
+  - {name: Wojciech}
+  - {name: Wydminy}
+  code: '61'
+  name: Suwalki
+- cities:
+  - {name: Kielce}
+  code: '84'
+  name: Swietokrzyskie
+- cities:
+  - {name: Aleksandr}
+  - {name: Andruszkowice}
+  - {name: Antoni}
+  - {name: Baran}
+  - {name: Batorz}
+  - {name: Biala}
+  - {name: Bidziny}
+  - {name: Bilcza}
+  - {name: Bogoria}
+  - {name: Bor}
+  - {name: Bork}
+  - {name: Borowina}
+  - {name: Borownica}
+  - {name: Chmiel}
+  - {name: Chwalki}
+  - {name: Ciechocin}
+  - {name: Cmielow}
+  - {name: Czajk}
+  - {name: Dabie}
+  - {name: Dwikozy}
+  - {name: Dych}
+  - {name: Dzwola}
+  - {name: Felin}
+  - {name: Gorzk}
+  - {name: Goscieradow}
+  - {name: Grabowiec}
+  - {name: Gradki}
+  - {name: Grebow}
+  - {name: Harasiuki}
+  - {name: Huta Krzeszowska}
+  - {name: Iwaniska}
+  - {name: Jamnica}
+  - {name: Jan}
+  - {name: Jasionka}
+  - {name: Jastk}
+  - {name: Jeziory}
+  - {name: Kleczan}
+  - {name: Kobylany}
+  - {name: Koniecpol}
+  - {name: Kopki}
+  - {name: Koziarnia}
+  - {name: Loniow}
+  - {name: Lubnice}
+  - {name: Mach}
+  - {name: Majdan Kr}
+  - {name: Mala Wies}
+  - {name: Mietne}
+  - {name: Modliborzyce}
+  - {name: Mostki}
+  - {name: Nisko}
+  - {name: Nowa Deba}
+  - {name: Nowiny}
+  - {name: Obraz}
+  - {name: Olbiecin}
+  - {name: Olendry}
+  - {name: Opat}
+  - {name: Ostroleka}
+  - {name: Padew}
+  - {name: Pielgrzymka}
+  - {name: Polaniec}
+  - {name: Polichna}
+  - {name: Potok Wielki}
+  - {name: Przybyslawice}
+  - {name: Pysznica}
+  - {name: Raclawice}
+  - {name: Radomysl Nad Sanem}
+  - {name: Rozki}
+  - {name: Rudniki}
+  - {name: Rytwiany}
+  - {name: Sadowie}
+  - {name: Samborzec}
+  - {name: Sandomierz}
+  - {name: Skopanie}
+  - {name: Smyk}
+  - {name: Sokolniki}
+  - {name: Stale}
+  - {name: Stalowa Wola}
+  - {name: Stasz}
+  - {name: Suchowola}
+  - {name: Sulej}
+  - {name: Szastarka}
+  - {name: Tarnobrzeg}
+  - {name: Teofil}
+  - {name: Trzydnik Duzy}
+  - {name: Ujazd}
+  - {name: Wielog}
+  - {name: Wilcza Wola}
+  - {name: Wilczyce}
+  - {name: Wisniowa}
+  - {name: Wlostow}
+  - {name: Wojciechowice}
+  - {name: Wola Baranowska}
+  - {name: Zabno}
+  - {name: Zaduszniki}
+  - {name: Zaklik}
+  - {name: Zaleszany}
+  - {name: Zdziary}
+  - {name: Zdziechowice}
+  - {name: Zurawica}
+  code: '63'
+  name: Tarnobrzeg
+- cities:
+  - {name: Adamierz}
+  - {name: Bielcza}
+  - {name: Bochnia}
+  - {name: Bogumilowice}
+  - {name: Brzesko}
+  - {name: Burzyn}
+  - {name: Czch}
+  - {name: Dabrowa Tarnowska}
+  - {name: Debica}
+  - {name: Gnojnik}
+  - {name: Grabiny}
+  - {name: Greboszow}
+  - {name: Gromnik}
+  - {name: Jadowniki}
+  - {name: Jaksice}
+  - {name: Jaworze G}
+  - {name: Kamyk}
+  - {name: Kanna}
+  - {name: Karwodrza}
+  - {name: Kasna Dolna}
+  - {name: Kopaliny}
+  - {name: Ladna}
+  - {name: Lakta Gorna}
+  - {name: Lapanow}
+  - {name: Lapczyca}
+  - {name: Leg Tarnowski}
+  - {name: Leszczyna}
+  - {name: Letownia}
+  - {name: Lezkowice}
+  - {name: Lipnica G}
+  - {name: Lipnica Murowana}
+  - {name: Lisia G}
+  - {name: Lopuszna}
+  - {name: Lubaszowa}
+  - {name: Lubcza}
+  - {name: Majkowice}
+  - {name: Marek}
+  - {name: Medrzechow}
+  - {name: Michala}
+  - {name: Mikolajowice}
+  - {name: Moscice}
+  - {name: Mst}
+  - {name: Nagawczyna}
+  - {name: Nieciecza}
+  - {name: Niedomice}
+  - {name: Nowodworze}
+  - {name: Nowy Wisnicz}
+  - {name: Odporysz}
+  - {name: Okocim}
+  - {name: Okreg}
+  - {name: Ostr}
+  - {name: Otfin}
+  - {name: Palesnica}
+  - {name: Parkosz}
+  - {name: Pawezow}
+  - {name: Perla}
+  - {name: Piatkowiec}
+  - {name: Pilzno}
+  - {name: Podwale}
+  - {name: Pog}
+  - {name: Prosz}
+  - {name: Pustk}
+  - {name: Radomysl Wielki}
+  - {name: Rajbrot}
+  - {name: Ryglice}
+  - {name: Rzepiennik}
+  - {name: Rzepiennik Biskupi}
+  - {name: Rzuchowa}
+  - {name: Skrzysz}
+  - {name: Slotowa}
+  - {name: Smigno}
+  - {name: Stary Wisnicz}
+  - {name: Staszk}
+  - {name: Straszecin}
+  - {name: Stroze}
+  - {name: Strzegocice}
+  - {name: Swiebodzin}
+  - {name: Szczepan}
+  - {name: Szczucin}
+  - {name: Szczurowa}
+  - {name: Szerzyny}
+  - {name: Tarn}
+  - {name: Tarnowiec}
+  - {name: Tuch}
+  - {name: Tworkowa}
+  - {name: Wesolow}
+  - {name: Wietrzychowice}
+  - {name: Wojnicz}
+  - {name: Wola Debinska}
+  - {name: Wola Rzedzinska}
+  - {name: Wytrzyszczka}
+  - {name: Zaczarnie}
+  - {name: Zalasowa}
+  - {name: Zapole}
+  - {name: Zdziarzec}
+  - {name: Zegocina}
+  - {name: Zglobice}
+  - {name: Zukowice}
+  - {name: Zyrakow}
+  code: '64'
+  name: Tarnow
+- cities:
+  - {name: Brodnica}
+  - {name: Brzozie Lubawskie}
+  - {name: Cepno}
+  - {name: Chelmza}
+  - {name: Debowa Laka}
+  - {name: Dragacz}
+  - {name: Dziemiany}
+  - {name: Elgiszewo}
+  - {name: G}
+  - {name: Golebiewo}
+  - {name: Golub}
+  - {name: Golub-dobrzyn}
+  - {name: Gorzuchowo}
+  - {name: Grudziadz}
+  - {name: Grzegorz}
+  - {name: Grzywna}
+  - {name: Gzin}
+  - {name: Jablonowo Pomorskie}
+  - {name: Jedwabno}
+  - {name: Kaszczorek}
+  - {name: Kijewo Kr}
+  - {name: Konojady}
+  - {name: Kornatowo}
+  - {name: Kosowizna}
+  - {name: Kowalewo Pomorskie}
+  - {name: Ksiazki}
+  - {name: Kurzetnik}
+  - {name: Lasin}
+  - {name: Lysomice}
+  - {name: Mala Nieszawka}
+  - {name: Marzecice}
+  - {name: Melno}
+  - {name: Niezywiec}
+  - {name: Nowe Miasto Lubawskie}
+  - {name: Papowo Torunskie}
+  - {name: Pluznica}
+  - {name: Radomin}
+  - {name: Radzyn Chelminski}
+  - {name: Rozgarty}
+  - {name: Rynsk}
+  - {name: Skarszewy}
+  - {name: Stare Blonowo}
+  - {name: Stolno}
+  - {name: Suchat}
+  - {name: Torun}
+  - {name: Wabrzezno}
+  - {name: Wapielsk}
+  - {name: Wielka Nieszawka}
+  - {name: Wielki Gleboczek}
+  - {name: Wrocki}
+  - {name: Zla Wies Wielka}
+  code: '65'
+  name: Torun
+- cities:
+  - {name: Bialy Kamien}
+  - {name: Bielawa}
+  - {name: Bogusz}
+  - {name: Bogusz}
+  - {name: Bystrzyca Klodzka}
+  - {name: Cierpice}
+  - {name: Czarny B}
+  - {name: Dobrocin}
+  - {name: Dobromierz}
+  - {name: Dolina}
+  - {name: Domaszk}
+  - {name: Duszniki Zdr}
+  - {name: Dzierzoniow}
+  - {name: Gniewk}
+  - {name: Gniewosz}
+  - {name: Goczalkow}
+  - {name: Gorna}
+  - {name: Gorzan}
+  - {name: Jaroszow}
+  - {name: Jaszkowa G}
+  - {name: Jawornica}
+  - {name: Jaworzyna Slaska}
+  - {name: Jeglowa}
+  - {name: Jug}
+  - {name: Jugowice}
+  - {name: Kamieniec Zabkowicki}
+  - {name: Klimek}
+  - {name: Klodzko}
+  - {name: Krosnowice}
+  - {name: Kudowa}
+  - {name: Kudowa-zdr}
+  - {name: Ladek-zdroj}
+  - {name: Lewin Klodzki}
+  - {name: Lubach}
+  - {name: Ludwikowice Klodzkie}
+  - {name: Lutomia}
+  - {name: Mierosz}
+  - {name: Mokrzesz}
+  - {name: Mrowiny}
+  - {name: Niemcz}
+  - {name: Niemcza}
+  - {name: Nowa Ruda}
+  - {name: Nowa Wies Wielka}
+  - {name: Ostroszowice}
+  - {name: Pieszyce}
+  - {name: Pilawa Gorna}
+  - {name: Pokrzywna}
+  - {name: Polanica-zdr}
+  - {name: Przeworno}
+  - {name: Przyg}
+  - {name: Pszenno}
+  - {name: Ruszowice}
+  - {name: Rybnica Lesna}
+  - {name: Sady Dolne}
+  - {name: Scinawka Srednia}
+  - {name: Slone}
+  - {name: Spalona}
+  - {name: Stara Morawa}
+  - {name: Stare Bogaczowice}
+  - {name: Stary}
+  - {name: Stoszowice}
+  - {name: Straszk}
+  - {name: Stronie Slaskie}
+  - {name: Strzegom}
+  - {name: Swidnica}
+  - {name: Swiebodzice}
+  - {name: Szalej}
+  - {name: Szczawno-zdr}
+  - {name: Szczytna}
+  - {name: Targowica}
+  - {name: Trzebieszowice}
+  - {name: Tuszyn}
+  - {name: Unislaw Slaski}
+  - {name: Walbrzych}
+  - {name: Walim}
+  - {name: Wierzbna}
+  - {name: Witosz}
+  - {name: Wlodowice}
+  - {name: Wolib}
+  - {name: Zabkowice Slaskie}
+  - {name: Zarow}
+  - {name: Ziebice}
+  - {name: Zloty Stok}
+  code: '66'
+  name: Walbrzych
+- cities:
+  - {name: Olsztyn}
+  code: '85'
+  name: Warminsko-Mazurskie
+- cities:
+  - {name: Aleksandr}
+  - {name: Annopol}
+  - {name: August}
+  - {name: Babice Stare}
+  - {name: Baniocha}
+  - {name: Bialobrzegi}
+  - {name: Bialoleka}
+  - {name: Bieliny}
+  - {name: Blonie}
+  - {name: Bobrowiec}
+  - {name: Borzecin Duzy}
+  - {name: Bramki}
+  - {name: Brwin}
+  - {name: Cegielnia}
+  - {name: Choiny}
+  - {name: Choszcz}
+  - {name: Chotom}
+  - {name: Czarna}
+  - {name: Czastkow}
+  - {name: Czosn}
+  - {name: Dabrowa}
+  - {name: Dawidy}
+  - {name: Dluga Koscielna}
+  - {name: Duchnice}
+  - {name: Duczki}
+  - {name: Dziekan}
+  - {name: Dziekanow Lesny}
+  - {name: Falenica}
+  - {name: Falenty}
+  - {name: G}
+  - {name: G}
+  - {name: Gaski}
+  - {name: Glinianka}
+  - {name: Gloskow}
+  - {name: Golkow}
+  - {name: Grabina}
+  - {name: Grady}
+  - {name: Groch}
+  - {name: Grochale}
+  - {name: Grodzisk}
+  - {name: Grodzisk Mazowiecki}
+  - {name: Grzedy}
+  - {name: Henryk}
+  - {name: Horn}
+  - {name: Iwiczna}
+  - {name: Izabela}
+  - {name: Izabelin}
+  - {name: Izbica}
+  - {name: J}
+  - {name: Jablonna}
+  - {name: Jachranka}
+  - {name: Jan}
+  - {name: Janczewice}
+  - {name: Janowo}
+  - {name: Jaworowa}
+  - {name: Jazgarzew}
+  - {name: Jeziorzany}
+  - {name: Jozefoslaw}
+  - {name: Kaluszyn}
+  - {name: Kampinos}
+  - {name: Karczew}
+  - {name: Karolina}
+  - {name: Katy Wegierskie}
+  - {name: Kaweczyn}
+  - {name: Kaweczynek}
+  - {name: Kielpin}
+  - {name: Klaudyn}
+  - {name: Kobylka}
+  - {name: Koczargi Nowe}
+  - {name: Koczargi Stare}
+  - {name: Kolo}
+  - {name: Komor}
+  - {name: Komorniki}
+  - {name: Konik Nowy}
+  - {name: Konotopa}
+  - {name: Konstancin-jeziorna}
+  - {name: Konstantyn}
+  - {name: Kosewo}
+  - {name: Kostowiec}
+  - {name: Kosumce}
+  - {name: Kr}
+  - {name: Krepa}
+  - {name: Lajski}
+  - {name: Laszczki}
+  - {name: Latchorzew}
+  - {name: Leczna}
+  - {name: Legionowo}
+  - {name: Leoncin}
+  - {name: Lesznowola}
+  - {name: Lipk}
+  - {name: Lomianki}
+  - {name: Majdan}
+  - {name: Marki}
+  - {name: Michalin}
+  - {name: Michalow}
+  - {name: Michalow Grabina}
+  - {name: Michalow-reginow}
+  - {name: Michalowice}
+  - {name: Miedzylesie}
+  - {name: Milan}
+  - {name: Mlochow}
+  - {name: Modlin}
+  - {name: Mokot}
+  - {name: Mrok}
+  - {name: Muran}
+  - {name: Mysiadlo}
+  - {name: Nadarzyn}
+  - {name: Nart}
+  - {name: Natolin}
+  - {name: Nieporet}
+  - {name: Nowa Wies}
+  - {name: Nowy Dw}
+  - {name: Nowy Dw}
+  - {name: Nowy Modlin}
+  - {name: Ochota}
+  - {name: Odrzywol}
+  - {name: Okuniew}
+  - {name: Olszewnica Nowa}
+  - {name: Oltarzew}
+  - {name: Opacz}
+  - {name: Opacz Mala}
+  - {name: Orzechowo}
+  - {name: Ostr}
+  - {name: Otrebusy}
+  - {name: Otwock}
+  - {name: Ozarow}
+  - {name: Ozarow Mazowiecki}
+  - {name: Palmiry}
+  - {name: Parzniew}
+  - {name: Pecice}
+  - {name: Piaseczno}
+  - {name: Piast}
+  - {name: Podkowa Lesna}
+  - {name: Pomiech}
+  - {name: Poreby}
+  - {name: Prace Duze}
+  - {name: Prusy}
+  - {name: Pruszk}
+  - {name: Puchaly}
+  - {name: Radonice}
+  - {name: Radzymin}
+  - {name: Rak}
+  - {name: Raszt}
+  - {name: Raszyn}
+  - {name: Rembert}
+  - {name: Robercin}
+  - {name: Rokitno}
+  - {name: Rozopole}
+  - {name: Roztoka}
+  - {name: Rusiec}
+  - {name: Rynia}
+  - {name: Sadowa}
+  - {name: Sady}
+  - {name: Saska Kepa}
+  - {name: Sekocin}
+  - {name: Sekocin Nowy}
+  - {name: Sekocin Stary}
+  - {name: Serock}
+  - {name: Siedliska}
+  - {name: Skrzeszew}
+  - {name: Slawek}
+  - {name: Slomczyn}
+  - {name: Sluzewiec}
+  - {name: Stanislawowo}
+  - {name: Stara Iwiczna}
+  - {name: Stare Babice}
+  - {name: Stefanowo}
+  - {name: Strzeni}
+  - {name: Suchy Las}
+  - {name: Sulej}
+  - {name: Swierk}
+  - {name: Szamocin}
+  - {name: Tarchomin}
+  - {name: Tarczyn}
+  - {name: Targ}
+  - {name: Tomasz}
+  - {name: Trzciana}
+  - {name: Tulowice}
+  - {name: Ursus}
+  - {name: Ustan}
+  - {name: W}
+  - {name: Warsaw}
+  - {name: Wiazowna}
+  - {name: Wieliszew}
+  - {name: Wiktor}
+  - {name: Wilan}
+  - {name: Wilk}
+  - {name: Wlochy}
+  - {name: Wojciech}
+  - {name: Wola}
+  - {name: Wola Aleksandra}
+  - {name: Wola Mrokowska}
+  - {name: Wola Prazmowska}
+  - {name: Wolica}
+  - {name: Wolomin}
+  - {name: Zabki}
+  - {name: Zablocie}
+  - {name: Zabor}
+  - {name: Zakret}
+  - {name: Zakroczym}
+  - {name: Zalesie}
+  - {name: Zalesie G}
+  - {name: Zaluski}
+  - {name: Zawady}
+  - {name: Zdzary}
+  - {name: Zeran}
+  - {name: Zielonka}
+  - {name: Zielonki}
+  - {name: Zlotoklos}
+  - {name: Zoliborz}
+  code: '67'
+  name: Warszawa
+- cities:
+  - {name: Poznan}
+  code: '86'
+  name: Wielkopolskie
+- cities:
+  - {name: Aleksandr}
+  - {name: Baruchowo}
+  - {name: Boniewo}
+  - {name: Broniewo}
+  - {name: Bronislaw}
+  - {name: Brzesc Kujawski}
+  - {name: Byton}
+  - {name: Chodecz}
+  - {name: Chrostkowo}
+  - {name: Ciechocinek}
+  - {name: Czerniewice}
+  - {name: Czernikowo}
+  - {name: Dobrzyn Nad Wisla}
+  - {name: Fabianki}
+  - {name: Grupa}
+  - {name: Hotel}
+  - {name: Izbica Kujawska}
+  - {name: J}
+  - {name: Kikol}
+  - {name: Klobka}
+  - {name: Klon}
+  - {name: Koneck}
+  - {name: Kowal}
+  - {name: Kruszynek}
+  - {name: Kuczek}
+  - {name: Kuta}
+  - {name: Lipno}
+  - {name: Lochocin}
+  - {name: Lubanie}
+  - {name: Lubien Kujawski}
+  - {name: Lubraniec}
+  - {name: Nasiegniewo}
+  - {name: Odolion}
+  - {name: Okalewo}
+  - {name: Osieciny}
+  - {name: Piotrk}
+  - {name: Poddebice}
+  - {name: Polska}
+  - {name: Probostwo}
+  - {name: Przybranowo}
+  - {name: Przysiek}
+  - {name: Raciazek}
+  - {name: Rogowo}
+  - {name: Rypin}
+  - {name: Sedzin}
+  - {name: Siniarzewo}
+  - {name: Skepe}
+  - {name: Skrwilno}
+  - {name: Sluzewo}
+  - {name: Stary Brzesc}
+  - {name: Strzygi}
+  - {name: Sz}
+  - {name: Szpetal G}
+  - {name: Szybka}
+  - {name: Tluchowo}
+  - {name: Toporzyszczewo}
+  - {name: Urszulewo}
+  - {name: Waganiec}
+  - {name: Wawal}
+  - {name: Wloclawek}
+  - {name: Zbrachlin}
+  code: '68'
+  name: Wloclawek
+- cities:
+  - {name: Bielany Wroclawskie}
+  - {name: Bierut}
+  - {name: Bogun}
+  - {name: Boguszyce}
+  - {name: Borowa}
+  - {name: Broch}
+  - {name: Brzeg Dolny}
+  - {name: Brzezina}
+  - {name: Bukownica}
+  - {name: Bystrzyca}
+  - {name: Chociw}
+  - {name: Ciech}
+  - {name: Cieszk}
+  - {name: Czernica}
+  - {name: Dankowice}
+  - {name: Debniki}
+  - {name: Dobrogoszcz}
+  - {name: Dobroszyce}
+  - {name: Domani}
+  - {name: Domaslaw}
+  - {name: Dragow}
+  - {name: Fabryczna}
+  - {name: G}
+  - {name: G}
+  - {name: Gajk}
+  - {name: Gebice}
+  - {name: Gesiniec}
+  - {name: Gleboka}
+  - {name: Glebowice}
+  - {name: Gniechowice}
+  - {name: Goledzinow}
+  - {name: Goszcz}
+  - {name: Grab}
+  - {name: Grabownica}
+  - {name: Gut}
+  - {name: Iwiny}
+  - {name: Jakubowice}
+  - {name: Janik}
+  - {name: Jedrzychowice}
+  - {name: Jerzmanowo}
+  - {name: Jezierzyce}
+  - {name: Jordan}
+  - {name: Jordanow Slaski}
+  - {name: Juszczyn}
+  - {name: Kani}
+  - {name: Karczyce}
+  - {name: Karlowice}
+  - {name: Katy Wroclawskie}
+  - {name: Kielczow}
+  - {name: Kobierzyce}
+  - {name: Komorowice}
+  - {name: Kondratowice}
+  - {name: Korzensko}
+  - {name: Kostomloty}
+  - {name: Kotowice}
+  - {name: Krosnice}
+  - {name: Kryniczno}
+  - {name: Krzel}
+  - {name: Krzepice}
+  - {name: Krzydlina Wielka}
+  - {name: Krzyki}
+  - {name: Kuklice}
+  - {name: Kun}
+  - {name: Laskowa}
+  - {name: Laskowice}
+  - {name: Lipowa}
+  - {name: Lozina}
+  - {name: Lubiaz}
+  - {name: Lutynia}
+  - {name: Malczyce}
+  - {name: Male}
+  - {name: Mani}
+  - {name: Marcinkowice}
+  - {name: Miekinia}
+  - {name: Mierzyn}
+  - {name: Mietk}
+  - {name: Milicz}
+  - {name: Miloszyce}
+  - {name: Miroslawice}
+  - {name: Mroz}
+  - {name: Myszkowice}
+  - {name: Nadolice Wielkie}
+  - {name: Oborniki Slaskie}
+  - {name: Olawa}
+  - {name: Olesnica}
+  - {name: Oleszna}
+  - {name: Oltaszyn}
+  - {name: Osno}
+  - {name: Osola}
+  - {name: Osolin}
+  - {name: Owczary}
+  - {name: Pecz}
+  - {name: Pegow}
+  - {name: Pelczyce}
+  - {name: Pietrzykowice}
+  - {name: Pilawa}
+  - {name: Piotrk}
+  - {name: Popowice}
+  - {name: Prusice}
+  - {name: Psie Pole}
+  - {name: Pustkow}
+  - {name: Rakoszyce}
+  - {name: Rakowice}
+  - {name: Rog}
+  - {name: Sadk}
+  - {name: Sadowice}
+  - {name: Scinawa}
+  - {name: Scinawa Polska}
+  - {name: Siechnice}
+  - {name: Siedlec}
+  - {name: Sieniawka}
+  - {name: Skarszyn}
+  - {name: Skokowa}
+  - {name: Smogorz}
+  - {name: Smolec}
+  - {name: Smolice}
+  - {name: Smolna}
+  - {name: Sob}
+  - {name: Sokolowice}
+  - {name: Solna}
+  - {name: Sosnica}
+  - {name: Sroda}
+  - {name: Sroda Slaska}
+  - {name: Srodmiescie}
+  - {name: Stanica}
+  - {name: Stanowice}
+  - {name: Stobno}
+  - {name: Stroza}
+  - {name: Strupina}
+  - {name: Strzelin}
+  - {name: Sulow}
+  - {name: Swiatniki}
+  - {name: Swieta Katarzyna}
+  - {name: Swiete}
+  - {name: Szczepan}
+  - {name: Tomice}
+  - {name: Trzebnica}
+  - {name: Twardog}
+  - {name: Wawrzenczyce}
+  - {name: Wiazow}
+  - {name: Widawa}
+  - {name: Wielki}
+  - {name: Wilczk}
+  - {name: Wilczkowice}
+  - {name: Wilkowice}
+  - {name: Winsko}
+  - {name: Wojnarowice}
+  - {name: Wojnowice}
+  - {name: Wolow}
+  - {name: Zawidowice}
+  - {name: Zawonia}
+  - {name: Zerniki}
+  - {name: Zerniki Wroctawskie}
+  - {name: Zlotow}
+  - {name: Zmigrod}
+  - {name: Zorawina}
+  code: '69'
+  name: Wroclaw
+- cities:
+  - {name: B}
+  - {name: Bahn}
+  - {name: Banie}
+  - {name: Barkowo}
+  - {name: Barlinek}
+  - {name: Barnislaw}
+  - {name: Barwice}
+  - {name: Barzkowice}
+  - {name: Baszewice}
+  - {name: Berlinek}
+  - {name: Bialoboki}
+  - {name: Bialogard}
+  - {name: Bialy Bor}
+  - {name: Bierzwnik}
+  - {name: Biesiekierz}
+  - {name: Bobolice}
+  - {name: Bobrowice}
+  - {name: Boleslawice}
+  - {name: Boleszkowice}
+  - {name: Bolewice}
+  - {name: Bolk}
+  - {name: Bonin}
+  - {name: Borkowo}
+  - {name: Borne}
+  - {name: Borzecin}
+  - {name: Bralecin}
+  - {name: Bren}
+  - {name: Brojce}
+  - {name: Brz}
+  - {name: Cedynia}
+  - {name: Chlopy}
+  - {name: Chmielno}
+  - {name: Chociwel}
+  - {name: Chojna}
+  - {name: Choszczno}
+  - {name: Chrzastowo}
+  - {name: Cisowo}
+  - {name: Czaplinek}
+  - {name: Czarnocin}
+  - {name: Czarnowo}
+  - {name: Czechy}
+  - {name: Czepino}
+  - {name: Czlopa}
+  - {name: Dabki}
+  - {name: Darlowko}
+  - {name: Darlowo}
+  - {name: Debno}
+  - {name: Dobre}
+  - {name: Dobrzany}
+  - {name: Dobrzyca}
+  - {name: Dolice}
+  - {name: Dolsk}
+  - {name: Drawno}
+  - {name: Drawsko}
+  - {name: Drawsko Pomorskie}
+  - {name: Drozdowo}
+  - {name: Drzewica}
+  - {name: Drzonowo}
+  - {name: Dygowo}
+  - {name: Dziwn}
+  - {name: Dziwn}
+  - {name: Dzwirzyno}
+  - {name: G}
+  - {name: Golczewo}
+  - {name: Goleni}
+  - {name: Golenice}
+  - {name: Goscino}
+  - {name: Gostomia}
+  - {name: Gozd}
+  - {name: Gryfice}
+  - {name: Gryfickie}
+  - {name: Gryfino}
+  - {name: Grzybno}
+  - {name: Insko}
+  - {name: Jablonowo}
+  - {name: Jadwizyn}
+  - {name: Jaroslawiec}
+  - {name: Jelonek}
+  - {name: Jeziorki}
+  - {name: Jeziorna}
+  - {name: Kalina}
+  - {name: Kaliska}
+  - {name: Kamien Pomorski}
+  - {name: Kania}
+  - {name: Karlino}
+  - {name: Karpin}
+  - {name: Karsin}
+  - {name: Karwice}
+  - {name: Kedzierzyn}
+  - {name: Kepica}
+  - {name: Kielpino}
+  - {name: Kijewo}
+  - {name: Klebow}
+  - {name: Klebowiec}
+  - {name: Kleby}
+  - {name: Kliniska}
+  - {name: Klodzino}
+  - {name: Kluki}
+  - {name: Kobylanka}
+  - {name: Kodrab}
+  - {name: Kolbaskowo}
+  - {name: Kolczewo}
+  - {name: Kolobrzeg}
+  - {name: Konikowo}
+  - {name: Konotop}
+  - {name: Kopanino}
+  - {name: Koszalin}
+  - {name: Kotlowo}
+  - {name: Kowalewice}
+  - {name: Kozielice}
+  - {name: Krakowa}
+  - {name: Krepsko}
+  - {name: Krzecin}
+  - {name: Krzemlin}
+  - {name: Krzym}
+  - {name: Lacko}
+  - {name: Ladzin}
+  - {name: Lawy}
+  - {name: Leczno}
+  - {name: Legi}
+  - {name: Leknica}
+  - {name: Lekno}
+  - {name: Lekowo}
+  - {name: Linie}
+  - {name: Lipiany}
+  - {name: Lobez}
+  - {name: Lozienica}
+  - {name: Lubczyna}
+  - {name: Lubiana}
+  - {name: Lubianka}
+  - {name: Lubicz}
+  - {name: Lukecin}
+  - {name: Malechowo}
+  - {name: Manowo}
+  - {name: Miedzywodzie}
+  - {name: Miedzyzdroje}
+  - {name: Mielecin}
+  - {name: Mielenko}
+  - {name: Mielno}
+  - {name: Mielno Koszalinskie}
+  - {name: Mieszkowice}
+  - {name: Milakowo}
+  - {name: Miroslawiec}
+  - {name: Mirotki}
+  - {name: Moryn}
+  - {name: Morzyczyn}
+  - {name: Mostkowo}
+  - {name: Mosty}
+  - {name: Mrzezyno}
+  - {name: Mscice}
+  - {name: Mysliborz}
+  - {name: Nadarzyn}
+  - {name: Nest}
+  - {name: Niechorze}
+  - {name: Nowe Bielice}
+  - {name: Nowe Czarnowo}
+  - {name: Nowe Warpno}
+  - {name: Nowogard}
+  - {name: Nowogr}
+  - {name: Objezierze}
+  - {name: Obryta}
+  - {name: Oleszno}
+  - {name: Orla}
+  - {name: Orle}
+  - {name: Osin}
+  - {name: Osina}
+  - {name: Ostror}
+  - {name: Ostrowice}
+  - {name: Pakosc}
+  - {name: Pezino}
+  - {name: Pilchowo}
+  - {name: Pile}
+  - {name: Plesna}
+  - {name: Plochocin}
+  - {name: Plociczno}
+  - {name: Plonia}
+  - {name: Ploty}
+  - {name: Pobierowo}
+  - {name: Podansko}
+  - {name: Podjuchy}
+  - {name: Pogorzelica}
+  - {name: Polan}
+  - {name: Polchowo}
+  - {name: Police}
+  - {name: Pomianowo}
+  - {name: Pomorskie}
+  - {name: Postomino}
+  - {name: Powidz}
+  - {name: Przelewice}
+  - {name: Przemyslaw}
+  - {name: Przybiern}
+  - {name: Przyt}
+  - {name: Pucice}
+  - {name: Pustary}
+  - {name: Pyrzyce}
+  - {name: R}
+  - {name: Rabino}
+  - {name: Radowo Male}
+  - {name: Rebusz}
+  - {name: Reclaw}
+  - {name: Recz}
+  - {name: Redlo}
+  - {name: Redziny}
+  - {name: Renice}
+  - {name: Resko}
+  - {name: Rewal}
+  - {name: Rog}
+  - {name: Roman}
+  - {name: Roznowo}
+  - {name: Runowo}
+  - {name: Rurka}
+  - {name: Rusinowo}
+  - {name: Rusko}
+  - {name: Rychn}
+  - {name: Ryman}
+  - {name: Rzeskowo}
+  - {name: Sadlno}
+  - {name: Sadlowo}
+  - {name: Sadow}
+  - {name: Sian}
+  - {name: Siemysl}
+  - {name: Sieroslaw}
+  - {name: Skibno}
+  - {name: Slawa}
+  - {name: Slawno}
+  - {name: Slawoborze}
+  - {name: Slawsko}
+  - {name: Stanomino}
+  - {name: Stare Bielice}
+  - {name: Stare Czarnowo}
+  - {name: Stargard}
+  - {name: Stargard Szczecinski}
+  - {name: Starogard}
+  - {name: Stary Jaroslaw}
+  - {name: Stepnica}
+  - {name: Stopnica}
+  - {name: Strachocin}
+  - {name: Strzekecino}
+  - {name: Suchan}
+  - {name: Sulimierz}
+  - {name: Sulinowo}
+  - {name: Swidwin}
+  - {name: Swierzno}
+  - {name: Swieszyno}
+  - {name: Swinoujscie}
+  - {name: Szczecin}
+  - {name: Szczecinek}
+  - {name: Szczecinska}
+  - {name: Tanowo}
+  - {name: Tarnowo}
+  - {name: Trabki}
+  - {name: Troszyn}
+  - {name: Trzciniec}
+  - {name: Trzcinsko Zdroj}
+  - {name: Trzebiat}
+  - {name: Trzebiez}
+  - {name: Trzeszczyn}
+  - {name: Tuczno}
+  - {name: Tychowo}
+  - {name: Tymien}
+  - {name: Uniescie}
+  - {name: Ustronie Morskie}
+  - {name: Walcz}
+  - {name: Warszewo}
+  - {name: Warzymice}
+  - {name: Wawelnica}
+  - {name: Wegorzyno}
+  - {name: Wicko}
+  - {name: Widuchowa}
+  - {name: Wielin}
+  - {name: Wierzbiecin}
+  - {name: Wierzchlas}
+  - {name: Wierzchowo}
+  - {name: Witkowo}
+  - {name: Witnica}
+  - {name: Wolczkowo}
+  - {name: Wolin}
+  - {name: Wrzosowo}
+  - {name: Zabrowo}
+  - {name: Zalom}
+  - {name: Zapolice}
+  - {name: Zarnowo}
+  - {name: Zegrze}
+  - {name: Zeliszewo}
+  - {name: Zieleniewo}
+  - {name: Zlocieniec}
+  - {name: Zoledowo}
+  - {name: Zukowo}
+  - {name: Zwartowo}
+  - {name: Zwierzyn}
+  code: '87'
+  name: Zachodniopomorskie
+- cities:
+  - {name: Abram}
+  - {name: Adam}
+  - {name: Bagatela}
+  - {name: Belzec}
+  - {name: Bilgoraj}
+  - {name: Biskupie}
+  - {name: Biszcza}
+  - {name: Bodacz}
+  - {name: Brudek}
+  - {name: Czerkasy}
+  - {name: Dolhobyczow}
+  - {name: Frampol}
+  - {name: G}
+  - {name: Goraj Lubelski}
+  - {name: Gr}
+  - {name: Gromada}
+  - {name: Gruszka Zaporska}
+  - {name: Horodlo}
+  - {name: Hrebenne}
+  - {name: Hrubiesz}
+  - {name: Jarcz}
+  - {name: Kalin}
+  - {name: Komar}
+  - {name: Krasnobr}
+  - {name: Krylow}
+  - {name: Krynice}
+  - {name: Krynki}
+  - {name: Ksiezpol}
+  - {name: Labunie}
+  - {name: Laskow}
+  - {name: Laszczow}
+  - {name: Laszczowka}
+  - {name: Lipiny Dolne}
+  - {name: Liwcze}
+  - {name: Lubycza Kr}
+  - {name: Lukowa}
+  - {name: Luszczow}
+  - {name: Majdan G}
+  - {name: Marta}
+  - {name: Mircze}
+  - {name: Nieledew}
+  - {name: Nielisz}
+  - {name: Nowa Osada}
+  - {name: Obsza}
+  - {name: Oseredek}
+  - {name: Perespa}
+  - {name: Ploskie}
+  - {name: Pomiary}
+  - {name: Poraj}
+  - {name: Rachanie}
+  - {name: Radecznica}
+  - {name: Radk}
+  - {name: Rozaniec}
+  - {name: Sitaniec}
+  - {name: Sitno}
+  - {name: Skierbiesz}
+  - {name: Strzyzow}
+  - {name: Susiec}
+  - {name: Szczebrzeszyn}
+  - {name: Tarnawatka}
+  - {name: Tarnogr}
+  - {name: Telatyn}
+  - {name: Tereszpol}
+  - {name: Tomasz}
+  - {name: Trzeszczany}
+  - {name: Turobin}
+  - {name: Tyszowce}
+  - {name: Ulh}
+  - {name: Werbkowice}
+  - {name: Wielacza}
+  - {name: Wronowice}
+  - {name: Zakrzew}
+  - {name: Zamosc}
+  - {name: Zielone}
+  - {name: Zlojec}
+  - {name: Zolkiew}
+  - {name: Zolkiewka}
+  - {name: Zolkiewka-osada}
+  - {name: Zubowice}
+  - {name: Zurawce}
+  code: '70'
+  name: Zamosc
+- cities:
+  - {name: Babimost}
+  - {name: Bedow}
+  - {name: Biecz}
+  - {name: Bocz}
+  - {name: Bogacz}
+  - {name: Bogumil}
+  - {name: Bojadla}
+  - {name: Buchalow}
+  - {name: Bytnica}
+  - {name: Checiny}
+  - {name: Chobienice}
+  - {name: Chorzemin}
+  - {name: Chyn}
+  - {name: Cigacice}
+  - {name: Cybinka}
+  - {name: Czerwiensk}
+  - {name: Dobrzyn}
+  - {name: Drzonk}
+  - {name: Gadkow Maly}
+  - {name: Gluchow}
+  - {name: Gluszyca}
+  - {name: Godziszewo}
+  - {name: Gozdnica}
+  - {name: Grodziszcze}
+  - {name: Gubin}
+  - {name: Kalinowo}
+  - {name: Kargowa}
+  - {name: Karpicko}
+  - {name: Kije}
+  - {name: Klenica}
+  - {name: Kolsko}
+  - {name: Kopanica}
+  - {name: Kosarzyn}
+  - {name: Kosieczyn}
+  - {name: Kozminek}
+  - {name: Kozuchow}
+  - {name: Krosno Odrzanskie}
+  - {name: Leczyca}
+  - {name: Letnica}
+  - {name: Lipinki Luzyckie}
+  - {name: Lipna}
+  - {name: Lochowo}
+  - {name: Lubiecin}
+  - {name: Lubiesz}
+  - {name: Lubinicko}
+  - {name: Lubna}
+  - {name: Lubrza}
+  - {name: Lubsko}
+  - {name: Lugow}
+  - {name: Malomice}
+  - {name: Malowice}
+  - {name: Marsz}
+  - {name: Modrzyca}
+  - {name: Niedoradz}
+  - {name: Niegoslawice}
+  - {name: Nowa S}
+  - {name: Nowe Kramsko}
+  - {name: Nowe Miasteczko}
+  - {name: Nowogr}
+  - {name: Nowogrod Bobrzanski}
+  - {name: Olbrachtow}
+  - {name: Otyn}
+  - {name: Pajeczno}
+  - {name: Podmokle Male}
+  - {name: Polupin}
+  - {name: Popeszyce}
+  - {name: Przylep}
+  - {name: Przyprostynia}
+  - {name: Puszk}
+  - {name: Racula}
+  - {name: Radowice}
+  - {name: Rapice}
+  - {name: Rybaki}
+  - {name: Siecieborzyce}
+  - {name: Sieniawa}
+  - {name: Stanow}
+  - {name: Stare Stracze}
+  - {name: Staropole}
+  - {name: Stary Kisielin}
+  - {name: Stary Raduszec}
+  - {name: Stary Staw}
+  - {name: Stary Widzim}
+  - {name: Sulech}
+  - {name: Swiercze}
+  - {name: Swietno}
+  - {name: Szprotawa}
+  - {name: Torzym}
+  - {name: Trzebiech}
+  - {name: Trzebiel}
+  - {name: Tuplice}
+  - {name: Wiechlice}
+  - {name: Witoszyn G}
+  - {name: Wolsztyn}
+  - {name: Wymiarki}
+  - {name: Wysokie}
+  - {name: Zab}
+  - {name: Zagan}
+  - {name: Zary}
+  - {name: Zbaszyn}
+  - {name: Zbaszynek}
+  - {name: Zodyn}
+  code: '71'
+  name: Zielona Gora

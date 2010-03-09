@@ -1,0 +1,1641 @@
+- cities:
+  - {name: Brasil}
+  - {name: Cear}
+  - {name: Cruzeiro Do Sul}
+  - {name: Empr}
+  - {name: Maranguape}
+  - {name: Merc}
+  - {name: Minas Gerais}
+  - {name: Rio Branco}
+  - {name: Tarauac}
+  code: '01'
+  name: Acre
+- cities:
+  - {name: Arapiraca}
+  - {name: Batalha}
+  - {name: Delmiro Gouveia}
+  - {name: Jundi}
+  - {name: Macei}
+  - {name: Marechal Deodoro}
+  - {name: Marituba}
+  - {name: Nossa Senhora}
+  - {name: Penedo}
+  - {name: Pessoa}
+  - {name: Pilar}
+  - {name: Presidente Dutra}
+  - {name: Rio Largo}
+  - {name: S}
+  - {name: Santana Do Ipanema}
+  - {name: Satuba}
+  code: '02'
+  name: Alagoas
+- cities:
+  - {name: Macap}
+  - {name: Oiapoque}
+  - {name: S}
+  code: '03'
+  name: Amapa
+- cities:
+  - {name: B}
+  - {name: Esta}
+  - {name: Humait}
+  - {name: Iranduba}
+  - {name: Itacoatiara}
+  - {name: J}
+  - {name: Manacapuru}
+  - {name: Manaus}
+  - {name: Mau}
+  - {name: P}
+  - {name: Parintins}
+  - {name: S}
+  - {name: Tabatinga}
+  - {name: Tef}
+  code: '04'
+  name: Amazonas
+- cities:
+  - {name: ''}
+  - {name: ''}
+  - {name: Alagoinhas}
+  - {name: Amargosa}
+  - {name: Amaz}
+  - {name: Apuarema}
+  - {name: Avenida}
+  - {name: Bahia}
+  - {name: Banco}
+  - {name: Barra}
+  - {name: Barra Da Estiva}
+  - {name: Barrac}
+  - {name: Barreiras}
+  - {name: Belmonte}
+  - {name: Benedito}
+  - {name: Bento}
+  - {name: Bernardo}
+  - {name: Biritinga}
+  - {name: Bom Jesus Da Lapa}
+  - {name: Brumado}
+  - {name: Buerarema}
+  - {name: Cachoeira}
+  - {name: Caetit}
+  - {name: Cal}
+  - {name: Cama}
+  - {name: Campina}
+  - {name: Candeias}
+  - {name: Casa Nova}
+  - {name: Catu}
+  - {name: Coaraci}
+  - {name: Com}
+  - {name: Concei}
+  - {name: Conde}
+  - {name: Cruz Das Almas}
+  - {name: Dias D'avila}
+  - {name: Entre Rios}
+  - {name: Esplanada}
+  - {name: Estrada}
+  - {name: F}
+  - {name: Feira De Santana}
+  - {name: Freitas}
+  - {name: Gabriel}
+  - {name: Gandu}
+  - {name: Guanambi}
+  - {name: Ibirapu}
+  - {name: Igua}
+  - {name: Ilh}
+  - {name: Inhambupe}
+  - {name: Ipia}
+  - {name: Irec}
+  - {name: Itaberaba}
+  - {name: Itabuna}
+  - {name: Itamaraju}
+  - {name: Itapetinga}
+  - {name: Itarantim}
+  - {name: Itupeva}
+  - {name: Jacaraci}
+  - {name: Jacobina}
+  - {name: Jaguarari}
+  - {name: Jequi}
+  - {name: Ju}
+  - {name: Lajed}
+  - {name: Livramento}
+  - {name: Madre De Deus}
+  - {name: Marac}
+  - {name: Maragogipe}
+  - {name: Mascote}
+  - {name: Medeiros Neto}
+  - {name: Miguel Calmon}
+  - {name: Montes}
+  - {name: Mucuri}
+  - {name: Nazar}
+  - {name: Nova Vi}
+  - {name: P}
+  - {name: Par}
+  - {name: Paripe}
+  - {name: Paulo Afonso}
+  - {name: Pedro}
+  - {name: Pereira}
+  - {name: Pojuca}
+  - {name: Prado}
+  - {name: Ruy Barbosa}
+  - {name: S}
+  - {name: Salvador}
+  - {name: Santana}
+  - {name: Santo}
+  - {name: Santo Amaro}
+  - {name: Santo Ant}
+  - {name: Senhor Do Bonfim}
+  - {name: Serrinha}
+  - {name: Sobradinho}
+  - {name: Trancoso}
+  - {name: Valen}
+  - {name: Venda Nova}
+  - {name: Ventura}
+  - {name: Vera Cruz}
+  - {name: Vit}
+  code: '05'
+  name: Bahia
+- cities:
+  - {name: ''}
+  - {name: Acara}
+  - {name: Aquiraz}
+  - {name: Aracati}
+  - {name: Araripe}
+  - {name: Aurora}
+  - {name: Barbalha}
+  - {name: C}
+  - {name: Camocim}
+  - {name: Canind}
+  - {name: Carnaubal}
+  - {name: Caucaia}
+  - {name: Cedro}
+  - {name: Crato}
+  - {name: Cruz}
+  - {name: Diogo}
+  - {name: Fortaleza}
+  - {name: Horizonte}
+  - {name: Icapu}
+  - {name: Iguatu}
+  - {name: Independ}
+  - {name: Ipu}
+  - {name: Itapag}
+  - {name: Itapipoca}
+  - {name: Joaquim}
+  - {name: Juazeiro Do Norte}
+  - {name: Maracana}
+  - {name: Meruoca}
+  - {name: Morada Nova}
+  - {name: Pacajus}
+  - {name: Pereiro}
+  - {name: Quixad}
+  - {name: Quixeramobim}
+  - {name: Reden}
+  - {name: Russas}
+  - {name: Sobral}
+  - {name: Tabuleiro Do Norte}
+  - {name: Tau}
+  - {name: Tiangu}
+  - {name: Uruburetama}
+  - {name: Vila Rica}
+  code: '06'
+  name: Ceara
+- cities:
+  - {name: Bras}
+  - {name: Brasil}
+  - {name: Ceil}
+  - {name: Gama}
+  - {name: N}
+  - {name: Planaltina}
+  code: '07'
+  name: Distrito Federal
+- cities:
+  - {name: Alegre}
+  - {name: Anchieta}
+  - {name: Aracruz}
+  - {name: Araguaia}
+  - {name: Baixo Guandu}
+  - {name: Cachoeiro De Itapemirim}
+  - {name: Carapina}
+  - {name: Cariacica}
+  - {name: Castelo}
+  - {name: Colatina}
+  - {name: Companhia}
+  - {name: Cristal}
+  - {name: Domingos Martins}
+  - {name: Guarapari}
+  - {name: Ibatiba}
+  - {name: Ibira}
+  - {name: Iconha}
+  - {name: Industrial}
+  - {name: Itagua}
+  - {name: Itapemirim}
+  - {name: Itarana}
+  - {name: Linhares}
+  - {name: Manten}
+  - {name: Marata}
+  - {name: Mimoso Do Sul}
+  - {name: Muniz Freire}
+  - {name: Muqui}
+  - {name: Pancas}
+  - {name: Pernambuco}
+  - {name: Pi}
+  - {name: Rio Novo Do Sul}
+  - {name: S}
+  - {name: S}
+  - {name: Santa Teresa}
+  - {name: Serra}
+  - {name: Viana}
+  - {name: Vila Velha}
+  - {name: Vit}
+  code: 08
+  name: Espirito Santo
+- cities:
+  - {name: Americano Do Brasil}
+  - {name: An}
+  - {name: Anicuns}
+  - {name: Cabeceiras}
+  - {name: Caiap}
+  - {name: Caldas Novas}
+  - {name: Catal}
+  - {name: Catura}
+  - {name: Ceres}
+  - {name: Cristalina}
+  - {name: Formosa}
+  - {name: Goi}
+  - {name: Goi}
+  - {name: Goian}
+  - {name: Goiatuba}
+  - {name: Inhumas}
+  - {name: Ipameri}
+  - {name: Ipor}
+  - {name: Itumbiara}
+  - {name: Jaragu}
+  - {name: Jata}
+  - {name: Luzi}
+  - {name: Montividiu}
+  - {name: Morrinhos}
+  - {name: Naz}
+  - {name: Ner}
+  - {name: Niquel}
+  - {name: Orizona}
+  - {name: Palmeiras De Goi}
+  - {name: Pires Do Rio}
+  - {name: Porangatu}
+  - {name: Posse}
+  - {name: Quirin}
+  - {name: Rio Verde}
+  - {name: Rubiataba}
+  - {name: Santa Helena De Goi}
+  - {name: Senador Canedo}
+  - {name: Silv}
+  - {name: Trindade}
+  - {name: Urua}
+  code: '29'
+  name: Goias
+- cities:
+  - {name: Bacabal}
+  - {name: Balsas}
+  - {name: Barra Do Corda}
+  - {name: Carolina}
+  - {name: Caxias}
+  - {name: Centro}
+  - {name: Chapad}
+  - {name: Chapadinha}
+  - {name: Cod}
+  - {name: Coelho Neto}
+  - {name: Colinas}
+  - {name: Coroat}
+  - {name: Guimar}
+  - {name: Imperatriz}
+  - {name: Itaguar}
+  - {name: P}
+  - {name: Pindar}
+  - {name: Pinheiro}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Santa Helena}
+  - {name: Santa In}
+  - {name: Timon}
+  code: '13'
+  name: Maranhao
+- cities:
+  - {name: Alta Floresta}
+  - {name: Aripuan}
+  - {name: Barra Do Gar}
+  - {name: C}
+  - {name: Cuiab}
+  - {name: Diamantino}
+  - {name: Guiratinga}
+  - {name: Jaciara}
+  - {name: Mato Grosso}
+  - {name: Nobres}
+  - {name: Pontes E Lacerda}
+  - {name: Primavera}
+  - {name: Rondon}
+  - {name: Ros}
+  - {name: Sap}
+  - {name: V}
+  code: '14'
+  name: Mato Grosso
+- cities:
+  - {name: Amamba}
+  - {name: Anast}
+  - {name: Aquidauana}
+  - {name: Bela Vista}
+  - {name: Caarap}
+  - {name: Caetano}
+  - {name: Camapu}
+  - {name: Campo Grande}
+  - {name: Campo Verde}
+  - {name: Cassil}
+  - {name: Chapada}
+  - {name: Concei}
+  - {name: Corumb}
+  - {name: Costa Rica}
+  - {name: Dourados}
+  - {name: Eldorado}
+  - {name: Esp}
+  - {name: Fortaleza}
+  - {name: Gl}
+  - {name: Gua}
+  - {name: Itapor}
+  - {name: Jardim}
+  - {name: Jatei}
+  - {name: Magalh}
+  - {name: Miranda}
+  - {name: Navira}
+  - {name: Nova}
+  - {name: Para}
+  - {name: Parana}
+  - {name: Perdizes}
+  - {name: Piratini}
+  - {name: Ponta Por}
+  - {name: Rancho}
+  - {name: Rio Brilhante}
+  - {name: Rio Verde}
+  - {name: Rio Verde De Mato Grosso}
+  - {name: S}
+  - {name: S}
+  - {name: Santa}
+  - {name: Santa Tereza}
+  - {name: Sidrol}
+  - {name: Terenos}
+  - {name: Tr}
+  - {name: Turvo}
+  code: '11'
+  name: Mato Grosso do Sul
+- cities:
+  - {name: A}
+  - {name: Abaet}
+  - {name: Aiuruoca}
+  - {name: Alfenas}
+  - {name: Almenara}
+  - {name: Alpin}
+  - {name: Alterosa}
+  - {name: Amarantina}
+  - {name: Andradas}
+  - {name: Araguari}
+  - {name: Arax}
+  - {name: Arcos}
+  - {name: Aricanduva}
+  - {name: Arinos}
+  - {name: Baependi}
+  - {name: Bambu}
+  - {name: Bandeira Do Sul}
+  - {name: Bar}
+  - {name: Barbacena}
+  - {name: Barroso}
+  - {name: Belo Horizonte}
+  - {name: Belo Oriente}
+  - {name: Betim}
+  - {name: Bicas}
+  - {name: Boa Esperan}
+  - {name: Bocai}
+  - {name: Bom Despacho}
+  - {name: Borda Da Mata}
+  - {name: Bras}
+  - {name: Brumadinho}
+  - {name: Caet}
+  - {name: Caldas}
+  - {name: Camanducaia}
+  - {name: Cambu}
+  - {name: Campanha}
+  - {name: Campo Belo}
+  - {name: Campos Gerais}
+  - {name: Capin}
+  - {name: Carangola}
+  - {name: Caratinga}
+  - {name: Carmo Da Cachoeira}
+  - {name: Carmo De Minas}
+  - {name: Carmo Do Cajuru}
+  - {name: Carmo Do Parana}
+  - {name: Carmo Do Rio Claro}
+  - {name: Cataguases}
+  - {name: Cataguazes}
+  - {name: Caxambu}
+  - {name: Central De Minas}
+  - {name: Centralina}
+  - {name: Cidade Industrial}
+  - {name: Cl}
+  - {name: Concei}
+  - {name: Congonhas}
+  - {name: Conselheiro Lafaiete}
+  - {name: Contagem}
+  - {name: Coromandel}
+  - {name: Coronel Fabriciano}
+  - {name: Curvelo}
+  - {name: Diamantina}
+  - {name: Divin}
+  - {name: Dores Do Indai}
+  - {name: El}
+  - {name: Esmeraldas}
+  - {name: Espera Feliz}
+  - {name: Extrema}
+  - {name: Formiga}
+  - {name: Frutal}
+  - {name: Governador Valadares}
+  - {name: Guanh}
+  - {name: Guaxup}
+  - {name: Guilhermino}
+  - {name: Heliodora}
+  - {name: Ibirit}
+  - {name: Ibiti}
+  - {name: Igarap}
+  - {name: Inhapim}
+  - {name: Ipanema}
+  - {name: Ipatinga}
+  - {name: Ita}
+  - {name: Ita}
+  - {name: Itabira}
+  - {name: Itabirito}
+  - {name: Itajub}
+  - {name: Itamarandiba}
+  - {name: Itamonte}
+  - {name: Itanhandu}
+  - {name: Itapagipe}
+  - {name: Itinga}
+  - {name: Itueta}
+  - {name: Ituiutaba}
+  - {name: Jaboticatubas}
+  - {name: Jacutinga}
+  - {name: Jana}
+  - {name: Janu}
+  - {name: Jo}
+  - {name: Jo}
+  - {name: Juatuba}
+  - {name: Juiz De Fora}
+  - {name: Justin}
+  - {name: Lagoa Da Prata}
+  - {name: Lagoa Santa}
+  - {name: Lambari}
+  - {name: Lavras}
+  - {name: Leopoldina}
+  - {name: Machado}
+  - {name: Manhua}
+  - {name: Mantena}
+  - {name: Mariana}
+  - {name: Matias Barbosa}
+  - {name: Matozinhos}
+  - {name: Minas Novas}
+  - {name: Monte Alegre De Minas}
+  - {name: Monte Carmelo}
+  - {name: Monte Verde}
+  - {name: Montes Claros}
+  - {name: Muria}
+  - {name: Mutum}
+  - {name: Muzambinho}
+  - {name: Nanuque}
+  - {name: Nepomuceno}
+  - {name: Nova Era}
+  - {name: Nova Lima}
+  - {name: Nova Serrana}
+  - {name: Oliveira}
+  - {name: Ouro Branco}
+  - {name: Ouro Pr}
+  - {name: Paiva}
+  - {name: Par}
+  - {name: Paracatu}
+  - {name: Paragua}
+  - {name: Parais}
+  - {name: Paraopeba}
+  - {name: Passa Quatro}
+  - {name: Passos}
+  - {name: Patos De Minas}
+  - {name: Patroc}
+  - {name: Pedro Leopoldo}
+  - {name: Perd}
+  - {name: Perdizes}
+  - {name: Pinhais}
+  - {name: Pira}
+  - {name: Piranguinho}
+  - {name: Pirapora}
+  - {name: Pitangui}
+  - {name: Piu}
+  - {name: Po}
+  - {name: Ponte Nova}
+  - {name: Pouso Alegre}
+  - {name: Prata}
+  - {name: Quinzinho}
+  - {name: Raul Soares}
+  - {name: Resplendor}
+  - {name: Ribeir}
+  - {name: Rio Novo}
+  - {name: Rio Pomba}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Sabar}
+  - {name: Sabin}
+  - {name: Sacramento}
+  - {name: Salinas}
+  - {name: Santa B}
+  - {name: Santa Luzia}
+  - {name: Santa Rita Do Sapuca}
+  - {name: Santana Do Jacar}
+  - {name: Santana Do Para}
+  - {name: Santo Ant}
+  - {name: Santo Ant}
+  - {name: Santos Dumont}
+  - {name: Sapuca}
+  - {name: Senhora Do Carmo}
+  - {name: Serra Do Salitre}
+  - {name: Sete Lagoas}
+  - {name: Sobr}
+  - {name: Taiobeiras}
+  - {name: Tarumirim}
+  - {name: Te}
+  - {name: Teixeiras}
+  - {name: Tim}
+  - {name: Tiradentes}
+  - {name: Tiros}
+  - {name: Tombos}
+  - {name: Top}
+  - {name: Tr}
+  - {name: Tr}
+  - {name: Tupaciguara}
+  - {name: Ub}
+  - {name: Ubaporanga}
+  - {name: Uberaba}
+  - {name: Uberl}
+  - {name: Una}
+  - {name: Varginha}
+  - {name: Vespasiano}
+  - {name: Vi}
+  - {name: Visconde Do Rio Branco}
+  code: '15'
+  name: Minas Gerais
+- cities:
+  - {name: Altamira}
+  - {name: Ananindeua}
+  - {name: Barcarena}
+  - {name: Bel}
+  - {name: Benevides}
+  - {name: Bragan}
+  - {name: Breves}
+  - {name: Capanema}
+  - {name: Caraj}
+  - {name: Castanhal}
+  - {name: Castell}
+  - {name: Concei}
+  - {name: Francisco}
+  - {name: Gurgel}
+  - {name: Itaituba}
+  - {name: Jo}
+  - {name: Marab}
+  - {name: Moju}
+  - {name: Monte Dourado}
+  - {name: Nova Timboteua}
+  - {name: Paragominas}
+  - {name: S}
+  - {name: Santar}
+  - {name: Soure}
+  - {name: Tucum}
+  - {name: Tucuru}
+  - {name: Vicente}
+  code: '16'
+  name: Para
+- cities:
+  - {name: Alhandra}
+  - {name: Angelica}
+  - {name: Arara}
+  - {name: Araruna}
+  - {name: Areia}
+  - {name: Areial}
+  - {name: Baixo}
+  - {name: Barros}
+  - {name: Bayeux}
+  - {name: Boqueir}
+  - {name: Cabedelo}
+  - {name: Caj}
+  - {name: Campina Grande}
+  - {name: Guarabira}
+  - {name: Itaporanga}
+  - {name: Jo}
+  - {name: Mamanguape}
+  - {name: Monteiro}
+  - {name: Nova Floresta}
+  - {name: Patos}
+  - {name: Pedra Lavrada}
+  - {name: Santa Rita}
+  - {name: Sol}
+  - {name: Sousa}
+  - {name: Teixeira}
+  code: '17'
+  name: Paraiba
+- cities:
+  - {name: ''}
+  - {name: Almirante Tamandar}
+  - {name: Andir}
+  - {name: Antonina}
+  - {name: Apucarana}
+  - {name: Arapongas}
+  - {name: Arapoti}
+  - {name: Arauc}
+  - {name: Assa}
+  - {name: Astorga}
+  - {name: Bandeirantes}
+  - {name: Barbosa Ferraz}
+  - {name: Bituruna}
+  - {name: C}
+  - {name: C}
+  - {name: Camb}
+  - {name: Cambar}
+  - {name: Cambira}
+  - {name: Campina Grande Do Sul}
+  - {name: Campo Largo}
+  - {name: Campo Mour}
+  - {name: Cap}
+  - {name: Carambe}
+  - {name: Cascavel}
+  - {name: Castro}
+  - {name: Catanduvas}
+  - {name: Cianorte}
+  - {name: Cidade Ga}
+  - {name: Clevel}
+  - {name: Colombo}
+  - {name: Colorado}
+  - {name: Corn}
+  - {name: Coronel Vivida}
+  - {name: Cruzeiro Do Oeste}
+  - {name: Curitiba}
+  - {name: Diamante}
+  - {name: Dois Vizinhos}
+  - {name: Engenheiro Beltr}
+  - {name: Faxinal}
+  - {name: Flora}
+  - {name: Foz Do Igua}
+  - {name: Francisco Alves}
+  - {name: Francisco Beltr}
+  - {name: Guarania}
+  - {name: Guarapuava}
+  - {name: Guaratuba}
+  - {name: Ibaiti}
+  - {name: Ibipor}
+  - {name: Icara}
+  - {name: Imbituva}
+  - {name: Ipiranga}
+  - {name: Irati}
+  - {name: Itaperu}
+  - {name: Ivaipor}
+  - {name: Jacar}
+  - {name: Jaguaria}
+  - {name: Jandaia Do Sul}
+  - {name: Joaquim T}
+  - {name: Jussara}
+  - {name: Lapa}
+  - {name: Laranjeiras Do Sul}
+  - {name: Loanda}
+  - {name: Lobato}
+  - {name: Londrina}
+  - {name: Mandagua}
+  - {name: Mandaguari}
+  - {name: Mandirituba}
+  - {name: Mangueirinha}
+  - {name: Marechal C}
+  - {name: Marialva}
+  - {name: Maring}
+  - {name: Matel}
+  - {name: Matinhos}
+  - {name: Medianeira}
+  - {name: Moreira Sales}
+  - {name: Morretes}
+  - {name: Nova Aurora}
+  - {name: Nova Esperan}
+  - {name: Pai}
+  - {name: Palmeira}
+  - {name: Palotina}
+  - {name: Paranacity}
+  - {name: Paranagu}
+  - {name: Paranava}
+  - {name: Pato Branco}
+  - {name: Pinh}
+  - {name: Piraquara}
+  - {name: Pitanga}
+  - {name: Ponta Grossa}
+  - {name: Primeiro De Maio}
+  - {name: Prudent}
+  - {name: Quatro Barras}
+  - {name: Realeza}
+  - {name: Reis}
+  - {name: Reserva}
+  - {name: Ribeir}
+  - {name: Rol}
+  - {name: Rondon}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Santa F}
+  - {name: Santo Ant}
+  - {name: Sarandi}
+  - {name: Sertan}
+  - {name: Tel}
+  - {name: Terra Boa}
+  - {name: Terra Rica}
+  - {name: Toledo}
+  - {name: Umuarama}
+  - {name: Uni}
+  - {name: Washington Luiz}
+  - {name: Wenceslau Braz}
+  code: '18'
+  name: Parana
+- cities:
+  - {name: Abreu E Lima}
+  - {name: Araripina}
+  - {name: Arcoverde}
+  - {name: Belo Jardim}
+  - {name: Bezerros}
+  - {name: Bom Conselho}
+  - {name: Cabo}
+  - {name: Camaragibe}
+  - {name: Carpina}
+  - {name: Caruaru}
+  - {name: Cust}
+  - {name: Escada}
+  - {name: Flores}
+  - {name: Garanhuns}
+  - {name: Goiana}
+  - {name: Gravat}
+  - {name: Ibimirim}
+  - {name: Igarassu}
+  - {name: Ipojuca}
+  - {name: Jaboat}
+  - {name: Jos}
+  - {name: L}
+  - {name: Lajedo}
+  - {name: Limoeiro}
+  - {name: Lu}
+  - {name: Ludg}
+  - {name: Mirandiba}
+  - {name: Mirim}
+  - {name: Moraes}
+  - {name: Olinda}
+  - {name: Ouricuri}
+  - {name: Palmares}
+  - {name: Paulista}
+  - {name: Pedra}
+  - {name: Pesqueira}
+  - {name: Petrol}
+  - {name: Petrolina}
+  - {name: Pombos}
+  - {name: Recife}
+  - {name: Ribeir}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Sair}
+  - {name: Salgueiro}
+  - {name: Serafina}
+  - {name: Sert}
+  - {name: Surubim}
+  - {name: Tabira}
+  - {name: Timba}
+  - {name: Tuparetama}
+  code: '30'
+  name: Pernambuco
+- cities:
+  - {name: ''}
+  - {name: Andr}
+  - {name: Barras}
+  - {name: Bom Jesus}
+  - {name: Campo Maior}
+  - {name: Cocal}
+  - {name: Corrente}
+  - {name: Floriano}
+  - {name: Fronteiras}
+  - {name: Momba}
+  - {name: Oeiras}
+  - {name: P}
+  - {name: Parna}
+  - {name: Picos}
+  - {name: Piripiri}
+  - {name: S}
+  - {name: Sim}
+  - {name: Teresina}
+  - {name: Uni}
+  - {name: Valen}
+  code: '20'
+  name: Piaui
+- cities:
+  - {name: Anchieta}
+  - {name: Angra Dos Reis}
+  - {name: Araruama}
+  - {name: Areal}
+  - {name: Arma}
+  - {name: Arraial Do Cabo}
+  - {name: Bangu}
+  - {name: Barra Do Pira}
+  - {name: Barra Mansa}
+  - {name: Belford Roxo}
+  - {name: Cabo Frio}
+  - {name: Cachoeiras De Macacu}
+  - {name: Cachoeiro}
+  - {name: Cambuci}
+  - {name: Campos}
+  - {name: Cantagalo}
+  - {name: Cardoso Moreira}
+  - {name: Carmo}
+  - {name: Copacabana}
+  - {name: Deodoro}
+  - {name: Duque De Caxias}
+  - {name: Engenho De Dentro}
+  - {name: Flamengo}
+  - {name: Guadalupe}
+  - {name: Igua}
+  - {name: Iguaba Grande}
+  - {name: Ing}
+  - {name: Itabapoana}
+  - {name: Itabora}
+  - {name: Itagua}
+  - {name: Itaocara}
+  - {name: Itaperuna}
+  - {name: Itatiaia}
+  - {name: Maca}
+  - {name: Macuco}
+  - {name: Madureira}
+  - {name: Mag}
+  - {name: Mangaratiba}
+  - {name: Maric}
+  - {name: Mato Grosso}
+  - {name: Mendes}
+  - {name: Meriti}
+  - {name: Mesquita}
+  - {name: Miracema}
+  - {name: Natividade}
+  - {name: Nil}
+  - {name: Niter}
+  - {name: Norte}
+  - {name: Nova Friburgo}
+  - {name: Nova Igua}
+  - {name: P}
+  - {name: Parati}
+  - {name: Petr}
+  - {name: Piabet}
+  - {name: Pinheiral}
+  - {name: Portela}
+  - {name: Quatis}
+  - {name: Queimados}
+  - {name: Quissam}
+  - {name: Ramos}
+  - {name: Realengo}
+  - {name: Resende}
+  - {name: Rio}
+  - {name: Rio Bonito}
+  - {name: Rio Das Ostras}
+  - {name: Rio De Janeiro}
+  - {name: Rio Vermelho}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Sana}
+  - {name: Saquarema}
+  - {name: Serop}
+  - {name: Teres}
+  - {name: Tr}
+  - {name: Vassouras}
+  - {name: Volta Redonda}
+  code: '21'
+  name: Rio de Janeiro
+- cities:
+  - {name: A}
+  - {name: Acari}
+  - {name: Amazonas}
+  - {name: Apodi}
+  - {name: Bandeirante}
+  - {name: Bom Princ}
+  - {name: Caic}
+  - {name: Canguaretama}
+  - {name: Cara}
+  - {name: Cidade}
+  - {name: Currais Novos}
+  - {name: Eduardo Gomes}
+  - {name: Extrem}
+  - {name: Felipe Guerra}
+  - {name: Guamar}
+  - {name: Igua}
+  - {name: Ja}
+  - {name: Jo}
+  - {name: Jos}
+  - {name: Maca}
+  - {name: Macau}
+  - {name: Mossor}
+  - {name: N}
+  - {name: Natal}
+  - {name: Parelhas}
+  - {name: Parnamirim}
+  - {name: Pau Dos Ferros}
+  - {name: Porto Do Mangue}
+  - {name: Recanto}
+  - {name: Redonda}
+  - {name: S}
+  - {name: Santa Cruz}
+  - {name: Santo Ant}
+  - {name: Santo Cristo}
+  - {name: Taborda}
+  - {name: Tangar}
+  - {name: Tiba}
+  - {name: Tr}
+  - {name: Ubirata}
+  code: '22'
+  name: Rio Grande do Norte
+- cities:
+  - {name: Agudo}
+  - {name: Alegrete}
+  - {name: Alves}
+  - {name: Ant}
+  - {name: Aratiba}
+  - {name: Arroio Do Meio}
+  - {name: Arroio Dos Ratos}
+  - {name: Bag}
+  - {name: Barra Do Ribeiro}
+  - {name: Bento Gon}
+  - {name: Bom Retiro Do Sul}
+  - {name: Buti}
+  - {name: C}
+  - {name: Cachoeira Do Sul}
+  - {name: Cachoeirinha}
+  - {name: Camaqu}
+  - {name: Campo Bom}
+  - {name: Canela}
+  - {name: Cangu}
+  - {name: Canoas}
+  - {name: Car}
+  - {name: Carlos Barbosa}
+  - {name: Casca}
+  - {name: Caxias Do Sul}
+  - {name: Charqueadas}
+  - {name: Chu}
+  - {name: Constantina}
+  - {name: Cotipor}
+  - {name: Cruz Alta}
+  - {name: Dois Irm}
+  - {name: Dom Pedrito}
+  - {name: Encantado}
+  - {name: Erechim}
+  - {name: Erval Grande}
+  - {name: Espumoso}
+  - {name: Est}
+  - {name: Esteio}
+  - {name: Estr}
+  - {name: Farroupilha}
+  - {name: Faxinal Do Soturno}
+  - {name: Flores Da Cunha}
+  - {name: Frederico Westphalen}
+  - {name: Garibaldi}
+  - {name: General C}
+  - {name: Get}
+  - {name: Giru}
+  - {name: Gramado}
+  - {name: Gravata}
+  - {name: Gua}
+  - {name: Guapor}
+  - {name: Horizontina}
+  - {name: Ibirub}
+  - {name: Igrejinha}
+  - {name: Iju}
+  - {name: Itaqui}
+  - {name: J}
+  - {name: Jaguar}
+  - {name: Lagoa Vermelha}
+  - {name: Lajeado}
+  - {name: Marau}
+  - {name: Maria}
+  - {name: Montenegro}
+  - {name: N}
+  - {name: Nova Bassano}
+  - {name: Nova Petr}
+  - {name: Nova Prata}
+  - {name: Novo Hamburgo}
+  - {name: Os}
+  - {name: Ouro Fino}
+  - {name: Palmeira Das Miss}
+  - {name: Panambi}
+  - {name: Parob}
+  - {name: Passo Fundo}
+  - {name: Pelotas}
+  - {name: Piratini}
+  - {name: Port}
+  - {name: Porto Alegre}
+  - {name: Progresso}
+  - {name: Quara}
+  - {name: Rio Grande}
+  - {name: Rio Pardo}
+  - {name: Rolante}
+  - {name: Roque Gonzales}
+  - {name: Ros}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Samuel}
+  - {name: Sananduva}
+  - {name: Santa Clara Do Sul}
+  - {name: Santa Cruz Do Sul}
+  - {name: Santa Maria}
+  - {name: Santa Rosa}
+  - {name: Santa Vit}
+  - {name: Santana Do Livramento}
+  - {name: Santiago}
+  - {name: 'Santo '}
+  - {name: Santo Ant}
+  - {name: Santo Augusto}
+  - {name: Sapiranga}
+  - {name: Sapucaia}
+  - {name: Sete De Setembro}
+  - {name: Soledade}
+  - {name: T}
+  - {name: Tapejara}
+  - {name: Tapera}
+  - {name: Tapes}
+  - {name: Taquara}
+  - {name: Taquara}
+  - {name: Taquari}
+  - {name: Teut}
+  - {name: Tr}
+  - {name: Tr}
+  - {name: Tr}
+  - {name: Tramanda}
+  - {name: Triunfo}
+  - {name: Tupanciret}
+  - {name: Tupandi}
+  - {name: Uruguaiana}
+  - {name: Vacaria}
+  - {name: Vasconcelos}
+  - {name: Ven}
+  - {name: Veran}
+  - {name: Viam}
+  - {name: Zona}
+  code: '23'
+  name: Rio Grande do Sul
+- cities:
+  - {name: Ariquemes}
+  - {name: Cacoal}
+  - {name: Can}
+  - {name: Guajar}
+  - {name: Jaru}
+  - {name: Ji-paran}
+  - {name: Ouro Pr}
+  - {name: P}
+  - {name: Pimenta Bueno}
+  - {name: Pirapetinga}
+  - {name: Presidente}
+  - {name: Rolim De Moura}
+  - {name: Rond}
+  - {name: Vilhena}
+  code: '24'
+  name: Rondonia
+- cities:
+  - {name: Ant}
+  - {name: Boa Vista}
+  - {name: Bonfim}
+  - {name: Caracara}
+  - {name: Coelho}
+  - {name: Consola}
+  - {name: Pacheco}
+  - {name: Tapera}
+  code: '25'
+  name: Roraima
+- cities:
+  - {name: Abelardo Luz}
+  - {name: Ant}
+  - {name: Ararangu}
+  - {name: Ascurra}
+  - {name: Barra Velha}
+  - {name: Bigua}
+  - {name: Blumenau}
+  - {name: Bombinhas}
+  - {name: Bra}
+  - {name: Brusque}
+  - {name: Ca}
+  - {name: Cambori}
+  - {name: Campos Novos}
+  - {name: Canoinhas}
+  - {name: Capinzal}
+  - {name: Chapec}
+  - {name: Conc}
+  - {name: Correia Pinto}
+  - {name: Crici}
+  - {name: Curitibanos}
+  - {name: Dion}
+  - {name: Florian}
+  - {name: Forquilhinha}
+  - {name: Frias}
+  - {name: Garopaba}
+  - {name: Garuva}
+  - {name: Gaspar}
+  - {name: Guaramirim}
+  - {name: I}
+  - {name: Ibirama}
+  - {name: Imaru}
+  - {name: Imbituba}
+  - {name: Indaial}
+  - {name: Irani}
+  - {name: It}
+  - {name: Itai}
+  - {name: Itaja}
+  - {name: Itapema}
+  - {name: Itapiranga}
+  - {name: Ituporanga}
+  - {name: Jaragu}
+  - {name: Joa}
+  - {name: Joinvile}
+  - {name: Joinville}
+  - {name: Lages}
+  - {name: Laguna}
+  - {name: Lu}
+  - {name: Mafra}
+  - {name: Major}
+  - {name: Maravilha}
+  - {name: Monda}
+  - {name: Morro Da Fuma}
+  - {name: Navegantes}
+  - {name: Nereu Ramos}
+  - {name: Nova Trento}
+  - {name: Nova Xavantina}
+  - {name: Orleans}
+  - {name: Ouro}
+  - {name: P}
+  - {name: Palho}
+  - {name: Palmitos}
+  - {name: Penha}
+  - {name: Pi}
+  - {name: Pomerode}
+  - {name: Ponte Serrada}
+  - {name: Porto Belo}
+  - {name: Pouso Redondo}
+  - {name: Rio Do Sul}
+  - {name: Rio Dos Cedros}
+  - {name: Rio Negrinho}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Santa Cec}
+  - {name: Saudades}
+  - {name: Schroeder}
+  - {name: Sombrio}
+  - {name: Tijucas}
+  - {name: Timb}
+  - {name: Tubar}
+  - {name: Urussanga}
+  - {name: Videira}
+  - {name: Xanxer}
+  - {name: Xaxim}
+  code: '26'
+  name: Santa Catarina
+- cities:
+  - {name: ''}
+  - {name: ''}
+  - {name: ''}
+  - {name: Adamantina}
+  - {name: Agostinho}
+  - {name: Agua}
+  - {name: Agua Clar}
+  - {name: Agudos}
+  - {name: Altin}
+  - {name: Am}
+  - {name: Americana}
+  - {name: Amparo}
+  - {name: Andradina}
+  - {name: Aparecida}
+  - {name: Apia}
+  - {name: Ara}
+  - {name: Ara}
+  - {name: Ara}
+  - {name: Araraquara}
+  - {name: Araras}
+  - {name: Ariranha}
+  - {name: Arraial}
+  - {name: Artur Nogueira}
+  - {name: Aruj}
+  - {name: Assis}
+  - {name: Atibaia}
+  - {name: Avar}
+  - {name: Bananal}
+  - {name: Bariri}
+  - {name: Barra Bonita}
+  - {name: Barretos}
+  - {name: Barrinha}
+  - {name: Barueri}
+  - {name: Bastos}
+  - {name: Batatais}
+  - {name: Bauru}
+  - {name: Bebedouro}
+  - {name: Bertioga}
+  - {name: Bilac}
+  - {name: Birigui}
+  - {name: Biritiba-mirim}
+  - {name: Boa Esperan}
+  - {name: Bofete}
+  - {name: Boituva}
+  - {name: Bom Retiro}
+  - {name: Bonfim Paulista}
+  - {name: Borborema}
+  - {name: Botafogo}
+  - {name: Botucatu}
+  - {name: Bra}
+  - {name: Bragan}
+  - {name: Brasil}
+  - {name: Brodowski}
+  - {name: Brotas}
+  - {name: Buenos Aires}
+  - {name: Buri}
+  - {name: Buritama}
+  - {name: C}
+  - {name: Ca}
+  - {name: Cabre}
+  - {name: Cachoeira Paulista}
+  - {name: Caconde}
+  - {name: Caf}
+  - {name: Cafel}
+  - {name: Caieiras}
+  - {name: Cajamar}
+  - {name: Cajuru}
+  - {name: Camargo}
+  - {name: Campinas}
+  - {name: Campo}
+  - {name: Campos Do Jord}
+  - {name: Canan}
+  - {name: Cap}
+  - {name: Capela Do Alto}
+  - {name: Capivari}
+  - {name: Caraguatatuba}
+  - {name: Caramuru}
+  - {name: Carapicu}
+  - {name: Cardoso}
+  - {name: Casa Branca}
+  - {name: Castilho}
+  - {name: Catanduva}
+  - {name: Cedral}
+  - {name: Cerquilho}
+  - {name: Charqueada}
+  - {name: Chavantes}
+  - {name: Colina}
+  - {name: Conchal}
+  - {name: Conchas}
+  - {name: Conquista}
+  - {name: Coqueiros}
+  - {name: Cordeir}
+  - {name: Cosm}
+  - {name: Cotia}
+  - {name: Cravinhos}
+  - {name: Cruzeiro}
+  - {name: Cubat}
+  - {name: Cunha}
+  - {name: Descalvado}
+  - {name: Diadema}
+  - {name: Dias}
+  - {name: Dois C}
+  - {name: Dracena}
+  - {name: Duartina}
+  - {name: Elias Fausto}
+  - {name: Embu}
+  - {name: Embu-gua}
+  - {name: Fartura}
+  - {name: Fernand}
+  - {name: Ferraz De Vasconcelos}
+  - {name: Floreal}
+  - {name: Franca}
+  - {name: Francisco Morato}
+  - {name: Franco Da Rocha}
+  - {name: Freguesia Do O}
+  - {name: Gar}
+  - {name: General Salgado}
+  - {name: Gon}
+  - {name: Goulart}
+  - {name: Gua}
+  - {name: Guapia}
+  - {name: Guar}
+  - {name: Guararapes}
+  - {name: Guararema}
+  - {name: Guaratinguet}
+  - {name: Guariba}
+  - {name: Guaruj}
+  - {name: Guarulhos}
+  - {name: Guatapar}
+  - {name: Hercul}
+  - {name: Hortol}
+  - {name: Ibat}
+  - {name: Ibi}
+  - {name: Ibir}
+  - {name: Ibitinga}
+  - {name: Ic}
+  - {name: Iep}
+  - {name: Igarapava}
+  - {name: Ilha Solteira}
+  - {name: Ilhabela}
+  - {name: Indaiatuba}
+  - {name: Ipe}
+  - {name: Iper}
+  - {name: Ipu}
+  - {name: Iracem}
+  - {name: It}
+  - {name: Itaipu}
+  - {name: Itajobi}
+  - {name: Itanha}
+  - {name: Itapecerica Da Serra}
+  - {name: Itapetininga}
+  - {name: Itapevi}
+  - {name: Itapira}
+  - {name: Itapu}
+  - {name: Itaquaquecetuba}
+  - {name: Itarar}
+  - {name: Itariri}
+  - {name: Itatiba}
+  - {name: Itatinga}
+  - {name: Itirapina}
+  - {name: Itu}
+  - {name: Ituverava}
+  - {name: J}
+  - {name: Ja}
+  - {name: Jaboticabal}
+  - {name: Jacare}
+  - {name: Jaguari}
+  - {name: Jales}
+  - {name: Jandira}
+  - {name: Jardin}
+  - {name: Jarinu}
+  - {name: Jo}
+  - {name: Jos}
+  - {name: Jundia}
+  - {name: Juquitiba}
+  - {name: Laranjal Paulista}
+  - {name: Lav}
+  - {name: Leme}
+  - {name: Len}
+  - {name: Limeira}
+  - {name: Lind}
+  - {name: Lins}
+  - {name: Lorena}
+  - {name: Louveira}
+  - {name: Lu}
+  - {name: Luc}
+  - {name: Luiz Antonio}
+  - {name: Luizi}
+  - {name: Macatuba}
+  - {name: Mairinque}
+  - {name: Mairipor}
+  - {name: Mar}
+  - {name: Maraca}
+  - {name: Mari}
+  - {name: Martin}
+  - {name: Mat}
+  - {name: Mau}
+  - {name: Miguel}
+  - {name: Mineiros Do Tiet}
+  - {name: Miracatu}
+  - {name: Mirand}
+  - {name: Mirassol}
+  - {name: Mista}
+  - {name: Mococa}
+  - {name: Mogi Das Cruzes}
+  - {name: Mogi-gua}
+  - {name: Mogi-mirim}
+  - {name: Moji Das Cruzes}
+  - {name: Moji-mirim}
+  - {name: Mongagu}
+  - {name: Monte Alto}
+  - {name: Monte Apraz}
+  - {name: Monte Azul Paulista}
+  - {name: Monte Mor}
+  - {name: Morro Agudo}
+  - {name: Morungaba}
+  - {name: Motuca}
+  - {name: Natividade Da Serra}
+  - {name: Neves}
+  - {name: Neves Paulista}
+  - {name: Nhandeara}
+  - {name: Nogueira}
+  - {name: Nova Europa}
+  - {name: Nova Granada}
+  - {name: Nova Odessa}
+  - {name: Nova Veneza}
+  - {name: Nuporanga}
+  - {name: Ocau}
+  - {name: Ol}
+  - {name: Onda Verde}
+  - {name: Orindi}
+  - {name: Orl}
+  - {name: Osasco}
+  - {name: Oscar Bressane}
+  - {name: Osvaldo Cruz}
+  - {name: Ourinhos}
+  - {name: P}
+  - {name: P}
+  - {name: Pacaembu}
+  - {name: Palmital}
+  - {name: Para}
+  - {name: Paragua}
+  - {name: Paraibuna}
+  - {name: Paranapanema}
+  - {name: Pardinho}
+  - {name: Pariquera-a}
+  - {name: Paul}
+  - {name: Paulo De Faria}
+  - {name: Pederneiras}
+  - {name: Pedra Bela}
+  - {name: Pedregulho}
+  - {name: Pedreira}
+  - {name: Pen}
+  - {name: Pereira Barreto}
+  - {name: Peru}
+  - {name: Piacatu}
+  - {name: Piedade}
+  - {name: Pilar Do Sul}
+  - {name: Pindamonhangaba}
+  - {name: Pindorama}
+  - {name: Pinhal}
+  - {name: Pinhalzinho}
+  - {name: Pinheirinho}
+  - {name: Pinheiros}
+  - {name: Piracaia}
+  - {name: Piracicaba}
+  - {name: Piraju}
+  - {name: Piraju}
+  - {name: Pirap}
+  - {name: Pirapora Do Bom Jesus}
+  - {name: Pirassununga}
+  - {name: Piratininga}
+  - {name: Pitangueiras}
+  - {name: Planalto}
+  - {name: Po}
+  - {name: Poloni}
+  - {name: Pomp}
+  - {name: Pontal}
+  - {name: Porangaba}
+  - {name: Potirendaba}
+  - {name: Prad}
+  - {name: Praia Grande}
+  - {name: Presidente Bernardes}
+  - {name: Presidente Epit}
+  - {name: Presidente Prudente}
+  - {name: Presidente Venceslau}
+  - {name: Primavera}
+  - {name: Promiss}
+  - {name: Quadra}
+  - {name: Rancharia}
+  - {name: Regente Feij}
+  - {name: Registro}
+  - {name: Ribeir}
+  - {name: Ribeir}
+  - {name: Ribeir}
+  - {name: Rio Afonso}
+  - {name: Rio Claro}
+  - {name: Rio Das Pedras}
+  - {name: Rio Grande Da Serra}
+  - {name: Rio Preto}
+  - {name: Roberto}
+  - {name: Roseira}
+  - {name: Rui Barbosa}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: S}
+  - {name: Sabino}
+  - {name: Saltinho}
+  - {name: Salto}
+  - {name: Salto De Pirapora}
+  - {name: San Paulo}
+  - {name: Santa Ad}
+  - {name: Santa B}
+  - {name: Santa Barbara D'oeste}
+  - {name: Santa Branca}
+  - {name: Santa C}
+  - {name: Santa Catarina}
+  - {name: Santa Cruz Das Palmeiras}
+  - {name: Santa Cruz Do Rio Pardo}
+  - {name: Santa Ernestina}
+  - {name: Santa F}
+  - {name: Santa F}
+  - {name: Santa Gertrudes}
+  - {name: Santa Isabel}
+  - {name: Santa L}
+  - {name: Santa Rosa De Viterbo}
+  - {name: Santa Terezinha}
+  - {name: Santana De Parna}
+  - {name: Santo Anast}
+  - {name: Santo Andr}
+  - {name: Santo Ant}
+  - {name: Santos}
+  - {name: Sap}
+  - {name: Sarapu}
+  - {name: Serra Negra}
+  - {name: Serrana}
+  - {name: Sert}
+  - {name: Sever}
+  - {name: Simonsen}
+  - {name: Soares}
+  - {name: Socorro}
+  - {name: Sorocaba}
+  - {name: Sumar}
+  - {name: Suzano}
+  - {name: Tabo}
+  - {name: Tanabi}
+  - {name: Taquaritinga}
+  - {name: Taquarituba}
+  - {name: Taraba}
+  - {name: Tarum}
+  - {name: Tatu}
+  - {name: Taubat}
+  - {name: Tenente}
+  - {name: Teodoro Sampaio}
+  - {name: Tiet}
+  - {name: Trememb}
+  - {name: Tup}
+  - {name: Tupi Paulista}
+  - {name: Turi}
+  - {name: Ubatuba}
+  - {name: Uchoa}
+  - {name: Urup}
+  - {name: V}
+  - {name: V}
+  - {name: Valinhos}
+  - {name: Valpara}
+  - {name: Vargem Grande Do Sul}
+  - {name: Vinhedo}
+  - {name: Viradouro}
+  - {name: Vista Alegre Do Alto}
+  - {name: Votorantim}
+  - {name: Votuporanga}
+  code: '27'
+  name: Sao Paulo
+- cities:
+  - {name: Aracaju}
+  - {name: Cai}
+  - {name: Capela}
+  - {name: Est}
+  - {name: Itabaiana}
+  - {name: Itabaianinha}
+  - {name: Lagarto}
+  - {name: Laranjeiras}
+  - {name: Muribeca}
+  - {name: Nossa Senhora Da Gl}
+  - {name: Nossa Senhora Do Socorro}
+  - {name: Propri}
+  - {name: Quissam}
+  - {name: S}
+  - {name: Salgado}
+  - {name: Sim}
+  - {name: Tobias Barreto}
+  - {name: Umba}
+  code: '28'
+  name: Sergipe
+- cities:
+  - {name: Alvorada}
+  - {name: Aragua}
+  - {name: Baba}
+  - {name: Fontoura}
+  - {name: Gurupi}
+  - {name: Palmas}
+  - {name: Para}
+  - {name: Paran}
+  - {name: Porto Nacional}
+  - {name: Taguatinga}
+  - {name: Tocantin}
+  code: '31'
+  name: Tocantins

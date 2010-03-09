@@ -1,0 +1,19 @@
+- cities:
+  - {name: Swakopmund}
+  - {name: Walvis Bay}
+  - {name: Walvisbaai}
+  code: '29'
+  name: Erongo
+- cities:
+  - {name: Aroab}
+  code: '31'
+  name: Karas
+- cities:
+  - {name: Ongwediva}
+  - {name: Oshakati}
+  code: '37'
+  name: Oshana
+- cities:
+  - {name: Windhoek}
+  code: '21'
+  name: Windhoek

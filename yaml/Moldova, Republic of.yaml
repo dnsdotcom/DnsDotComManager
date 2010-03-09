@@ -1,0 +1,54 @@
+- cities:
+  - {name: Balti}
+  - {name: Glodeni}
+  code: '46'
+  name: Balti
+- cities:
+  - {name: Cahul}
+  code: '47'
+  name: Cahul
+- cities:
+  - {name: Anenii Noi}
+  - {name: Chisinau}
+  - {name: Ciorescu}
+  - {name: Ialoveni}
+  - {name: Kishin}
+  - {name: Rybnitsa}
+  - {name: Straseni}
+  code: '48'
+  name: Chisinau
+- cities:
+  - {name: Edinet}
+  code: '50'
+  name: Edinet
+- cities:
+  - {name: Orhei}
+  code: '53'
+  name: Orhei
+- cities:
+  - {name: Drochia}
+  - {name: Floresti}
+  - {name: Soroca}
+  code: '54'
+  name: Soroca
+- cities:
+  - {name: Criuleni}
+  - {name: Dnestrovsc}
+  - {name: Dnestrovsk}
+  - {name: Tiraspol}
+  code: '49'
+  name: Stinga Nistrului
+- cities:
+  - {name: Basarabeasca}
+  - {name: Bendery}
+  - {name: Cead}
+  - {name: Cimislia}
+  - {name: Leova}
+  - {name: Tighina}
+  code: '55'
+  name: Tighina
+- cities:
+  - {name: Calarasi}
+  - {name: Ungheni}
+  code: '56'
+  name: Ungheni

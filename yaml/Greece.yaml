@@ -1,0 +1,534 @@
+- cities:
+  - {name: Agr}
+  - {name: Agr}
+  - {name: Kastr}
+  - {name: Men}
+  - {name: Mesol}
+  - {name: N}
+  - {name: Playi}
+  code: '31'
+  name: Aitolia kai Akarnania
+- cities:
+  - {name: A}
+  - {name: A}
+  - {name: Grig}
+  - {name: K}
+  - {name: K}
+  - {name: Kal}
+  - {name: Kal}
+  - {name: Ko}
+  - {name: P}
+  - {name: P}
+  - {name: Paral}
+  - {name: Patras}
+  code: '38'
+  name: Akhaia
+- cities:
+  - {name: ''}
+  - {name: An}
+  - {name: Kran}
+  - {name: N}
+  - {name: Nauplion}
+  code: '36'
+  name: Argolis
+- cities:
+  - {name: ''}
+  - {name: Louk}
+  - {name: Megal}
+  - {name: Nest}
+  - {name: Tr}
+  - {name: Tr}
+  code: '41'
+  name: Arkadhia
+- cities:
+  - {name: ''}
+  - {name: Drosi}
+  - {name: P}
+  - {name: Stourn}
+  - {name: Syki}
+  code: '20'
+  name: Arta
+- cities:
+  - {name: ''}
+  - {name: A}
+  - {name: A}
+  - {name: Aig}
+  - {name: Akharna}
+  - {name: An}
+  - {name: Aspr}
+  - {name: Atene}
+  - {name: Ath}
+  - {name: Ath}
+  - {name: Athen}
+  - {name: Athens}
+  - {name: Attik}
+  - {name: Daphne}
+  - {name: Elefs}
+  - {name: Ellinik}
+  - {name: Filadelfia}
+  - {name: Filoth}
+  - {name: Gal}
+  - {name: Gal}
+  - {name: Glyf}
+  - {name: Goudi}
+  - {name: Holargos}
+  - {name: Hydra}
+  - {name: Kaisarian}
+  - {name: Kalam}
+  - {name: Kallith}
+  - {name: Kerats}
+  - {name: Kerats}
+  - {name: Kholarg}
+  - {name: Kifisi}
+  - {name: Kifissia}
+  - {name: Kin}
+  - {name: Kips}
+  - {name: Korop}
+  - {name: Korop}
+  - {name: Lik}
+  - {name: Lykovrisi}
+  - {name: M}
+  - {name: M}
+  - {name: Mago}
+  - {name: Mark}
+  - {name: Mel}
+  - {name: Mil}
+  - {name: N}
+  - {name: N}
+  - {name: N}
+  - {name: N}
+  - {name: P}
+  - {name: P}
+  - {name: Paian}
+  - {name: Pall}
+  - {name: Pap}
+  - {name: Pap}
+  - {name: Pat}
+  - {name: Peiraeus}
+  - {name: Peirai}
+  - {name: Perist}
+  - {name: Pik}
+  - {name: Pik}
+  - {name: Piraeus}
+  - {name: Psichiko}
+  - {name: Psychiko}
+  - {name: Raf}
+  - {name: Salam}
+  - {name: Sel}
+  - {name: Skaramang}
+  - {name: Sp}
+  - {name: Sp}
+  - {name: Stam}
+  - {name: T}
+  - {name: V}
+  - {name: Vo}
+  - {name: Vouliagm}
+  code: '35'
+  name: Attiki
+- cities:
+  - {name: Emporia}
+  - {name: K}
+  - {name: K}
+  - {name: Kos}
+  - {name: Kremast}
+  - {name: L}
+  - {name: P}
+  - {name: R}
+  - {name: S}
+  code: '47'
+  name: Dhodhekanisos
+- cities:
+  - {name: Dr}
+  code: '04'
+  name: Drama
+- cities:
+  - {name: Karpen}
+  - {name: Monastir}
+  - {name: Petr}
+  - {name: Ternova}
+  code: '30'
+  name: Evritania
+- cities:
+  - {name: Alexandro}
+  - {name: Alexandro}
+  - {name: Oresti}
+  - {name: Oresti}
+  code: '01'
+  name: Evros
+- cities:
+  - {name: Afr}
+  - {name: Am}
+  - {name: Chalk}
+  - {name: Khalk}
+  - {name: Maro}
+  - {name: Oin}
+  - {name: Vath}
+  code: '34'
+  name: Evvoia
+- cities:
+  - {name: Fl}
+  code: 08
+  name: Florina
+- cities:
+  - {name: ''}
+  code: '32'
+  name: Fokis
+- cities:
+  - {name: Atal}
+  - {name: Lam}
+  code: '29'
+  name: Fthiotis
+- cities:
+  - {name: B}
+  - {name: D}
+  - {name: Desk}
+  - {name: Greven}
+  - {name: V}
+  code: '10'
+  name: Grevena
+- cities:
+  - {name: Amali}
+  - {name: Gasto}
+  - {name: Kr}
+  - {name: L}
+  - {name: Lagan}
+  - {name: Manol}
+  - {name: P}
+  - {name: P}
+  - {name: Plat}
+  code: '39'
+  name: Ilia
+- cities:
+  - {name: Alex}
+  - {name: Koulo}
+  - {name: Mar}
+  - {name: Mel}
+  - {name: N}
+  - {name: Plat}
+  - {name: Riz}
+  - {name: Skil}
+  - {name: V}
+  - {name: Verg}
+  - {name: Veria}
+  - {name: Very}
+  code: '12'
+  name: Imathia
+- cities:
+  - {name: Ag}
+  - {name: Amfith}
+  - {name: Dod}
+  - {name: Ellinik}
+  - {name: Io}
+  - {name: Kr}
+  - {name: M}
+  - {name: Platani}
+  - {name: Tr}
+  - {name: V}
+  code: '17'
+  name: Ioannina
+- cities:
+  - {name: Alikarnass}
+  - {name: G}
+  - {name: Go}
+  - {name: Her}
+  - {name: Heraklion}
+  - {name: Ir}
+  - {name: Ir}
+  - {name: Loutr}
+  - {name: Min}
+  - {name: Pez}
+  code: '45'
+  name: Iraklion
+- cities:
+  - {name: Kapp}
+  - {name: Kard}
+  - {name: Krion}
+  - {name: Kryon}
+  - {name: M}
+  - {name: Makrak}
+  - {name: Metam}
+  - {name: Mitr}
+  - {name: Mosch}
+  - {name: Zaimi}
+  code: '23'
+  name: Kardhitsa
+- cities:
+  - {name: Kastori}
+  code: 09
+  name: Kastoria
+- cities:
+  - {name: Karamanl}
+  - {name: Kav}
+  code: '14'
+  name: Kavala
+- cities:
+  - {name: Argost}
+  - {name: Argost}
+  - {name: Ith}
+  - {name: P}
+  - {name: P}
+  - {name: Tri}
+  code: '27'
+  name: Kefallinia
+- cities:
+  - {name: ''}
+  - {name: ''}
+  - {name: Corfu}
+  - {name: D}
+  - {name: K}
+  - {name: K}
+  - {name: N}
+  - {name: Periv}
+  code: '25'
+  name: Kerkira
+- cities:
+  - {name: Metam}
+  - {name: Pol}
+  code: '15'
+  name: Khalkidhiki
+- cities:
+  - {name: Alikian}
+  - {name: Chani}
+  - {name: Khani}
+  - {name: Moust}
+  - {name: Tsits}
+  code: '43'
+  name: Khania
+- cities:
+  - {name: Ch}
+  - {name: Christ}
+  - {name: Kh}
+  - {name: Lagk}
+  - {name: Pefk}
+  - {name: X}
+  code: '50'
+  name: Khios
+- cities:
+  - {name: ''}
+  - {name: Apollonos}
+  - {name: Ermo}
+  - {name: M}
+  - {name: M}
+  - {name: M}
+  - {name: N}
+  - {name: O}
+  - {name: P}
+  - {name: Syros}
+  - {name: T}
+  - {name: Th}
+  code: '49'
+  name: Kikladhes
+- cities:
+  - {name: Akr}
+  - {name: Goum}
+  - {name: Gr}
+  - {name: Kilk}
+  - {name: Liv}
+  - {name: Perist}
+  - {name: St}
+  - {name: To}
+  code: '06'
+  name: Kilkis
+- cities:
+  - {name: ''}
+  - {name: Corinth}
+  - {name: Derv}
+  - {name: Ir}
+  - {name: Isthm}
+  - {name: K}
+  - {name: K}
+  - {name: Ki}
+  - {name: Loutr}
+  - {name: Nem}
+  - {name: Siki}
+  - {name: V}
+  - {name: Vrakh}
+  - {name: Xil}
+  code: '37'
+  name: Korinthia
+- cities:
+  - {name: Avg}
+  - {name: Koz}
+  - {name: Pelek}
+  - {name: Ptolemaida}
+  code: '11'
+  name: Kozani
+- cities:
+  - {name: Go}
+  - {name: Lemoni}
+  - {name: Mol}
+  - {name: N}
+  - {name: S}
+  - {name: Sk}
+  - {name: Sp}
+  - {name: St}
+  - {name: Y}
+  code: '42'
+  name: Lakonia
+- cities:
+  - {name: Agi}
+  - {name: Ayi}
+  - {name: Elass}
+  - {name: G}
+  - {name: L}
+  - {name: L}
+  - {name: Siko}
+  - {name: T}
+  - {name: Vamvako}
+  - {name: Vasil}
+  code: '21'
+  name: Larisa
+- cities:
+  - {name: ''}
+  - {name: Elo}
+  - {name: Ier}
+  - {name: M}
+  - {name: Ne}
+  - {name: Ne}
+  - {name: P}
+  - {name: Petr}
+  - {name: Sit}
+  - {name: Site}
+  code: '46'
+  name: Lasithi
+- cities:
+  - {name: Mitil}
+  - {name: Mytil}
+  - {name: Mytilene}
+  - {name: St}
+  code: '51'
+  name: Lesvos
+- cities:
+  - {name: Al}
+  - {name: Lefk}
+  - {name: Lefk}
+  code: '26'
+  name: Levkas
+- cities:
+  - {name: Almir}
+  - {name: Argalast}
+  - {name: Kan}
+  - {name: Patit}
+  - {name: Sk}
+  - {name: V}
+  - {name: Velest}
+  code: '24'
+  name: Magnisia
+- cities:
+  - {name: Kalam}
+  - {name: Kalamatas}
+  - {name: Kefalin}
+  - {name: Mess}
+  - {name: Miao}
+  - {name: P}
+  - {name: Petalidi}
+  code: '40'
+  name: Messinia
+- cities:
+  - {name: ''}
+  - {name: Arida}
+  - {name: Giannits}
+  - {name: Kal}
+  - {name: P}
+  - {name: Yiannits}
+  code: '07'
+  name: Pella
+- cities:
+  - {name: Aikater}
+  - {name: Aiy}
+  - {name: Kater}
+  - {name: Katerina}
+  - {name: L}
+  - {name: Skot}
+  code: '16'
+  name: Pieria
+- cities:
+  - {name: Ag}
+  - {name: Orop}
+  - {name: Pappad}
+  - {name: Pr}
+  code: '19'
+  name: Preveza
+- cities:
+  - {name: Alf}
+  - {name: An}
+  - {name: R}
+  - {name: R}
+  code: '44'
+  name: Rethimni
+- cities:
+  - {name: Ar}
+  - {name: Glif}
+  - {name: Komotin}
+  code: '02'
+  name: Rodhopi
+- cities:
+  - {name: ''}
+  - {name: Mes}
+  - {name: S}
+  code: '48'
+  name: Samos
+- cities:
+  - {name: Nigr}
+  - {name: S}
+  - {name: S}
+  code: '05'
+  name: Serrai
+- cities:
+  - {name: Ampel}
+  - {name: Elefth}
+  - {name: Igoumen}
+  - {name: Mazaraki}
+  code: '18'
+  name: Thesprotia
+- cities:
+  - {name: Epanom}
+  - {name: G}
+  - {name: Kalamari}
+  - {name: Kallith}
+  - {name: Kouf}
+  - {name: Krithi}
+  - {name: N}
+  - {name: Orai}
+  - {name: Pera}
+  - {name: Pyla}
+  - {name: S}
+  - {name: Salonica}
+  - {name: Salonika}
+  - {name: Th}
+  - {name: Thessalon}
+  - {name: Vasilik}
+  - {name: Zogr}
+  code: '13'
+  name: Thessaloniki
+- cities:
+  - {name: Drosopig}
+  - {name: Kalamb}
+  - {name: Kalamp}
+  - {name: Korydall}
+  - {name: P}
+  - {name: Paraskev}
+  - {name: Petrot}
+  - {name: Tr}
+  - {name: Valtin}
+  - {name: Vasilik}
+  code: '22'
+  name: Trikala
+- cities:
+  - {name: ''}
+  - {name: Domvra}
+  - {name: Erithra}
+  - {name: Livadei}
+  - {name: P}
+  - {name: Th}
+  code: '33'
+  name: Voiotia
+- cities:
+  - {name: X}
+  code: '03'
+  name: Xanthi
+- cities:
+  - {name: Katast}
+  - {name: Z}
+  code: '28'
+  name: Zakinthos

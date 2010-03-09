@@ -1,0 +1,54 @@
+- cities:
+  - {name: Ashtarak}
+  code: '01'
+  name: Aragatsotn
+- cities:
+  - {name: Ararat}
+  - {name: Masis}
+  - {name: Vedi}
+  code: '02'
+  name: Ararat
+- cities:
+  - {name: Metsamor}
+  code: '03'
+  name: Armavir
+- cities:
+  - {name: Gavar}
+  - {name: Vahan}
+  code: '04'
+  name: Geghark'unik'
+- cities:
+  - {name: Abovyan}
+  - {name: Davidashen}
+  - {name: Hrazdan}
+  - {name: Mrgashen}
+  code: '05'
+  name: Kotayk'
+- cities:
+  - {name: Apaven}
+  - {name: Tapan}
+  - {name: Vahagni}
+  - {name: Vanadzor}
+  code: '06'
+  name: Lorri
+- cities:
+  - {name: Amasia}
+  - {name: Gyumri}
+  - {name: Shirak}
+  code: '07'
+  name: Shirak
+- cities:
+  - {name: Agarak}
+  - {name: Geghi}
+  - {name: Goris}
+  - {name: Kapan}
+  code: 08
+  name: Syunik'
+- cities:
+  - {name: Ijevan}
+  code: 09
+  name: Tavush
+- cities:
+  - {name: Yerevan}
+  code: '11'
+  name: Yerevan
