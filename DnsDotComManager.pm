@@ -129,9 +129,9 @@ sub api2_listRegions{
 sub api2_listCities{
     my %OPTS = @_;
     my $country = $OPTS{'country'};
-    my $region_code = $OPTS{'region_code'};
+    my $region = $OPTS{'region'};
 
-    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/$country/$region_code.yaml");
+    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/$country/$region.yaml");
     my @data = Load($yaml);
     
     return $data[0];
@@ -761,16 +761,30 @@ sub api2_appendToGeoGroup {
     my @geogroup_array = ();
     my %OPTS = @_;
     my $name        = $OPTS{'geogroup_name'};
-    my $iso2_code   = $OPTS{'iso2_code'};
+    my $country     = $OPTS{'country'};
     my $region      = $OPTS{'region'};
     my $city        = $OPTS{'city'};
+    
+    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
+    my @countrydata = Load($yaml);
+    
+    #print $countrydata[0][0]->{iso_code};
+    
+     
+    foreach my $country_entry(@{$countrydata[0]}){
+        if ($country_entry->{name} =~ $country){
+            my $iso2_code = $country_entry->{iso_code};
+            print $iso2_code;
+        }
+    }
+    
     
     my $geogroup_data  = dns_query($cmd, 'name', $name, 'iso2_code', $iso2_code, 'region', $region, 'city', $city);
     my $meta        = ();
     
     push(@geogroup_array, {'message'  => $geogroup_data->{meta}->{message},
                              'id'       => $geogroup_data->{meta}->{id}});        
-    return @dgeogroup_array;
+    return @geogroup_array;
 }
 
 sub api2_removeGeoGroup {

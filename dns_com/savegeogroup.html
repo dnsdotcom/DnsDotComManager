@@ -6,7 +6,7 @@
 
 <link rel="stylesheet" href="css/base.css">
 <link rel="stylesheet" href="css/base-mod.css">
-
+    
 <!--[if lt IE 8]>
 <link rel="stylesheet" href="css/iehack.css">
 <![endif]-->
@@ -14,6 +14,7 @@
 <!--[if lt IE 9]>
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta2)/IE9.js"></script>
 <![endif]-->
+
 
 <script type="text/javascript" language="javascript">
 
@@ -49,7 +50,7 @@
 	    <LI><A href="groups.html">Home</A></LI>
             <LI><A href="geogroups.html">Geo Groups</A></LI>
             <LI><a href="editgeogroup.html?geogroup=<cpanel langprint=$FORM{'geogroup'}>">Edit "<cpanel langprint=$FORM{'geogroup'}>"</a> </LI>
-            <LI>Select Location</LI>
+            <LI>Save Location</LI>
         
 	</UL>
     </DIV>
@@ -84,9 +85,7 @@
             <a href="geogroups.html">Geo Groups</a> 
 	</li> 
     </ul> 
-    <div class="leftFooter"></div>
-
-
+    <div class="leftFooter"></div> 
 </div>
 <!-- end left column -->
 
@@ -94,108 +93,21 @@
 
 <div id="right-content"> 
 	
-<h4>Select area for GeoGroup: "<cpanel langprint=$FORM{'geogroup'}>"</h4>
+<h4>Modify Geo Group:</h4>
 <hr>
 
 <!-- CONTENT GOES HERE -->
-<cpanelif !$FORM{'country'}>
-    <cpanelif !$FORM{'region'}>
-        
-        <form action="editgeogroup.html">
-            <select name="country">
-            <?cp DnsDotComManager::listCountries(
-                
-                [option value="%"]%[/option]
-                
-            , name, name)?>
-            </select>
-            <input name="geogroup" type="HIDDEN" value="<cpanel langprint=$FORM{'geogroup'}>">
-            <br>
-            <input type="submit" name="button" value="Select Country">
-        </form>
-            
-    </cpanelif>
-</cpanelif>
 
-<cpanelif $FORM{'country'}>
-    <cpanelif !$FORM{'region'}>
-        <form action="savegeogroup.html">
-            <b>Current Selection:</b> <cpanel langprint=$FORM{'country'}>&nbsp;&nbsp;
-            <input name="country" type="HIDDEN" value="<cpanel langprint=$FORM{'country'}>">
-            <input type="submit" name="button" value="Save Selection">
-        </form>
-        
-        <br><hr>
-        
-        <form action="editgeogroup.html">
-            <select name="region">
-            <?cp DnsDotComManager::listRegions(
-                
-                [option value="%"]%[/option]
-                
-            , name, name), country=$FORM{'country'}?>
-            </select>
-            <input name="geogroup" type="HIDDEN" value="<cpanel langprint=$FORM{'geogroup'}>">
-            <input name="country" type="HIDDEN" value="<cpanel langprint=$FORM{'country'}>">
-            <br><br>
-            <input type="submit" name="button" value="Select Region">
-        </form>
-            
-        
-        
-    </cpanelif>
-</cpanelif>
-
-<cpanelif $FORM{'country'}>
-    <cpanelif $FORM{'region'}>
-        <cpanelif !$FORM{'city'}>
-            
-        <form action="savegeogroup.html">
-            <b>Current Selection:</b> <cpanel langprint=$FORM{'country'}> > <cpanel langprint=$FORM{'region'}>&nbsp;&nbsp;
-            <input name="country" type="HIDDEN" value="<cpanel langprint=$FORM{'country'}>">
-            <input name="region" type="HIDDEN" value="<cpanel langprint=$FORM{'region'}>">
-            <input type="submit" name="button" value="Save Selection">
-        </form>
-
-        <br><hr>
-        
-        <form action="editgeogroup.html">
-            <select name="city">
-            <?cp DnsDotComManager::listCities([
-                
-                  [option value="%"]%[/option]
-                
-            , name, name),  country=$FORM{'country'}, region=$FORM{'region'}?>
-            </select>
-            <input name="geogroup" type="HIDDEN" value="<cpanel langprint=$FORM{'geogroup'}>">
-            <input name="country" type="HIDDEN" value="<cpanel langprint=$FORM{'country'}>">
-            <input name="region" type="HIDDEN" value="<cpanel langprint=$FORM{'region'}>">
-            <br><br>
-            <input type="submit" name="button" value="Select City">
-        </form>
-            
-        
-            
-        </cpanelif>
-    </cpanelif>
-</cpanelif>
-            
-<cpanelif $FORM{'country'}>
-    <cpanelif $FORM{'region'}>
-        <cpanelif $FORM{'city'}>
-        
-        <b>Current Selection:</b> <cpanel langprint=$FORM{'country'}> > <cpanel langprint=$FORM{'region'}> > <cpanel langprint=$FORM{'city'}>
-
-        <form action="savegeogroup.html">
-            <input name="geogroup" type="HIDDEN" value="<cpanel langprint=$FORM{'geogroup'}>">
-            <input name="country" type="HIDDEN" value="<cpanel langprint=$FORM{'country'}>">
-            <input name="region" type="HIDDEN" value="<cpanel langprint=$FORM{'region'}>">
-            <input name="city" type="HIDDEN" value="<cpanel langprint=$FORM{'city'}>">
-            <br>
-            <input type="submit" name="button" value="Save Selection">
-        </form>
-        </cpanelif>
-    </cpanelif>
+    Added location: <b>
+    <?cp DnsDotComManager::appendToGeoGroup(%, message),
+                                                geogroup_name=$FORM{'group'},
+                                                country=$FORM{'country'},
+                                                region=$FORM{'region'},
+                                                city=$FORM{'city'},
+    ?>
+    </b>
+<br>
+[<a href="groups.html">Back To Manager</a>]
 </cpanelif>
 
 <!-- END CONTENT GOES HERE -->
