@@ -16,11 +16,14 @@ Precompiled version of all of these are located in the perl directory, but you m
 
 INSTALLATION
 ----------------------
+
+
 -Copy DnsDotComManager.pm to /usr/local/cpanel/Cpanel/
 
 -Copy dns_com to /usr/local/cpanel/base/frontend/x3/
 
 -Make a directory at /var/local/dnsdotcom and set the permissions so the cpanel user has write access. This is where individual users auth tokens will be stored.
+RESELLER NOTE: If you are planning on reselling our service in this folder create a reseller-dns-dot-com-token file with you token in it and a reseller-code file with you reseller code in it.
 
 -In the DnsDotComManager.pm you must change the hostname to your desired host for API usage. IE sandbox.dns.com or for live dns www.dns.com
 

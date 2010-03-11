@@ -1,6 +1,6 @@
 package	Cpanel::DnsDotComManager;
 
-use strict;
+#use strict;
 #use warnings; 
 use Data::Dumper;
 use Cpanel::LoadFile      ();
@@ -17,10 +17,28 @@ $YAML::Syck::ImplicitTyping = 1;
 
 our $VERSION = '0.7';
 
-sub dns_query{    
-    my $tokenfile = '/var/local/dnsdotcom/' . $Cpanel::user . '-dns-dot-com-token';
-    my $AUTH_TOKEN = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
+#get reseller token to figure out if it's a reseller install
+my $resellertokenfile = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/reseller-dns-dot-com-token');
+
+sub dns_query{
+    my $tokenfile = '';
+    my $AUTH_TOKEN = '';
     
+    if ($resellertokenfile) {
+        $AUTH_TOKEN = uri_escape($resellertokenfile);
+
+        my $resellercodefile = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/reseller-code');
+        if ($resellercodefile){
+            my $resellercode = "&resellerCode=$resellerCode=$resellercodefile";
+        }
+    }elsif(!$resellertokenfile){
+        $tokenfile = '/var/local/dnsdotcom/' . $Cpanel::user . '-dns-dot-com-token';
+        $AUTH_TOKEN = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
+    }
+
+    
+    
+    print $AUTH_TOKEN
     my $hostname    = 'sandbox.comwired.com';
     
     $cmd               = $_[0];
