@@ -20,6 +20,10 @@ our $VERSION = '0.7';
 #get reseller token to figure out if it's a reseller install
 my $resellertokenfile = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/reseller-dns-dot-com-token');
 
+if ($resellertokenfile) {
+    my $is_reseller = 1;    
+}
+
 sub dns_query{
     my $tokenfile = '';
     my $AUTH_TOKEN = '';
@@ -122,15 +126,29 @@ sub dns_query{
     
     my $url = "http://$hostname/api/$cmd/?AUTH_TOKEN=$AUTH_TOKEN$opt1$opt2$opt3$opt4$opt5$opt6$opt7$opt8$opt9$opt10$opt11$opt12";
     my $response = $browser->get( $url );
+    
     my $json = new JSON::PP;
     my $domain_data = $json->decode($response->content);
     return $domain_data;
 }
 
+##
+# API2 Functions
+####
+
+#This checks to see if the user is in the reseller userDB if not it adds them
+sub api2_checkUser {
+    if ($is_reseller){
+        my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/user/users.yaml');
+        my @data = Load($yaml);
+    }
+}
+
+
 sub api2_listCountries{
-    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
+    my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/countries/00-COUNTRIES-LIST.yaml');
     my @data = Load($yaml);
-    
+    print "bing";
     return $data[0];
 }
 
@@ -138,7 +156,7 @@ sub api2_listRegions{
     my %OPTS = @_;
     my $country = $OPTS{'country'};
 
-    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/$country.yaml");
+    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/countries/$country.yaml");
     my @data = Load($yaml);
     
     return $data[0];
@@ -149,7 +167,7 @@ sub api2_listCities{
     my $country = $OPTS{'country'};
     my $region = $OPTS{'region'};
 
-    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/$country/$region.yaml");
+    my $yaml = Cpanel::LoadFile::loadfile("/var/local/dnsdotcom/yaml/countries/$country/$region.yaml");
     my @data = Load($yaml);
     
     return $data[0];

@@ -32,15 +32,28 @@ Whostmgr::HTMLInterface::defheader( "DNS.com Reseller Admin",'/cgi/dnsicon.jpg',
 
 # Print General Output
 my @domains = Cpanel::DnsDotComManager::api2_getDomains();
+my %domain_query = '';
+my $domain_name = '';
+my $user_total = 0;
 
-print "<table width='600' border=1><tr><th>Domains</th><th>Hits</th></tr>";
+print "<table width='600' border=1><tr><th>Domains</th><th>Bytes Total</th></tr>";
 
 foreach (@domains){
-    print "<tr><td>$_->{name}</td>";
-    print "<td></td></tr>";
+    $domain_name = $_->{name}; 
+    $domain_query = Cpanel::DnsDotComManager::dns_query('getHits', 'domain', $domain_name);
+    my $domain_total = $domain_query->{meta}->{bytes_total};
+    if (!$domain_total){
+        $domain_total = 0;
+    }
+    print "<tr><td>$domain_query->{meta}->{domain}</td>";
+    print "<td>$domain_total</td></tr>";
+    $user_total = $user_total+$domain_total;
     
 }
-print "<tr><td>TOTAL:</td><td> XXX </td></tr>";
+if (!$user_total){
+    $user_total = 0;   
+}
+print "<tr><td>TOTAL:</td><td> $user_total </td></tr>";
 
 print "</table>";
 
