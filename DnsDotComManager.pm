@@ -18,10 +18,10 @@ $YAML::Syck::ImplicitTyping = 1;
 our $VERSION = '0.7';
 
 #get reseller token to figure out if it's a reseller install
-my $resellertokenfile = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/reseller-dns-dot-com-token');
+our $resellertokenfile = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/reseller-dns-dot-com-token');
 
 if ($resellertokenfile) {
-    my $is_reseller = 1;    
+    our $is_reseller = 1;    
 }
 
 sub dns_query{
@@ -40,12 +40,9 @@ sub dns_query{
         $AUTH_TOKEN = uri_escape(Cpanel::LoadFile::loadfile($tokenfile));
     }
 
-    
-    
-    print $AUTH_TOKEN
     my $hostname    = 'sandbox.comwired.com';
     
-    $cmd               = $_[0];
+    my $cmd               = $_[0];
 
     my $opt_field1       = uri_escape($_[1]);
     my $opt_field1_value = uri_escape($_[2]);
@@ -126,7 +123,7 @@ sub dns_query{
     
     my $url = "http://$hostname/api/$cmd/?AUTH_TOKEN=$AUTH_TOKEN$opt1$opt2$opt3$opt4$opt5$opt6$opt7$opt8$opt9$opt10$opt11$opt12";
     my $response = $browser->get( $url );
-    
+    #print "<br><br> $url <br><br>";
     my $json = new JSON::PP;
     my $domain_data = $json->decode($response->content);
     return $domain_data;
@@ -139,8 +136,28 @@ sub dns_query{
 #This checks to see if the user is in the reseller userDB if not it adds them
 sub api2_checkUser {
     if ($is_reseller){
-        my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/user/users.yaml');
-        my @data = Load($yaml);
+        my $user_data_file = my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+        my $user_data = Cpanel::LoadFile::loadfile($user_data_file);
+        if (!$user_data){
+            my %initial_data = ();
+            %initial_data = ('groups'=> 'groups',
+                             'domains'=> 'domains',
+                             'geogroups'=> 'geogroups',
+                            );
+                
+            my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+            Cpanel::FileUtils::writefile($user_data_file, Dump(\%initial_data));
+        }else{
+         
+            my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+            my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+            my @user_data = Load($user_data_import);
+            my @domains = ();
+            for $aref ( @user_data[0]->{domains} ) {
+                push(@domains, @$aref);
+            }
+           
+        }
     }
 }
 
@@ -148,7 +165,6 @@ sub api2_checkUser {
 sub api2_listCountries{
     my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/countries/00-COUNTRIES-LIST.yaml');
     my @data = Load($yaml);
-    print "bing";
     return $data[0];
 }
 
@@ -185,7 +201,7 @@ sub api2_changeAuthToken{
     return $meta->{message} = "Authorization Token Updated";
 }
 
-my $cmd = '';
+our $cmd = '';
 
 sub api2_countDomains{
     $cmd = 'getDomains';
@@ -213,28 +229,56 @@ sub api2_getDomains{
     # Optional Search Term
     $cmd = 'getDomains';
     my %OPTS = @_;
-    my $search_term  = $OPTS{'search_term'}; 
-    
-    my $domain_data = dns_query($cmd, 'search_term', $search_term);
+    my $search_term  = $OPTS{'search_term'};
     my $meta        = ();
-    my @domain_array = ();
-    if ($domain_data->{meta}->{success} == 0){
-        $meta->{error}   = $domain_data->{meta}->{error};
-        $meta->{success} = $domain_data->{meta}->{success};
-        return $meta;
-    }else{
-
-        foreach my $domain(@{$domain_data->{data}}){
-            $count = $count+1;
-            push(@domain_array, {'name'                 => $domain->{name},
-                                 'mode'                 => $domain->{mode},
-                                 'group'                => $domain->{group},
-                                 'date_last_modified'   => $domain->{date_last_modified},
-                                 'date_created'         => $domain->{date_created},
-                                 });    
+    our @domain_array = ();
+    
+    if ($is_reseller){
+        my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+        my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+        my @user_data = Load($user_data_import);
+        my @domains = ();
+        for $aref ( @user_data[0]->{domains} ) {
+                push(@domains, @$aref);
         }
-    }
+        
+        if (@user_data[0]->{domains}){
+            foreach (@domains) {
+
+                if ($_ ne 'domains'){
+                    my $domain = dns_query($cmd, 'search_term', $_);
+                    push(@domain_array, {'name'                 => $domain->{data}[0]->{name},
+                                         'mode'                 => $domain->{data}[0]->{mode},
+                                         'group'                => $domain->{data}[0]->{group},
+                                         'date_last_modified'   => $domain->{data}[0]->{date_last_modified},
+                                         'date_created'         => $domain->{data}[0]->{date_created},
+                                         });
+                }
+            }
+            return @domain_array;
+        }
+    }else{
+        my $domain_data = dns_query($cmd, 'search_term', $search_term);
+    
+    
+        if ($domain_data->{meta}->{success} == 0){
+            $meta->{error}   = $domain_data->{meta}->{error};
+            $meta->{success} = $domain_data->{meta}->{success};
+            return $meta;
+        }else{
+
+            foreach my $domain(@{$domain_data->{data}}){
+                push(@domain_array, {'name'                 => $domain->{name},
+                                     'mode'                 => $domain->{mode},
+                                     'group'                => $domain->{group},
+                                     'date_last_modified'   => $domain->{date_last_modified},
+                                     'date_created'         => $domain->{date_created},
+                                     });    
+            }
+        }
         return @domain_array;
+    }
+    
 }
 
 sub api2_getHostnamesForDomain{
@@ -248,7 +292,6 @@ sub api2_getHostnamesForDomain{
     if ($hosts_data->{meta}->{success} == 0){
         $meta->{error}   = $hosts_data->{meta}->{error};
         $meta->{success} = $hosts_data->{meta}->{success};
-        print "$meta->{error}\n";
         return $meta;
     }else{
         foreach my $host(@{$hosts_data->{data}}){
@@ -334,23 +377,45 @@ sub api2_getDomainGroups {
     # Optional Search Term
     ########
     $cmd = 'getDomainGroups';
-    
-    my %OPTS = @_;
-    my $search_term  = $OPTS{'search_term'}; 
-    my $domain_group_data = dns_query($cmd, 'search_term', $search_term);
     my @domain_group_array = ();
     my $meta        = ();
+    my %OPTS = @_;
+    my $search_term  = $OPTS{'search_term'};
     
-    if ($domain_group_data->{meta}->{success} == 0){
-        $meta->{success} = $domain_group_data->{meta}->{success};
-        return $meta;
-    }else{
-        foreach my $domain_group(@{$domain_group_data->{data}}){
-            push(@domain_group_array, {'name'           => $domain_group->{name},
-                                       'date_created'   => $domain_group->{date_created},
-                                       });  
+    if ($is_reseller){
+        my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+        my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+        my @user_data = Load($user_data_import);
+        my @groups = ();
+        for $aref ( @user_data[0]->{groups} ) {
+                push(@groups, @$aref);
         }
-        return @domain_group_array;
+        
+        if (@user_data[0]->{groups}){
+            foreach (@groups) {
+                if ($_ ne 'groups'){
+                    my $domain_group = dns_query($cmd, 'search_term', $_);
+                    push(@domain_group_array, {'name'       => $domain_group->{data}[0]->{name},
+                                           'date_created'   => $domain_group->{data}[0]->{date_created},
+                                           }); 
+                }
+            }
+            return @domain_group_array;
+        }
+    }else{
+        my $domain_group_data = dns_query($cmd, 'search_term', $search_term);
+        
+        if ($domain_group_data->{meta}->{success} == 0){
+            $meta->{success} = $domain_group_data->{meta}->{success};
+            return $meta;
+        }else{
+            foreach my $domain_group(@{$domain_group_data->{data}}){
+                push(@domain_group_array, {'name'           => $domain_group->{name},
+                                           'date_created'   => $domain_group->{date_created},
+                                           });  
+            }
+            return @domain_group_array;
+        }
     }
 }
 
@@ -448,6 +513,38 @@ sub api2_createDomainGroup {
     if ($group_data->{meta}->{success} == 1){
         $meta->{id}                    = $group_data->{meta}->{id};
         $meta->{success}               = $group_data->{meta}->{success};
+        
+        if ($is_reseller){
+            my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+            my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+            my @user_data = Load($user_data_import);
+            
+            my @groups      = ();
+            my @domains     = ();
+            my @geogroups   = ();
+            
+            for $aref ( @user_data[0]->{domains} ) {
+                push(@domains, @$aref);
+            }
+            
+            for $aref ( @user_data[0]->{groups} ) {
+                push(@groups, @$aref);
+            }
+            
+            for $aref ( @user_data[0]->{geogroups} ) {
+                push(@geogroups, @$aref);
+            }
+                
+            push(@groups, $group_name);
+            
+            my %user_data = ();
+            %user_data = ('groups'=> [@groups],
+                         'domains'=> [@domains],
+                         'geogroups'=> [@geogroups],
+            );
+            
+            Cpanel::FileUtils::writefile($user_data_file, Dump(\%user_data));
+        }
             
         push(@group_array, {'message'   => $group_name});    
     }else{
@@ -478,8 +575,6 @@ sub api2_createDomain {
     my $domain_group  = $OPTS{'domain_group'};
     my $domain_td     = $OPTS{'domain_td'};
     
-    
-    
     my $domain_data  = dns_query($cmd, 'mode', $domain_mode, 'domain', $domain_name, 'group', $domain_group, 'trafficDestination', $domain_td);
     my $meta        = ();
     
@@ -487,6 +582,38 @@ sub api2_createDomain {
         $meta->{id}                    = $domain_data->{meta}->{id};
         $meta->{success}               = $domain_data->{meta}->{success};
         $meta->{trafficDestination_id} = $domain_data->{meta}->{trafficDestination_id};
+        
+        if ($is_reseller){
+            my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+            my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+            my @user_data = Load($user_data_import);
+            
+            my @groups      = ();
+            my @domains     = ();
+            my @geogroups   = ();
+            
+            for $aref ( @user_data[0]->{domains} ) {
+                push(@domains, @$aref);
+            }
+            
+            for $aref ( @user_data[0]->{groups} ) {
+                push(@groups, @$aref);
+            }
+            
+            for $aref ( @user_data[0]->{geogroups} ) {
+                push(@geogroups, @$aref);
+            }
+                
+            push(@domains, $domain_name);
+            
+            my %user_data = ();
+            %user_data = ('groups'=> [@groups],
+                         'domains'=> [@domains],
+                         'geogroups'=> [@geogroups],
+            );
+            
+            Cpanel::FileUtils::writefile($user_data_file, Dump(\%user_data));
+        }
         
         push(@domain_array, {'message'   => $domain_name});        
     }else{
@@ -722,26 +849,52 @@ sub api2_getGeoGroups {
     # Optional Search Term
     $cmd = 'getGeoGroups';
     my %OPTS = @_;
-    my $search_term  = $OPTS{'search_term'}; 
-    
-    my $geogroup_data = dns_query($cmd, 'search_term', $search_term);
+    my $search_term  = $OPTS{'search_term'};
     my $meta        = ();
     my @geogroup_array = ();
     
-    if ($geogroup_data->{meta}->{success} == 0){
-        $meta->{error}   = $geogroup_data->{meta}->{error};
-        $meta->{success} = $geogroup_data->{meta}->{success};
-        return $meta;
-    }else{
-
-        foreach my $geogroup(@{$geogroup_data->{data}}){
-            push(@geogroup_array, {'name'   => $geogroup->{name},
-                                'editable'  => $geogroup->{editable},
-                                'id'        => $geogroup->{id},
-                                 });    
+    if ($is_reseller){
+        my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+        my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+        my @user_data = Load($user_data_import);
+        my @geogroups = ();
+        for $aref ( @user_data[0]->{geogroups} ) {
+                push(@geogroups, @$aref);
         }
+        
+        if (@user_data[0]->{geogroups}){
+            foreach (@geogroups) {
+                if ($_ ne 'geogroups'){
+                    my $geogroup = dns_query($cmd, 'search_term', $_);
+                    push(@geogroup_array, { 'name'      => $geogroup->{data}[0]->{name},
+                                            'editable'  => $geogroup->{data}[0]->{editable},
+                                            'id'        => $geogroup->{data}[0]->{id},
+                                        });
+                }
+            }
+            return @geogroup_array;
+        }
+    }else{
+    
+        my $geogroup_data = dns_query($cmd, 'search_term', $search_term);
+
+        if ($geogroup_data->{meta}->{success} == 0){
+            $meta->{error}   = $geogroup_data->{meta}->{error};
+            $meta->{success} = $geogroup_data->{meta}->{success};
+            return $meta;
+        }else{
+    
+            foreach my $geogroup(@{$geogroup_data->{data}}){
+                if ($geogroup->{editable} == 'True'){
+                    push(@geogroup_array, {'name'   => $geogroup->{name},
+                                        'editable'  => $geogroup->{editable},
+                                        'id'        => $geogroup->{id},
+                                        });
+                }
+            }
+        }
+        return @geogroup_array;
     }
-    return @geogroup_array;
 }
 
 sub api2_createGeoGroup {    
@@ -757,6 +910,38 @@ sub api2_createGeoGroup {
     if ($geogroup_data->{meta}->{success} == 1){
         $meta->{id}                    = $geogroup_data->{meta}->{id};
         $meta->{success}               = $geogroup_data->{meta}->{success};
+        
+        if ($is_reseller){
+            my $user_data_file = '/var/local/dnsdotcom/yaml/user/' . $Cpanel::user . '.yaml';
+            my $user_data_import = Cpanel::LoadFile::loadfile($user_data_file);
+            my @user_data = Load($user_data_import);
+            
+            my @groups      = ();
+            my @domains     = ();
+            my @geogroups   = ();
+            
+            for $aref ( @user_data[0]->{domains} ) {
+                push(@domains, @$aref);
+            }
+            
+            for $aref ( @user_data[0]->{groups} ) {
+                push(@groups, @$aref);
+            }
+            
+            for $aref ( @user_data[0]->{geogroups} ) {
+                push(@geogroups, @$aref);
+            }
+                
+            push(@geogroups, $geogroup_name);
+            
+            my %user_data = ();
+            %user_data = ('groups'=> [@groups],
+                         'domains'=> [@domains],
+                         'geogroups'=> [@geogroups],
+            );
+            
+            Cpanel::FileUtils::writefile($user_data_file, Dump(\%user_data));
+        }
         
         push(@geogroup_array, {'message'   => $geogroup_name});    
     }else{
@@ -804,13 +989,10 @@ sub api2_appendToGeoGroup {
     my $yaml = Cpanel::LoadFile::loadfile('/var/local/dnsdotcom/yaml/00-COUNTRIES-LIST.yaml');
     my @countrydata = Load($yaml);
     
-    #print $countrydata[0][0]->{iso_code};
-    
-     
     foreach my $country_entry(@{$countrydata[0]}){
         if ($country_entry->{name} =~ $country){
             my $iso2_code = $country_entry->{iso_code};
-            print $iso2_code;
+            #print $iso2_code;
         }
     }
     
@@ -858,7 +1040,6 @@ sub api2_getTrafficRules{
     if ($tr_data->{meta}->{success} == 0){
         $meta->{error}   = $tr_data->{meta}->{error};
         $meta->{success} = $tr_data->{meta}->{success};
-        print "$meta->{error}\n";
         return $meta;
     }else{
         foreach my $tr(@{$tr_data->{data}}){
@@ -1047,6 +1228,10 @@ sub api2 {
         },
         'listCities' => {
             'func' => 'api2_listCities',
+            'engine' => 'hasharray',
+        },
+        'checkUser' => {
+            'func' => 'api2_checkUser',
             'engine' => 'hasharray',
         },
         
